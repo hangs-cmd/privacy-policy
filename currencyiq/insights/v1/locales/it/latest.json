@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.2",
+  "batch_id": "20261026T073000Z",
+  "published_at": "2026-10-26T07:30:00+00:00",
+  "checked_at": "2026-10-26T07:30:00+00:00",
+  "valid_until": "2026-10-27T19:30:00+00:00",
+  "locale": "it",
+  "input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+  "source": {
+    "id": "ECB",
+    "name": "European Central Bank",
+    "kind": "daily_reference",
+    "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+  },
+  "items": [
+    {
+      "pair": "USD/KRW",
+      "base": "USD",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 USD",
+      "locale": "it",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "1324.452783",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "USD/KRW stabile intorno a 1.324 grazie al surplus dell’export di semiconduttori",
+        "summary": "Il cambio USD/KRW scambia vicino a 1.324, consolidandosi sui minimi degli ultimi due anni nella fascia 1.315–1.325. Sebbene i tassi Fed (3,75–4,00%) restino superiori al 3,00% della Bank of Korea, il forte avanzo commerciale legato ai chip IA e gli afflussi azionari sostengono il won, frenando i rimbalzi del dollaro."
+      }
+    },
+    {
+      "pair": "EUR/KRW",
+      "base": "EUR",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 EUR",
+      "locale": "it",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "1482.460000",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "EUR/KRW scende verso 1.482 tra forza del won e rallentamento dell’Eurozona",
+        "summary": "Il cambio EUR/KRW è sceso gradualmente da oltre 1.490 di inizio mese fino a circa 1.482. L’orientamento accomodante della BCE e la debolezza manifatturiera europea limitano il potenziale dell’euro, mentre il surplus commerciale coreano favorisce il won. Nel breve termine il cambio resta legato ai dati sull’inflazione europea."
+      }
+    },
+    {
+      "pair": "JPY/KRW",
+      "base": "JPY",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 JPY",
+      "locale": "it",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "8.446584",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "JPY/KRW laterale vicino a 8,45 sullo sfondo della debolezza strutturale dello yen",
+        "summary": "Il cambio JPY/KRW si muove in un intervallo ristretto intorno a 8,45 KRW per 1 JPY (~845 KRW per 100 JPY). L’approccio prudente della Bank of Japan mantiene debole lo yen, mentre il won beneficia di solidi avanzi commerciali e del tasso BOK fermo al 3,00%. Lo spread USA-Giappone resta il principale fattore da monitorare."
+      }
+    },
+    {
+      "pair": "GBP/KRW",
+      "base": "GBP",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 GBP",
+      "locale": "it",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "1770.566597",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "GBP/KRW ritraccia a 1.770 sulle attese di taglio dei tassi da parte della BoE",
+        "summary": "Il cambio GBP/KRW è calato da quasi 1.800 di inizio mese verso quota 1.770. Le crescenti aspettative di tagli dei tassi della Bank of England riducono il vantaggio di rendimento della sterlina, mentre i fondamentali dell’export coreano sostengono il won. Il supporto in area 1.760–1.780 dipenderà dall’inflazione britannica."
+      }
+    },
+    {
+      "pair": "CNY/KRW",
+      "base": "CNY",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 CNY",
+      "locale": "it",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "198.561479",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "CNY/KRW in fascia stretta a 198,5 con la politica espansiva della PBOC",
+        "summary": "Il cambio CNY/KRW è sceso leggermente sotto quota 200, oscillando tra 198 e 200 vicino a 198,5. La People’s Bank of China mantiene una politica monetaria accomodante per sostenere la domanda interna, limitando i rialzi dello yuan rispetto a un won sostenuto dalle esportazioni tecnologiche."
+      }
+    }
+  ],
+  "translation": {
+    "source_locale": "ko",
+    "source_batch_id": "20261026T073000Z",
+    "source_input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+    "translated_at": "2026-10-26T07:30:00+00:00",
+    "direction": "ltr"
+  }
+}

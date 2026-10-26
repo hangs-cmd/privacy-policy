@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.2",
+  "batch_id": "20261026T073000Z",
+  "published_at": "2026-10-26T07:30:00+00:00",
+  "checked_at": "2026-10-26T07:30:00+00:00",
+  "valid_until": "2026-10-27T19:30:00+00:00",
+  "locale": "id",
+  "input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+  "source": {
+    "id": "ECB",
+    "name": "European Central Bank",
+    "kind": "daily_reference",
+    "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+  },
+  "items": [
+    {
+      "pair": "USD/KRW",
+      "base": "USD",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 USD",
+      "locale": "id",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "1324.452783",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "USD/KRW stabil di kisaran 1.324 berkat surplus ekspor semikonduktor Korea",
+        "summary": "USD/KRW diperdagangkan di sekitar 1.324, bertahan dekat level terendah dua tahun di rentang 1.315–1.325. Meski suku bunga Fed (3,75–4,00%) masih di atas suku bunga Bank of Korea (3,00%), surplus transaksi berjalan yang besar dari ekspor chip AI serta aliran modal asing ke pasar saham terus menopang penguatan won."
+      }
+    },
+    {
+      "pair": "EUR/KRW",
+      "base": "EUR",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 EUR",
+      "locale": "id",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "1482.460000",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "EUR/KRW melandai ke 1.482 seiring penguatan won dan lambatnya pemulihan Eropa",
+        "summary": "EUR/KRW bergerak turun secara bertahap dari level 1.490-an pada awal bulan ke kisaran 1.482. Sikap akomodatif ECB dan lambatnya pemulihan manufaktur zona euro membatasi penguatan euro, sementara surplus perdagangan Korea mendukung ketahanan won. Pergerakan jangka pendek akan mengikuti data inflasi Eropa."
+      }
+    },
+    {
+      "pair": "JPY/KRW",
+      "base": "JPY",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 JPY",
+      "locale": "id",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "8.446584",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "JPY/KRW bergerak terbatas di sekitar 8,45 di tengah pelemahan struktural yen",
+        "summary": "JPY/KRW bergerak dalam rentang sempit di sekitar 8,45 KRW per 1 JPY (~845 KRW per 100 JPY). Langkah normalisasi Bank of Japan yang hati-hati membuat yen tetap lemah secara global, sedangkan won ditopang oleh surplus ekspor yang solid dan suku bunga BOK di 3,00%. Selisih imbal hasil AS–Jepang tetap menjadi kunci."
+      }
+    },
+    {
+      "pair": "GBP/KRW",
+      "base": "GBP",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 GBP",
+      "locale": "id",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "1770.566597",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "GBP/KRW turun ke level 1.770 akibat ekspektasi pemangkasan bunga BoE",
+        "summary": "GBP/KRW telah melandai ke sekitar 1.770 setelah sempat mendekati 1.800 di awal bulan. Meningkatnya ekspektasi penurunan suku bunga Bank of England mengurangi daya tarik imbal hasil poundsterling, sementara fundamental ekspor Korea memperkuat won. Data inflasi Inggris akan menentukan area support 1.760–1.780."
+      }
+    },
+    {
+      "pair": "CNY/KRW",
+      "base": "CNY",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 CNY",
+      "locale": "id",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "198.561479",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "CNY/KRW bergerak sempit di dekat 198,5 di tengah kebijakan longgar PBOC",
+        "summary": "CNY/KRW turun tipis dari kisaran 202 di awal bulan ke rentang sempit 198–200 di dekat 198,5. Bank Rakyat Tiongkok (PBOC) mempertahankan kebijakan moneter longgar guna mendorong permintaan domestik sehingga menahan penguatan yuan, sementara ekspor chip terus menopang nilai tukar won."
+      }
+    }
+  ],
+  "translation": {
+    "source_locale": "ko",
+    "source_batch_id": "20261026T073000Z",
+    "source_input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+    "translated_at": "2026-10-26T07:30:00+00:00",
+    "direction": "ltr"
+  }
+}

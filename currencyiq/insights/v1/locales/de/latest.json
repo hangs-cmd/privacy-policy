@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.2",
+  "batch_id": "20261026T073000Z",
+  "published_at": "2026-10-26T07:30:00+00:00",
+  "checked_at": "2026-10-26T07:30:00+00:00",
+  "valid_until": "2026-10-27T19:30:00+00:00",
+  "locale": "de",
+  "input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+  "source": {
+    "id": "ECB",
+    "name": "European Central Bank",
+    "kind": "daily_reference",
+    "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+  },
+  "items": [
+    {
+      "pair": "USD/KRW",
+      "base": "USD",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 USD",
+      "locale": "de",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "1324.452783",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "USD/KRW stabilisiert sich dank starker Halbleiterexporte um 1.324 KRW",
+        "summary": "USD/KRW notiert bei rund 1.324 und hält sich nahe dem Zweijahrestief von 1.315–1.325 KRW. Obwohl der Fed-Leitzins (3,75–4,00 %) über dem Satz der Bank of Korea (3,00 %) liegt, stützen hohe Leistungsbilanzüberschüsse durch KI-Halbleiterexporte und Aktienzuflüsse den Won. Dollar-Verkäufe koreanischer Exporteure begrenzen kurzfristige Anstiege."
+      }
+    },
+    {
+      "pair": "EUR/KRW",
+      "base": "EUR",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 EUR",
+      "locale": "de",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "1482.460000",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "EUR/KRW gibt bei schwächerer Eurozonen-Dynamik auf rund 1.482 KRW nach",
+        "summary": "EUR/KRW ist von über 1.490 zu Monatsbeginn moderat auf rund 1.482 KRW gesunken. Eine lockere EZB-Geldpolitik und die schleppende Industriekonjunktur im Euroraum bremsen den Euro, während Koreas Handelsüberschuss den Won stärkt. Kurzfristig dürfte das Paar in einer engen Spanne den europäischen Inflationsdaten folgen."
+      }
+    },
+    {
+      "pair": "JPY/KRW",
+      "base": "JPY",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 JPY",
+      "locale": "de",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "8.446584",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "JPY/KRW verharrt bei anhaltender Yen-Schwäche nahe 8,45 KRW",
+        "summary": "JPY/KRW bewegt sich in einer engen Spanne um 8,45 KRW je Yen (ca. 845 KRW pro 100 Yen). Der vorsichtige Kurs der Bank of Japan belastet den Yen weltweit, während der Won von stabilen Exportüberschüssen und dem BOK-Leitzins von 3,00 % profitiert. US-japanische Zinsdifferenzen bleiben der wichtigste Impulsgeber."
+      }
+    },
+    {
+      "pair": "GBP/KRW",
+      "base": "GBP",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 GBP",
+      "locale": "de",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "1770.566597",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "GBP/KRW fällt wegen BoE-Zinssenkungserwartungen Richtung 1.770 KRW",
+        "summary": "GBP/KRW hat sich von fast 1.800 KRW zu Monatsbeginn auf rund 1.770 KRW abgeschwächt. Erwartungen weiterer Zinssenkungen der Bank of England schmälern den Zinsvorteil des Pfunds, während starke koreanische Exportdaten den Won stützen. Britische Inflationsdaten und die globale Risikoneigung bestimmen nun die Unterstützung bei 1.760–1.780 KRW."
+      }
+    },
+    {
+      "pair": "CNY/KRW",
+      "base": "CNY",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 CNY",
+      "locale": "de",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "198.561479",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "CNY/KRW pendelt bei lockerer PBOC-Politik eng um 198,5 KRW",
+        "summary": "CNY/KRW ist leicht unter die 200-KRW-Marke gerutscht und handelt eng zwischen 198 und 200 KRW. Die Chinesische Volksbank (PBOC) hält zur Stützung der Binnennachfrage an einer lockeren Geldpolitik fest, während Koreas Chip-Exporte den Won stützen. Die täglichen PBOC-Fixings bleiben richtungsweisend."
+      }
+    }
+  ],
+  "translation": {
+    "source_locale": "ko",
+    "source_batch_id": "20261026T073000Z",
+    "source_input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+    "translated_at": "2026-10-26T07:30:00+00:00",
+    "direction": "ltr"
+  }
+}

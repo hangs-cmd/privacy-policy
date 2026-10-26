@@ -1,0 +1,126 @@
+{
+  "batch_id": "20261026T073000Z",
+  "published_at": "2026-10-26T07:30:00+00:00",
+  "locales": [
+    {
+      "locale": "ko",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/ko/latest.json"
+    },
+    {
+      "locale": "en",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/en/latest.json"
+    },
+    {
+      "locale": "ja",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/ja/latest.json"
+    },
+    {
+      "locale": "zh-Hans",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/zh-Hans/latest.json"
+    },
+    {
+      "locale": "zh-Hant",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/zh-Hant/latest.json"
+    },
+    {
+      "locale": "de",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/de/latest.json"
+    },
+    {
+      "locale": "fr",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/fr/latest.json"
+    },
+    {
+      "locale": "es",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/es/latest.json"
+    },
+    {
+      "locale": "it",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/it/latest.json"
+    },
+    {
+      "locale": "pt",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/pt/latest.json"
+    },
+    {
+      "locale": "nl",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/nl/latest.json"
+    },
+    {
+      "locale": "pl",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/pl/latest.json"
+    },
+    {
+      "locale": "ru",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/ru/latest.json"
+    },
+    {
+      "locale": "tr",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/tr/latest.json"
+    },
+    {
+      "locale": "ar",
+      "status": "available",
+      "direction": "rtl",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/ar/latest.json"
+    },
+    {
+      "locale": "hi",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/hi/latest.json"
+    },
+    {
+      "locale": "id",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/id/latest.json"
+    },
+    {
+      "locale": "ms",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/ms/latest.json"
+    },
+    {
+      "locale": "th",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/th/latest.json"
+    },
+    {
+      "locale": "vi",
+      "status": "available",
+      "direction": "ltr",
+      "url": "https://hangs-cmd.github.io/privacy-policy/currencyiq/insights/v1/locales/vi/latest.json"
+    }
+  ]
+}

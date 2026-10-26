@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.2",
+  "batch_id": "20261026T073000Z",
+  "published_at": "2026-10-26T07:30:00+00:00",
+  "checked_at": "2026-10-26T07:30:00+00:00",
+  "valid_until": "2026-10-27T19:30:00+00:00",
+  "locale": "ja",
+  "input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+  "source": {
+    "id": "ECB",
+    "name": "European Central Bank",
+    "kind": "daily_reference",
+    "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+  },
+  "items": [
+    {
+      "pair": "USD/KRW",
+      "base": "USD",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 USD",
+      "locale": "ja",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "1324.452783",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "半導体輸出黒字と外国人資金流入により1,320ウォン台前半でウォン高定着",
+        "summary": "米ドル/韓国ウォンは1,324ウォン前後で推移し、約2年ぶりのウォン高水準となる1,315〜1,325ウォン圏で安定しています。FRBの政策金利（3.75〜4.00%）は韓国銀行（3.00%据え置き）を上回っていますが、AI半導体輸出の好調による経常黒字と外国人投資家の株式買い越しがウォンを支えています。反発局面では輸出企業のドル売りが出やすく、上値の重い展開が続いています。"
+      }
+    },
+    {
+      "pair": "EUR/KRW",
+      "base": "EUR",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 EUR",
+      "locale": "ja",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "1482.460000",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "ウォン高とユーロ圏の景気減速が重なり1,480ウォン台前半で軟調推移",
+        "summary": "ユーロ/ウォンは月初の1,490ウォン台から1,482ウォン付近へと緩やかに下落しています。ECBの緩和的な姿勢やユーロ圏製造業の回復遅れがユーロの上値を抑える一方、韓国の堅調な貿易黒字を背景としたウォン高が下押し圧力となっています。目先はユーロ圏の物価指標と米ドル全体の方向性に連動したレンジ相場が見込まれます。"
+      }
+    },
+    {
+      "pair": "JPY/KRW",
+      "base": "JPY",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 JPY",
+      "locale": "ja",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "8.446584",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "円安基調が続く中、1円＝8.45ウォン（100円＝845ウォン）前後での推移",
+        "summary": "円/ウォンは1円＝8.45ウォン前後で小幅な値動きが続いています。日銀の慎重な金融正常化スタンスにより対ドルで円安が続く一方、韓国ウォンは半導体輸出黒字と韓国銀行の政策金利据え置き（3.00%）を背景に底堅く推移しています。日米金利差の動向と日本の通貨当局による牽制発言が短期的な変動要因として注目されます。"
+      }
+    },
+    {
+      "pair": "GBP/KRW",
+      "base": "GBP",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 GBP",
+      "locale": "ja",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "1770.566597",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "英中銀の利下げ観測とウォン高により1,770ウォン近辺へ下落",
+        "summary": "ポンド/ウォンは月初の1,800ウォン近辺から1,770ウォン水準へと徐々に水準を切り下げています。イングランド銀行（BoE）の追加利下げ観測からポンドの金利優位性が薄れる一方、韓国の輸出好調と資金流入がウォンを下支えしています。英国のインフレ鈍化ペースと世界的なリスク選好度が1,760〜1,780ウォン圏の維持を左右する見通しです。"
+      }
+    },
+    {
+      "pair": "CNY/KRW",
+      "base": "CNY",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 CNY",
+      "locale": "ja",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "198.561479",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "中国の金融緩和姿勢とウォン高を背景に198ウォン台半ばの狭いレンジ",
+        "summary": "人民元/ウォンは月初の202ウォン台から198.5ウォン付近へ小幅に下落し、198〜200ウォンの狭いレンジで推移しています。中国人民銀行が内需下支えのため緩和的な金融政策を維持して元高を抑える一方、韓国では半導体中心の輸出黒字がウォンを支えています。人民銀行の基準値設定と中国の景気対策が今後の焦点です。"
+      }
+    }
+  ],
+  "translation": {
+    "source_locale": "ko",
+    "source_batch_id": "20261026T073000Z",
+    "source_input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+    "translated_at": "2026-10-26T07:30:00+00:00",
+    "direction": "ltr"
+  }
+}

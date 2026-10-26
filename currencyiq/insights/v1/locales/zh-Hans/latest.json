@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.2",
+  "batch_id": "20261026T073000Z",
+  "published_at": "2026-10-26T07:30:00+00:00",
+  "checked_at": "2026-10-26T07:30:00+00:00",
+  "valid_until": "2026-10-27T19:30:00+00:00",
+  "locale": "zh-Hans",
+  "input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+  "source": {
+    "id": "ECB",
+    "name": "European Central Bank",
+    "kind": "daily_reference",
+    "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+  },
+  "items": [
+    {
+      "pair": "USD/KRW",
+      "base": "USD",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 USD",
+      "locale": "zh-Hans",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "1324.452783",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "受半导体出口顺差与外资流入支撑，美元兑韩元企稳于1,320韩元低位",
+        "summary": "美元兑韩元目前在1,324韩元附近运行，延续1,315至1,325韩元区间的两年低位企稳态势。尽管美联储政策利率（3.75%–4.00%）仍高于韩国央行的3.00%，但AI半导体出口带动的巨额经常账户顺差及外资流入股市有效支撑了韩元。短期反弹时出口商的结汇卖盘限制了汇价上行空间。"
+      }
+    },
+    {
+      "pair": "EUR/KRW",
+      "base": "EUR",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 EUR",
+      "locale": "zh-Hans",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "1482.460000",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "韩元走强叠加欧元区复苏放缓，欧元兑韩元小幅回落至1,480韩元一线",
+        "summary": "欧元兑韩元从月初的1,490韩元上方温和回落至1,482韩元附近。欧洲央行的宽松预期与欧元区制造业复苏滞后限制了欧元反弹动力，而韩国稳健的贸易顺差则继续提振韩元表现。短期内汇价预计将随欧元区通胀数据及全球美元走势维持区间震荡。"
+      }
+    },
+    {
+      "pair": "JPY/KRW",
+      "base": "JPY",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 JPY",
+      "locale": "zh-Hans",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "8.446584",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "日元结构性偏弱背景下，日元兑韩元维持在8.45附近窄幅整理",
+        "summary": "日元兑韩元维持在1日元兑8.45韩元（100日元约合845韩元）附近的窄幅波动。日本央行谨慎的政策正常化步伐令日元整体承压，而韩国凭借强劲出口与3.00%的基准利率保持韩元相对坚挺。美日利差变化及日本当局的口头干预动向是短期波动的关键变量。"
+      }
+    },
+    {
+      "pair": "GBP/KRW",
+      "base": "GBP",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 GBP",
+      "locale": "zh-Hans",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "1770.566597",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "英国央行降息预期升温叠加韩元走强，英镑兑韩元回落至1,770韩元",
+        "summary": "英镑兑韩元自月初接近1,800韩元的水平逐步回落至1,770韩元附近。随着市场对英国央行进一步降息的预期升温，英镑的高息优势有所减弱；同时韩国出口改善与外资流入为韩元提供支撑。英国通胀放缓速度与全球风险偏好将决定1,760–1,780韩元区间的支撑力度。"
+      }
+    },
+    {
+      "pair": "CNY/KRW",
+      "base": "CNY",
+      "quote": "KRW",
+      "base_units": 1,
+      "rate_unit": "KRW per 1 CNY",
+      "locale": "zh-Hans",
+      "data_as_of": "2026-10-23",
+      "reference_rate": "198.561479",
+      "generated_at": "2026-10-26T07:30:00+00:00",
+      "summary_origin": "gemini_daily_concise",
+      "validation": {
+        "status": "passed"
+      },
+      "analysis": {
+        "headline": "中国宽松政策与韩元坚挺交织，人民币兑韩元在198.5附近窄幅运行",
+        "summary": "人民币兑韩元从月初的202韩元上方小幅回落至198.5韩元附近，维持在198–200韩元的窄幅区间。中国人民银行维持宽松货币环境以提振内需，限制了人民币升值幅度，而韩国半导体出口顺差持续支撑韩元。人民银行中间价指引及中国稳增长政策力度仍是主要观察点。"
+      }
+    }
+  ],
+  "translation": {
+    "source_locale": "ko",
+    "source_batch_id": "20261026T073000Z",
+    "source_input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+    "translated_at": "2026-10-26T07:30:00+00:00",
+    "direction": "ltr"
+  }
+}
