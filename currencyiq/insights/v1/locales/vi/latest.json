@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261026T073000Z",
-  "published_at": "2026-10-26T07:30:00+00:00",
-  "checked_at": "2026-10-26T07:30:00+00:00",
-  "valid_until": "2026-10-27T19:30:00+00:00",
+  "batch_id": "20261026T101532Z",
+  "published_at": "2026-10-26T10:15:32+00:00",
+  "checked_at": "2026-10-26T10:15:32+00:00",
+  "valid_until": "2026-10-27T22:15:32+00:00",
   "locale": "vi",
   "input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
   "source": {
@@ -22,7 +22,7 @@
       "locale": "vi",
       "data_as_of": "2026-10-23",
       "reference_rate": "1324.452783",
-      "generated_at": "2026-10-26T07:30:00+00:00",
+      "generated_at": "2026-10-26T10:15:32+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
@@ -41,7 +41,7 @@
       "locale": "vi",
       "data_as_of": "2026-10-23",
       "reference_rate": "1482.460000",
-      "generated_at": "2026-10-26T07:30:00+00:00",
+      "generated_at": "2026-10-26T10:15:32+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
@@ -60,7 +60,7 @@
       "locale": "vi",
       "data_as_of": "2026-10-23",
       "reference_rate": "8.446584",
-      "generated_at": "2026-10-26T07:30:00+00:00",
+      "generated_at": "2026-10-26T10:15:32+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
@@ -79,7 +79,7 @@
       "locale": "vi",
       "data_as_of": "2026-10-23",
       "reference_rate": "1770.566597",
-      "generated_at": "2026-10-26T07:30:00+00:00",
+      "generated_at": "2026-10-26T10:15:32+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
@@ -98,7 +98,7 @@
       "locale": "vi",
       "data_as_of": "2026-10-23",
       "reference_rate": "198.561479",
-      "generated_at": "2026-10-26T07:30:00+00:00",
+      "generated_at": "2026-10-26T10:15:32+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
@@ -173,9 +173,9 @@
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261026T073000Z",
+    "source_batch_id": "20261026T101532Z",
     "source_input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
-    "translated_at": "2026-10-26T07:30:00+00:00",
+    "translated_at": "2026-10-26T10:15:32+00:00",
     "direction": "ltr"
   }
 }
