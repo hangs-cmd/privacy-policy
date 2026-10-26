@@ -5,7 +5,7 @@
   "checked_at": "2026-10-26T07:30:00+00:00",
   "valid_until": "2026-10-27T19:30:00+00:00",
   "locale": "es",
-  "input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+  "input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -109,10 +109,72 @@
       }
     }
   ],
+  "currencies": {
+    "KRW": {
+      "rate_to_krw": "1.000000",
+      "data_as_of": "2026-10-23",
+      "headline": "El won coreano se mantiene firme gracias al superávit en semiconductores",
+      "brief": "El won surcoreano cuenta con un sólido respaldo gracias a la tasa del 3,00 % del Banco de Corea, el superávit comercial en chips de IA y la entrada de capital extranjero."
+    },
+    "USD": {
+      "rate_to_krw": "1324.452783",
+      "data_as_of": "2026-10-23",
+      "headline": "El dólar estadounidense se mantiene sólido con las tasas de la Fed en 3,75–4,00 %",
+      "brief": "El dólar estadounidense conserva un firme soporte global respaldado por el rango de tasas de la Fed (3,75–4,00 %), datos laborales resilientes y los rendimientos del Tesoro."
+    },
+    "EUR": {
+      "rate_to_krw": "1482.460000",
+      "data_as_of": "2026-10-23",
+      "headline": "El euro cotiza en rango ante la postura acomodaticia del BCE",
+      "brief": "El euro ve limitado su potencial alcista por la política flexible del BCE y la lenta recuperación industrial en la eurozona, a la espera de nuevos datos de inflación."
+    },
+    "JPY": {
+      "rate_to_krw": "8.446584",
+      "data_as_of": "2026-10-23",
+      "headline": "El yen japonés sigue débil por la cautela del BOJ y el diferencial de tasas",
+      "brief": "El yen mantiene presión bajista debido a la cautelosa normalización monetaria del Banco de Japón, aunque las advertencias de intervención limitan caídas mayores."
+    },
+    "CNY": {
+      "rate_to_krw": "198.561479",
+      "data_as_of": "2026-10-23",
+      "headline": "El yuan chino se mueve en banda estrecha bajo la política flexible del PBOC",
+      "brief": "El yuan opera en un rango estrecho mientras el Banco Popular de China mantiene liquidez holgada para estimular el consumo interno y guía sus fijaciones diarias."
+    },
+    "GBP": {
+      "rate_to_krw": "1770.566597",
+      "data_as_of": "2026-10-23",
+      "headline": "La libra esterlina cede moderadamente ante expectativas de recortes del BoE",
+      "brief": "La libra esterlina ha reducido parte de su ventaja de rendimiento ante las previsiones de recortes de tasas del Banco de Inglaterra y la evolución de la inflación británica."
+    },
+    "AUD": {
+      "rate_to_krw": "884.520000",
+      "data_as_of": "2026-10-23",
+      "headline": "El dólar australiano sigue la demanda china y las materias primas",
+      "brief": "El dólar australiano encuentra soporte en la postura estable del RBA, mientras fluctúa al compás de los precios del mineral de hierro y la actividad económica en China."
+    },
+    "CAD": {
+      "rate_to_krw": "962.840000",
+      "data_as_of": "2026-10-23",
+      "headline": "El dólar canadiense equilibra los recortes del BoC y el precio del petróleo",
+      "brief": "El dólar canadiense sigue condicionado por el diferencial de tasas frente a EE. UU. tras los recortes del Banco de Canadá y por la cotización internacional del crudo."
+    },
+    "CHF": {
+      "rate_to_krw": "1536.200000",
+      "data_as_of": "2026-10-23",
+      "headline": "El franco suizo combina bajas tasas del SNB con demanda de refugio seguro",
+      "brief": "El franco suizo mantiene un sólido piso como activo refugio en Europa a pesar de la política monetaria acomodaticia del Banco Nacional Suizo."
+    },
+    "HKD": {
+      "rate_to_krw": "170.380000",
+      "data_as_of": "2026-10-23",
+      "headline": "El dólar de Hong Kong se mantiene estable dentro de su banda cambiaria",
+      "brief": "El dólar de Hong Kong cotiza con estabilidad dentro de su banda de 7,75–7,85 por dólar estadounidense, siguiendo las tasas de EE. UU. y los flujos bursátiles regionales."
+    }
+  },
   "translation": {
     "source_locale": "ko",
     "source_batch_id": "20261026T073000Z",
-    "source_input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+    "source_input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
     "translated_at": "2026-10-26T07:30:00+00:00",
     "direction": "ltr"
   }

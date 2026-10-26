@@ -5,7 +5,7 @@
   "checked_at": "2026-10-26T07:30:00+00:00",
   "valid_until": "2026-10-27T19:30:00+00:00",
   "locale": "id",
-  "input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+  "input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -109,10 +109,72 @@
       }
     }
   ],
+  "currencies": {
+    "KRW": {
+      "rate_to_krw": "1.000000",
+      "data_as_of": "2026-10-23",
+      "headline": "Won Korea bertahan kuat berkat surplus ekspor chip dan aliran modal asing",
+      "brief": "Won Korea Selatan tetap kokoh dengan suku bunga Bank of Korea di 3,00%, didukung oleh surplus perdagangan chip AI yang besar serta arus masuk modal asing ke pasar saham."
+    },
+    "USD": {
+      "rate_to_krw": "1324.452783",
+      "data_as_of": "2026-10-23",
+      "headline": "Dolar AS tetap solid dengan suku bunga Fed 3,75–4,00% dan data ekonomi kuat",
+      "brief": "Dolar AS mempertahankan dukungan kuat secara global berkat suku bunga Fed (3,75–4,00%), ketahanan data tenaga kerja AS, serta pergerakan imbal hasil obligasi Treasury."
+    },
+    "EUR": {
+      "rate_to_krw": "1482.460000",
+      "data_as_of": "2026-10-23",
+      "headline": "Euro bergerak terbatas di tengah sikap akomodatif ECB dan lesunya manufaktur",
+      "brief": "Penguatan euro tertahan oleh ekspektasi kebijakan akomodatif ECB dan lambatnya pemulihan manufaktur zona euro sambil menantikan rilis data inflasi terbaru."
+    },
+    "JPY": {
+      "rate_to_krw": "8.446584",
+      "data_as_of": "2026-10-23",
+      "headline": "Yen Jepang tetap lemah akibat kehati-hatian BOJ dan selisih imbal hasil",
+      "brief": "Yen Jepang masih menghadapi tekanan pelemahan karena normalisasi kebijakan Bank of Japan yang bertahap, meski risiko intervensi verbal membatasi penurunan lebih dalam."
+    },
+    "CNY": {
+      "rate_to_krw": "198.561479",
+      "data_as_of": "2026-10-23",
+      "headline": "Yuan Tiongkok bergerak sempit di bawah kebijakan longgar PBOC",
+      "brief": "Yuan Tiongkok diperdagangkan dalam rentang sempit seiring langkah PBOC mempertahankan likuiditas longgar guna mendorong permintaan domestik serta penetapan kurs harian."
+    },
+    "GBP": {
+      "rate_to_krw": "1770.566597",
+      "data_as_of": "2026-10-23",
+      "headline": "Pound Inggris melandai seiring ekspektasi pemangkasan suku bunga BoE",
+      "brief": "Poundsterling mengalami koreksi moderat karena meningkatnya ekspektasi penurunan suku bunga Bank of England yang mengurangi daya tarik imbal hasilnya."
+    },
+    "AUD": {
+      "rate_to_krw": "884.520000",
+      "data_as_of": "2026-10-23",
+      "headline": "Dolar Australia mengikuti prospek permintaan Tiongkok dan suku bunga RBA",
+      "brief": "Dolar Australia mendapat dukungan dasar dari sikap tahan suku bunga RBA sambil bergerak mengikuti harga bijih besi dan sinyal pemulihan ekonomi Tiongkok."
+    },
+    "CAD": {
+      "rate_to_krw": "962.840000",
+      "data_as_of": "2026-10-23",
+      "headline": "Dolar Kanada menyeimbangkan pemangkasan bunga BoC dan harga minyak mentah",
+      "brief": "Dolar Kanada tetap sensitif terhadap selisih imbal hasil dengan AS pasca pemangkasan suku bunga Bank of Canada serta pergerakan harga minyak mentah dunia."
+    },
+    "CHF": {
+      "rate_to_krw": "1536.200000",
+      "data_as_of": "2026-10-23",
+      "headline": "Franc Swiss memadukan suku bunga rendah SNB dengan permintaan aset aman",
+      "brief": "Franc Swiss tetap ditopang oleh aliran dana safe-haven di tengah ketidakpastian Eropa meskipun Bank Nasional Swiss mempertahankan kebijakan suku bunga rendah."
+    },
+    "HKD": {
+      "rate_to_krw": "170.380000",
+      "data_as_of": "2026-10-23",
+      "headline": "Dolar Hong Kong stabil dalam pita patokan USD di tengah arus ekuitas",
+      "brief": "Dolar Hong Kong bergerak stabil dalam kisaran patokan 7,75–7,85 per dolar AS, mengikuti arah suku bunga AS dan arus modal ke bursa saham Tiongkok Raya."
+    }
+  },
   "translation": {
     "source_locale": "ko",
     "source_batch_id": "20261026T073000Z",
-    "source_input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+    "source_input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
     "translated_at": "2026-10-26T07:30:00+00:00",
     "direction": "ltr"
   }

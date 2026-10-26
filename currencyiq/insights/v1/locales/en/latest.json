@@ -5,7 +5,7 @@
   "checked_at": "2026-10-26T07:30:00+00:00",
   "valid_until": "2026-10-27T19:30:00+00:00",
   "locale": "en",
-  "input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+  "input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -109,10 +109,72 @@
       }
     }
   ],
+  "currencies": {
+    "KRW": {
+      "rate_to_krw": "1.000000",
+      "data_as_of": "2026-10-23",
+      "headline": "Korean won stays resilient on AI chip trade surplus and equity inflows",
+      "brief": "The South Korean won remains well-supported as the Bank of Korea holds its policy rate at 3.00%, backed by a strong AI semiconductor trade surplus and steady foreign equity inflows."
+    },
+    "USD": {
+      "rate_to_krw": "1324.452783",
+      "data_as_of": "2026-10-23",
+      "headline": "U.S. dollar holds firm on Fed's 3.75–4.00% rate stance and resilient data",
+      "brief": "The U.S. dollar maintains solid underlying support with the Fed's policy rate at 3.75–4.00%, tracking resilient U.S. labor and consumption prints alongside Treasury yield movements."
+    },
+    "EUR": {
+      "rate_to_krw": "1482.460000",
+      "data_as_of": "2026-10-23",
+      "headline": "Euro trades range-bound amid dovish ECB expectations and soft manufacturing",
+      "brief": "The euro faces capped upside as accommodative ECB policy expectations and sluggish Eurozone manufacturing recovery weigh on momentum ahead of upcoming inflation releases."
+    },
+    "JPY": {
+      "rate_to_krw": "8.446584",
+      "data_as_of": "2026-10-23",
+      "headline": "Japanese yen stays soft under cautious BOJ normalization and yield spreads",
+      "brief": "The Japanese yen remains under structural pressure due to the Bank of Japan's gradual rate normalization and wide yield differentials, though verbal intervention risks limit deeper losses."
+    },
+    "CNY": {
+      "rate_to_krw": "198.561479",
+      "data_as_of": "2026-10-23",
+      "headline": "Chinese yuan moves in a tight band under accommodative PBOC liquidity",
+      "brief": "The Chinese yuan trades within a narrow band as the People's Bank of China maintains loose monetary conditions to boost domestic demand while guiding daily midpoint fixings."
+    },
+    "GBP": {
+      "rate_to_krw": "1770.566597",
+      "data_as_of": "2026-10-23",
+      "headline": "British pound eases moderately on growing Bank of England rate-cut bets",
+      "brief": "Sterling has moderated as expectations for further Bank of England rate cuts narrow its yield advantage, with near-term direction tied to UK services inflation and risk sentiment."
+    },
+    "AUD": {
+      "rate_to_krw": "884.520000",
+      "data_as_of": "2026-10-23",
+      "headline": "Australian dollar tracks China stimulus prospects and steady RBA stance",
+      "brief": "The Australian dollar finds baseline support from the Reserve Bank of Australia's steady rate posture while fluctuating in tandem with iron ore prices and Chinese demand signals."
+    },
+    "CAD": {
+      "rate_to_krw": "962.840000",
+      "data_as_of": "2026-10-23",
+      "headline": "Canadian dollar balances BoC rate-cut cycle against crude oil trends",
+      "brief": "The Canadian dollar remains sensitive to U.S.–Canada yield spreads following the Bank of Canada's rate cuts, trading closely with crude oil prices and North American trade data."
+    },
+    "CHF": {
+      "rate_to_krw": "1536.200000",
+      "data_as_of": "2026-10-23",
+      "headline": "Swiss franc balances SNB low-rate policy against European safe-haven demand",
+      "brief": "The Swiss franc is underpinned by defensive safe-haven flows amid European macro uncertainty, balanced against the Swiss National Bank's dovish policy stance."
+    },
+    "HKD": {
+      "rate_to_krw": "170.380000",
+      "data_as_of": "2026-10-23",
+      "headline": "Hong Kong dollar holds steady within USD peg band amid equity flows",
+      "brief": "The Hong Kong dollar trades stably within its 7.75–7.85 USD peg band, tracking U.S. rate expectations and cross-border equity capital flows into Greater China markets."
+    }
+  },
   "translation": {
     "source_locale": "ko",
     "source_batch_id": "20261026T073000Z",
-    "source_input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+    "source_input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
     "translated_at": "2026-10-26T07:30:00+00:00",
     "direction": "ltr"
   }

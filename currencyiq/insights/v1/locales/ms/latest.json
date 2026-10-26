@@ -5,7 +5,7 @@
   "checked_at": "2026-10-26T07:30:00+00:00",
   "valid_until": "2026-10-27T19:30:00+00:00",
   "locale": "ms",
-  "input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+  "input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -109,10 +109,72 @@
       }
     }
   ],
+  "currencies": {
+    "KRW": {
+      "rate_to_krw": "1.000000",
+      "data_as_of": "2026-10-23",
+      "headline": "Won Korea kekal kukuh didorong lebihan eksport cip dan aliran masuk asing",
+      "brief": "Won Korea Selatan kekal disokong kukuh dengan kadar dasar BOK pada 3.00%, didorong oleh lebihan dagangan cip AI yang besar serta aliran masuk ekuiti asing."
+    },
+    "USD": {
+      "rate_to_krw": "1324.452783",
+      "data_as_of": "2026-10-23",
+      "headline": "Dolar AS kekal mantap dengan kadar Fed 3.75–4.00% dan data ekonomi kukuh",
+      "brief": "Dolar AS mengekalkan sokongan kukuh di peringkat global dengan kadar Fed pada 3.75–4.00%, disokong oleh data pekerjaan AS yang berdaya tahan dan hasil Perbendaharaan."
+    },
+    "EUR": {
+      "rate_to_krw": "1482.460000",
+      "data_as_of": "2026-10-23",
+      "headline": "Euro diniagakan mendatar di tengah-tengah dasar akomodatif ECB",
+      "brief": "Kenaikan euro dihadkan oleh jangkaan dasar ECB yang akomodatif dan pemulihan pembuatan zon euro yang perlahan menjelang keluaran data inflasi Eropah."
+    },
+    "JPY": {
+      "rate_to_krw": "8.446584",
+      "data_as_of": "2026-10-23",
+      "headline": "Yen Jepun kekal lembut berikutan langkah berhati-hati BOJ dan jurang hasil",
+      "brief": "Yen Jepun terus berada di bawah tekanan akibat normalisasi dasar Bank of Japan yang perlahan, walaupun risiko campur tangan lisan mengehadkan kejatuhan lanjut."
+    },
+    "CNY": {
+      "rate_to_krw": "198.561479",
+      "data_as_of": "2026-10-23",
+      "headline": "Yuan China bergerak dalam julat sempit di bawah dasar longgar PBOC",
+      "brief": "Yuan China diniagakan dalam julat sempit apabila PBOC mengekalkan keadaan monetari longgar bagi merangsang permintaan domestik sambil mengawal penetapan harian."
+    },
+    "GBP": {
+      "rate_to_krw": "1770.566597",
+      "data_as_of": "2026-10-23",
+      "headline": "Paun British menyusut sederhana susulan jangkaan potongan kadar BoE",
+      "brief": "Sterling telah menyederhana apabila jangkaan penurunan kadar faedah oleh Bank of England mengurangkan kelebihan hasilnya berbanding mata wang utama lain."
+    },
+    "AUD": {
+      "rate_to_krw": "884.520000",
+      "data_as_of": "2026-10-23",
+      "headline": "Dolar Australia menjejaki prospek permintaan China dan pendirian RBA",
+      "brief": "Dolar Australia mendapat sokongan asas daripada pendirian kadar stabil RBA sambil bergerak seiring dengan harga bijih besi dan isyarat permintaan dari China."
+    },
+    "CAD": {
+      "rate_to_krw": "962.840000",
+      "data_as_of": "2026-10-23",
+      "headline": "Dolar Kanada mengimbangi kitaran potongan kadar BoC dan harga minyak mentah",
+      "brief": "Dolar Kanada kekal sensitif kepada jurang hasil AS–Kanada selepas penurunan kadar Bank of Canada serta turun naik harga minyak mentah antarabangsa."
+    },
+    "CHF": {
+      "rate_to_krw": "1536.200000",
+      "data_as_of": "2026-10-23",
+      "headline": "Franc Swiss mengimbangi kadar rendah SNB dengan permintaan aset selamat",
+      "brief": "Franc Swiss disokong oleh aliran masuk aset selamat di tengah-tengah ketidaktentuan makro Eropah walaupun Bank Negara Swiss mengekalkan dasar kadar rendah."
+    },
+    "HKD": {
+      "rate_to_krw": "170.380000",
+      "data_as_of": "2026-10-23",
+      "headline": "Dolar Hong Kong kekal stabil dalam jalur tambatan USD",
+      "brief": "Dolar Hong Kong diniagakan stabil dalam jalur tambatan 7.75–7.85 setiap dolar AS, menjejaki jangkaan kadar AS dan aliran modal ekuiti serantau."
+    }
+  },
   "translation": {
     "source_locale": "ko",
     "source_batch_id": "20261026T073000Z",
-    "source_input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+    "source_input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
     "translated_at": "2026-10-26T07:30:00+00:00",
     "direction": "ltr"
   }

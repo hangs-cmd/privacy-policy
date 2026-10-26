@@ -5,7 +5,7 @@
   "checked_at": "2026-10-26T07:30:00+00:00",
   "valid_until": "2026-10-27T19:30:00+00:00",
   "locale": "pl",
-  "input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+  "input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -109,10 +109,72 @@
       }
     }
   ],
+  "currencies": {
+    "KRW": {
+      "rate_to_krw": "1.000000",
+      "data_as_of": "2026-10-23",
+      "headline": "Won południowokoreański pozostaje mocny dzięki eksportowi półprzewodników",
+      "brief": "Won południowokoreański jest wspierany przez utrzymanie stopy BOK na poziomie 3,00%, wysoką nadwyżkę w handlu układami AI oraz napływ kapitału zagranicznego."
+    },
+    "USD": {
+      "rate_to_krw": "1324.452783",
+      "data_as_of": "2026-10-23",
+      "headline": "Dolar amerykański utrzymuje siłę przy stopach Fed na poziomie 3,75–4,00%",
+      "brief": "Dolar amerykański zachowuje solidne wsparcie dzięki stopom procentowym Fed (3,75–4,00%), dobrym danym z gospodarki USA oraz rentownościom obligacji skarbowych."
+    },
+    "EUR": {
+      "rate_to_krw": "1482.460000",
+      "data_as_of": "2026-10-23",
+      "headline": "Euro porusza się w konsolidacji wobec łagodnego nastawienia EBC",
+      "brief": "Euro ma ograniczony potencjał wzrostowy ze względu na łagodną politykę EBC i powolne odbicie przemysłu w strefie euro, czekając na kolejne odczyty inflacji."
+    },
+    "JPY": {
+      "rate_to_krw": "8.446584",
+      "data_as_of": "2026-10-23",
+      "headline": "Jen japoński pozostaje słaby przez ostrożność BOJ i różnice stóp",
+      "brief": "Jen znajduje się pod presją wskutek powolnej normalizacji polityki przez Bank Japonii, choć ryzyko werbalnych interwencji walutowych ogranicza głębszą przecenę."
+    },
+    "CNY": {
+      "rate_to_krw": "198.561479",
+      "data_as_of": "2026-10-23",
+      "headline": "Juan chiński w wąskim paśmie przy łagodnej polityce PBOC",
+      "brief": "Juan porusza się w wąskim przedziale, ponieważ Ludowy Bank Chin utrzymuje łagodne warunki monetarne w celu wsparcia popytu krajowego i kontroluje codzienne fixingi."
+    },
+    "GBP": {
+      "rate_to_krw": "1770.566597",
+      "data_as_of": "2026-10-23",
+      "headline": "Funt szterling lekko traci na tle oczekiwań obniżek stóp przez BoE",
+      "brief": "Funt brytyjski oddaje część przewagi odsetkowej wraz ze wzrostem oczekiwań na kolejne cięcia stóp przez Bank Anglii oraz hamowaniem inflacji w Wielkiej Brytanii."
+    },
+    "AUD": {
+      "rate_to_krw": "884.520000",
+      "data_as_of": "2026-10-23",
+      "headline": "Dolar australijski reaguje na popyt z Chin przy stabilnych stopach RBA",
+      "brief": "Dolar australijski czerpie wsparcie ze stabilnego nastawienia RBA, ale podlega wahaniom zależnie od cen rudy żelaza i sygnałów gospodarczych z Chin."
+    },
+    "CAD": {
+      "rate_to_krw": "962.840000",
+      "data_as_of": "2026-10-23",
+      "headline": "Dolar kanadyjski między obniżkami stóp BoC a cenami ropy naftowej",
+      "brief": "Dolar kanadyjski pozostaje wrażliwy na dysparytet stóp wobec USA po obniżkach Banku Kanady oraz na bieżące notowania ropy naftowej."
+    },
+    "CHF": {
+      "rate_to_krw": "1536.200000",
+      "data_as_of": "2026-10-23",
+      "headline": "Frank szwajcarski łączy niskie stopy SNB z popytem na bezpieczne przystanie",
+      "brief": "Frank szwajcarski utrzymuje wsparcie jako bezpieczna przystań wobec niepewności w Europie, mimo łagodnej polityki Szwajcarskiego Banku Narodowego."
+    },
+    "HKD": {
+      "rate_to_krw": "170.380000",
+      "data_as_of": "2026-10-23",
+      "headline": "Dolar hongkoński stabilny w paśmie powiązania z dolarem USA",
+      "brief": "Dolar hongkoński notowany jest stabilnie w przedziale 7,75–7,85 względem dolara USA, podążając za stopami w USA i przepływami kapitału na giełdach azjatyckich."
+    }
+  },
   "translation": {
     "source_locale": "ko",
     "source_batch_id": "20261026T073000Z",
-    "source_input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+    "source_input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
     "translated_at": "2026-10-26T07:30:00+00:00",
     "direction": "ltr"
   }

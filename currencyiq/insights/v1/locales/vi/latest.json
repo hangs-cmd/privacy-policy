@@ -5,7 +5,7 @@
   "checked_at": "2026-10-26T07:30:00+00:00",
   "valid_until": "2026-10-27T19:30:00+00:00",
   "locale": "vi",
-  "input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+  "input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -109,10 +109,72 @@
       }
     }
   ],
+  "currencies": {
+    "KRW": {
+      "rate_to_krw": "1.000000",
+      "data_as_of": "2026-10-23",
+      "headline": "Đồng won Hàn Quốc giữ đà vững chắc nhờ xuất khẩu bán dẫn thặng dư",
+      "brief": "Đồng won Hàn Quốc được hỗ trợ tốt khi Ngân hàng Trung ương Hàn Quốc giữ lãi suất ở mức 3,00%, kết hợp với thặng dư thương mại chip AI lớn và dòng vốn ngoại."
+    },
+    "USD": {
+      "rate_to_krw": "1324.452783",
+      "data_as_of": "2026-10-23",
+      "headline": "Đồng USD duy trì sức mạnh nhờ lãi suất Fed 3,75–4,00% và dữ liệu khả quan",
+      "brief": "Đồng đô la Mỹ giữ vững đà hỗ trợ trên thị trường toàn cầu nhờ mức lãi suất 3,75–4,00% của Fed, dữ liệu lao động tích cực và diễn biến lợi suất trái phiếu Mỹ."
+    },
+    "EUR": {
+      "rate_to_krw": "1482.460000",
+      "data_as_of": "2026-10-23",
+      "headline": "Đồng euro biến động trong biên độ hẹp trước định hướng nới lỏng của ECB",
+      "brief": "Đà tăng của đồng euro bị hạn chế bởi kỳ vọng chính sách nới lỏng từ ECB và sự phục hồi chậm của ngành sản xuất Eurozone trong khi chờ dữ liệu lạm phát mới."
+    },
+    "JPY": {
+      "rate_to_krw": "8.446584",
+      "data_as_of": "2026-10-23",
+      "headline": "Đồng yên Nhật chịu áp lực do lộ trình thận trọng của BOJ và chênh lệch lãi suất",
+      "brief": "Đồng yên Nhật tiếp tục chịu áp lực giảm do Ngân hàng Trung ương Nhật Bản bình thường hóa lãi suất thận trọng, dù cảnh báo can thiệp hạn chế đà giảm sâu."
+    },
+    "CNY": {
+      "rate_to_krw": "198.561479",
+      "data_as_of": "2026-10-23",
+      "headline": "Đồng nhân dân tệ dao động hẹp dưới chính sách tiền tệ nới lỏng của PBOC",
+      "brief": "Đồng nhân dân tệ giao dịch trong biên độ hẹp khi Ngân hàng Nhân dân Trung Quốc duy trì thanh khoản nới lỏng để kích cầu nội địa và điều tiết tỷ giá trung tâm."
+    },
+    "GBP": {
+      "rate_to_krw": "1770.566597",
+      "data_as_of": "2026-10-23",
+      "headline": "Đồng bảng Anh hạ nhiệt nhẹ trước kỳ vọng BoE tiếp tục cắt giảm lãi suất",
+      "brief": "Đồng bảng Anh giảm bớt lợi thế sinh lời khi thị trường gia tăng kỳ vọng Ngân hàng Trung ương Anh cắt giảm lãi suất, biến động theo dữ liệu lạm phát tại Anh."
+    },
+    "AUD": {
+      "rate_to_krw": "884.520000",
+      "data_as_of": "2026-10-23",
+      "headline": "Đồng đô la Úc bám sát triển vọng nhu cầu từ Trung Quốc và lãi suất RBA",
+      "brief": "Đồng đô la Úc nhận được lực đỡ từ lập trường giữ nguyên lãi suất của RBA đồng thời biến động theo giá quặng sắt và tín hiệu kinh tế từ Trung Quốc."
+    },
+    "CAD": {
+      "rate_to_krw": "962.840000",
+      "data_as_of": "2026-10-23",
+      "headline": "Đồng đô la Canada chịu tác động từ chu kỳ hạ lãi suất của BoC và giá dầu",
+      "brief": "Đồng đô la Canada nhạy cảm với chênh lệch lãi suất Mỹ–Canada sau các đợt cắt giảm của Ngân hàng Trung ương Canada cũng như diễn biến giá dầu thô thế giới."
+    },
+    "CHF": {
+      "rate_to_krw": "1536.200000",
+      "data_as_of": "2026-10-23",
+      "headline": "Đồng franc Thụy Sĩ kết hợp lãi suất thấp của SNB với nhu cầu trú ẩn an toàn",
+      "brief": "Đồng franc Thụy Sĩ vẫn được hỗ trợ bởi nhu cầu trú ẩn an toàn trước các bất ổn tại châu Âu bất chấp chính sách lãi suất thấp của Ngân hàng Quốc gia Thụy Sĩ."
+    },
+    "HKD": {
+      "rate_to_krw": "170.380000",
+      "data_as_of": "2026-10-23",
+      "headline": "Đồng đô la Hồng Kông ổn định trong biên độ neo giá với đồng USD",
+      "brief": "Đồng đô la Hồng Kông giao dịch ổn định trong biên độ 7,75–7,85 đổi 1 USD, bám sát lộ trình lãi suất của Mỹ và dòng vốn vào thị trường chứng khoán khu vực."
+    }
+  },
   "translation": {
     "source_locale": "ko",
     "source_batch_id": "20261026T073000Z",
-    "source_input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+    "source_input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
     "translated_at": "2026-10-26T07:30:00+00:00",
     "direction": "ltr"
   }

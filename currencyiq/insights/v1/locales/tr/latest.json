@@ -5,7 +5,7 @@
   "checked_at": "2026-10-26T07:30:00+00:00",
   "valid_until": "2026-10-27T19:30:00+00:00",
   "locale": "tr",
-  "input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+  "input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -109,10 +109,72 @@
       }
     }
   ],
+  "currencies": {
+    "KRW": {
+      "rate_to_krw": "1.000000",
+      "data_as_of": "2026-10-23",
+      "headline": "Kore wonu yarı iletken ihracat fazlası ve yabancı girişleriyle güçlü",
+      "brief": "Güney Kore wonu, Kore Merkez Bankası’nın %3,00 sabit faiz politikası, yapay zekâ çip ihracatından kaynaklanan cari fazla ve yabancı hisse girişleriyle güçlü kalıyor."
+    },
+    "USD": {
+      "rate_to_krw": "1324.452783",
+      "data_as_of": "2026-10-23",
+      "headline": "ABD doları Fed’in %3,75–4,00 faiz bandı ve güçlü verilerle dirençli",
+      "brief": "ABD doları, Fed politika faizinin (%3,75–4,00) yüksek seyri, dirençli ABD istihdam verileri ve Hazine tahvil getirilerinin desteğiyle küresel gücünü koruyor."
+    },
+    "EUR": {
+      "rate_to_krw": "1482.460000",
+      "data_as_of": "2026-10-23",
+      "headline": "Euro, AMB’nin güvercin duruşu ve sanayideki yavaşlamayla bantta",
+      "brief": "Euro, Avrupa Merkez Bankası’nın gevşek para politikası duruşu ve Euro Bölgesi imalatındaki zayıf seyir nedeniyle sınırlı yükseliyor ve enflasyon verilerini izliyor."
+    },
+    "JPY": {
+      "rate_to_krw": "8.446584",
+      "data_as_of": "2026-10-23",
+      "headline": "Japon yeni BOJ’un temkinli adımları ve faiz farkıyla baskı altında",
+      "brief": "Japon yeni, Japonya Merkez Bankası’nın kademeli normalleşme süreci ve faiz farkları nedeniyle baskı altında kalırken sözlü müdahale uyarıları kayıpları sınırlıyor."
+    },
+    "CNY": {
+      "rate_to_krw": "198.561479",
+      "data_as_of": "2026-10-23",
+      "headline": "Çin yuanı PBOC’nin gevşek likidite politikasıyla dar bantta",
+      "brief": "Çin yuanı, Çin Halk Bankası’nın iç talebi desteklemek amacıyla sürdürdüğü gevşek para politikası ve günlük kur sabitlemeleri doğrultusunda dar bir bantta işlem görüyor."
+    },
+    "GBP": {
+      "rate_to_krw": "1770.566597",
+      "data_as_of": "2026-10-23",
+      "headline": "İngiliz sterlini BoE faiz indirimi beklentileriyle ılımlı geriliyor",
+      "brief": "İngiliz sterlini, İngiltere Merkez Bankası’ndan beklenen faiz indirimlerinin getiri avantajını azaltmasıyla birlikte İngiltere enflasyon verilerine duyarlı seyrediyor."
+    },
+    "AUD": {
+      "rate_to_krw": "884.520000",
+      "data_as_of": "2026-10-23",
+      "headline": "Avustralya doları Çin talebi ve RBA’nın sabit faiz duruşunu izliyor",
+      "brief": "Avustralya doları, Avustralya Merkez Bankası’nın sabit faiz duruşundan destek bulurken demir cevheri fiyatları ve Çin’in büyüme sinyallerine paralel dalgalanıyor."
+    },
+    "CAD": {
+      "rate_to_krw": "962.840000",
+      "data_as_of": "2026-10-23",
+      "headline": "Kanada doları BoC faiz indirimleri ile petrol fiyatları arasında dengeleniyor",
+      "brief": "Kanada doları, Kanada Merkez Bankası’nın faiz indirimleri sonrası ABD ile oluşan faiz farkına ve küresel ham petrol fiyatlarındaki değişimlere duyarlı hareket ediyor."
+    },
+    "CHF": {
+      "rate_to_krw": "1536.200000",
+      "data_as_of": "2026-10-23",
+      "headline": "İsviçre frangı düşük SNB faizine rağmen güvenli liman talebiyle güçlü",
+      "brief": "İsviçre frangı, İsviçre Ulusal Bankası’nın düşük faiz politikasına karşın Avrupa’daki belirsizliklerden kaynaklanan güvenli liman talebiyle sağlam duruyor."
+    },
+    "HKD": {
+      "rate_to_krw": "170.380000",
+      "data_as_of": "2026-10-23",
+      "headline": "Hong Kong doları ABD doları sabit kur bandında istikrarını koruyor",
+      "brief": "Hong Kong doları, 7,75–7,85 ABD doları sabit kur bandında istikrarlı işlem görerek ABD faiz beklentilerini ve bölge borsalarına yönelik sermaye akımlarını takip ediyor."
+    }
+  },
   "translation": {
     "source_locale": "ko",
     "source_batch_id": "20261026T073000Z",
-    "source_input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+    "source_input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
     "translated_at": "2026-10-26T07:30:00+00:00",
     "direction": "ltr"
   }

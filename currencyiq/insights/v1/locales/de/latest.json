@@ -5,7 +5,7 @@
   "checked_at": "2026-10-26T07:30:00+00:00",
   "valid_until": "2026-10-27T19:30:00+00:00",
   "locale": "de",
-  "input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+  "input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -109,10 +109,72 @@
       }
     }
   ],
+  "currencies": {
+    "KRW": {
+      "rate_to_krw": "1.000000",
+      "data_as_of": "2026-10-23",
+      "headline": "Koreanischer Won bleibt dank Halbleiterüberschuss und Kapitalzuflüssen stark",
+      "brief": "Der südkoreanische Won wird durch den BOK-Leitzins von 3,00 %, hohe Leistungsbilanzüberschüsse aus KI-Chip-Exporten sowie stetige ausländische Aktienzuflüsse solide gestützt."
+    },
+    "USD": {
+      "rate_to_krw": "1324.452783",
+      "data_as_of": "2026-10-23",
+      "headline": "US-Dollar behauptet sich dank Fed-Zinsniveau von 3,75–4,00 % und stabiler Konjunktur",
+      "brief": "Der US-Dollar bleibt durch den Fed-Leitzins (3,75–4,00 %), robuste US-Arbeitsmarktdaten und die Renditeentwicklung von US-Staatsanleihen weltweit gut unterstützt."
+    },
+    "EUR": {
+      "rate_to_krw": "1482.460000",
+      "data_as_of": "2026-10-23",
+      "headline": "Euro handelt in enger Spanne bei lockerer EZB-Politik und schwacher Industrie",
+      "brief": "Der Euro wird durch die geldpolitische Lockerung der EZB und die schleppende Industriekonjunktur im Euroraum gebremst und orientiert sich kurzfristig an den Inflationsdaten."
+    },
+    "JPY": {
+      "rate_to_krw": "8.446584",
+      "data_as_of": "2026-10-23",
+      "headline": "Japanischer Yen bleibt unter Druck wegen vorsichtiger BOJ und Zinsdifferenzen",
+      "brief": "Der Yen steht wegen der langsamen Zinsnormalisierung der Bank of Japan weiter unter Abwertungsdruck, wobei Warnungen vor Deviseninterventionen stärkere Verluste begrenzen."
+    },
+    "CNY": {
+      "rate_to_krw": "198.561479",
+      "data_as_of": "2026-10-23",
+      "headline": "Chinesischer Yuan bewegt sich bei lockerer PBOC-Politik in engem Korridor",
+      "brief": "Der Yuan handelt in einer engen Spanne, da die Chinesische Volksbank zur Stützung der Binnennachfrage eine lockere Geldpolitik verfolgt und den Kurs über tägliche Fixings steuert."
+    },
+    "GBP": {
+      "rate_to_krw": "1770.566597",
+      "data_as_of": "2026-10-23",
+      "headline": "Britisches Pfund gibt angesichts erwarteter BoE-Zinssenkungen leicht nach",
+      "brief": "Das Pfund verliert durch wachsende Zinssenkungserwartungen an die Bank of England etwas an Zinsvorteil und reagiert empfindlich auf britische Inflationsdaten."
+    },
+    "AUD": {
+      "rate_to_krw": "884.520000",
+      "data_as_of": "2026-10-23",
+      "headline": "Australischer Dollar folgt Chinas Rohstoffnachfrage bei stabiler RBA-Politik",
+      "brief": "Der australische Dollar erhält Unterstützung durch den stabilen Leitzins der RBA, schwankt jedoch mit den Eisenerzpreisen und Konjunktursignalen aus China."
+    },
+    "CAD": {
+      "rate_to_krw": "962.840000",
+      "data_as_of": "2026-10-23",
+      "headline": "Kanadischer Dollar steht zwischen BoC-Zinssenkungen und Rohölpreisen",
+      "brief": "Der kanadische Dollar wird durch den Zinsabstand zu den USA nach den BoC-Zinssenkungen sowie durch die Entwicklung der Rohölpreise maßgeblich beeinflusst."
+    },
+    "CHF": {
+      "rate_to_krw": "1536.200000",
+      "data_as_of": "2026-10-23",
+      "headline": "Schweizer Franken profitiert trotz niedriger SNB-Zinsen von Sicherheitsnachfrage",
+      "brief": "Der Schweizer Franken bleibt trotz der lockeren Haltung der Schweizerischen Nationalbank als sicherer Hafen bei europäischen Konjunkturrisiken gefragt."
+    },
+    "HKD": {
+      "rate_to_krw": "170.380000",
+      "data_as_of": "2026-10-23",
+      "headline": "Hongkong-Dollar bleibt im USD-Peg-Band stabil und folgt Aktienflüssen",
+      "brief": "Der Hongkong-Dollar bewegt sich stabil im festen Band von 7,75–7,85 zum US-Dollar und wird kurzfristig von Kapitalflüssen an den chinesischen Aktienmärkten geprägt."
+    }
+  },
   "translation": {
     "source_locale": "ko",
     "source_batch_id": "20261026T073000Z",
-    "source_input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+    "source_input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
     "translated_at": "2026-10-26T07:30:00+00:00",
     "direction": "ltr"
   }

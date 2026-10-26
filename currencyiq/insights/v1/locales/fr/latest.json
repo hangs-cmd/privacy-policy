@@ -5,7 +5,7 @@
   "checked_at": "2026-10-26T07:30:00+00:00",
   "valid_until": "2026-10-27T19:30:00+00:00",
   "locale": "fr",
-  "input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+  "input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -109,10 +109,72 @@
       }
     }
   ],
+  "currencies": {
+    "KRW": {
+      "rate_to_krw": "1.000000",
+      "data_as_of": "2026-10-23",
+      "headline": "Le won coréen reste soutenu par l’excédent des semi-conducteurs",
+      "brief": "Le won sud-coréen bénéficie du maintien du taux de la BOK à 3,00 %, d’un fort excédent commercial lié aux puces IA et de flux d’investissements étrangers réguliers."
+    },
+    "USD": {
+      "rate_to_krw": "1324.452783",
+      "data_as_of": "2026-10-23",
+      "headline": "Le dollar américain reste ferme grâce aux taux de la Fed (3,75–4,00 %)",
+      "brief": "Le dollar américain conserve un soutien solide avec les taux de la Fed entre 3,75 % et 4,00 %, porté par la résilience de l’économie américaine et les rendements obligataires."
+    },
+    "EUR": {
+      "rate_to_krw": "1482.460000",
+      "data_as_of": "2026-10-23",
+      "headline": "L’euro évolue en fourchette sous l’effet de la politique souple de la BCE",
+      "brief": "L’euro reste freiné par l’orientation accommodante de la BCE et la lente reprise manufacturière en zone euro, évoluant au gré des publications d’inflation."
+    },
+    "JPY": {
+      "rate_to_krw": "8.446584",
+      "data_as_of": "2026-10-23",
+      "headline": "Le yen reste fragile face à la prudence de la BOJ et aux écarts de taux",
+      "brief": "Le yen japonais subit la pression d’une normalisation très graduelle de la Banque du Japon, bien que le risque d’intervention verbale limite les replis excessifs."
+    },
+    "CNY": {
+      "rate_to_krw": "198.561479",
+      "data_as_of": "2026-10-23",
+      "headline": "Le yuan chinois évolue dans une marge étroite sous la politique souple de la PBOC",
+      "brief": "Le yuan reste encadré par la politique monétaire accommodante de la Banque populaire de Chine visant à soutenir la demande intérieure et par ses fixings quotidiens."
+    },
+    "GBP": {
+      "rate_to_krw": "1770.566597",
+      "data_as_of": "2026-10-23",
+      "headline": "La livre sterling fléchit modérément avec les attentes de baisse des taux de la BoE",
+      "brief": "La livre sterling voit son avantage de rendement se réduire face aux anticipations d’assouplissement de la Banque d’Angleterre et suit de près l’inflation britannique."
+    },
+    "AUD": {
+      "rate_to_krw": "884.520000",
+      "data_as_of": "2026-10-23",
+      "headline": "Le dollar australien suit la demande chinoise et la stabilité de la RBA",
+      "brief": "Le dollar australien est soutenu par la posture prudente de la RBA tout en fluctuant selon les cours du minerai de fer et les indicateurs économiques chinois."
+    },
+    "CAD": {
+      "rate_to_krw": "962.840000",
+      "data_as_of": "2026-10-23",
+      "headline": "Le dollar canadien oscille entre les baisses de taux de la BoC et le pétrole",
+      "brief": "Le dollar canadien reste sensible à l’écart de taux avec les États-Unis après les baisses de la Banque du Canada ainsi qu’aux variations des cours du pétrole brut."
+    },
+    "CHF": {
+      "rate_to_krw": "1536.200000",
+      "data_as_of": "2026-10-23",
+      "headline": "Le franc suisse reste recherché comme valeur refuge malgré la souplesse de la BNS",
+      "brief": "Le franc suisse conserve un soutien défensif lié aux incertitudes européennes, malgré la politique de taux bas maintenue par la Banque nationale suisse."
+    },
+    "HKD": {
+      "rate_to_krw": "170.380000",
+      "data_as_of": "2026-10-23",
+      "headline": "Le dollar de Hong Kong reste stable dans sa bande d’ancrage au dollar américain",
+      "brief": "Le dollar de Hong Kong évolue de manière stable dans son corridor de 7,75–7,85 face au dollar américain, rythmé par les flux de capitaux vers les marchés asiatiques."
+    }
+  },
   "translation": {
     "source_locale": "ko",
     "source_batch_id": "20261026T073000Z",
-    "source_input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+    "source_input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
     "translated_at": "2026-10-26T07:30:00+00:00",
     "direction": "ltr"
   }

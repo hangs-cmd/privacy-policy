@@ -5,7 +5,7 @@
   "checked_at": "2026-10-26T07:30:00+00:00",
   "valid_until": "2026-10-27T19:30:00+00:00",
   "locale": "nl",
-  "input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+  "input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -109,10 +109,72 @@
       }
     }
   ],
+  "currencies": {
+    "KRW": {
+      "rate_to_krw": "1.000000",
+      "data_as_of": "2026-10-23",
+      "headline": "Koreaanse won blijft sterk dankzij chipexport en kapitaalinstroom",
+      "brief": "De Zuid-Koreaanse won wordt solide gesteund door de BOK-rente van 3,00%, het grote handelsoverschot door AI-halfgeleiders en aanhoudende buitenlandse aandeleninstroom."
+    },
+    "USD": {
+      "rate_to_krw": "1324.452783",
+      "data_as_of": "2026-10-23",
+      "headline": "Amerikaanse dollar blijft stevig bij Fed-rente van 3,75–4,00%",
+      "brief": "De Amerikaanse dollar behoudt wereldwijd steun dankzij de Fed-rente (3,75–4,00%), veerkrachtige Amerikaanse macrodata en de ontwikkeling van de Amerikaanse staatsrentes."
+    },
+    "EUR": {
+      "rate_to_krw": "1482.460000",
+      "data_as_of": "2026-10-23",
+      "headline": "Euro beweegt in bandbreedte door ruim ECB-beleid en trage industrie",
+      "brief": "De euro wordt afgeremd door het ruime beleid van de ECB en het trage herstel van de Europese maakindustrie, waarbij de focus op nieuwe inflatiecijfers ligt."
+    },
+    "JPY": {
+      "rate_to_krw": "8.446584",
+      "data_as_of": "2026-10-23",
+      "headline": "Japanse yen blijft zwak door voorzichtig BOJ-beleid en renteverschillen",
+      "brief": "De Japanse yen staat onder druk door de voorzichtige rentenormalisatie van de Bank of Japan, al beperkt de kans op verbale interventie verdere koersdalingen."
+    },
+    "CNY": {
+      "rate_to_krw": "198.561479",
+      "data_as_of": "2026-10-23",
+      "headline": "Chinese yuan beweegt in smalle marge onder ruim PBOC-beleid",
+      "brief": "De Chinese yuan handelt in een nauwe bandbreedte doordat de PBOC een ruim monetair beleid voert om de binnenlandse vraag te stimuleren via dagelijkse koersfixings."
+    },
+    "GBP": {
+      "rate_to_krw": "1770.566597",
+      "data_as_of": "2026-10-23",
+      "headline": "Britse pond doet stap terug door verwachte renteverlagingen BoE",
+      "brief": "Het Britse pond levert een deel van zijn rentevoordeel in door toenemende verwachtingen van renteverlagingen door de Bank of England en afkoelende Britse inflatie."
+    },
+    "AUD": {
+      "rate_to_krw": "884.520000",
+      "data_as_of": "2026-10-23",
+      "headline": "Australische dollar volgt Chinese grondstoffenvraag en stabiele RBA",
+      "brief": "De Australische dollar vindt steun in het stabiele rentebeleid van de RBA, maar beweegt mee met ijzerertsprijzen en economische groeisignalen uit China."
+    },
+    "CAD": {
+      "rate_to_krw": "962.840000",
+      "data_as_of": "2026-10-23",
+      "headline": "Canadese dollar balanceert tussen BoC-renteverlagingen en olieprijs",
+      "brief": "De Canadese dollar blijft gevoelig voor het renteverschil met de VS na de renteverlagingen door de Bank of Canada en volgt de internationale ruwe-olieprijzen."
+    },
+    "CHF": {
+      "rate_to_krw": "1536.200000",
+      "data_as_of": "2026-10-23",
+      "headline": "Zwitserse frank combineert lage SNB-rente met vraag naar veilige havens",
+      "brief": "De Zwitserse frank behoudt steun als veilige haven bij Europese onzekerheden, ondanks het ruime rentebeleid van de Zwitserse Nationale Bank."
+    },
+    "HKD": {
+      "rate_to_krw": "170.380000",
+      "data_as_of": "2026-10-23",
+      "headline": "Hongkongse dollar blijft stabiel binnen USD-bandbreedte",
+      "brief": "De Hongkongse dollar beweegt stabiel binnen de vaste bandbreedte van 7,75–7,85 per Amerikaanse dollar en volgt de Amerikaanse rente en Aziatische aandelenstromen."
+    }
+  },
   "translation": {
     "source_locale": "ko",
     "source_batch_id": "20261026T073000Z",
-    "source_input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+    "source_input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
     "translated_at": "2026-10-26T07:30:00+00:00",
     "direction": "ltr"
   }

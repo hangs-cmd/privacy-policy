@@ -5,7 +5,7 @@
   "checked_at": "2026-10-26T07:30:00+00:00",
   "valid_until": "2026-10-27T19:30:00+00:00",
   "locale": "pt",
-  "input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+  "input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -109,10 +109,72 @@
       }
     }
   ],
+  "currencies": {
+    "KRW": {
+      "rate_to_krw": "1.000000",
+      "data_as_of": "2026-10-23",
+      "headline": "Won sul-coreano mantém firmeza com superávit de semicondutores",
+      "brief": "O won sul-coreano segue bem sustentado pela taxa de 3,00% do Banco da Coreia, pelo expressivo superávit comercial de chips de IA e pelo fluxo estrangeiro para ações."
+    },
+    "USD": {
+      "rate_to_krw": "1324.452783",
+      "data_as_of": "2026-10-23",
+      "headline": "Dólar americano segue firme com juros do Fed entre 3,75% e 4,00%",
+      "brief": "O dólar americano mantém suporte sólido no mercado global com os juros do Fed em 3,75–4,00%, amparado por dados resilientes de emprego e pelos rendimentos dos Treasuries."
+    },
+    "EUR": {
+      "rate_to_krw": "1482.460000",
+      "data_as_of": "2026-10-23",
+      "headline": "Euro opera em faixa estreita sob postura acomodatícia do BCE",
+      "brief": "O euro tem alta limitada pela política monetária acomodatícia do BCE e pela recuperação lenta da indústria na Zona do Euro, acompanhando os dados de inflação."
+    },
+    "JPY": {
+      "rate_to_krw": "8.446584",
+      "data_as_of": "2026-10-23",
+      "headline": "Iene japonês segue pressionado pela cautela do BOJ e diferencial de juros",
+      "brief": "O iene permanece sob pressão devido à normalização cautelosa do Banco do Japão e aos diferenciais de juros, embora o risco de intervenção verbal limite quedas maiores."
+    },
+    "CNY": {
+      "rate_to_krw": "198.561479",
+      "data_as_of": "2026-10-23",
+      "headline": "Yuan chinês oscila em banda estreita sob política flexível do PBOC",
+      "brief": "O yuan negocia em faixa estreita enquanto o Banco Popular da China mantém liquidez ampla para estimular a demanda doméstica e conduz as fixações diárias."
+    },
+    "GBP": {
+      "rate_to_krw": "1770.566597",
+      "data_as_of": "2026-10-23",
+      "headline": "Libra esterlina recua levemente com expectativas de cortes pelo BoE",
+      "brief": "A libra esterlina perdeu parte de sua vantagem de rendimento diante das apostas em novos cortes de juros pelo Banco da Inglaterra e da desaceleração da inflação britânica."
+    },
+    "AUD": {
+      "rate_to_krw": "884.520000",
+      "data_as_of": "2026-10-23",
+      "headline": "Dólar australiano acompanha demanda chinesa e estabilidade do RBA",
+      "brief": "O dólar australiano encontra suporte na postura estável do RBA, mas oscila conforme os preços do minério de ferro e os sinais de atividade econômica na China."
+    },
+    "CAD": {
+      "rate_to_krw": "962.840000",
+      "data_as_of": "2026-10-23",
+      "headline": "Dólar canadense reflete cortes de juros do BoC e cotações do petróleo",
+      "brief": "O dólar canadense segue sensível ao diferencial de juros frente aos EUA após os cortes do Banco do Canadá, acompanhando de perto os preços internacionais do petróleo."
+    },
+    "CHF": {
+      "rate_to_krw": "1536.200000",
+      "data_as_of": "2026-10-23",
+      "headline": "Franco suíço equilibra juros baixos do SNB e busca por proteção",
+      "brief": "O franco suíço mantém suporte como ativo de proteção diante das incertezas europeias, apesar da política monetária acomodatícia do Banco Nacional Suíço."
+    },
+    "HKD": {
+      "rate_to_krw": "170.380000",
+      "data_as_of": "2026-10-23",
+      "headline": "Dólar de Hong Kong segue estável dentro da banda de câmbio fixo com o USD",
+      "brief": "O dólar de Hong Kong opera com estabilidade na faixa de 7,75–7,85 por dólar americano, acompanhando os juros dos EUA e o fluxo de capitais para as bolsas asiáticas."
+    }
+  },
   "translation": {
     "source_locale": "ko",
     "source_batch_id": "20261026T073000Z",
-    "source_input_digest": "0eadbcddaeea015d3246213a90f96894db85b39349d4d2852ea3f071e9c0a38c",
+    "source_input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
     "translated_at": "2026-10-26T07:30:00+00:00",
     "direction": "ltr"
   }
