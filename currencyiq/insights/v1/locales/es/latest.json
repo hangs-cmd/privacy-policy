@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261026T101532Z",
-  "published_at": "2026-10-26T10:15:32+00:00",
-  "checked_at": "2026-10-26T10:15:32+00:00",
-  "valid_until": "2026-10-27T22:15:32+00:00",
+  "batch_id": "20261026T234849Z",
+  "published_at": "2026-10-26T23:48:49+00:00",
+  "checked_at": "2026-10-26T23:48:49+00:00",
+  "valid_until": "2026-10-28T11:48:49+00:00",
   "locale": "es",
-  "input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
+  "input_digest": "d5dc648e48ca8ff5911ff08fb209c08d8f58bd74bee56db3e06e9693b5b60da4",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,16 +20,16 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "es",
-      "data_as_of": "2026-10-23",
-      "reference_rate": "1324.452783",
-      "generated_at": "2026-10-26T10:15:32+00:00",
+      "data_as_of": "2026-10-26",
+      "reference_rate": "1325.277083",
+      "generated_at": "2026-10-26T23:48:49+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
       },
       "analysis": {
-        "headline": "El USD/KRW se estabiliza cerca de 1.324 impulsado por las exportaciones de chips",
-        "summary": "El USD/KRW cotiza en torno a 1.324, manteniéndose cerca de su mínimo de dos años entre 1.315 y 1.325. Aunque la tasa de la Fed (3,75–4,00 %) supera el 3,00 % del Banco de Corea, el fuerte superávit comercial por semiconductores de IA y la entrada de capital extranjero respaldan al won. Las ventas de dólares de exportadores limitan los rebotes."
+        "headline": "El USD/KRW roza mínimos anuales en 1.325 por ventas de exportadores de chips",
+        "summary": "El USD/KRW cotiza en torno a 1.325 (cierre en Seúl a 1.323,1) tras haber tocado un mínimo anual intradía de 1.320,6 KRW debido a intensas ventas de dólares por parte de exportadores de semiconductores a fin de mes. Pese a las tensiones en Oriente Medio y el alza del crudo, el elevado superávit por cuenta corriente de Corea y la tasa del 3,00 % del BOK frenan con firmeza los rebotes del billete verde."
       }
     },
     {
@@ -39,16 +39,16 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "es",
-      "data_as_of": "2026-10-23",
-      "reference_rate": "1482.460000",
-      "generated_at": "2026-10-26T10:15:32+00:00",
+      "data_as_of": "2026-10-26",
+      "reference_rate": "1482.720000",
+      "generated_at": "2026-10-26T23:48:49+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
       },
       "analysis": {
-        "headline": "El EUR/KRW cede hacia 1.482 ante la fortaleza del won y la debilidad europea",
-        "summary": "El EUR/KRW ha descendido gradualmente desde los 1.490 de principios de mes hasta cerca de 1.482. La postura acomodaticia del BCE y la lenta recuperación manufacturera en la eurozona frenan al euro, mientras que el superávit comercial coreano impulsa al won. A corto plazo se espera un rango acotado ligado a la inflación europea."
+        "headline": "El EUR/KRW cotiza lateral cerca de 1.482 ante la pausa esperada del BCE y la fuerza del won",
+        "summary": "El EUR/KRW se mantiene en un rango estrecho alrededor de 1.482 mientras el mercado descuenta que el BCE mantendrá la tasa de depósito en el 2,50 %. La persistente debilidad manufacturera europea y la incertidumbre fiscal francesa lastran al euro, al tiempo que el superávit tecnológico surcoreano mantiene bajo presión al par."
       }
     },
     {
@@ -58,16 +58,16 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "es",
-      "data_as_of": "2026-10-23",
-      "reference_rate": "8.446584",
-      "generated_at": "2026-10-26T10:15:32+00:00",
+      "data_as_of": "2026-10-26",
+      "reference_rate": "8.417372",
+      "generated_at": "2026-10-26T23:48:49+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
       },
       "analysis": {
-        "headline": "El JPY/KRW se mantiene en rango cerca de 8,45 por la debilidad del yen",
-        "summary": "El JPY/KRW opera en una banda estrecha alrededor de 8,45 KRW por yen (~845 KRW por 100 yenes). La cautela del Banco de Japón en su normalización monetaria mantiene débil al yen, mientras que el won cuenta con el respaldo de sólidos superávits y la tasa del 3,00 % del BOK. El diferencial de tasas EE. UU.–Japón sigue siendo clave."
+        "headline": "El JPY/KRW se mantiene en mínimos multianuales cerca de 8,42 KRW por la cautela del BOJ",
+        "summary": "El JPY/KRW permanece débil cerca de 8,42 KRW por yen (~842 KRW por 100 yenes). Las expectativas de que el Banco de Japón mantenga su tasa en el 1,25 % impulsan al USD/JPY sobre 157, prolongando la depreciación del yen frente a un won respaldado por superávits comerciales. La vigilancia de intervención por Tokio limita caídas adicionales."
       }
     },
     {
@@ -77,16 +77,16 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "es",
-      "data_as_of": "2026-10-23",
-      "reference_rate": "1770.566597",
-      "generated_at": "2026-10-26T10:15:32+00:00",
+      "data_as_of": "2026-10-26",
+      "reference_rate": "1768.933429",
+      "generated_at": "2026-10-26T23:48:49+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
       },
       "analysis": {
-        "headline": "El GBP/KRW retrocede a 1.770 ante expectativas de recortes del BoE",
-        "summary": "El GBP/KRW ha bajado desde casi 1.800 a principios de mes hasta la zona de 1.770. Las previsiones de recortes de tasas del Banco de Inglaterra reducen la ventaja de rendimiento de la libra, mientras las exportaciones coreanas sostienen al won. La inflación británica y el apetito por el riesgo definirán el soporte en 1.760–1.780."
+        "headline": "El GBP/KRW desciende a 1.768 por previsiones de recortes del BoE y cautela presupuestaria",
+        "summary": "El GBP/KRW ha retrocedido hacia 1.768 a medida que aumentan las apuestas de recortes del Banco de Inglaterra y la cautela ante el presupuesto británico de otoño reduce el atractivo de la libra. El dinamismo exportador coreano apuntala al won, consolidando al cruce en el rango de 1.760 a 1.780 KRW."
       }
     },
     {
@@ -96,86 +96,86 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "es",
-      "data_as_of": "2026-10-23",
-      "reference_rate": "198.561479",
-      "generated_at": "2026-10-26T10:15:32+00:00",
+      "data_as_of": "2026-10-26",
+      "reference_rate": "198.748040",
+      "generated_at": "2026-10-26T23:48:49+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
       },
       "analysis": {
-        "headline": "El CNY/KRW cotiza estable cerca de 198,5 bajo la política flexible del PBOC",
-        "summary": "El CNY/KRW ha retrocedido levemente desde los 202 hasta un rango estrecho de 198–200 cerca de 198,5. El Banco Popular de China mantiene condiciones monetarias laxas para estimular el consumo interno, limitando el avance del yuan frente a un won apoyado por el sector tecnológico. Las fijaciones diarias del PBOC marcan el ritmo."
+        "headline": "El CNY/KRW oscila en banda estrecha cerca de 198,7 con la liquidez del PBOC y estímulos",
+        "summary": "El CNY/KRW opera estable cerca de 198,7 en una franja de 198–199 KRW. El Banco Popular de China mantiene condiciones monetarias acomodaticias y una fijación diaria prudente para respaldar el consumo interno. Los planes de estímulo contienen la caída del yuan, mientras que el superávit coreano limita cualquier avance del cruce."
       }
     }
   ],
   "currencies": {
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-10-23",
-      "headline": "El won coreano se mantiene firme gracias al superávit en semiconductores",
-      "brief": "El won surcoreano cuenta con un sólido respaldo gracias a la tasa del 3,00 % del Banco de Corea, el superávit comercial en chips de IA y la entrada de capital extranjero."
+      "data_as_of": "2026-10-26",
+      "headline": "El won marca máximos anuales impulsado por semiconductores y ventas corporativas",
+      "brief": "El won surcoreano alcanzó nuevos máximos del año frente al dólar, favorecido por la tasa del 3,00 % del BOK, el fuerte superávit comercial en chips y las ventas de fin de mes."
     },
     "USD": {
-      "rate_to_krw": "1324.452783",
-      "data_as_of": "2026-10-23",
-      "headline": "El dólar estadounidense se mantiene sólido con las tasas de la Fed en 3,75–4,00 %",
-      "brief": "El dólar estadounidense conserva un firme soporte global respaldado por el rango de tasas de la Fed (3,75–4,00 %), datos laborales resilientes y los rendimientos del Tesoro."
+      "rate_to_krw": "1325.277083",
+      "data_as_of": "2026-10-26",
+      "headline": "El dólar estadounidense se mantiene firme antes del IPC subyacente y la Fed",
+      "brief": "El dólar opera con estabilidad con la tasa de la Fed en el 3,75–4,00 % y un mercado laboral resiliente, a la espera del deflactor PCE y pistas sobre la política monetaria."
     },
     "EUR": {
-      "rate_to_krw": "1482.460000",
-      "data_as_of": "2026-10-23",
-      "headline": "El euro cotiza en rango ante la postura acomodaticia del BCE",
-      "brief": "El euro ve limitado su potencial alcista por la política flexible del BCE y la lenta recuperación industrial en la eurozona, a la espera de nuevos datos de inflación."
+      "rate_to_krw": "1482.720000",
+      "data_as_of": "2026-10-26",
+      "headline": "El euro sigue presionado ante la esperada pausa del BCE en el 2,50 % y la deuda francesa",
+      "brief": "El euro muestra dificultades para repuntar antes del probable mantenimiento de la tasa del BCE en el 2,50 %, afectado por la debilidad fabril y dudas fiscales en Francia."
     },
     "JPY": {
-      "rate_to_krw": "8.446584",
-      "data_as_of": "2026-10-23",
-      "headline": "El yen japonés sigue débil por la cautela del BOJ y el diferencial de tasas",
-      "brief": "El yen mantiene presión bajista debido a la cautelosa normalización monetaria del Banco de Japón, aunque las advertencias de intervención limitan caídas mayores."
+      "rate_to_krw": "8.417372",
+      "data_as_of": "2026-10-26",
+      "headline": "El yen sigue debilitado por la perspectiva de pausa del BOJ y el diferencial de tasas",
+      "brief": "El yen japonés continúa bajo presión ante las previsiones de que el Banco de Japón mantenga el 1,25 %, aunque la alerta por intervención limita descensos mayores."
     },
     "CNY": {
-      "rate_to_krw": "198.561479",
-      "data_as_of": "2026-10-23",
-      "headline": "El yuan chino se mueve en banda estrecha bajo la política flexible del PBOC",
-      "brief": "El yuan opera en un rango estrecho mientras el Banco Popular de China mantiene liquidez holgada para estimular el consumo interno y guía sus fijaciones diarias."
+      "rate_to_krw": "198.748040",
+      "data_as_of": "2026-10-26",
+      "headline": "El yuan cotiza en rango acotado por la liquidez del PBOC y planes de estímulo",
+      "brief": "El yuan chino se negocia en márgenes estrechos mientras el PBOC provee liquidez abundante y fijaciones firmes, a la espera de mayores medidas de estímulo económico."
     },
     "GBP": {
-      "rate_to_krw": "1770.566597",
-      "data_as_of": "2026-10-23",
-      "headline": "La libra esterlina cede moderadamente ante expectativas de recortes del BoE",
-      "brief": "La libra esterlina ha reducido parte de su ventaja de rendimiento ante las previsiones de recortes de tasas del Banco de Inglaterra y la evolución de la inflación británica."
+      "rate_to_krw": "1768.933429",
+      "data_as_of": "2026-10-26",
+      "headline": "La libra cede terreno ante previsiones de recortes del BoE y dudas fiscales",
+      "brief": "La libra esterlina pierde atractivo por las apuestas de nuevas bajadas de tipos del Banco de Inglaterra y la prudencia de cara al presupuesto de otoño del Reino Unido."
     },
     "AUD": {
-      "rate_to_krw": "884.520000",
-      "data_as_of": "2026-10-23",
-      "headline": "El dólar australiano sigue la demanda china y las materias primas",
-      "brief": "El dólar australiano encuentra soporte en la postura estable del RBA, mientras fluctúa al compás de los precios del mineral de hierro y la actividad económica en China."
+      "rate_to_krw": "930.947448",
+      "data_as_of": "2026-10-26",
+      "headline": "El dólar australiano se apoya en la firmeza del RBA y expectativas en China",
+      "brief": "El dólar australiano se mantiene anclado por la postura restrictiva del Banco de la Reserva de Australia y sigue de cerca el precio del hierro y los estímulos chinos."
     },
     "CAD": {
-      "rate_to_krw": "962.840000",
-      "data_as_of": "2026-10-23",
-      "headline": "El dólar canadiense equilibra los recortes del BoC y el precio del petróleo",
-      "brief": "El dólar canadiense sigue condicionado por el diferencial de tasas frente a EE. UU. tras los recortes del Banco de Canadá y por la cotización internacional del crudo."
+      "rate_to_krw": "944.708506",
+      "data_as_of": "2026-10-26",
+      "headline": "El dólar canadiense encuentra sostén en el crudo frente a la rebaja de tipos",
+      "brief": "El dólar canadiense se beneficia del repunte del petróleo por tensiones en Oriente Medio, mitigando la brecha de rendimiento abierta por los recortes del Banco de Canadá."
     },
     "CHF": {
-      "rate_to_krw": "1536.200000",
-      "data_as_of": "2026-10-23",
-      "headline": "El franco suizo combina bajas tasas del SNB con demanda de refugio seguro",
-      "brief": "El franco suizo mantiene un sólido piso como activo refugio en Europa a pesar de la política monetaria acomodaticia del Banco Nacional Suizo."
+      "rate_to_krw": "1604.154501",
+      "data_as_of": "2026-10-26",
+      "headline": "El franco suizo conserva demanda de refugio a pesar de los tipos bajos del BNS",
+      "brief": "El franco suizo preserva su atractivo defensivo ante los riesgos geopolíticos en Oriente Medio y la incertidumbre en Europa, sobreponiéndose a la política laxa del BNS."
     },
     "HKD": {
-      "rate_to_krw": "170.380000",
-      "data_as_of": "2026-10-23",
-      "headline": "El dólar de Hong Kong se mantiene estable dentro de su banda cambiaria",
-      "brief": "El dólar de Hong Kong cotiza con estabilidad dentro de su banda de 7,75–7,85 por dólar estadounidense, siguiendo las tasas de EE. UU. y los flujos bursátiles regionales."
+      "rate_to_krw": "168.936286",
+      "data_as_of": "2026-10-26",
+      "headline": "El dólar de Hong Kong permanece anclado a la banda cambiaria del dólar",
+      "brief": "El dólar de Hong Kong opera con solidez dentro del rango vinculado de 7,75–7,85 USD, reflejando el sesgo de la Fed y los flujos hacia las bolsas de la región."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261026T101532Z",
-    "source_input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
-    "translated_at": "2026-10-26T10:15:32+00:00",
+    "source_batch_id": "20261026T234849Z",
+    "source_input_digest": "d5dc648e48ca8ff5911ff08fb209c08d8f58bd74bee56db3e06e9693b5b60da4",
+    "translated_at": "2026-10-26T23:48:49+00:00",
     "direction": "ltr"
   }
 }

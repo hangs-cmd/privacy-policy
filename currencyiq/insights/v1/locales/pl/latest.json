@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261026T101532Z",
-  "published_at": "2026-10-26T10:15:32+00:00",
-  "checked_at": "2026-10-26T10:15:32+00:00",
-  "valid_until": "2026-10-27T22:15:32+00:00",
+  "batch_id": "20261026T234849Z",
+  "published_at": "2026-10-26T23:48:49+00:00",
+  "checked_at": "2026-10-26T23:48:49+00:00",
+  "valid_until": "2026-10-28T11:48:49+00:00",
   "locale": "pl",
-  "input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
+  "input_digest": "d5dc648e48ca8ff5911ff08fb209c08d8f58bd74bee56db3e06e9693b5b60da4",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,16 +20,16 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "pl",
-      "data_as_of": "2026-10-23",
-      "reference_rate": "1324.452783",
-      "generated_at": "2026-10-26T10:15:32+00:00",
+      "data_as_of": "2026-10-26",
+      "reference_rate": "1325.277083",
+      "generated_at": "2026-10-26T23:48:49+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
       },
       "analysis": {
-        "headline": "USD/KRW stabilizuje się w okolicach 1324 dzięki silnemu eksportowi półprzewodników",
-        "summary": "Kurs USD/KRW oscyluje wokół 1324, utrzymując się blisko dwuletniego minimum w przedziale 1315–1325. Choć stopy Fed (3,75–4,00%) pozostają wyższe niż poziom Banku Korei (3,00%), wysoka nadwyżka handlowa napędzana eksportem układów AI oraz napływ kapitału zagranicznego wspierają wona i ograniczają wzrosty dolara."
+        "headline": "USD/KRW oscyluje wokół rocznych minimów przy 1325 na fali sprzedaży eksporterów",
+        "summary": "Kurs USD/KRW notowany jest w pobliżu 1325 (zamknięcie w Seulu 1323,1) po wyznaczeniu śróddziennego minimum roku na poziomie 1320,6 KRW za sprawą intensywnej sprzedaży dolarów przez producentów półprzewodników na koniec miesiąca. Mimo napięć na Bliskim Wschodzie i wyższych cen ropy wysoka nadwyżka handlowa Korei i stopa BOK na poziomie 3,00% tłumią odbicia dolara."
       }
     },
     {
@@ -39,16 +39,16 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "pl",
-      "data_as_of": "2026-10-23",
-      "reference_rate": "1482.460000",
-      "generated_at": "2026-10-26T10:15:32+00:00",
+      "data_as_of": "2026-10-26",
+      "reference_rate": "1482.720000",
+      "generated_at": "2026-10-26T23:48:49+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
       },
       "analysis": {
-        "headline": "EUR/KRW spada w rejon 1482 przy mocnym wonie i słabszym wzroście w strefie euro",
-        "summary": "Kurs EUR/KRW obniżył się łagodnie z okolic 1490 na początku miesiąca do około 1482. Łagodne nastawienie EBC oraz powolne odbicie przemysłu w strefie euro ograniczają siłę wspólnej waluty, podczas gdy nadwyżka handlowa Korei wspiera wona. Krótkoterminowo notowania pozostają w konsolidacji zależnej od inflacji w Europie."
+        "headline": "EUR/KRW stabilizuje się przy 1482 w obliczu prognoz pauzy EBC i mocnego wona",
+        "summary": "Notowania EUR/KRW konsolidują się w wąskim paśmie wokół 1482. Rynek powszechnie oczekuje pozostawienia stopy depozytowej EBC na poziomie 2,50%, podczas gdy słabość europejskiego przemysłu i obawy fiskalne we Francji ciążą na euro wobec wspieranego eksportem wona."
       }
     },
     {
@@ -58,16 +58,16 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "pl",
-      "data_as_of": "2026-10-23",
-      "reference_rate": "8.446584",
-      "generated_at": "2026-10-26T10:15:32+00:00",
+      "data_as_of": "2026-10-26",
+      "reference_rate": "8.417372",
+      "generated_at": "2026-10-26T23:48:49+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
       },
       "analysis": {
-        "headline": "JPY/KRW utrzymuje się w wąskim paśmie blisko 8,45 wobec słabości jena",
-        "summary": "Kurs JPY/KRW porusza się w wąskim zakresie wokół 8,45 KRW za 1 JPY (ok. 845 KRW za 100 JPY). Ostrożna normalizacja polityki przez Bank Japonii utrzymuje presję na jena, natomiast won korzysta z solidnych wyników eksportu i utrzymania stopy BOK na poziomie 3,00%. Kluczowa pozostaje różnica rentowności między USA a Japonią."
+        "headline": "JPY/KRW pozostaje blisko wieloletnich dołków w rejonie 8,42 KRW przez ostrożność BOJ",
+        "summary": "Kurs JPY/KRW utrzymuje się na zepchniętych poziomach wokół 8,42 KRW za 1 JPY (~842 KRW za 100 JPY). Oczekiwania na utrzymanie stóp Banku Japonii na poziomie 1,25% wynoszą USD/JPY powyżej 157, utrwalając słabość jena wobec mocnego wona. Ryzyko interwencji słownej z Tokio ogranicza dalszy spadek."
       }
     },
     {
@@ -77,16 +77,16 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "pl",
-      "data_as_of": "2026-10-23",
-      "reference_rate": "1770.566597",
-      "generated_at": "2026-10-26T10:15:32+00:00",
+      "data_as_of": "2026-10-26",
+      "reference_rate": "1768.933429",
+      "generated_at": "2026-10-26T23:48:49+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
       },
       "analysis": {
-        "headline": "GBP/KRW cofa się do 1770 na tle oczekiwań obniżek stóp przez BoE",
-        "summary": "Kurs GBP/KRW spadł z niemal 1800 na początku miesiąca do około 1770. Rosnące oczekiwania na obniżki stóp procentowych przez Bank Anglii zmniejszają przewagę odsetkową funta, podczas gdy silny eksport wspiera południowokoreańską walutę. Dane o inflacji w Wielkiej Brytanii zadecydują o utrzymaniu wsparcia w strefie 1760–1780."
+        "headline": "GBP/KRW cofa się do 1768 pod wpływem oczekiwań cięć stóp BoE i obaw budżetowych",
+        "summary": "Kurs GBP/KRW obniżył się w rejon 1768 w miarę wzrostu oczekiwań na cięcia stóp przez Bank Anglii oraz ostrożności przed brytyjskim budżetem jesiennym. Solidne zyski z koreańskiego eksportu półprzewodników wspierają wona, konsolidując parę w przedziale 1760–1780 KRW."
       }
     },
     {
@@ -96,86 +96,86 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "pl",
-      "data_as_of": "2026-10-23",
-      "reference_rate": "198.561479",
-      "generated_at": "2026-10-26T10:15:32+00:00",
+      "data_as_of": "2026-10-26",
+      "reference_rate": "198.748040",
+      "generated_at": "2026-10-26T23:48:49+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
       },
       "analysis": {
-        "headline": "CNY/KRW w wąskim przedziale 198,5 przy łagodnej polityce PBOC",
-        "summary": "Kurs CNY/KRW obniżył się nieznacznie z poziomów powyżej 200 do wąskiego pasma 198–200 wokół 198,5. Ludowy Bank Chin utrzymuje łagodną politykę pieniężną w celu pobudzenia popytu wewnętrznego, co ogranicza umocnienie juana wobec wona wspieranego eksportem technologicznym."
+        "headline": "CNY/KRW w wąskim przedziale przy 198,7 przy łagodnej polityce PBOC i nadziejach na bodźce",
+        "summary": "Kurs CNY/KRW kształtuje się stabilnie wokół 198,7 w paśmie 198–199 KRW. Ludowy Bank Chin utrzymuje łagodne warunki płynnościowe i stabilny kurs referencyjny, by stymulować popyt. Nadzieje na pakiety fiskalne wspierają juana, podczas gdy nadwyżka Korei ogranicza wzrost notowań."
       }
     }
   ],
   "currencies": {
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-10-23",
-      "headline": "Won południowokoreański pozostaje mocny dzięki eksportowi półprzewodników",
-      "brief": "Won południowokoreański jest wspierany przez utrzymanie stopy BOK na poziomie 3,00%, wysoką nadwyżkę w handlu układami AI oraz napływ kapitału zagranicznego."
+      "data_as_of": "2026-10-26",
+      "headline": "Won osiąga nowe roczne maksima dzięki eksportowi chipów i sprzedaży dewiz",
+      "brief": "Won południowokoreański ustanowił nowe roczne maksima wobec dolara dzięki stopie BOK na poziomie 3,00%, rekordowej nadwyżce w półprzewodnikach i sprzedaży walut."
     },
     "USD": {
-      "rate_to_krw": "1324.452783",
-      "data_as_of": "2026-10-23",
-      "headline": "Dolar amerykański utrzymuje siłę przy stopach Fed na poziomie 3,75–4,00%",
-      "brief": "Dolar amerykański zachowuje solidne wsparcie dzięki stopom procentowym Fed (3,75–4,00%), dobrym danym z gospodarki USA oraz rentownościom obligacji skarbowych."
+      "rate_to_krw": "1325.277083",
+      "data_as_of": "2026-10-26",
+      "headline": "Dolar amerykański stabilny przed kluczowym odczytem inflacji PCE i decyzją Fed",
+      "brief": "Dolar zachowuje solidne wsparcie przy stopach Fed rzędu 3,75–4,00% i mocnym rynku pracy, podczas gdy uwaga inwestorów skupia się na danych PCE i przyszłych decyzjach."
     },
     "EUR": {
-      "rate_to_krw": "1482.460000",
-      "data_as_of": "2026-10-23",
-      "headline": "Euro porusza się w konsolidacji wobec łagodnego nastawienia EBC",
-      "brief": "Euro ma ograniczony potencjał wzrostowy ze względu na łagodną politykę EBC i powolne odbicie przemysłu w strefie euro, czekając na kolejne odczyty inflacji."
+      "rate_to_krw": "1482.720000",
+      "data_as_of": "2026-10-26",
+      "headline": "Euro pod presją przed oczekiwanym brakiem zmian stóp EBC przy 2,50%",
+      "brief": "Euro ma trudności z odbiciem przed spodziewanym utrzymaniem stopy depozytowej EBC na poziomie 2,50%, obciążone zastojem w przemyśle i problemami budżetowymi we Francji."
     },
     "JPY": {
-      "rate_to_krw": "8.446584",
-      "data_as_of": "2026-10-23",
-      "headline": "Jen japoński pozostaje słaby przez ostrożność BOJ i różnice stóp",
-      "brief": "Jen znajduje się pod presją wskutek powolnej normalizacji polityki przez Bank Japonii, choć ryzyko werbalnych interwencji walutowych ogranicza głębszą przecenę."
+      "rate_to_krw": "8.417372",
+      "data_as_of": "2026-10-26",
+      "headline": "Jen pozostaje słaby w oczekiwaniu na decyzję BOJ i szerokie spready rentowności",
+      "brief": "Jen japoński podlega presji z powodu prognoz pozostawienia stóp BOJ na poziomie 1,25%, choć groźba interwencji walutowej ze strony Tokio ogranicza skalę wyprzedaży."
     },
     "CNY": {
-      "rate_to_krw": "198.561479",
-      "data_as_of": "2026-10-23",
-      "headline": "Juan chiński w wąskim paśmie przy łagodnej polityce PBOC",
-      "brief": "Juan porusza się w wąskim przedziale, ponieważ Ludowy Bank Chin utrzymuje łagodne warunki monetarne w celu wsparcia popytu krajowego i kontroluje codzienne fixingi."
+      "rate_to_krw": "198.748040",
+      "data_as_of": "2026-10-26",
+      "headline": "Juan stabilny w wąskim przedziale przy płynności z PBOC i nadziejach na impuls fiskalny",
+      "brief": "Chiński juan handlowany jest w ciasnym paśmie, podczas gdy PBOC zapewnia płynność i stabilne fixingi w oczekiwaniu na efekty rządowych pakietów wsparcia."
     },
     "GBP": {
-      "rate_to_krw": "1770.566597",
-      "data_as_of": "2026-10-23",
-      "headline": "Funt szterling lekko traci na tle oczekiwań obniżek stóp przez BoE",
-      "brief": "Funt brytyjski oddaje część przewagi odsetkowej wraz ze wzrostem oczekiwań na kolejne cięcia stóp przez Bank Anglii oraz hamowaniem inflacji w Wielkiej Brytanii."
+      "rate_to_krw": "1768.933429",
+      "data_as_of": "2026-10-26",
+      "headline": "Funt traci przez spekulacje o cięciach stóp przez BoE i ostrożność budżetową",
+      "brief": "Funt szterling traci przewagę odsetkową w związku z rosnącymi zakładami na kolejne cięcia stóp przez Bank Anglii oraz niepewnością przed ogłoszeniem budżetu."
     },
     "AUD": {
-      "rate_to_krw": "884.520000",
-      "data_as_of": "2026-10-23",
-      "headline": "Dolar australijski reaguje na popyt z Chin przy stabilnych stopach RBA",
-      "brief": "Dolar australijski czerpie wsparcie ze stabilnego nastawienia RBA, ale podlega wahaniom zależnie od cen rudy żelaza i sygnałów gospodarczych z Chin."
+      "rate_to_krw": "930.947448",
+      "data_as_of": "2026-10-26",
+      "headline": "Dolar australijski kotwiczony twardym kursem RBA i sygnałami z Chin",
+      "brief": "Dolar australijski zyskuje oparcie w stabilnych stopach RBA, reagując jednocześnie na wahania cen rudy żelaza oraz zapowiedzi stymulacji fiskalnej w Chinach."
     },
     "CAD": {
-      "rate_to_krw": "962.840000",
-      "data_as_of": "2026-10-23",
-      "headline": "Dolar kanadyjski między obniżkami stóp BoC a cenami ropy naftowej",
-      "brief": "Dolar kanadyjski pozostaje wrażliwy na dysparytet stóp wobec USA po obniżkach Banku Kanady oraz na bieżące notowania ropy naftowej."
+      "rate_to_krw": "944.708506",
+      "data_as_of": "2026-10-26",
+      "headline": "Dolar kanadyjski zyskuje dzięki drożejącej ropie mimo wcześniejszych cięć BoC",
+      "brief": "Dolar kanadyjski czerpie korzyści ze zwyżek cen ropy naftowej w obliczu napięć na Bliskim Wschodzie, co neutralizuje dysparytet stóp po ruchach Banku Kanady."
     },
     "CHF": {
-      "rate_to_krw": "1536.200000",
-      "data_as_of": "2026-10-23",
-      "headline": "Frank szwajcarski łączy niskie stopy SNB z popytem na bezpieczne przystanie",
-      "brief": "Frank szwajcarski utrzymuje wsparcie jako bezpieczna przystań wobec niepewności w Europie, mimo łagodnej polityki Szwajcarskiego Banku Narodowego."
+      "rate_to_krw": "1604.154501",
+      "data_as_of": "2026-10-26",
+      "headline": "Frank szwajcarski beneficjentem popytu na bezpieczne aktywa mimo niskich stóp SNB",
+      "brief": "Frank szwajcarski cieszy się niesłabnącym popytem ze strony inwestorów szukających bezpieczeństwa wobec konfliktów i ryzyk w Europie, równoważąc niskie stopy SNB."
     },
     "HKD": {
-      "rate_to_krw": "170.380000",
-      "data_as_of": "2026-10-23",
-      "headline": "Dolar hongkoński stabilny w paśmie powiązania z dolarem USA",
-      "brief": "Dolar hongkoński notowany jest stabilnie w przedziale 7,75–7,85 względem dolara USA, podążając za stopami w USA i przepływami kapitału na giełdach azjatyckich."
+      "rate_to_krw": "168.936286",
+      "data_as_of": "2026-10-26",
+      "headline": "Dolar hongkoński stabilny w paśmie powiązania walutowego z dolarem",
+      "brief": "Dolar hongkoński porusza się stabilnie w przedziale 7,75–7,85 za dolara amerykańskiego, odzwierciedlając ścieżkę Fed oraz napływy kapitału na lokalne rynki akcji."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261026T101532Z",
-    "source_input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
-    "translated_at": "2026-10-26T10:15:32+00:00",
+    "source_batch_id": "20261026T234849Z",
+    "source_input_digest": "d5dc648e48ca8ff5911ff08fb209c08d8f58bd74bee56db3e06e9693b5b60da4",
+    "translated_at": "2026-10-26T23:48:49+00:00",
     "direction": "ltr"
   }
 }

@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261026T101532Z",
-  "published_at": "2026-10-26T10:15:32+00:00",
-  "checked_at": "2026-10-26T10:15:32+00:00",
-  "valid_until": "2026-10-27T22:15:32+00:00",
+  "batch_id": "20261026T234849Z",
+  "published_at": "2026-10-26T23:48:49+00:00",
+  "checked_at": "2026-10-26T23:48:49+00:00",
+  "valid_until": "2026-10-28T11:48:49+00:00",
   "locale": "tr",
-  "input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
+  "input_digest": "d5dc648e48ca8ff5911ff08fb209c08d8f58bd74bee56db3e06e9693b5b60da4",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,16 +20,16 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "tr",
-      "data_as_of": "2026-10-23",
-      "reference_rate": "1324.452783",
-      "generated_at": "2026-10-26T10:15:32+00:00",
+      "data_as_of": "2026-10-26",
+      "reference_rate": "1325.277083",
+      "generated_at": "2026-10-26T23:48:49+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
       },
       "analysis": {
-        "headline": "USD/KRW güçlü yarı iletken ihracatıyla 1.324 seviyesinde dengelendi",
-        "summary": "USD/KRW kuru 1.324 civarında işlem görerek son iki yılın en düşük bandı olan 1.315–1.325 aralığındaki istikrarını koruyor. Fed politika faizi (%3,75–4,00) Kore Merkez Bankası’nın (%3,00) üzerinde kalsa da yapay zekâ çip ihracatından kaynaklanan cari fazla ve yabancı sermaye girişleri wonu destekliyor."
+        "headline": "USD/KRW çip ihracatçılarının ay sonu döviz satışlarıyla 1.325 seviyesinde dengelendi",
+        "summary": "USD/KRW kuru ay sonu yarı iletken ihracatçılarının yoğun dolar satışlarıyla gün içi en düşük 1.320,6 KRW seviyesine gerileyerek yılın dibini gördükten sonra 1.325 civarında (Seul kapanışı 1.323,1) dengelendi. Orta Doğu gerilimleri ve yükselen petrol fiyatlarına rağmen güçlü cari fazla ve %3,00 BOK faizi doların toparlanmasını sınırlıyor."
       }
     },
     {
@@ -39,16 +39,16 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "tr",
-      "data_as_of": "2026-10-23",
-      "reference_rate": "1482.460000",
-      "generated_at": "2026-10-26T10:15:32+00:00",
+      "data_as_of": "2026-10-26",
+      "reference_rate": "1482.720000",
+      "generated_at": "2026-10-26T23:48:49+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
       },
       "analysis": {
-        "headline": "EUR/KRW wonun gücü ve Euro Bölgesi’ndeki yavaşlamayla 1.482’ye geriledi",
-        "summary": "EUR/KRW kuru ay başındaki 1.490 seviyesinden 1.482 civarına doğru kademeli bir düşüş sergiledi. AMB’nin güvercin duruşu ve Euro Bölgesi imalatındaki zayıf toparlanma euronun yükselişini sınırlarken, Kore’nin dış ticaret fazlası wonu güçlendiriyor. Kısa vadede Avrupa enflasyon verileri belirleyici olacaktır."
+        "headline": "EUR/KRW beklenen AMB faiz kararı ve güçlü won etkisiyle 1.482 civarında yatay",
+        "summary": "EUR/KRW kuru 1.482 seviyesinde dar bantta seyrediyor. Piyasalar AMB'nin mevduat faizini %2,50'de sabit tutmasını beklerken, Euro Bölgesi imalatındaki durgunluk ve Fransa'daki mali kaygılar euroyu baskılıyor, Kore'nin ihracat fazlası ise wonu güçlü kılıyor."
       }
     },
     {
@@ -58,16 +58,16 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "tr",
-      "data_as_of": "2026-10-23",
-      "reference_rate": "8.446584",
-      "generated_at": "2026-10-26T10:15:32+00:00",
+      "data_as_of": "2026-10-26",
+      "reference_rate": "8.417372",
+      "generated_at": "2026-10-26T23:48:49+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
       },
       "analysis": {
-        "headline": "JPY/KRW yendeki yapısal zayıflıkla 8,45 seviyesinde yatay seyrediyor",
-        "summary": "JPY/KRW paritesi 1 yen başına 8,45 won (100 yen başına ~845 won) civarında dar bir bantta hareket ediyor. Japonya Merkez Bankası’nın temkinli normalleşme adımları yeni baskı altında tutarken, güçlü ihracat ve %3,00 seviyesindeki BOK faizi wonu destekliyor. ABD–Japonya faiz farkı temel değişken olmayı sürdürüyor."
+        "headline": "JPY/KRW BOJ'un temkinli duruşuyla 8,42 KRW civarındaki dip seviyelerde",
+        "summary": "JPY/KRW paritesi 1 yen başına 8,42 KRW (100 yen başına ~842 KRW) ile çok yıllık dip seviyelerinde kalmaya devam ediyor. Japonya Merkez Bankası'nın faizi %1,25'te tutacağı beklentisi USD/JPY'yi 157 üzerine taşırken yen üzerindeki baskıyı artırıyor. Tokyo'nun sözlü müdahale ihtimali düşüşü sınırlıyor."
       }
     },
     {
@@ -77,16 +77,16 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "tr",
-      "data_as_of": "2026-10-23",
-      "reference_rate": "1770.566597",
-      "generated_at": "2026-10-26T10:15:32+00:00",
+      "data_as_of": "2026-10-26",
+      "reference_rate": "1768.933429",
+      "generated_at": "2026-10-26T23:48:49+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
       },
       "analysis": {
-        "headline": "GBP/KRW İngiltere Merkez Bankası faiz indirimi beklentileriyle 1.770’e çekildi",
-        "summary": "GBP/KRW kuru ay başındaki 1.800 sınırından 1.770 seviyesine doğru geriledi. İngiltere Merkez Bankası’ndan (BoE) beklenen faiz indirimleri sterlinin getiri avantajını azaltırken, Güney Kore’nin güçlü ihracat performansı wona destek veriyor. 1.760–1.780 destek bandı İngiltere enflasyon verilerine bağlı kalacak."
+        "headline": "GBP/KRW BoE faiz indirimi beklentileri ve bütçe öncesi temkinle 1.768'e geriledi",
+        "summary": "GBP/KRW kuru İngiltere Merkez Bankası'ndan beklenen ek faiz indirimleri ve Sonbahar Bütçesi öncesi ihtiyatlı tutum nedeniyle 1.768 seviyesine çekildi. Kore'nin sağlam ihracat performansı wonu destekleyerek pariteyi 1.760–1.780 KRW bandında tutuyor."
       }
     },
     {
@@ -96,86 +96,86 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "tr",
-      "data_as_of": "2026-10-23",
-      "reference_rate": "198.561479",
-      "generated_at": "2026-10-26T10:15:32+00:00",
+      "data_as_of": "2026-10-26",
+      "reference_rate": "198.748040",
+      "generated_at": "2026-10-26T23:48:49+00:00",
       "summary_origin": "gemini_daily_concise",
       "validation": {
         "status": "passed"
       },
       "analysis": {
-        "headline": "CNY/KRW Çin’in gevşek para politikasıyla 198,5 etrafında dar bantta",
-        "summary": "CNY/KRW kuru ay başındaki 202 seviyesinden hafifçe gerileyerek 198–200 aralığında, 198,5 yakınlarında dengelendi. Çin Halk Bankası’nın (PBOC) iç talebi desteklemek için sürdürdüğü gevşek para politikası yuanın değer kazanmasını sınırlarken, teknoloji ihracatı wonu güçlü tutuyor."
+        "headline": "CNY/KRW Çin'in teşvik beklentileri ve gevşek PBOC politikasıyla 198,7 civarında",
+        "summary": "CNY/KRW paritesi 198–199 KRW dar bandında 198,7 yakınlarında yatay işlem görüyor. Çin Halk Bankası iç talebi canlandırmak adına gevşek likidite ve kontrollü günlük kur belirleme politikasını sürdürürken, Kore'nin dış ticaret fazlası kurun yukarı yönlü hareketini sınırlıyor."
       }
     }
   ],
   "currencies": {
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-10-23",
-      "headline": "Kore wonu yarı iletken ihracat fazlası ve yabancı girişleriyle güçlü",
-      "brief": "Güney Kore wonu, Kore Merkez Bankası’nın %3,00 sabit faiz politikası, yapay zekâ çip ihracatından kaynaklanan cari fazla ve yabancı hisse girişleriyle güçlü kalıyor."
+      "data_as_of": "2026-10-26",
+      "headline": "Won çip ihracatı fazlası ve döviz satışlarıyla yılın zirvesine ulaştı",
+      "brief": "Güney Kore wonu, %3,00 BOK faizi, rekor yarı iletken ihracat fazlası ve ihracatçıların döviz satışlarıyla ABD doları karşısında yılın en yüksek seviyesine çıktı."
     },
     "USD": {
-      "rate_to_krw": "1324.452783",
-      "data_as_of": "2026-10-23",
-      "headline": "ABD doları Fed’in %3,75–4,00 faiz bandı ve güçlü verilerle dirençli",
-      "brief": "ABD doları, Fed politika faizinin (%3,75–4,00) yüksek seyri, dirençli ABD istihdam verileri ve Hazine tahvil getirilerinin desteğiyle küresel gücünü koruyor."
+      "rate_to_krw": "1325.277083",
+      "data_as_of": "2026-10-26",
+      "headline": "ABD doları PCE enflasyonu ve Fed toplantısı öncesinde gücünü koruyor",
+      "brief": "ABD doları, Fed faizinin %3,75–4,00 bandında kalması ve istihdam piyasasının direnciyle çekirdek PCE enflasyonu öncesinde küresel bazda yatay ve güçlü seyrediyor."
     },
     "EUR": {
-      "rate_to_krw": "1482.460000",
-      "data_as_of": "2026-10-23",
-      "headline": "Euro, AMB’nin güvercin duruşu ve sanayideki yavaşlamayla bantta",
-      "brief": "Euro, Avrupa Merkez Bankası’nın gevşek para politikası duruşu ve Euro Bölgesi imalatındaki zayıf seyir nedeniyle sınırlı yükseliyor ve enflasyon verilerini izliyor."
+      "rate_to_krw": "1482.720000",
+      "data_as_of": "2026-10-26",
+      "headline": "Euro AMB'nin %2,50 faiz kararı beklentisi ve Fransa endişeleriyle baskı altında",
+      "brief": "Euro, Avrupa Merkez Bankası'nın faizi %2,50'de sabit tutacağı beklentisi ve Euro Bölgesi imalatındaki yavaşlama nedeniyle toparlanmakta zorlanıyor."
     },
     "JPY": {
-      "rate_to_krw": "8.446584",
-      "data_as_of": "2026-10-23",
-      "headline": "Japon yeni BOJ’un temkinli adımları ve faiz farkıyla baskı altında",
-      "brief": "Japon yeni, Japonya Merkez Bankası’nın kademeli normalleşme süreci ve faiz farkları nedeniyle baskı altında kalırken sözlü müdahale uyarıları kayıpları sınırlıyor."
+      "rate_to_krw": "8.417372",
+      "data_as_of": "2026-10-26",
+      "headline": "Japon yeni BOJ faiz beklentisi ve getiri farklarıyla zayıf kalmayı sürdürüyor",
+      "brief": "Japon yeni, BOJ'un faizi %1,25'te tutacağı beklentisiyle değer kaybederken, Tokyo yetkililerinin sözlü müdahale tehditleri daha sert düşüşleri engelliyor."
     },
     "CNY": {
-      "rate_to_krw": "198.561479",
-      "data_as_of": "2026-10-23",
-      "headline": "Çin yuanı PBOC’nin gevşek likidite politikasıyla dar bantta",
-      "brief": "Çin yuanı, Çin Halk Bankası’nın iç talebi desteklemek amacıyla sürdürdüğü gevşek para politikası ve günlük kur sabitlemeleri doğrultusunda dar bir bantta işlem görüyor."
+      "rate_to_krw": "198.748040",
+      "data_as_of": "2026-10-26",
+      "headline": "Yuan PBOC'nin gevşek likidite politikası ve teşvik adımlarıyla dengeli",
+      "brief": "Çin yuanı, PBOC'nin iç talebi destekleyen likidite adımları ve istikrarlı kur tespiti sayesinde teşvik beklentileriyle dar bir bantta yatay hareket ediyor."
     },
     "GBP": {
-      "rate_to_krw": "1770.566597",
-      "data_as_of": "2026-10-23",
-      "headline": "İngiliz sterlini BoE faiz indirimi beklentileriyle ılımlı geriliyor",
-      "brief": "İngiliz sterlini, İngiltere Merkez Bankası’ndan beklenen faiz indirimlerinin getiri avantajını azaltmasıyla birlikte İngiltere enflasyon verilerine duyarlı seyrediyor."
+      "rate_to_krw": "1768.933429",
+      "data_as_of": "2026-10-26",
+      "headline": "İngiliz sterlini BoE faiz indirimi beklentileri ve bütçe öncesi değer kaybetti",
+      "brief": "Sterlin, İngiltere Merkez Bankası'ndan beklenen yeni faiz indirimleri ve Sonbahar Bütçesi öncesi tedirginlikle diğer majör para birimleri karşısında geriledi."
     },
     "AUD": {
-      "rate_to_krw": "884.520000",
-      "data_as_of": "2026-10-23",
-      "headline": "Avustralya doları Çin talebi ve RBA’nın sabit faiz duruşunu izliyor",
-      "brief": "Avustralya doları, Avustralya Merkez Bankası’nın sabit faiz duruşundan destek bulurken demir cevheri fiyatları ve Çin’in büyüme sinyallerine paralel dalgalanıyor."
+      "rate_to_krw": "930.947448",
+      "data_as_of": "2026-10-26",
+      "headline": "Avustralya doları RBA'nın sıkı duruşu ve Çin talebiyle dengeleniyor",
+      "brief": "Avustralya doları, RBA'nın faiz oranlarını koruma kararlılığıyla taban bulurken, demir cevheri fiyatları ve Çin'deki ekonomik teşvikleri yakından izliyor."
     },
     "CAD": {
-      "rate_to_krw": "962.840000",
-      "data_as_of": "2026-10-23",
-      "headline": "Kanada doları BoC faiz indirimleri ile petrol fiyatları arasında dengeleniyor",
-      "brief": "Kanada doları, Kanada Merkez Bankası’nın faiz indirimleri sonrası ABD ile oluşan faiz farkına ve küresel ham petrol fiyatlarındaki değişimlere duyarlı hareket ediyor."
+      "rate_to_krw": "944.708506",
+      "data_as_of": "2026-10-26",
+      "headline": "Kanada doları BoC indirimlerine rağmen yükselen petrol fiyatlarıyla destekleniyor",
+      "brief": "Kanada doları, Orta Doğu gerilimleriyle yükselen ham petrol fiyatlarından destek alarak Kanada Merkez Bankası'nın faiz indirimlerinin yarattığı farkı telafi ediyor."
     },
     "CHF": {
-      "rate_to_krw": "1536.200000",
-      "data_as_of": "2026-10-23",
-      "headline": "İsviçre frangı düşük SNB faizine rağmen güvenli liman talebiyle güçlü",
-      "brief": "İsviçre frangı, İsviçre Ulusal Bankası’nın düşük faiz politikasına karşın Avrupa’daki belirsizliklerden kaynaklanan güvenli liman talebiyle sağlam duruyor."
+      "rate_to_krw": "1604.154501",
+      "data_as_of": "2026-10-26",
+      "headline": "İsviçre frangı SNB'nin düşük faizlerine rağmen güvenli liman talebiyle güçlü",
+      "brief": "İsviçre frangı, Orta Doğu ve Avrupa'daki jeopolitik risklerin tetiklediği güvenli liman alımlarıyla SNB'nin düşük faiz ortamına meydan okuyor."
     },
     "HKD": {
-      "rate_to_krw": "170.380000",
-      "data_as_of": "2026-10-23",
-      "headline": "Hong Kong doları ABD doları sabit kur bandında istikrarını koruyor",
-      "brief": "Hong Kong doları, 7,75–7,85 ABD doları sabit kur bandında istikrarlı işlem görerek ABD faiz beklentilerini ve bölge borsalarına yönelik sermaye akımlarını takip ediyor."
+      "rate_to_krw": "168.936286",
+      "data_as_of": "2026-10-26",
+      "headline": "Hong Kong doları ABD doları çıpası bandında dengeli seyrini koruyor",
+      "brief": "Hong Kong doları, 7,75–7,85 çıpa bandı içerisinde istikrarını koruyarak Fed faiz beklentilerini ve Çin hisse senedi piyasalarına giren sermayeyi takip ediyor."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261026T101532Z",
-    "source_input_digest": "e78114006d3a75377f0698855b677a55f97ed4a2a9c144b544dd44f3bdcfa0a3",
-    "translated_at": "2026-10-26T10:15:32+00:00",
+    "source_batch_id": "20261026T234849Z",
+    "source_input_digest": "d5dc648e48ca8ff5911ff08fb209c08d8f58bd74bee56db3e06e9693b5b60da4",
+    "translated_at": "2026-10-26T23:48:49+00:00",
     "direction": "ltr"
   }
 }
