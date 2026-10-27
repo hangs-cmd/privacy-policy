@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261027T094604Z",
-  "published_at": "2026-10-27T09:46:04+00:00",
-  "checked_at": "2026-10-27T09:46:04+00:00",
-  "valid_until": "2026-10-28T21:46:04+00:00",
+  "batch_id": "20261027T233746Z",
+  "published_at": "2026-10-27T23:37:46+00:00",
+  "checked_at": "2026-10-27T23:37:46+00:00",
+  "valid_until": "2026-10-29T11:37:46+00:00",
   "locale": "en",
-  "input_digest": "d5dc648e48ca8ff5911ff08fb209c08d8f58bd74bee56db3e06e9693b5b60da4",
+  "input_digest": "d9f5a5d3867a839ffa52c6769511dc0c0978fb4a9047bb9313d5afc9f639d574",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "en",
-      "data_as_of": "2026-10-27",
-      "reference_rate": "1325.277083",
-      "generated_at": "2026-10-27T09:46:04+00:00",
+      "data_as_of": "2026-10-28",
+      "reference_rate": "1327.748879",
+      "generated_at": "2026-10-27T23:37:46+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1325.277083 KRW"
+          "text": "1327.748879 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-27"
+          "text": "2026-10-28"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW hovers near yearly lows around 1,325 on month-end chipmaker selling",
-        "summary": "USD/KRW is trading near 1,325 (Seoul close 1,323.1) after touching an intraday yearly low of 1,320.6 KRW driven by heavy month-end dollar selling from semiconductor exporters and offshore selling. Despite Middle East geopolitical tensions and higher crude oil prices, robust trade surpluses under the Bank of Korea's 3.00% rate hold continue to provide strong resistance against greenback rebounds.",
+        "headline": "USD/KRW holds near 1,327 on month-end chipmaker selling and trade surplus",
+        "summary": "USD/KRW is trading near 1,327 (ECB ref 1,327.7) as resilient US Treasury yields meet heavy month-end dollar selling from semiconductor exporters and offshore flows. Despite Middle East geopolitical tensions and higher crude oil prices, robust trade surpluses under the Bank of Korea's 3.00% rate hold continue to provide strong resistance against greenback rebounds.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "en",
-      "data_as_of": "2026-10-27",
-      "reference_rate": "1482.720000",
-      "generated_at": "2026-10-27T09:46:04+00:00",
+      "data_as_of": "2026-10-28",
+      "reference_rate": "1480.440000",
+      "generated_at": "2026-10-27T23:37:46+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1482.720000 KRW"
+          "text": "1480.440000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-27"
+          "text": "2026-10-28"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW moves sideways near 1,482 on expected ECB rate hold and won resilience",
-        "summary": "EUR/KRW is trading in a tight band around 1,482 as markets widely expect the ECB to hold its deposit rate steady at 2.50%. Ongoing sluggishness in Eurozone manufacturing and French fiscal concerns limit euro upside momentum, while Korea's robust chip export surplus provides steady downward pressure on the cross.",
+        "headline": "EUR/KRW eases to 1,480 on expected ECB rate hold and won resilience",
+        "summary": "EUR/KRW has edged down to around 1,480 as markets widely expect the ECB to hold its deposit rate steady at 2.50%. Ongoing sluggishness in Eurozone manufacturing and French fiscal concerns limit euro upside momentum, while Korea's robust chip export surplus provides steady downward pressure on the cross.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "en",
-      "data_as_of": "2026-10-27",
-      "reference_rate": "8.417372",
-      "generated_at": "2026-10-27T09:46:04+00:00",
+      "data_as_of": "2026-10-28",
+      "reference_rate": "8.413025",
+      "generated_at": "2026-10-27T23:37:46+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.417372 KRW"
+          "text": "8.413025 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-27"
+          "text": "2026-10-28"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW stays near multi-year lows around 8.42 KRW on dovish BOJ outlook",
-        "summary": "JPY/KRW remains subdued near 8.42 KRW per 1 JPY (~842 KRW per 100 JPY), hovering near multi-year lows. Expectations that the Bank of Japan will keep its policy rate at 1.25% have pushed USD/JPY back toward the upper 157s, maintaining structural yen weakness against a resilient won backed by strong trade surpluses. Verbal intervention risks by Tokyo authorities remain the key support.",
+        "headline": "JPY/KRW stays near multi-year lows around 8.41 KRW on dovish BOJ outlook",
+        "summary": "JPY/KRW remains subdued near 8.41 KRW per 1 JPY (~841 KRW per 100 JPY), hovering near multi-year lows. Expectations that the Bank of Japan will keep its policy rate at 1.25% have pushed USD/JPY toward the upper 157s, maintaining structural yen weakness against a resilient won backed by strong trade surpluses. Verbal intervention risks by Tokyo authorities remain the key support.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "en",
-      "data_as_of": "2026-10-27",
-      "reference_rate": "1768.933429",
-      "generated_at": "2026-10-27T09:46:04+00:00",
+      "data_as_of": "2026-10-28",
+      "reference_rate": "1769.633508",
+      "generated_at": "2026-10-27T23:37:46+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1768.933429 KRW"
+          "text": "1769.633508 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-27"
+          "text": "2026-10-28"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW consolidates around 1,768 on BoE rate-cut bets and budget caution",
-        "summary": "GBP/KRW has eased to around 1,768 as growing bets on further Bank of England rate cuts and caution ahead of the UK Autumn Budget weigh on sterling's yield advantage. Strong Korean export earnings and corporate dollar selling support the won, keeping the pair in a consolidation range between 1,760 and 1,780 KRW.",
+        "headline": "GBP/KRW consolidates around 1,770 on BoE rate-cut bets and budget caution",
+        "summary": "GBP/KRW hovers around 1,770 (1,769.6) as growing bets on further Bank of England rate cuts and caution ahead of the UK Autumn Budget weigh on sterling's yield advantage. Strong Korean export earnings and corporate dollar selling support the won, keeping the pair in a consolidation range between 1,760 and 1,780 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "en",
-      "data_as_of": "2026-10-27",
-      "reference_rate": "198.748040",
-      "generated_at": "2026-10-27T09:46:04+00:00",
+      "data_as_of": "2026-10-28",
+      "reference_rate": "199.136435",
+      "generated_at": "2026-10-27T23:37:46+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "198.748040 KRW"
+          "text": "199.136435 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-27"
+          "text": "2026-10-28"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW trades tightly near 198.7 amid PBOC easing and stimulus hopes",
-        "summary": "CNY/KRW trades tightly near 198.7 within a narrow 198–199 band as the People's Bank of China maintains accommodative liquidity support and daily midpoint fixing to stimulate domestic demand. While hopes for further Chinese stimulus provide a floor for the yuan, Korea's large current account surplus keeps the pair range-bound.",
+        "headline": "CNY/KRW trades tightly near 199.1 amid PBOC easing and stimulus hopes",
+        "summary": "CNY/KRW trades near 199.1 within a narrow 198–200 band as the People's Bank of China maintains accommodative liquidity support and daily midpoint fixing to stimulate domestic demand. While hopes for further Chinese stimulus provide a floor for the yuan, Korea's large current account surplus keeps the pair range-bound.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -247,70 +247,70 @@
   "currencies": {
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-10-27",
+      "data_as_of": "2026-10-28",
       "headline": "Won hits fresh yearly highs on semiconductor surplus and month-end selling",
       "brief": "The South Korean won hit fresh yearly highs against the dollar, supported by a 3.00% BOK base rate, large semiconductor trade surpluses, and corporate month-end dollar selling."
     },
     "USD": {
-      "rate_to_krw": "1325.277083",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "1327.748879",
+      "data_as_of": "2026-10-28",
       "headline": "U.S. dollar holds steady ahead of key PCE inflation data and Fed meeting",
       "brief": "The U.S. dollar trades stably with Fed rates at 3.75–4.00%, tracking Treasury yields and resilient employment data as investors await core PCE prints and policy signals."
     },
     "EUR": {
-      "rate_to_krw": "1482.720000",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "1480.440000",
+      "data_as_of": "2026-10-28",
       "headline": "Euro remains heavy amid expected ECB 2.50% rate hold and French fiscal worries",
       "brief": "The euro faces capped upside ahead of an expected ECB deposit rate hold at 2.50%, weighed down by sluggish Eurozone manufacturing momentum and French fiscal uncertainties."
     },
     "JPY": {
-      "rate_to_krw": "8.417372",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "8.413025",
+      "data_as_of": "2026-10-28",
       "headline": "Yen stays under pressure on BOJ hold outlook and wide yield differentials",
       "brief": "The Japanese yen remains subdued on expectations that the Bank of Japan will hold rates at 1.25%, with wide yield spreads keeping USD/JPY elevated near intervention watch levels."
     },
     "CNY": {
-      "rate_to_krw": "198.748040",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "199.136435",
+      "data_as_of": "2026-10-28",
       "headline": "Yuan moves in tight range amid accommodative PBOC liquidity and stimulus hopes",
       "brief": "The Chinese yuan trades in a narrow channel as the PBOC maintains loose liquidity and firm midpoint fixings to support domestic demand while markets evaluate stimulus progress."
     },
     "GBP": {
-      "rate_to_krw": "1768.933429",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "1769.633508",
+      "data_as_of": "2026-10-28",
       "headline": "Pound softens on Bank of England rate-cut bets and UK budget caution",
       "brief": "Sterling has softened as expectations of further BoE rate cuts and fiscal caution ahead of the Autumn Budget reduce its yield appeal against other major currencies."
     },
     "AUD": {
-      "rate_to_krw": "930.947448",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "933.678103",
+      "data_as_of": "2026-10-28",
       "headline": "Aussie dollar balances steady RBA policy against China stimulus prospects",
       "brief": "The Australian dollar is anchored by the Reserve Bank of Australia's firm rate hold, tracking iron ore prices and broader economic stimulus signals from China."
     },
     "CAD": {
-      "rate_to_krw": "944.708506",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "946.815042",
+      "data_as_of": "2026-10-28",
       "headline": "Loonie supported by crude oil rebound despite BoC rate-cut yield gap",
       "brief": "The Canadian dollar gains ground from elevated crude oil prices and Middle East tensions, offsetting the yield gap created by the Bank of Canada's easing cycle."
     },
     "CHF": {
-      "rate_to_krw": "1604.154501",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "1602.381210",
+      "data_as_of": "2026-10-28",
       "headline": "Swiss franc underpinned by safe-haven demand despite low SNB interest rates",
       "brief": "The Swiss franc maintains defensive strength fueled by geopolitical tensions in the Middle East and European political uncertainty, balancing the SNB's low-rate stance."
     },
     "HKD": {
-      "rate_to_krw": "168.936286",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "169.258912",
+      "data_as_of": "2026-10-28",
       "headline": "Hong Kong dollar stable in peg band tracking Fed outlook and equity flows",
       "brief": "The Hong Kong dollar trades firmly within its 7.75–7.85 peg band, closely tracking U.S. rate expectations and foreign investment flows into Greater China equity markets."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261027T094604Z",
-    "source_input_digest": "d5dc648e48ca8ff5911ff08fb209c08d8f58bd74bee56db3e06e9693b5b60da4",
-    "translated_at": "2026-10-27T09:46:04+00:00",
+    "source_batch_id": "20261027T233746Z",
+    "source_input_digest": "d9f5a5d3867a839ffa52c6769511dc0c0978fb4a9047bb9313d5afc9f639d574",
+    "translated_at": "2026-10-27T23:37:46+00:00",
     "direction": "ltr"
   }
 }

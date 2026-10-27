@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261027T094604Z",
-  "published_at": "2026-10-27T09:46:04+00:00",
-  "checked_at": "2026-10-27T09:46:04+00:00",
-  "valid_until": "2026-10-28T21:46:04+00:00",
+  "batch_id": "20261027T233746Z",
+  "published_at": "2026-10-27T23:37:46+00:00",
+  "checked_at": "2026-10-27T23:37:46+00:00",
+  "valid_until": "2026-10-29T11:37:46+00:00",
   "locale": "id",
-  "input_digest": "d5dc648e48ca8ff5911ff08fb209c08d8f58bd74bee56db3e06e9693b5b60da4",
+  "input_digest": "d9f5a5d3867a839ffa52c6769511dc0c0978fb4a9047bb9313d5afc9f639d574",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "id",
-      "data_as_of": "2026-10-27",
-      "reference_rate": "1325.277083",
-      "generated_at": "2026-10-27T09:46:04+00:00",
+      "data_as_of": "2026-10-28",
+      "reference_rate": "1327.748879",
+      "generated_at": "2026-10-27T23:37:46+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1325.277083 KRW"
+          "text": "1327.748879 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-27"
+          "text": "2026-10-28"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW dekati level terendah tahunan di 1.325 tertekan penjualan dolar akhir bulan",
-        "summary": "USD/KRW diperdagangkan di dekat 1.325 (penutupan Seoul 1.323,1) setelah menyentuh level terendah tahunan di 1.320,6 KRW berkat maraknya aksi jual dolar oleh eksportir semikonduktor. Kendati tensi Timur Tengah mengerek harga minyak, surplus transaksi berjalan Korea yang kuat dan suku bunga BOK di 3,00% membatasi upaya rebound dolar AS.",
+        "headline": "USD/KRW dekati level terendah tahunan di 1.327 tertekan penjualan dolar akhir bulan",
+        "summary": "USD/KRW diperdagangkan di dekat 1.327 (penutupan Seoul 1.323,1) setelah menyentuh level terendah tahunan di 1.320,6 KRW berkat maraknya aksi jual dolar oleh eksportir semikonduktor. Kendati tensi Timur Tengah mengerek harga minyak, surplus transaksi berjalan Korea yang kuat dan suku bunga BOK di 3,00% membatasi upaya rebound dolar AS.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "id",
-      "data_as_of": "2026-10-27",
-      "reference_rate": "1482.720000",
-      "generated_at": "2026-10-27T09:46:04+00:00",
+      "data_as_of": "2026-10-28",
+      "reference_rate": "1480.440000",
+      "generated_at": "2026-10-27T23:37:46+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1482.720000 KRW"
+          "text": "1480.440000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-27"
+          "text": "2026-10-28"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW bergerak mendatar di kisaran 1.482 jelang penahanan bunga ECB dan won yang kokoh",
-        "summary": "EUR/KRW bergerak dalam rentang sempit di sekitar 1.482. Pasar memproyeksikan ECB menahan suku bunga deposito di 2,50%, sementara kelesuan manufaktur kawasan euro dan risiko fiskal Prancis menekan euro di hadapan won yang didukung ekspor teknologi Korea.",
+        "headline": "EUR/KRW bergerak mendatar di kisaran 1.480 jelang penahanan bunga ECB dan won yang kokoh",
+        "summary": "EUR/KRW bergerak dalam rentang sempit di sekitar 1.480. Pasar memproyeksikan ECB menahan suku bunga deposito di 2,50%, sementara kelesuan manufaktur kawasan euro dan risiko fiskal Prancis menekan euro di hadapan won yang didukung ekspor teknologi Korea.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "id",
-      "data_as_of": "2026-10-27",
-      "reference_rate": "8.417372",
-      "generated_at": "2026-10-27T09:46:04+00:00",
+      "data_as_of": "2026-10-28",
+      "reference_rate": "8.413025",
+      "generated_at": "2026-10-27T23:37:46+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.417372 KRW"
+          "text": "8.413025 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-27"
+          "text": "2026-10-28"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW bertahan di dekat rekor terendah sekitar 8,42 KRW dipicu sikap hati-hati BOJ",
-        "summary": "JPY/KRW bergerak lemah di kisaran 8,42 KRW per 1 JPY (~842 KRW per 100 JPY). Sikap BOJ yang diperkirakan mempertahankan bunga di 1,25% mendorong USD/JPY melampaui 157, memperpanjang pelemahan yen terhadap won yang ditopang surplus dagang. Peringatan intervensi dari otoritas Tokyo membatasi pelemahan lebih jauh.",
+        "headline": "JPY/KRW bertahan di dekat rekor terendah sekitar 8,41 KRW dipicu sikap hati-hati BOJ",
+        "summary": "JPY/KRW bergerak lemah di kisaran 8,41 KRW per 1 JPY (~841 KRW per 100 JPY). Sikap BOJ yang diperkirakan mempertahankan bunga di 1,25% mendorong USD/JPY melampaui 157, memperpanjang pelemahan yen terhadap won yang ditopang surplus dagang. Peringatan intervensi dari otoritas Tokyo membatasi pelemahan lebih jauh.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "id",
-      "data_as_of": "2026-10-27",
-      "reference_rate": "1768.933429",
-      "generated_at": "2026-10-27T09:46:04+00:00",
+      "data_as_of": "2026-10-28",
+      "reference_rate": "1769.633508",
+      "generated_at": "2026-10-27T23:37:46+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1768.933429 KRW"
+          "text": "1769.633508 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-27"
+          "text": "2026-10-28"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW melemah ke 1.768 tertekan ekspektasi pemangkasan BoE dan kehati-hatian anggaran",
-        "summary": "GBP/KRW melandai ke kisaran 1.768 seiring bertambahnya perkiraan pemangkasan bunga Bank of England serta sikap waspada menjelang pengumuman anggaran musim gugur Inggris. Kinerja ekspor Korea menopang won dan mengonsolidasi pasangan ini di rentang 1.760–1.780 KRW.",
+        "headline": "GBP/KRW melemah ke 1.770 tertekan ekspektasi pemangkasan BoE dan kehati-hatian anggaran",
+        "summary": "GBP/KRW melandai ke kisaran 1.770 seiring bertambahnya perkiraan pemangkasan bunga Bank of England serta sikap waspada menjelang pengumuman anggaran musim gugur Inggris. Kinerja ekspor Korea menopang won dan mengonsolidasi pasangan ini di rentang 1.760–1.780 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "id",
-      "data_as_of": "2026-10-27",
-      "reference_rate": "198.748040",
-      "generated_at": "2026-10-27T09:46:04+00:00",
+      "data_as_of": "2026-10-28",
+      "reference_rate": "199.136435",
+      "generated_at": "2026-10-27T23:37:46+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "198.748040 KRW"
+          "text": "199.136435 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-27"
+          "text": "2026-10-28"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW bergerak sempit dekat 198,7 di tengah likuiditas longgar PBOC dan harapan stimulus",
-        "summary": "CNY/KRW bergerak stabil dekat 198,7 dalam batas sempit 198–199 KRW. Bank Rakyat Tiongkok menjaga likuiditas longgar serta kurs acuan harian guna mendukung konsumsi domestik. Ekspektasi paket stimulus menopang yuan, sedangkan surplus dagang Korea membatasi kenaikan kurs.",
+        "headline": "CNY/KRW bergerak sempit dekat 199,1 di tengah likuiditas longgar PBOC dan harapan stimulus",
+        "summary": "CNY/KRW bergerak stabil dekat 199,1 dalam batas sempit 198–200 KRW. Bank Rakyat Tiongkok menjaga likuiditas longgar serta kurs acuan harian guna mendukung konsumsi domestik. Ekspektasi paket stimulus menopang yuan, sedangkan surplus dagang Korea membatasi kenaikan kurs.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -247,70 +247,70 @@
   "currencies": {
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-10-27",
+      "data_as_of": "2026-10-28",
       "headline": "Won catat rekor tertinggi tahunan didorong ekspor chip dan penjualan dolar",
       "brief": "Won Korea Selatan mencetak rekor tertinggi baru tahun ini terhadap dolar AS, disokong suku bunga BOK di 3,00%, surplus ekspor chip, dan penjualan dolar korporasi akhir bulan."
     },
     "USD": {
-      "rate_to_krw": "1325.277083",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "1327.748879",
+      "data_as_of": "2026-10-28",
       "headline": "Dolar AS bertahan stabil jelang rilis inflasi PCE dan arah suku bunga Fed",
       "brief": "Dolar AS bergerak stabil didukung suku bunga Fed 3,75–4,00% serta ketahanan pasar tenaga kerja sembari investor menanti data inflasi PCE dan sinyal moneter berikutnya."
     },
     "EUR": {
-      "rate_to_krw": "1482.720000",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "1480.440000",
+      "data_as_of": "2026-10-28",
       "headline": "Euro tetap terbebani proyeksi jeda suku bunga ECB di 2,50% dan risiko Prancis",
       "brief": "Euro kesulitan menguat jelang ekspektasi penahanan suku bunga deposito ECB di 2,50%, tertekan kelesuan manufaktur zona euro serta ketidakpastian anggaran Prancis."
     },
     "JPY": {
-      "rate_to_krw": "8.417372",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "8.413025",
+      "data_as_of": "2026-10-28",
       "headline": "Yen Jepang tertekan proyeksi suku bunga BOJ dan lebarnya selisih imbal hasil",
       "brief": "Yen Jepang tetap dalam tren melemah akibat ekspektasi BOJ menahan suku bunga di 1,25%, meski peringatan intervensi dari Tokyo membatasi penurunan lebih dalam."
     },
     "CNY": {
-      "rate_to_krw": "198.748040",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "199.136435",
+      "data_as_of": "2026-10-28",
       "headline": "Yuan Tiongkok bergerak sempit didukung likuiditas PBOC dan harapan stimulus",
       "brief": "Yuan Tiongkok stabil dalam rentang sempit karena PBOC menjaga likuiditas longgar dan penetapan kurs tengah yang kuat untuk menopang daya beli masyarakat."
     },
     "GBP": {
-      "rate_to_krw": "1768.933429",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "1769.633508",
+      "data_as_of": "2026-10-28",
       "headline": "Poundsterling merosot seiring proyeksi pemangkasan bunga BoE dan anggaran UK",
       "brief": "Poundsterling kehilangan keunggulan imbal hasil di tengah ekspektasi pelonggaran moneter lanjutan oleh Bank of England dan sikap hati-hati pasar jelang anggaran Inggris."
     },
     "AUD": {
-      "rate_to_krw": "930.947448",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "933.678103",
+      "data_as_of": "2026-10-28",
       "headline": "Dolar Australia ditopang suku bunga stabil RBA dan prospek permintaan Tiongkok",
       "brief": "Dolar Australia mendapat jangkar kuat dari suku bunga stabil RBA sambil terus mencermati pergerakan harga bijih besi serta peluncuran paket stimulus di Tiongkok."
     },
     "CAD": {
-      "rate_to_krw": "944.708506",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "946.815042",
+      "data_as_of": "2026-10-28",
       "headline": "Dolar Kanada terangkat pemulihan minyak mentah imbangi pemangkasan bunga BoC",
       "brief": "Dolar Kanada tertolong oleh kenaikan harga minyak mentah akibat tensi Timur Tengah, memitigasi selisih imbal hasil akibat siklus pemangkasan suku bunga Bank of Canada."
     },
     "CHF": {
-      "rate_to_krw": "1604.154501",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "1602.381210",
+      "data_as_of": "2026-10-28",
       "headline": "Franc Swiss diburu sebagai aset aman meski suku bunga SNB tetap rendah",
       "brief": "Franc Swiss terus menerima aliran dana safe-haven di tengah ketegangan geopolitik Timur Tengah dan Eropa, menepis dampak kebijakan suku bunga rendah dari SNB."
     },
     "HKD": {
-      "rate_to_krw": "168.936286",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "169.258912",
+      "data_as_of": "2026-10-28",
       "headline": "Dolar Hong Kong stabil di pita patokan USD mengikuti arus modal saham",
       "brief": "Dolar Hong Kong diperdagangkan tenang dalam kisaran patokan 7,75–7,85 per dolar AS, mencerminkan prospek suku bunga Fed dan aliran dana asing ke bursa saham Asia."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261027T094604Z",
-    "source_input_digest": "d5dc648e48ca8ff5911ff08fb209c08d8f58bd74bee56db3e06e9693b5b60da4",
-    "translated_at": "2026-10-27T09:46:04+00:00",
+    "source_batch_id": "20261027T233746Z",
+    "source_input_digest": "d9f5a5d3867a839ffa52c6769511dc0c0978fb4a9047bb9313d5afc9f639d574",
+    "translated_at": "2026-10-27T23:37:46+00:00",
     "direction": "ltr"
   }
 }

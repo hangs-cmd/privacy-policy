@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261027T094604Z",
-  "published_at": "2026-10-27T09:46:04+00:00",
-  "checked_at": "2026-10-27T09:46:04+00:00",
-  "valid_until": "2026-10-28T21:46:04+00:00",
+  "batch_id": "20261027T233746Z",
+  "published_at": "2026-10-27T23:37:46+00:00",
+  "checked_at": "2026-10-27T23:37:46+00:00",
+  "valid_until": "2026-10-29T11:37:46+00:00",
   "locale": "pl",
-  "input_digest": "d5dc648e48ca8ff5911ff08fb209c08d8f58bd74bee56db3e06e9693b5b60da4",
+  "input_digest": "d9f5a5d3867a839ffa52c6769511dc0c0978fb4a9047bb9313d5afc9f639d574",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "pl",
-      "data_as_of": "2026-10-27",
-      "reference_rate": "1325.277083",
-      "generated_at": "2026-10-27T09:46:04+00:00",
+      "data_as_of": "2026-10-28",
+      "reference_rate": "1327.748879",
+      "generated_at": "2026-10-27T23:37:46+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1325.277083 KRW"
+          "text": "1327.748879 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-27"
+          "text": "2026-10-28"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW oscyluje wokół rocznych minimów przy 1325 na fali sprzedaży eksporterów",
-        "summary": "Kurs USD/KRW notowany jest w pobliżu 1325 (zamknięcie w Seulu 1323,1) po wyznaczeniu śróddziennego minimum roku na poziomie 1320,6 KRW za sprawą intensywnej sprzedaży dolarów przez producentów półprzewodników na koniec miesiąca. Mimo napięć na Bliskim Wschodzie i wyższych cen ropy wysoka nadwyżka handlowa Korei i stopa BOK na poziomie 3,00% tłumią odbicia dolara.",
+        "headline": "USD/KRW oscyluje wokół rocznych minimów przy 1327 na fali sprzedaży eksporterów",
+        "summary": "Kurs USD/KRW notowany jest w pobliżu 1327 (zamknięcie w Seulu 1323,1) po wyznaczeniu śróddziennego minimum roku na poziomie 1320,6 KRW za sprawą intensywnej sprzedaży dolarów przez producentów półprzewodników na koniec miesiąca. Mimo napięć na Bliskim Wschodzie i wyższych cen ropy wysoka nadwyżka handlowa Korei i stopa BOK na poziomie 3,00% tłumią odbicia dolara.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "pl",
-      "data_as_of": "2026-10-27",
-      "reference_rate": "1482.720000",
-      "generated_at": "2026-10-27T09:46:04+00:00",
+      "data_as_of": "2026-10-28",
+      "reference_rate": "1480.440000",
+      "generated_at": "2026-10-27T23:37:46+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1482.720000 KRW"
+          "text": "1480.440000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-27"
+          "text": "2026-10-28"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW stabilizuje się przy 1482 w obliczu prognoz pauzy EBC i mocnego wona",
-        "summary": "Notowania EUR/KRW konsolidują się w wąskim paśmie wokół 1482. Rynek powszechnie oczekuje pozostawienia stopy depozytowej EBC na poziomie 2,50%, podczas gdy słabość europejskiego przemysłu i obawy fiskalne we Francji ciążą na euro wobec wspieranego eksportem wona.",
+        "headline": "EUR/KRW stabilizuje się przy 1480 w obliczu prognoz pauzy EBC i mocnego wona",
+        "summary": "Notowania EUR/KRW konsolidują się w wąskim paśmie wokół 1480. Rynek powszechnie oczekuje pozostawienia stopy depozytowej EBC na poziomie 2,50%, podczas gdy słabość europejskiego przemysłu i obawy fiskalne we Francji ciążą na euro wobec wspieranego eksportem wona.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "pl",
-      "data_as_of": "2026-10-27",
-      "reference_rate": "8.417372",
-      "generated_at": "2026-10-27T09:46:04+00:00",
+      "data_as_of": "2026-10-28",
+      "reference_rate": "8.413025",
+      "generated_at": "2026-10-27T23:37:46+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.417372 KRW"
+          "text": "8.413025 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-27"
+          "text": "2026-10-28"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW pozostaje blisko wieloletnich dołków w rejonie 8,42 KRW przez ostrożność BOJ",
-        "summary": "Kurs JPY/KRW utrzymuje się na zepchniętych poziomach wokół 8,42 KRW za 1 JPY (~842 KRW za 100 JPY). Oczekiwania na utrzymanie stóp Banku Japonii na poziomie 1,25% wynoszą USD/JPY powyżej 157, utrwalając słabość jena wobec mocnego wona. Ryzyko interwencji słownej z Tokio ogranicza dalszy spadek.",
+        "headline": "JPY/KRW pozostaje blisko wieloletnich dołków w rejonie 8,41 KRW przez ostrożność BOJ",
+        "summary": "Kurs JPY/KRW utrzymuje się na zepchniętych poziomach wokół 8,41 KRW za 1 JPY (~841 KRW za 100 JPY). Oczekiwania na utrzymanie stóp Banku Japonii na poziomie 1,25% wynoszą USD/JPY powyżej 157, utrwalając słabość jena wobec mocnego wona. Ryzyko interwencji słownej z Tokio ogranicza dalszy spadek.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "pl",
-      "data_as_of": "2026-10-27",
-      "reference_rate": "1768.933429",
-      "generated_at": "2026-10-27T09:46:04+00:00",
+      "data_as_of": "2026-10-28",
+      "reference_rate": "1769.633508",
+      "generated_at": "2026-10-27T23:37:46+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1768.933429 KRW"
+          "text": "1769.633508 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-27"
+          "text": "2026-10-28"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW cofa się do 1768 pod wpływem oczekiwań cięć stóp BoE i obaw budżetowych",
-        "summary": "Kurs GBP/KRW obniżył się w rejon 1768 w miarę wzrostu oczekiwań na cięcia stóp przez Bank Anglii oraz ostrożności przed brytyjskim budżetem jesiennym. Solidne zyski z koreańskiego eksportu półprzewodników wspierają wona, konsolidując parę w przedziale 1760–1780 KRW.",
+        "headline": "GBP/KRW cofa się do 1770 pod wpływem oczekiwań cięć stóp BoE i obaw budżetowych",
+        "summary": "Kurs GBP/KRW obniżył się w rejon 1770 w miarę wzrostu oczekiwań na cięcia stóp przez Bank Anglii oraz ostrożności przed brytyjskim budżetem jesiennym. Solidne zyski z koreańskiego eksportu półprzewodników wspierają wona, konsolidując parę w przedziale 1760–1780 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "pl",
-      "data_as_of": "2026-10-27",
-      "reference_rate": "198.748040",
-      "generated_at": "2026-10-27T09:46:04+00:00",
+      "data_as_of": "2026-10-28",
+      "reference_rate": "199.136435",
+      "generated_at": "2026-10-27T23:37:46+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "198.748040 KRW"
+          "text": "199.136435 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-27"
+          "text": "2026-10-28"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW w wąskim przedziale przy 198,7 przy łagodnej polityce PBOC i nadziejach na bodźce",
-        "summary": "Kurs CNY/KRW kształtuje się stabilnie wokół 198,7 w paśmie 198–199 KRW. Ludowy Bank Chin utrzymuje łagodne warunki płynnościowe i stabilny kurs referencyjny, by stymulować popyt. Nadzieje na pakiety fiskalne wspierają juana, podczas gdy nadwyżka Korei ogranicza wzrost notowań.",
+        "headline": "CNY/KRW w wąskim przedziale przy 199,1 przy łagodnej polityce PBOC i nadziejach na bodźce",
+        "summary": "Kurs CNY/KRW kształtuje się stabilnie wokół 199,1 w paśmie 198–200 KRW. Ludowy Bank Chin utrzymuje łagodne warunki płynnościowe i stabilny kurs referencyjny, by stymulować popyt. Nadzieje na pakiety fiskalne wspierają juana, podczas gdy nadwyżka Korei ogranicza wzrost notowań.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -247,70 +247,70 @@
   "currencies": {
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-10-27",
+      "data_as_of": "2026-10-28",
       "headline": "Won osiąga nowe roczne maksima dzięki eksportowi chipów i sprzedaży dewiz",
       "brief": "Won południowokoreański ustanowił nowe roczne maksima wobec dolara dzięki stopie BOK na poziomie 3,00%, rekordowej nadwyżce w półprzewodnikach i sprzedaży walut."
     },
     "USD": {
-      "rate_to_krw": "1325.277083",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "1327.748879",
+      "data_as_of": "2026-10-28",
       "headline": "Dolar amerykański stabilny przed kluczowym odczytem inflacji PCE i decyzją Fed",
       "brief": "Dolar zachowuje solidne wsparcie przy stopach Fed rzędu 3,75–4,00% i mocnym rynku pracy, podczas gdy uwaga inwestorów skupia się na danych PCE i przyszłych decyzjach."
     },
     "EUR": {
-      "rate_to_krw": "1482.720000",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "1480.440000",
+      "data_as_of": "2026-10-28",
       "headline": "Euro pod presją przed oczekiwanym brakiem zmian stóp EBC przy 2,50%",
       "brief": "Euro ma trudności z odbiciem przed spodziewanym utrzymaniem stopy depozytowej EBC na poziomie 2,50%, obciążone zastojem w przemyśle i problemami budżetowymi we Francji."
     },
     "JPY": {
-      "rate_to_krw": "8.417372",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "8.413025",
+      "data_as_of": "2026-10-28",
       "headline": "Jen pozostaje słaby w oczekiwaniu na decyzję BOJ i szerokie spready rentowności",
       "brief": "Jen japoński podlega presji z powodu prognoz pozostawienia stóp BOJ na poziomie 1,25%, choć groźba interwencji walutowej ze strony Tokio ogranicza skalę wyprzedaży."
     },
     "CNY": {
-      "rate_to_krw": "198.748040",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "199.136435",
+      "data_as_of": "2026-10-28",
       "headline": "Juan stabilny w wąskim przedziale przy płynności z PBOC i nadziejach na impuls fiskalny",
       "brief": "Chiński juan handlowany jest w ciasnym paśmie, podczas gdy PBOC zapewnia płynność i stabilne fixingi w oczekiwaniu na efekty rządowych pakietów wsparcia."
     },
     "GBP": {
-      "rate_to_krw": "1768.933429",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "1769.633508",
+      "data_as_of": "2026-10-28",
       "headline": "Funt traci przez spekulacje o cięciach stóp przez BoE i ostrożność budżetową",
       "brief": "Funt szterling traci przewagę odsetkową w związku z rosnącymi zakładami na kolejne cięcia stóp przez Bank Anglii oraz niepewnością przed ogłoszeniem budżetu."
     },
     "AUD": {
-      "rate_to_krw": "930.947448",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "933.678103",
+      "data_as_of": "2026-10-28",
       "headline": "Dolar australijski kotwiczony twardym kursem RBA i sygnałami z Chin",
       "brief": "Dolar australijski zyskuje oparcie w stabilnych stopach RBA, reagując jednocześnie na wahania cen rudy żelaza oraz zapowiedzi stymulacji fiskalnej w Chinach."
     },
     "CAD": {
-      "rate_to_krw": "944.708506",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "946.815042",
+      "data_as_of": "2026-10-28",
       "headline": "Dolar kanadyjski zyskuje dzięki drożejącej ropie mimo wcześniejszych cięć BoC",
       "brief": "Dolar kanadyjski czerpie korzyści ze zwyżek cen ropy naftowej w obliczu napięć na Bliskim Wschodzie, co neutralizuje dysparytet stóp po ruchach Banku Kanady."
     },
     "CHF": {
-      "rate_to_krw": "1604.154501",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "1602.381210",
+      "data_as_of": "2026-10-28",
       "headline": "Frank szwajcarski beneficjentem popytu na bezpieczne aktywa mimo niskich stóp SNB",
       "brief": "Frank szwajcarski cieszy się niesłabnącym popytem ze strony inwestorów szukających bezpieczeństwa wobec konfliktów i ryzyk w Europie, równoważąc niskie stopy SNB."
     },
     "HKD": {
-      "rate_to_krw": "168.936286",
-      "data_as_of": "2026-10-27",
+      "rate_to_krw": "169.258912",
+      "data_as_of": "2026-10-28",
       "headline": "Dolar hongkoński stabilny w paśmie powiązania walutowego z dolarem",
       "brief": "Dolar hongkoński porusza się stabilnie w przedziale 7,75–7,85 za dolara amerykańskiego, odzwierciedlając ścieżkę Fed oraz napływy kapitału na lokalne rynki akcji."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261027T094604Z",
-    "source_input_digest": "d5dc648e48ca8ff5911ff08fb209c08d8f58bd74bee56db3e06e9693b5b60da4",
-    "translated_at": "2026-10-27T09:46:04+00:00",
+    "source_batch_id": "20261027T233746Z",
+    "source_input_digest": "d9f5a5d3867a839ffa52c6769511dc0c0978fb4a9047bb9313d5afc9f639d574",
+    "translated_at": "2026-10-27T23:37:46+00:00",
     "direction": "ltr"
   }
 }
