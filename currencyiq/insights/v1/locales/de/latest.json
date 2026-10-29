@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261028T233925Z",
-  "published_at": "2026-10-28T23:39:25+00:00",
-  "checked_at": "2026-10-28T23:39:25+00:00",
-  "valid_until": "2026-10-30T11:39:25+00:00",
+  "batch_id": "20261029T233859Z",
+  "published_at": "2026-10-29T23:38:59+00:00",
+  "checked_at": "2026-10-29T23:38:59+00:00",
+  "valid_until": "2026-10-31T11:38:59+00:00",
   "locale": "de",
-  "input_digest": "346b2290bc74c91ccc39c355634f961b845fc9230e15bd57f91ad5acf1d85601",
+  "input_digest": "e5c29a1776512eea7fb510dcda68cff2dfbefaa7fcd82ad381633d69085c8892",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "de",
-      "data_as_of": "2026-10-29",
-      "reference_rate": "1340.474266",
-      "generated_at": "2026-10-28T23:39:25+00:00",
+      "data_as_of": "2026-10-30",
+      "reference_rate": "1337.286613",
+      "generated_at": "2026-10-29T23:38:59+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1340.474266 KRW"
+          "text": "1337.286613 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-29"
+          "text": "2026-10-30"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW pendelt um 1.340 nach Fed-Pause und Monatsend-Verkäufen",
-        "summary": "USD/KRW notiert bei rund 1.340 (EZB-Referenz 1.340,47). Nach kräftigen Gewinnen durch gestiegene Ölpreise bremste die taubenhafte Interpretation des Fed-Zinsentscheids den Dollar-Aufschwung. Massive Monatsend-Verkäufe koreanischer Halbleiterexporteure und der BOK-Zins von 3,00 % deckeln das Paar bei 1.338–1.343 KRW.",
+        "headline": "USD/KRW konsolidiert bei 1.337 nach Fed-Pause und Monatsend-Verkäufen",
+        "summary": "USD/KRW notiert bei rund 1.337 (EZB-Referenz 1.337,29). Nach der Zinspause der Fed bei 3,75–4,00 % sanken die US-Renditen auf 4,98 %, was den Dollar-Aufwärtsdruck bremste. Verstärkte Devisenverkäufe koreanischer Halbleiterexporteure und der BOK-Leitzins von 3,00 % stabilisieren das Währungspaar im Bereich von 1.335–1.340 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "de",
-      "data_as_of": "2026-10-29",
-      "reference_rate": "1492.350000",
-      "generated_at": "2026-10-28T23:39:25+00:00",
+      "data_as_of": "2026-10-30",
+      "reference_rate": "1488.400000",
+      "generated_at": "2026-10-29T23:38:59+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1492.350000 KRW"
+          "text": "1488.400000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-29"
+          "text": "2026-10-30"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW erholt sich auf 1.490 nach Fed-Zinspause und vor EZB-Entscheid",
-        "summary": "EUR/KRW hat sich auf rund 1.492 erholt (EZB-Referenz 1.492,35). Eine taubenhaftere Lesart der Fed-Zinspause schwächt den US-Dollar, während das Paar trotz verhaltener Eurozonen-Industriedaten und französischer Haushaltsrisiken dank festerer USD/KRW-Kurse im Bereich von 1.485–1.495 KRW Boden gutmacht.",
+        "headline": "EUR/KRW gibt auf 1.488 nach EZB-Zinsentscheid bei 2,50 % nach",
+        "summary": "EUR/KRW stabilisiert sich bei etwa 1.488 KRW (EZB-Referenz 1.488,40). Die EZB beließ am 29. Oktober den Einlagensatz bei 2,50 %. Anhaltende Industrieschwäche im Euroraum und französische Haushaltsrisiken dämpfen den Euro, während die Beruhigung bei USD/KRW das Paar in einer Spanne von 1.483–1.493 KRW hält.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "de",
-      "data_as_of": "2026-10-29",
-      "reference_rate": "8.486012",
-      "generated_at": "2026-10-28T23:39:25+00:00",
+      "data_as_of": "2026-10-30",
+      "reference_rate": "8.460664",
+      "generated_at": "2026-10-29T23:38:59+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.486012 KRW"
+          "text": "8.460664 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-29"
+          "text": "2026-10-30"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW steigt auf 8,48 KRW bei vorsichtiger BOJ und USD/JPY nahe 158",
-        "summary": "JPY/KRW hat sich leicht auf rund 8,48 KRW je Yen (~848,6 KRW pro 100 Yen, EZB-Referenz 8,486) erholt. Da erwartet wird, dass die Bank of Japan den Zins bei 1,25 % belässt, notiert USD/JPY nahe 158, doch Tokios Interventionswarnungen und Monatsend-Verkäufe stützen den Yen-Kurs um 845–852 KRW.",
+        "headline": "JPY/KRW behauptet 8,46 KRW je 100 JPY bei vorsichtiger BOJ und USD/JPY um 158",
+        "summary": "JPY/KRW notiert um 8,46 KRW je Yen (~846,1 KRW pro 100 Yen, EZB-Referenz 8,461). Die Bank of Japan beließ den Zins bei 1,25 % zur Evaluierung des Inflationsziels. Während USD/JPY im oberen 157er-Bereich verharrt, stützen Tokios Interventionswarnungen und der feste Won den Yen bei 843–850 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "de",
-      "data_as_of": "2026-10-29",
-      "reference_rate": "1781.166080",
-      "generated_at": "2026-10-28T23:39:25+00:00",
+      "data_as_of": "2026-10-30",
+      "reference_rate": "1780.851420",
+      "generated_at": "2026-10-29T23:38:59+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1781.166080 KRW"
+          "text": "1780.851420 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-29"
+          "text": "2026-10-30"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW behauptet sich um 1.780 trotz BoE-Zinssorgen und Haushaltsrisiken",
-        "summary": "GBP/KRW notiert bei etwa 1.781 KRW (EZB-Referenz 1.781,17). Während wachsende Wetten auf BoE-Zinssenkungen und Zurückhaltung vor dem Herbsthaushalt das Pfund bremsen, sorgt die weltweite Konsolidierung des Dollars für Aufwind und stabilisiert das Paar zwischen 1.775 und 1.785 KRW.",
+        "headline": "GBP/KRW verharrt bei 1.780 vor Herbsthaushalt und BoE-Zinsschritten",
+        "summary": "GBP/KRW handelt stabil um 1.780 KRW (EZB-Referenz 1.780,85). Zunehmende Wetten auf Zinssenkungen der Bank of England sowie Haushaltsvorsicht bremsen das Pfund. Eine allgemeine Beruhigung des Dollars und Koreas Exportüberschuss halten die Notierungen in einem ausgeglichenen Band von 1.775–1.785 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "de",
-      "data_as_of": "2026-10-29",
-      "reference_rate": "201.079268",
-      "generated_at": "2026-10-28T23:39:25+00:00",
+      "data_as_of": "2026-10-30",
+      "reference_rate": "200.744497",
+      "generated_at": "2026-10-29T23:38:59+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "201.079268 KRW"
+          "text": "200.744497 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-29"
+          "text": "2026-10-30"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW notiert fester bei 201 unter expansiver PBOC und Stimulus-Hoffnungen",
-        "summary": "CNY/KRW notiert um 201,0 (EZB-Referenz 201,08) in einer Spanne von 200–202 KRW. Die Chinesische Volksbank stützt die Binnenwirtschaft mit reichlicher Liquidität und stabilen Fixings. Zusammen mit der allgemeinen Erholung von USD/KRW und Konjunkturhoffnungen zeigt sich das Paar gut behauptet.",
+        "headline": "CNY/KRW pendelt um 200,7 unter expansiver PBOC und Stimulus-Hoffnungen",
+        "summary": "CNY/KRW notiert um 200,7 (EZB-Referenz 200,74) in der Spanne von 200–202 KRW. Die Chinesische Volksbank stützt die Wirtschaft mit reichlicher Liquidität und stabilen Fixings. Erwartungen zusätzlicher Konjunkturhilfen federn das Paar gegen Währungsschwankungen ab und sichern die Notierung bei 200,5–201,5 KRW ab.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -247,70 +247,70 @@
   "currencies": {
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-10-29",
-      "headline": "Won gibt auf 1.340er-Niveau nach Öl-Rallye nach, Monatsend-Verkäufe stützen",
-      "brief": "Der südkoreanische Won gab wegen hoher Ölpreise bis auf 1.340 nach, doch der BOK-Satz von 3,00 %, Halbleiterüberschüsse und Monatsend-Verkäufe federn Verluste verlässlich ab."
+      "data_as_of": "2026-10-30",
+      "headline": "Won legt auf 1.337 KRW zu dank fallender US-Renditen und Exportverkäufen",
+      "brief": "Der Won erstarkt auf 1.337 zum Dollar, getrieben von rückläufigen US-Renditen, massiven Devisenverkäufen der Halbleiterindustrie und dem BOK-Zins von 3,00 %."
     },
     "USD": {
-      "rate_to_krw": "1340.474266",
-      "data_as_of": "2026-10-29",
-      "headline": "US-Dollar pausiert um 1.340 KRW nach taubenhaftem Fed-Entscheid und Exporter-Verkäufen",
-      "brief": "Der US-Dollar konsolidiert um 1.340 KRW, da eine taubenhafte Lesart der Fed-Zinspause Renditen dämpft und Exporteure zum Monatsende verstärkt Dollar verkaufen."
+      "rate_to_krw": "1337.286613",
+      "data_as_of": "2026-10-30",
+      "headline": "US-Dollar gibt auf 1.337 KRW nach Fed-Zinspause und Exportverkäufen nach",
+      "brief": "Der Dollar konsolidiert bei 1.337 KRW, da die 10-jährigen US-Renditen auf 4,98 % nachgaben und koreanische Exporteure zum Monatsende verstärkt Dollar abstießen."
     },
     "EUR": {
-      "rate_to_krw": "1492.350000",
-      "data_as_of": "2026-10-29",
-      "headline": "Euro erholt sich auf 1.490 KRW nach Fed-Pause trotz anhaltender EZB-Vorsicht",
-      "brief": "Der Euro steigt auf 1.490 KRW im Zuge der weltweiten Dollar-Konsolidierung nach der Fed-Sitzung, gebremst jedoch durch das erwartete Festhalten der EZB an 2,50 % Einlagesatz."
+      "rate_to_krw": "1488.400000",
+      "data_as_of": "2026-10-30",
+      "headline": "Euro konsolidiert bei 1.488 KRW nach Bestätigung des 2,50%-EZB-Zinses",
+      "brief": "Der Euro pendelt um 1.488 KRW, nachdem die EZB die Einlagefazilität bei 2,50 % beließ. Die Industrieschwäche deckelt Kursgewinne bei geordnetem Devisenhandel."
     },
     "JPY": {
-      "rate_to_krw": "8.486012",
-      "data_as_of": "2026-10-29",
-      "headline": "Yen stabilisiert sich bei 848 KRW je 100 JPY dank Interventionswarnungen",
-      "brief": "Der japanische Yen behauptet 848 KRW je 100 Yen, da Tokios Interventionsdrohungen den Druck durch die erwartete BOJ-Zinspause bei 1,25 % und USD/JPY nahe 158 begrenzen."
+      "rate_to_krw": "8.460664",
+      "data_as_of": "2026-10-30",
+      "headline": "Yen behauptet 846 KRW je 100 JPY bei 1,25%-BOJ-Zins und Intervention",
+      "brief": "Der Yen stabilisiert sich bei 846 KRW je 100 JPY, gestützt von der Zinspause der BOJ bei 1,25 % und Tokios Warnungen vor Spekulationen gegen die Währung."
     },
     "CNY": {
-      "rate_to_krw": "201.079268",
-      "data_as_of": "2026-10-29",
-      "headline": "Yuan stabilisiert sich um 201 KRW bei expansiver PBOC und Stimulus-Fokus",
-      "brief": "Der chinesische Yuan handelt stabil um 201 KRW, gestützt durch reichliche PBOC-Liquidität und feste Fixings, während Anleger auf konkrete fiskalische Stimulusmaßnahmen warten."
+      "rate_to_krw": "200.744497",
+      "data_as_of": "2026-10-30",
+      "headline": "Chinesischer Yuan konsolidiert bei 200,7 KRW unter PBOC-Stützung",
+      "brief": "Der Yuan handelt stabil nahe 200,7 KRW, während die PBOC eine expansive Liquidität und feste Fixings garantiert und Märkte auf die Umsetzung der Fiskalpakete blicken."
     },
     "GBP": {
-      "rate_to_krw": "1781.166080",
-      "data_as_of": "2026-10-29",
-      "headline": "Pfund nähert sich 1.780 KRW bei schwächerem Dollar trotz BoE-Zinssorgen",
-      "brief": "Das Pfund klettert in Richtung 1.780 KRW dank des nachgebenden US-Dollars, wenngleich BoE-Zinssenkungserwartungen und Haushaltsrisiken vor dem Herbstbudget belasten."
+      "rate_to_krw": "1780.851420",
+      "data_as_of": "2026-10-30",
+      "headline": "Pfund testet 1.780 KRW vor BoE-Zinsschritten und Haushaltsplan",
+      "brief": "Das Pfund notiert um 1.780 KRW. Zunehmende Erwartungen weiterer BoE-Zinssenkungen und Zurückhaltung vor dem Haushalt dämpfen Aufschläge bei robuster Won-Nachfrage."
     },
     "AUD": {
-      "rate_to_krw": "942.735313",
-      "data_as_of": "2026-10-29",
-      "headline": "Austral-Dollar profitiert von RBA-Haltung und Rohstofferholung um 940 KRW",
-      "brief": "Der australische Dollar wird durch den stabilen RBA-Leitzins gestützt und profitiert von festeren Eisenerzpreisen sowie chinesischen Stimulus-Erwartungen nahe 940 KRW."
+      "rate_to_krw": "939.527837",
+      "data_as_of": "2026-10-30",
+      "headline": "Austral-Dollar profitiert von stabiler RBA und Rohstofferholung um 940 KRW",
+      "brief": "Der Australische Dollar findet feste Unterstützung um 940 KRW dank der vorsichtigen Zinspause der RBA, gestützt von Chinas Stimulushungrigkeit und erholten Eisenerzpreisen."
     },
     "CAD": {
-      "rate_to_krw": "954.310014",
-      "data_as_of": "2026-10-29",
-      "headline": "Kanadischer Dollar verteidigt 950 KRW dank festerer Ölpreise trotz BoC-Zinssenkung",
-      "brief": "Der kanadische Dollar findet Halt an steigenden Rohölnotierungen im Nahost-Konflikt, was den Renditenachteil durch die Zinssenkungen der Bank of Canada bei 950 KRW abfedert."
+      "rate_to_krw": "955.511331",
+      "data_as_of": "2026-10-30",
+      "headline": "Loonie hält 955 KRW dank Ölpreisen trotz BoC-Zinsdifferenz",
+      "brief": "Der Kanadische Dollar verteidigt die Marke von 955 KRW, da robuste Rohölpreise inmitten der Nahost-Spannungen den Zinsnachteil durch BoC-Lockerungen weitgehend ausgleichen."
     },
     "CHF": {
-      "rate_to_krw": "1613.874770",
-      "data_as_of": "2026-10-29",
-      "headline": "Schweizer Franken bleibt bei 1.610 KRW als sicherer Hafen gefragt",
-      "brief": "Der Schweizer Franken behauptet sich bei 1.610 KRW durch geopolitische Spannungen und europäische Haushaltsrisiken als Zufluchtsort und trotzt den niedrigen SNB-Zinsen."
+      "rate_to_krw": "1613.966602",
+      "data_as_of": "2026-10-30",
+      "headline": "Schweizer Franken behauptet 1.614 KRW durch sichere Nachfrage",
+      "brief": "Der Schweizer Franken bleibt mit Kursen um 1.614 KRW gesucht, da geopolitische Spannungen und Europas Haushaltsrisiken trotz des SNB-Niedrigzinses für Zuflüsse sorgen."
     },
     "HKD": {
-      "rate_to_krw": "170.868684",
-      "data_as_of": "2026-10-29",
-      "headline": "Hongkong-Dollar behauptet 170 KRW innerhalb der USD-Peg-Bandbreite",
-      "brief": "Der Hongkong-Dollar notiert ruhig um 170 KRW in seiner Spanne von 7,75–7,85 zum USD und folgt den Zinsaussichten der Fed sowie den Kapitalflüssen im chinesischen Aktienmarkt."
+      "rate_to_krw": "170.433986",
+      "data_as_of": "2026-10-30",
+      "headline": "Hongkong-Dollar behauptet 170,4 KRW innerhalb des Währungsbandes",
+      "brief": "Der Hongkong-Dollar notiert stabil um 170,4 KRW innerhalb seiner Koppelungsspanne von 7,75–7,85 zum USD und folgt den US-Zinserwartungen sowie asiatischen Kapitalströmen."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261028T233925Z",
-    "source_input_digest": "346b2290bc74c91ccc39c355634f961b845fc9230e15bd57f91ad5acf1d85601",
-    "translated_at": "2026-10-28T23:39:25+00:00",
+    "source_batch_id": "20261029T233859Z",
+    "source_input_digest": "e5c29a1776512eea7fb510dcda68cff2dfbefaa7fcd82ad381633d69085c8892",
+    "translated_at": "2026-10-29T23:38:59+00:00",
     "direction": "ltr"
   }
 }

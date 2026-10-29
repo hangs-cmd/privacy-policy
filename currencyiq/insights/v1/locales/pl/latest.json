@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261028T233925Z",
-  "published_at": "2026-10-28T23:39:25+00:00",
-  "checked_at": "2026-10-28T23:39:25+00:00",
-  "valid_until": "2026-10-30T11:39:25+00:00",
+  "batch_id": "20261029T233859Z",
+  "published_at": "2026-10-29T23:38:59+00:00",
+  "checked_at": "2026-10-29T23:38:59+00:00",
+  "valid_until": "2026-10-31T11:38:59+00:00",
   "locale": "pl",
-  "input_digest": "346b2290bc74c91ccc39c355634f961b845fc9230e15bd57f91ad5acf1d85601",
+  "input_digest": "e5c29a1776512eea7fb510dcda68cff2dfbefaa7fcd82ad381633d69085c8892",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "pl",
-      "data_as_of": "2026-10-29",
-      "reference_rate": "1340.474266",
-      "generated_at": "2026-10-28T23:39:25+00:00",
+      "data_as_of": "2026-10-30",
+      "reference_rate": "1337.286613",
+      "generated_at": "2026-10-29T23:38:59+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1340.474266 KRW"
+          "text": "1337.286613 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-29"
+          "text": "2026-10-30"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW stabilizuje się przy 1 340 po posiedzeniu Fed i sprzedaży dewiz",
-        "summary": "USD/KRW notowany jest wokół 1 340 (ref. EBC 1 340,47) po wcześniejszym odbiciu wywołanym drogą ropą. Gołębia interpretacja pauzy Fed powstrzymała aprecjację dolara, podczas gdy podaż walut ze strony eksporterów chipów i stopa BOK 3,00% stawiają barierę przy 1 338–1 343 KRW.",
+        "headline": "USD/KRW stabilizuje się przy 1 337 po pauzie Fed i sprzedaży eksporterów",
+        "summary": "USD/KRW notowany jest w pobliżu 1 337 (ref. EBC 1 337,29) w reakcji na spadek rentowności 10-letnich obligacji USA do 4,98% po decyzji Fed o stopach (3,75%–4,00%). Aktywna sprzedaż dolarów przez koreańskich eksporterów czipów i stopa BOK na poziomie 3,00% ograniczają wahania do przedziału 1 335–1 340 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "pl",
-      "data_as_of": "2026-10-29",
-      "reference_rate": "1492.350000",
-      "generated_at": "2026-10-28T23:39:25+00:00",
+      "data_as_of": "2026-10-30",
+      "reference_rate": "1488.400000",
+      "generated_at": "2026-10-29T23:38:59+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1492.350000 KRW"
+          "text": "1488.400000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-29"
+          "text": "2026-10-30"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW odbija w rejon 1 490 po pauzie Fed i w oczekiwaniu na decyzję EBC",
-        "summary": "Kurs EUR/KRW powrócił w okolice 1 492 (ref. EBC 1 492,35). Łagodniejszy wydźwięk posiedzenia Fed osłabił globalnego dolara. Mimo stagnacji przemysłowej w strefie euro i obaw o budżet Francji przed decyzją EBC (2,50%), wzrost USD/KRW ugruntował notowania w korytarzu 1 485–1 495 KRW.",
+        "headline": "EUR/KRW cofa się do 1 488 po utrzymaniu stopy depozytowej EBC na poziomie 2,50%",
+        "summary": "EUR/KRW konsoliduje w okolicach 1 488 (ref. EBC 1 488,40) po tym, jak EBC utrzymał stopę depozytową na poziomie 2,50% w dniu 29 października. Słabość sektora wytwórczego strefy euro i obawy fiskalne we Francji hamują wzrost euro, stabilizując parę w korytarzu 1 483–1 493 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "pl",
-      "data_as_of": "2026-10-29",
-      "reference_rate": "8.486012",
-      "generated_at": "2026-10-28T23:39:25+00:00",
+      "data_as_of": "2026-10-30",
+      "reference_rate": "8.460664",
+      "generated_at": "2026-10-29T23:38:59+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.486012 KRW"
+          "text": "8.460664 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-29"
+          "text": "2026-10-30"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW rośnie do 8,48 KRW przy ostrożnym BOJ i USD/JPY w rejonie 158",
-        "summary": "JPY/KRW zyskał do około 8,48 KRW za jena (~848,6 KRW za 100 JPY, ref. EBC 8,486). Oczekiwania na pozostawienie stóp BOJ na poziomie 1,25% utrzymują USD/JPY blisko 158, jednak groźba interwencji Tokio i koniec miesiąca w Korei tworzą silne wsparcie w przedziale 845–852 KRW.",
+        "headline": "JPY/KRW broni poziomu 8,46 KRW za 100 JPY przy stopie BOJ na poziomie 1,25%",
+        "summary": "JPY/KRW wynosi około 8,46 KRW za jena (~846,1 KRW za 100 jenów, ref. EBC 8,461). Bank Japonii utrzymał stopy na poziomie 1,25%, weryfikując dynamikę inflacji, podczas gdy USD/JPY oscyluje wokół 158. Ostrzeżenia o interwencji z Tokio i silny won powstrzymują dalsze spadki w paśmie 843–850 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "pl",
-      "data_as_of": "2026-10-29",
-      "reference_rate": "1781.166080",
-      "generated_at": "2026-10-28T23:39:25+00:00",
+      "data_as_of": "2026-10-30",
+      "reference_rate": "1780.851420",
+      "generated_at": "2026-10-29T23:38:59+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1781.166080 KRW"
+          "text": "1780.851420 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-29"
+          "text": "2026-10-30"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW konsoliduje w rejonie 1 780 mimo oczekiwań na cięcia BoE",
-        "summary": "GBP/KRW notowany jest w pobliżu 1 781 (ref. EBC 1 781,17). Złagodzenie presji ze strony dolara wspiera funta, choć rosnące zakłady na obniżki stóp przez Bank Anglii i ostrożność przed brytyjskim budżetem ograniczają zwyżki, utrzymując wsparcie na poziomie 1 775–1 785 KRW.",
+        "headline": "GBP/KRW waha się przy 1 780 wobec oczekiwań na cięcia BoE i jesienny budżet",
+        "summary": "GBP/KRW utrzymuje się blisko 1 780 (ref. EBC 1 780,85). Oczekiwania na dalsze cięcia stóp przez Bank Anglii oraz ostrożność fiskalna przed brytyjskim budżetem ograniczają funta. Spokojniejszy kurs dolara oraz eksport Korei zapewniają równowagę na poziomie 1 775–1 785 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "pl",
-      "data_as_of": "2026-10-29",
-      "reference_rate": "201.079268",
-      "generated_at": "2026-10-28T23:39:25+00:00",
+      "data_as_of": "2026-10-30",
+      "reference_rate": "200.744497",
+      "generated_at": "2026-10-29T23:38:59+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "201.079268 KRW"
+          "text": "200.744497 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-29"
+          "text": "2026-10-30"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW stabilizuje się wokół 201 przy płynności z PBOC i nadziejach na stymulację",
-        "summary": "CNY/KRW porusza się w pobliżu 201,0 (ref. EBC 201,08) w nowym paśmie 200–202 KRW. Ludowy Bank Chin zapewnia łagodną płynność i stabilne fixingi w celu pobudzenia popytu wewnętrznego, a nadzieje na pakiety wsparcia wraz z odbiciem USD/KRW zapewniają stabilne oparcie dla juana.",
+        "headline": "CNY/KRW oscyluje wokół 200,7 dzięki płynności PBOC i nadziejom na stymulację",
+        "summary": "CNY/KRW notowany jest w okolicach 200,7 (ref. EBC 200,74) w przedziale 200–202 KRW. Ludowy Bank Chin utrzymuje łagodne warunki płynnościowe i stabilne fixingi w celu ożywienia popytu. Oczekiwania na realizację pakietu stymulacyjnego wspierają notowania w granicach 200,5–201,5 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -247,70 +247,70 @@
   "currencies": {
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-10-29",
-      "headline": "Wona osłabia się do 1 340 przez skok cen ropy przed sprzedażą dewiz",
-      "brief": "Południowokoreańska wona cofnęła się do 1 340 za dolara na skutek droższej ropy, lecz stopa BOK 3,00% i podaż walut eksporterów pod koniec miesiąca ograniczyły straty."
+      "data_as_of": "2026-10-30",
+      "headline": "Won umacnia się do 1 337 KRW dzięki spadkowi rentowności w USA i sprzedaży czipów",
+      "brief": "Koreański won zyskuje do 1 337 za dolara dzięki spadkowi rentowności obligacji USA oraz sprzedaży walut przez producentów półprzewodników przed końcem miesiąca."
     },
     "USD": {
-      "rate_to_krw": "1340.474266",
-      "data_as_of": "2026-10-29",
-      "headline": "Dolar amerykański hamuje przy 1 340 KRW po łagodnym Fed i sprzedaży eksporterów",
-      "brief": "Dolar konsoliduje wokół 1 340 KRW, gdy rentowności obligacji uspokoiły się po gołębim komunikacie Fed, a eksporterzy chipów zwiększyli podaż walut na koniec miesiąca."
+      "rate_to_krw": "1337.286613",
+      "data_as_of": "2026-10-30",
+      "headline": "Dolar uspokaja się przy 1 337 KRW po decyzji Fed i sprzedaży eksporterów",
+      "brief": "Dolar USA zatrzymuje się przy 1 337 KRW w reakcji na spadek rentowności 10-letnich papierów skarbowych do 4,98% i aktywną sprzedaż waluty przez eksporterów."
     },
     "EUR": {
-      "rate_to_krw": "1492.350000",
-      "data_as_of": "2026-10-29",
-      "headline": "Euro odbija w kierunku 1 490 KRW po pauzie Fed przed posiedzeniem EBC",
-      "brief": "Euro zyskuje do poziomu 1 490 KRW dzięki osłabieniu dolara po posiedzeniu Fed, choć oczekiwane pozostawienie stóp EBC na 2,50% i zastój fabryk hamują aprecjację."
+      "rate_to_krw": "1488.400000",
+      "data_as_of": "2026-10-30",
+      "headline": "Euro cofa się do 1 488 KRW po utrzymaniu stopy depozytowej EBC na 2,50%",
+      "brief": "Euro konsoliduje przy 1 488 KRW po pozostawieniu stopy depozytowej EBC na poziomie 2,50%, a słabość europejskiego przemysłu ogranicza potencjał odbicia."
     },
     "JPY": {
-      "rate_to_krw": "8.486012",
-      "data_as_of": "2026-10-29",
-      "headline": "Jen utrzymuje 848 KRW za 100 JPY dzięki groźbom interwencji walutowej",
-      "brief": "Jen japoński stabilizuje się przy 848 KRW za 100 JPY; prognozy braku zmian stóp BOJ przy 1,25% trzymają USD/JPY przy 158, ale ostrzeżenia Tokio chronią przed spadkiem."
+      "rate_to_krw": "8.460664",
+      "data_as_of": "2026-10-30",
+      "headline": "Jen broni poziomu 846 KRW za 100 JPY przy stopie BOJ 1,25% i czujności Tokio",
+      "brief": "Japoński jen stabilizuje się przy 846 KRW za 100 JPY po utrzymaniu stóp przez BOJ na poziomie 1,25%, wspierany przez ostrzeżenia Tokio przed spekulacją."
     },
     "CNY": {
-      "rate_to_krw": "201.079268",
-      "data_as_of": "2026-10-29",
-      "headline": "Juan stabilizuje się przy 201 KRW dzięki płynności PBOC i nadziejom na stymulację",
-      "brief": "Chiński juan porusza się stabilnie w pobliżu 201 KRW przy wsparciu płynnościowym ze strony PBOC, podczas gdy rynek czeka na kolejne pakiety wsparcia gospodarki."
+      "rate_to_krw": "200.744497",
+      "data_as_of": "2026-10-30",
+      "headline": "Juan stabilizuje się przy 200,7 KRW dzięki płynności PBOC i pakietom wsparcia",
+      "brief": "Chiński juan utrzymuje się wokół 200,7 KRW dzięki płynności PBOC oraz stabilnym fixingom, podczas gdy rynki oczekują na realizację pakietu stymulacyjnego."
     },
     "GBP": {
-      "rate_to_krw": "1781.166080",
-      "data_as_of": "2026-10-29",
-      "headline": "Funt testuje 1 780 KRW dzięki cofnięciu dolara mimo perspektyw cięć BoE",
-      "brief": "Funt szterling rośnie w stronę 1 780 KRW korzystając ze słabości dolara, choć zakłady na obniżki stóp przez Bank Anglii i ostrożność budżetowa ograniczają wzrost."
+      "rate_to_krw": "1780.851420",
+      "data_as_of": "2026-10-30",
+      "headline": "Funt testuje 1 780 KRW pod presją obniżek stóp BoE i jesiennego budżetu",
+      "brief": "Funt brytyjski notowany jest blisko 1 780 KRW z powodu oczekiwań dalszego łagodzenia polityki przez BoE oraz ostrożności przed prezentacją budżetu Wielkiej Brytanii."
     },
     "AUD": {
-      "rate_to_krw": "942.735313",
-      "data_as_of": "2026-10-29",
-      "headline": "Dolar australijski wspierany stopami RBA i odbiciem surowców przy 940 KRW",
-      "brief": "Dolar australijski zyskuje oparcie w stabilnych stopach RBA, czerpiąc korzyści z odbicia cen rudy żelaza oraz zapowiedzi stymulacji fiskalnej w Chinach w rejonie 940 KRW."
+      "rate_to_krw": "939.527837",
+      "data_as_of": "2026-10-30",
+      "headline": "Dolar australijski wspierany przy 940 KRW przez postawę RBA i surowce",
+      "brief": "Dolar australijski utrzymuje stabilne wsparcie w rejonie 940 KRW dzięki ostrożnemu wstrzymaniu stóp przez RBA oraz odbiciu cen rudy żelaza w Chinach."
     },
     "CAD": {
-      "rate_to_krw": "954.310014",
-      "data_as_of": "2026-10-29",
-      "headline": "Dolar kanadyjski broni poziomu 950 KRW dzięki drożejącej ropie naftowej",
-      "brief": "Dolar kanadyjski korzysta ze wzrostu notowań ropy naftowej w obliczu napięć na Bliskim Wschodzie, co łagodzi skutki obniżek stóp przez Bank Kanady wokół 950 KRW."
+      "rate_to_krw": "955.511331",
+      "data_as_of": "2026-10-30",
+      "headline": "Dolar kanadyjski broni 955 KRW dzięki ropie pomimo obniżek BoC",
+      "brief": "Dolar kanadyjski utrzymuje poziom 955 KRW, gdyż wzrost cen ropy naftowej na Bliskim Wschodzie równoważy presję ze strony cięć stóp przez Bank Kanady."
     },
     "CHF": {
-      "rate_to_krw": "1613.874770",
-      "data_as_of": "2026-10-29",
-      "headline": "Frank szwajcarski utrzymuje 1 610 KRW jako bezpieczna przystań mimo stóp SNB",
-      "brief": "Frank szwajcarski cieszy się popytem defensywnym ze względu na ryzyka geopolityczne i fiskalne w Europie wokół 1 610 KRW, neutralizując niskie stopy SNB."
+      "rate_to_krw": "1613.966602",
+      "data_as_of": "2026-10-30",
+      "headline": "Frank szwajcarski trzyma 1 614 KRW jako bezpieczna przystań mimo stóp SNB",
+      "brief": "Frank szwajcarski zachowuje popyt wokół 1 614 KRW dzięki statusowi bezpiecznej przystani w obliczu napięć na świecie, przeważając nad niskimi stopami SNB."
     },
     "HKD": {
-      "rate_to_krw": "170.868684",
-      "data_as_of": "2026-10-29",
-      "headline": "Dolar hongkoński stabilny przy 170 KRW w korytarzu powiązania walutowego",
-      "brief": "Dolar hongkoński handlowany jest spokojnie wokół 170 KRW w paśmie 7,75–7,85 za USD, odzwierciedlając ścieżkę stóp Fed i napływy na regionalne rynki akcji."
+      "rate_to_krw": "170.433986",
+      "data_as_of": "2026-10-30",
+      "headline": "Dolar hongkoński spokojny przy 170,4 KRW w ramach sztywnego kursu do USD",
+      "brief": "Dolar hongkoński handlowany jest spokojnie wokół 170,4 KRW w paśmie 7,75–7,85 do dolara, reagując na stopy procentowe Fed i przepływy kapitału w Azji."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261028T233925Z",
-    "source_input_digest": "346b2290bc74c91ccc39c355634f961b845fc9230e15bd57f91ad5acf1d85601",
-    "translated_at": "2026-10-28T23:39:25+00:00",
+    "source_batch_id": "20261029T233859Z",
+    "source_input_digest": "e5c29a1776512eea7fb510dcda68cff2dfbefaa7fcd82ad381633d69085c8892",
+    "translated_at": "2026-10-29T23:38:59+00:00",
     "direction": "ltr"
   }
 }
