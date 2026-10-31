@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261030T234144Z",
-  "published_at": "2026-10-30T23:41:44+00:00",
-  "checked_at": "2026-10-30T23:41:44+00:00",
-  "valid_until": "2026-11-01T11:41:44+00:00",
+  "batch_id": "20261031T233031Z",
+  "published_at": "2026-10-31T23:30:31+00:00",
+  "checked_at": "2026-10-31T23:30:31+00:00",
+  "valid_until": "2026-11-02T11:30:31+00:00",
   "locale": "ko",
   "input_digest": "2d10cea40029e9e1428e62cd114b84c3e6bb3e15e2de2c8d2f3ba376a679f602",
   "source": {
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "ko",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "reference_rate": "1335.266738",
-      "generated_at": "2026-10-30T23:41:44+00:00",
+      "generated_at": "2026-10-31T23:30:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -36,7 +36,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-31"
+          "text": "2026-11-01"
         }
       ],
       "metrics": {
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "ko",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "reference_rate": "1491.760000",
-      "generated_at": "2026-10-30T23:41:44+00:00",
+      "generated_at": "2026-10-31T23:30:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -82,7 +82,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-31"
+          "text": "2026-11-01"
         }
       ],
       "metrics": {
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "ko",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "reference_rate": "8.491348",
-      "generated_at": "2026-10-30T23:41:44+00:00",
+      "generated_at": "2026-10-31T23:30:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -128,7 +128,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-31"
+          "text": "2026-11-01"
         }
       ],
       "metrics": {
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "ko",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "reference_rate": "1789.110098",
-      "generated_at": "2026-10-30T23:41:44+00:00",
+      "generated_at": "2026-10-31T23:30:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -174,7 +174,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-31"
+          "text": "2026-11-01"
         }
       ],
       "metrics": {
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "ko",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "reference_rate": "200.705002",
-      "generated_at": "2026-10-30T23:41:44+00:00",
+      "generated_at": "2026-10-31T23:30:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -220,7 +220,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-31"
+          "text": "2026-11-01"
         }
       ],
       "metrics": {
@@ -247,61 +247,61 @@
   "currencies": {
     "AUD": {
       "rate_to_krw": "937.977867",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "RBA 매파적 동결과 원자재 가격 반등 연동해 938원선",
       "brief": "호주 달러화는 호주중앙은행(RBA)의 매파적 금리 동결 기조와 원자재 가격 안정에 힘입어 하방 경직성을 유지하고 있으며, 중국 경기 부양 기대감과 함께 938원선 부근에서 견조한 흐름을 이어가고 있습니다."
     },
     "CAD": {
       "rate_to_krw": "955.888761",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "BoC 금리차 부담 속 유가 반등에 956원선 탄탄한 지지",
       "brief": "캐나다 달러화는 캐나다중앙은행(BoC)의 선제적 금리 인하 부담에도 불구하고, 중동 긴장에 따른 국제 유가 반등과 안정적인 수출 수급이 하단을 지지하며 955원대 후반에서 탄탄한 방어력을 과시했습니다."
     },
     "CHF": {
       "rate_to_krw": "1622.536437",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "SNB 저금리 기조 속 안전자산 수요 유입에 1,622원선",
       "brief": "스위스 프랑화는 스위스국립은행(SNB)의 저금리 기조에도 유럽 재정 불확실성과 중동 리스크에 따른 글로벌 안전자산 선호 심리가 꾸준히 유입되며 원화 대비 1,622원선으로 강세를 확대했습니다."
     },
     "CNY": {
       "rate_to_krw": "200.705002",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "인민은행 유동성 지원과 재정 기대 속 200.7원선 안정",
       "brief": "중국 인민은행(PBOC)이 경기 부양을 위한 유동성 지원과 안정적 고시환율 정책을 이어가는 가운데, 재정 확대 정책 기대감이 위안화 하방을 지지하며 200.7원선 안팎에서 안정된 횡보세를 지속했습니다."
     },
     "EUR": {
       "rate_to_krw": "1491.760000",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "ECB 2.50% 동결 속 글로벌 달러 약세 연동돼 1,491원선",
       "brief": "유럽중앙은행의 수신금리 2.50% 동결과 유로존 제조업 둔화 우려에도 불구하고, 글로벌 달러 약세에 따른 유로/달러 반등에 힘입어 원/유로 환율은 1,491원선으로 반등하며 지지력을 확보했습니다."
     },
     "GBP": {
       "rate_to_krw": "1789.110098",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "영란은행 인하 기대 속 케이블 반등에 연동돼 1,789원선",
       "brief": "영란은행의 연내 추가 인하 기대와 영국 가을 예산안 경계감이 이어지고 있으나, 달러화 조정에 따른 파운드/달러 반등(1.338달러)에 연동되며 원/파운드 환율은 1,789원선으로 상승했습니다."
     },
     "HKD": {
       "rate_to_krw": "170.191211",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "미 달러 페그제 연동 속 달러 약세 반영하며 170.2원선",
       "brief": "홍콩 달러화는 미 달러 페그제 밴드(7.75~7.85 HKD) 내에서 연준의 금리 정책과 원/달러 하락 흐름에 밀착 연동되며, 중화권 증시 수급과 맞물려 170.2원선에서 안정적인 양상을 나타냈습니다."
     },
     "JPY": {
       "rate_to_krw": "8.491348",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "BOJ 1.25% 동결 및 달러/엔 반락 속 100엔당 849원선",
       "brief": "일본은행(BOJ)의 기준금리 1.25% 동결 속 달러/엔 환율이 157.0엔선으로 하향 조정되고, 당국의 구두개입 경계감이 유입되면서 원/엔 환율은 100엔당 849원선으로 반등하며 하단을 방어했습니다."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "월말 수출 네고 출회와 3.00% 금리 방어력에 1,335원대",
       "brief": "국내 증시 외국인 순매도에도 불구하고 월말 수출업체 달러 매도(네고)와 한국은행의 3.00% 기준금리 방어력, 경상수지 흑자 기조가 하방을 탄탄하게 지지하며 원화 가치는 1,335원대를 유지했습니다."
     },
     "USD": {
       "rate_to_krw": "1335.266738",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "FOMC 여진 속 국채금리 안정 및 월말 네고에 1,335원선",
       "brief": "미 연준의 3.75~4.00% 금리 동결 이후 미 국채금리 하향 안정과 글로벌 달러화 약세가 이어졌고, 월말 반도체 수출업체 네고 물량이 대거 유입되며 원/달러 환율은 1,335원선에 안착했습니다."
     }

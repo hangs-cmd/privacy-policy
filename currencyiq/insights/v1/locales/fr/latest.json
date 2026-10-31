@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261030T234144Z",
-  "published_at": "2026-10-30T23:41:44+00:00",
-  "checked_at": "2026-10-30T23:41:44+00:00",
-  "valid_until": "2026-11-01T11:41:44+00:00",
+  "batch_id": "20261031T233031Z",
+  "published_at": "2026-10-31T23:30:31+00:00",
+  "checked_at": "2026-10-31T23:30:31+00:00",
+  "valid_until": "2026-11-02T11:30:31+00:00",
   "locale": "fr",
   "input_digest": "2d10cea40029e9e1428e62cd114b84c3e6bb3e15e2de2c8d2f3ba376a679f602",
   "source": {
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "fr",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "reference_rate": "1335.266738",
-      "generated_at": "2026-10-30T23:41:44+00:00",
+      "generated_at": "2026-10-31T23:30:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -36,7 +36,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-31"
+          "text": "2026-11-01"
         }
       ],
       "metrics": {
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "fr",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "reference_rate": "1491.760000",
-      "generated_at": "2026-10-30T23:41:44+00:00",
+      "generated_at": "2026-10-31T23:30:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -82,7 +82,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-31"
+          "text": "2026-11-01"
         }
       ],
       "metrics": {
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "fr",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "reference_rate": "8.491348",
-      "generated_at": "2026-10-30T23:41:44+00:00",
+      "generated_at": "2026-10-31T23:30:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -128,7 +128,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-31"
+          "text": "2026-11-01"
         }
       ],
       "metrics": {
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "fr",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "reference_rate": "1789.110098",
-      "generated_at": "2026-10-30T23:41:44+00:00",
+      "generated_at": "2026-10-31T23:30:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -174,7 +174,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-31"
+          "text": "2026-11-01"
         }
       ],
       "metrics": {
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "fr",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "reference_rate": "200.705002",
-      "generated_at": "2026-10-30T23:41:44+00:00",
+      "generated_at": "2026-10-31T23:30:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -220,7 +220,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-10-31"
+          "text": "2026-11-01"
         }
       ],
       "metrics": {
@@ -247,70 +247,70 @@
   "currencies": {
     "AUD": {
       "rate_to_krw": "937.977867",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "Le dollar australien se maintient à 938 KRW grâce à la RBA et aux matières premières",
       "brief": "Le dollar australien reste solide près de 938 KRW, soutenu par la fermeté de la RBA, la remontée des matières premières et les espoirs de relance budgétaire en Chine."
     },
     "CAD": {
       "rate_to_krw": "955.888761",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "Le dollar canadien tient 956 KRW grâce au pétrole malgré l'assouplissement de la BoC",
       "brief": "Le dollar canadien défend le seuil de 956 KRW, le rebond des cours du pétrole brut compensant l'élargissement de l'écart de taux né des baisses de la Banque du Canada."
     },
     "CHF": {
       "rate_to_krw": "1622.536437",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "Le franc suisse progresse à 1 622 KRW porté par les flux de valeur refuge",
       "brief": "Le franc suisse s'est renforcé vers 1 622 KRW, les tensions géopolitiques et les inquiétudes budgétaires européennes alimentant une forte demande de valeur refuge."
     },
     "CNY": {
       "rate_to_krw": "200.705002",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "Le yuan se consolide à 200,7 KRW grâce au soutien de la PBOC et aux espoirs de relance",
       "brief": "Le yuan reste stable autour de 200,7 KRW grâce aux injections de liquidités de la PBOC et à des fixings maîtrisés, sur fond d'attente de nouveaux plans de relance."
     },
     "EUR": {
       "rate_to_krw": "1491.760000",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "L'euro remonte à 1 491 KRW grâce au rebond de la paire EUR/USD malgré la BCE",
       "brief": "L'euro a rebondi à 1 491 KRW dans le sillage de l'EUR/USD à 1,117, surmontant la morosité manufacturière et le maintien du taux de dépôt de la BCE à 2,50 %."
     },
     "GBP": {
       "rate_to_krw": "1789.110098",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "La livre progresse à 1 789 KRW avec le repli du dollar malgré la prudence budgétaire",
       "brief": "La livre a atteint 1 789 KRW sous l'effet du recul du billet vert, bien que les paris de baisse de taux de la BoE et l'attente du budget d'automne freinent son essor."
     },
     "HKD": {
       "rate_to_krw": "170.191211",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "Le dollar de Hong Kong reste stable à 170,2 KRW au sein de sa bande d'ancrage",
       "brief": "Le dollar de Hong Kong évolue calmement près de 170,2 KRW dans sa bande de 7,75–7,85 face au dollar, reflétant les flux boursiers régionaux et la pause de la Fed."
     },
     "JPY": {
       "rate_to_krw": "8.491348",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "Le yen rebondit à 849 KRW pour 100 JPY grâce à la BOJ et au repli de l'USD/JPY",
       "brief": "Le yen s'est redressé à 849 KRW pour 100 JPY grâce au statu quo de la BOJ à 1,25 %, au repli de l'USD/JPY à 157,0 et à la vigilance des autorités japonaises."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "Le won s'établit à 1 335 KRW soutenu par les ventes de devises des exportateurs",
       "brief": "Le won s'est consolidé vers 1 335 face au dollar grâce aux importantes conversions d'exportateurs et au taux de 3,00 % de la BOK face aux ventes d'actions étrangères."
     },
     "USD": {
       "rate_to_krw": "1335.266738",
-      "data_as_of": "2026-10-31",
+      "data_as_of": "2026-11-01",
       "headline": "Le dollar s'assagit à 1 335 KRW sous l'effet du repli des taux et des flux exportateurs",
       "brief": "Le billet vert a fléchi à 1 335 KRW, freiné par la détente des taux obligataires américains post-FOMC et les ventes massives de dollars des exportateurs coréens."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261030T234144Z",
+    "source_batch_id": "20261031T233031Z",
     "source_input_digest": "2d10cea40029e9e1428e62cd114b84c3e6bb3e15e2de2c8d2f3ba376a679f602",
-    "translated_at": "2026-10-30T23:41:44+00:00",
+    "translated_at": "2026-10-31T23:30:31+00:00",
     "direction": "ltr"
   }
 }
