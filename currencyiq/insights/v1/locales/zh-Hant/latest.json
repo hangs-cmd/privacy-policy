@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261031T233031Z",
-  "published_at": "2026-10-31T23:30:31+00:00",
-  "checked_at": "2026-10-31T23:30:31+00:00",
-  "valid_until": "2026-11-02T11:30:31+00:00",
+  "batch_id": "20261101T233034Z",
+  "published_at": "2026-11-01T23:30:34+00:00",
+  "checked_at": "2026-11-01T23:30:34+00:00",
+  "valid_until": "2026-11-03T11:30:34+00:00",
   "locale": "zh-Hant",
   "input_digest": "2d10cea40029e9e1428e62cd114b84c3e6bb3e15e2de2c8d2f3ba376a679f602",
   "source": {
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "zh-Hant",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "reference_rate": "1335.266738",
-      "generated_at": "2026-10-31T23:30:31+00:00",
+      "generated_at": "2026-11-01T23:30:34+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -36,7 +36,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-01"
+          "text": "2026-11-02"
         }
       ],
       "metrics": {
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "zh-Hant",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "reference_rate": "1491.760000",
-      "generated_at": "2026-10-31T23:30:31+00:00",
+      "generated_at": "2026-11-01T23:30:34+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -82,7 +82,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-01"
+          "text": "2026-11-02"
         }
       ],
       "metrics": {
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "zh-Hant",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "reference_rate": "8.491348",
-      "generated_at": "2026-10-31T23:30:31+00:00",
+      "generated_at": "2026-11-01T23:30:34+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -128,7 +128,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-01"
+          "text": "2026-11-02"
         }
       ],
       "metrics": {
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "zh-Hant",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "reference_rate": "1789.110098",
-      "generated_at": "2026-10-31T23:30:31+00:00",
+      "generated_at": "2026-11-01T23:30:34+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -174,7 +174,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-01"
+          "text": "2026-11-02"
         }
       ],
       "metrics": {
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "zh-Hant",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "reference_rate": "200.705002",
-      "generated_at": "2026-10-31T23:30:31+00:00",
+      "generated_at": "2026-11-01T23:30:34+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -220,7 +220,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-01"
+          "text": "2026-11-02"
         }
       ],
       "metrics": {
@@ -247,70 +247,70 @@
   "currencies": {
     "AUD": {
       "rate_to_krw": "937.977867",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "澳洲央行按兵不動與大宗商品企穩 澳幣持穩於938韓元",
       "brief": "澳洲央行維持偏鷹派的利率停頓基調，疊加鐵礦石等大宗商品價格企穩及中國財政刺激預期，澳幣在938韓元附近獲得穩固支撐。"
     },
     "CAD": {
       "rate_to_krw": "955.888761",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "國際油價反彈對沖降息利差 加幣守穩於956韓元附近",
       "brief": "加拿大央行降息雖導致利差擴大，但中東局勢推升原油價格反彈，為加幣提供了有力托底，匯價在956韓元一線展現韌性。"
     },
     "CHF": {
       "rate_to_krw": "1622.536437",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "地緣風險與歐洲財政擔憂 避險買盤推升瑞郎至1,622韓元",
       "brief": "儘管瑞士央行處於低利率週期，但地緣政治緊張與歐洲財政隱憂催生穩固避險需求，支撐瑞郎對韓元擴大漲勢至1,622韓元。"
     },
     "CNY": {
       "rate_to_krw": "200.705002",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "人民銀行流動性支持與財政發力預期 人民幣維穩於200.7韓元",
       "brief": "中國央行保持充裕流動性與平穩中間價，國內財政政策發力預期支撐人民幣匯率基本面，對韓元在200.7韓元附近保持穩定運行。"
     },
     "EUR": {
       "rate_to_krw": "1491.760000",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "歐美匯率反彈抵消製造業疲軟 歐元回升至1,491韓元一線",
       "brief": "歐洲央行維持存款利率在2.50%，雖然製造業景氣受限，但受美元走弱推升歐元兌美元帶動，歐元對韓元回升至1,491韓元。"
     },
     "GBP": {
       "rate_to_krw": "1789.110098",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "鎊美匯率上揚推升交叉盤 英鎊走高至1,789韓元附近",
       "brief": "英國央行降息預期與秋季預算案審慎情緒猶存，但美元回落助推英鎊兌美元反彈至1.338，帶動英鎊對韓元升至1,789韓元。"
     },
     "HKD": {
       "rate_to_krw": "170.191211",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "掛鉤機制下跟隨美元偏弱整理 港幣平穩運行於170.2韓元",
       "brief": "港幣在聯繫匯率制度（7.75–7.85）內跟隨美元溫和走低，結合區域股市資金變動，對韓元平穩運行於170.2韓元。"
     },
     "JPY": {
       "rate_to_krw": "8.491348",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "日本央行按兵不動與干預警戒 日圓回升至每百日圓849韓元",
       "brief": "日本央行維持1.25%利率，美元兌日圓回落至157.0一線，配合日本當局口頭干預戒備，日圓回升至每百日圓849韓元。"
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "月底出口結匯對沖股市拋盤 韓元在1,335韓元附近表現穩健",
       "brief": "儘管韓國股市面臨外資淨賣出，但月底半導體出口商強勁結匯與韓國央行3.00%利率底線支撐，韓元在1,335韓元附近保持穩固。"
     },
     "USD": {
       "rate_to_krw": "1335.266738",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "美債殖利率回落與出口商拋售 美元降至1,335韓元整理",
       "brief": "美聯儲暫停加息後美債殖利率走低，全球美元勢頭放緩，疊加月底出口企業集中賣匯，美元對韓元回落至1,335韓元區間。"
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261031T233031Z",
+    "source_batch_id": "20261101T233034Z",
     "source_input_digest": "2d10cea40029e9e1428e62cd114b84c3e6bb3e15e2de2c8d2f3ba376a679f602",
-    "translated_at": "2026-10-31T23:30:31+00:00",
+    "translated_at": "2026-11-01T23:30:34+00:00",
     "direction": "ltr"
   }
 }

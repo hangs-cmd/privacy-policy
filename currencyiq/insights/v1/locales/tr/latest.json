@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261031T233031Z",
-  "published_at": "2026-10-31T23:30:31+00:00",
-  "checked_at": "2026-10-31T23:30:31+00:00",
-  "valid_until": "2026-11-02T11:30:31+00:00",
+  "batch_id": "20261101T233034Z",
+  "published_at": "2026-11-01T23:30:34+00:00",
+  "checked_at": "2026-11-01T23:30:34+00:00",
+  "valid_until": "2026-11-03T11:30:34+00:00",
   "locale": "tr",
   "input_digest": "2d10cea40029e9e1428e62cd114b84c3e6bb3e15e2de2c8d2f3ba376a679f602",
   "source": {
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "tr",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "reference_rate": "1335.266738",
-      "generated_at": "2026-10-31T23:30:31+00:00",
+      "generated_at": "2026-11-01T23:30:34+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -36,7 +36,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-01"
+          "text": "2026-11-02"
         }
       ],
       "metrics": {
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "tr",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "reference_rate": "1491.760000",
-      "generated_at": "2026-10-31T23:30:31+00:00",
+      "generated_at": "2026-11-01T23:30:34+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -82,7 +82,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-01"
+          "text": "2026-11-02"
         }
       ],
       "metrics": {
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "tr",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "reference_rate": "8.491348",
-      "generated_at": "2026-10-31T23:30:31+00:00",
+      "generated_at": "2026-11-01T23:30:34+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -128,7 +128,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-01"
+          "text": "2026-11-02"
         }
       ],
       "metrics": {
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "tr",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "reference_rate": "1789.110098",
-      "generated_at": "2026-10-31T23:30:31+00:00",
+      "generated_at": "2026-11-01T23:30:34+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -174,7 +174,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-01"
+          "text": "2026-11-02"
         }
       ],
       "metrics": {
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "tr",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "reference_rate": "200.705002",
-      "generated_at": "2026-10-31T23:30:31+00:00",
+      "generated_at": "2026-11-01T23:30:34+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -220,7 +220,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-01"
+          "text": "2026-11-02"
         }
       ],
       "metrics": {
@@ -247,70 +247,70 @@
   "currencies": {
     "AUD": {
       "rate_to_krw": "937.977867",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "Avustralya doları RBA kararı ve emtia toparlanmasıyla 938 KRW'de sabit",
       "brief": "Avustralya doları, RBA'nın şahin faiz duruşu, toparlanan emtia fiyatları ve Çin teşvik beklentileriyle 938 KRW seviyesinde güçlü desteğini koruyor."
     },
     "CAD": {
       "rate_to_krw": "955.888761",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "Kanada doları petrol desteğiyle 956 KRW seviyesini savunuyor",
       "brief": "Kanada doları, artan petrol fiyatlarının BoC faiz indirimlerinden kaynaklanan getiri farkını dengelemesi sayesinde 956 KRW bandında sağlam duruyor."
     },
     "CHF": {
       "rate_to_krw": "1622.536437",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "İsviçre frangı güvenli liman talebiyle 1.622 KRW seviyesine yükseldi",
       "brief": "İsviçre frangı, jeopolitik riskler ve Avrupa bütçe endişelerinin yarattığı güvenli liman alımlarıyla SNB'nin düşük faizlerine rağmen 1.622 KRW'ye tırmandı."
     },
     "CNY": {
       "rate_to_krw": "200.705002",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "Yuan, PBOC likiditesi ve teşvik umutlarıyla 200,7 KRW civarında dengeli",
       "brief": "Çin yuanı, PBOC'nin bol likidite ve istikrarlı kur adımlarıyla mali destek paketleri beklentisi eşliğinde 200,7 KRW seviyesinde sakin işlem görüyor."
     },
     "EUR": {
       "rate_to_krw": "1491.760000",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "Euro, EUR/USD yükselişiyle AMB kararına rağmen 1.491 KRW'ye toparlandı",
       "brief": "Euro, dolardaki düşüşle EUR/USD'nin 1,117'ye tırmanması sayesinde sanayi durgunluğu ve AMB'nin %2,50 faiz kararına rağmen 1.491 KRW'ye ulaştı."
     },
     "GBP": {
       "rate_to_krw": "1789.110098",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "Sterlin, bütçe temkinliliğine rağmen dolardaki düşüşle 1.789 KRW'ye çıktı",
       "brief": "İngiliz sterlini, BoE indirim ihtimalleri ve bütçe öncesi temkinliliğe rağmen kablonun 1,338'e yükselmesiyle 1.789 KRW seviyesine ilerledi."
     },
     "HKD": {
       "rate_to_krw": "170.191211",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "Hong Kong doları kur çıpası bandında 170,2 KRW'de sakin seyrediyor",
       "brief": "Hong Kong doları, 7,75–7,85 çıpa bandı içinde ABD dolarındaki gevşemeyi ve Asya hisse senedi akışlarını izleyerek 170,2 KRW'de istikrarlı kaldı."
     },
     "JPY": {
       "rate_to_krw": "8.491348",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "Japon yeni, BOJ kararı ve USD/JPY düşüşüyle 849 KRW seviyesine çıktı",
       "brief": "Japon yeni, BOJ'un %1,25 faiz kararı, USD/JPY'nin 157,0'a inmesi ve Tokyo'nun müdahale uyarıları sayesinde 100 JPY başına 849 KRW'ye toparlandı."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "Kore wonu, ihracatçı satışları ve %3,00 BOK faiziyle 1.335 KRW'de güçlü",
       "brief": "Kore wonu, yarı iletken ihracatçılarının ay sonu döviz bozdurma akımları ve BOK'un %3,00 politika faizi sayesinde 1.335 seviyesinde direncini korudu."
     },
     "USD": {
       "rate_to_krw": "1335.266738",
-      "data_as_of": "2026-11-01",
+      "data_as_of": "2026-11-02",
       "headline": "ABD doları, gerileyen tahvil faizleri ve ihracatçı satışlarıyla 1.335'e indi",
       "brief": "ABD doları, FOMC sonrası Hazine tahvil getirilerindeki gevşeme ve şirketlerin yoğun ay sonu döviz satışları nedeniyle 1.335 KRW seviyesine çekildi."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261031T233031Z",
+    "source_batch_id": "20261101T233034Z",
     "source_input_digest": "2d10cea40029e9e1428e62cd114b84c3e6bb3e15e2de2c8d2f3ba376a679f602",
-    "translated_at": "2026-10-31T23:30:31+00:00",
+    "translated_at": "2026-11-01T23:30:34+00:00",
     "direction": "ltr"
   }
 }
