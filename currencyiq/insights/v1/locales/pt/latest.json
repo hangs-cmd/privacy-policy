@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261101T233034Z",
-  "published_at": "2026-11-01T23:30:34+00:00",
-  "checked_at": "2026-11-01T23:30:34+00:00",
-  "valid_until": "2026-11-03T11:30:34+00:00",
+  "batch_id": "20261102T234231Z",
+  "published_at": "2026-11-02T23:42:31+00:00",
+  "checked_at": "2026-11-02T23:42:31+00:00",
+  "valid_until": "2026-11-04T11:42:31+00:00",
   "locale": "pt",
-  "input_digest": "2d10cea40029e9e1428e62cd114b84c3e6bb3e15e2de2c8d2f3ba376a679f602",
+  "input_digest": "b6e86037c4fc947122d9189d804889d251e3325509282876d790f6d6f3c2d970",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "pt",
-      "data_as_of": "2026-11-02",
-      "reference_rate": "1335.266738",
-      "generated_at": "2026-11-01T23:30:34+00:00",
+      "data_as_of": "2026-11-03",
+      "reference_rate": "1342.902996",
+      "generated_at": "2026-11-02T23:42:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1335.266738 KRW"
+          "text": "1342.902996 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-02"
+          "text": "2026-11-03"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW recua para 1.335 com alívio nos rendimentos dos EUA e vendas de fim de mês",
-        "summary": "O USD/KRW recuou para 1.335 (referência BCE 1.335,27). A queda nos rendimentos dos Treasuries após o Fed e a fraqueza global do dólar alinharam-se a fortes vendas de divisas por exportadores de semicondutores no encerramento do mês, limitando oscilações e equilibrando o par entre 1.333 e 1.338 KRW.",
+        "headline": "USD/KRW se estabiliza em 1.342 com alívio nos rendimentos e equilíbrio de fluxos",
+        "summary": "O USD/KRW estabilizou-se perto de 1.342 (referência BCE 1.342,90). A moderação dos juros dos Treasuries de 10 anos e o recuo do índice dólar para a casa de 101 compensaram a demanda comercial de pagamentos de início de mês. Apesar da cautela com ações de tecnologia, as cotações foram limitadas por vendas de exportadores de semicondutores, fechando entre 1.338 e 1.346 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "pt",
-      "data_as_of": "2026-11-02",
-      "reference_rate": "1491.760000",
-      "generated_at": "2026-11-01T23:30:34+00:00",
+      "data_as_of": "2026-11-03",
+      "reference_rate": "1506.200000",
+      "generated_at": "2026-11-02T23:42:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1491.760000 KRW"
+          "text": "1506.200000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-02"
+          "text": "2026-11-03"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "Euro avança para 1.491 KRW com queda do dólar e recuperação do EUR/USD",
-        "summary": "O EUR/KRW subiu para cerca de 1.491 (referência BCE 1.491,76), amparado pela desvalorização do dólar que levou o EUR/USD acima de 1,117. Embora a taxa de depósito do BCE inalterada em 2,50% e a fraqueza da indústria limitem avanços, a fraqueza do dólar predominou e garantiu sustentação na faixa de 1.488–1.495 KRW.",
+        "headline": "Euro avança para 1.506 KRW com queda do dólar e recuperação do EUR/USD",
+        "summary": "O EUR/KRW recuperou-se em direção a 1.506 (referência BCE 1.506,20), acompanhando o enfraquecimento global do dólar e a cobertura de posições vendidas que impulsionaram o EUR/USD acima de 1,1216. Apesar da fraqueza fabril na zona do euro e da prudência fiscal na França após a manutenção da taxa do BCE em 2,50%, a recuperação do euro falou mais alto, sustentando o par em 1.500–1.512 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "pt",
-      "data_as_of": "2026-11-02",
-      "reference_rate": "8.491348",
-      "generated_at": "2026-11-01T23:30:34+00:00",
+      "data_as_of": "2026-11-03",
+      "reference_rate": "8.504800",
+      "generated_at": "2026-11-02T23:42:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.491348 KRW"
+          "text": "8.504800 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-02"
+          "text": "2026-11-03"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "Iene se recupera para 849 KRW por 100 JPY com BOJ estável e recuo do USD/JPY",
-        "summary": "O JPY/KRW recuperou-se para 8,49 KRW por iene (~849,1 KRW por 100 JPY, referência BCE 8,491). Com o Banco do Japão mantendo os juros em 1,25% e o USD/JPY recuando de 158 para 157,0, alertas verbais de intervenção em Tóquio e o alívio dos rendimentos dos EUA sustentaram o iene na faixa de suporte de 846–852 KRW.",
+        "headline": "Iene sobe para 850 KRW por 100 JPY com projeções do BOJ e queda do USD/JPY",
+        "summary": "O iene recuperou fôlego próximo a 8,50 KRW por unidade (~850,5 KRW por 100 JPY, referência BCE 8,505). Com o Banco do Japão mantendo juros em 1,25% mas elevando projeções de inflação em tom hawkish, e o USD/JPY recuando para a faixa de 157,5, as advertências de intervenção de Tóquio e o alívio nos rendimentos dos EUA sustentaram os preços entre 847 e 854 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "pt",
-      "data_as_of": "2026-11-02",
-      "reference_rate": "1789.110098",
-      "generated_at": "2026-11-01T23:30:34+00:00",
+      "data_as_of": "2026-11-03",
+      "reference_rate": "1802.105767",
+      "generated_at": "2026-11-02T23:42:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1789.110098 KRW"
+          "text": "1802.105767 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-02"
+          "text": "2026-11-03"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "Libra sobe para 1.789 KRW impulsionada por rali contra o dólar",
-        "summary": "O GBP/KRW avançou para 1.789 (referência BCE 1.789,11), com a libra subindo a 1,3386 frente ao dólar enfraquecido. Apesar das apostas em novos cortes de juros pelo BoE e cautela com o orçamento de outono no Reino Unido, o recuo global do dólar forneceu impulso firme, estabilizando o par entre 1.784 e 1.794 KRW.",
+        "headline": "Libra sobe para 1.802 com salto do cable acima de 1,34 antes do Banco da Inglaterra",
+        "summary": "O GBP/KRW subiu para 1.802 (referência BCE 1.802,11), com a libra britânica rompendo a barreira de 1,34 diante do dólar mais fraco. Embora investidores mantenham cautela antes da decisão sobre juros do Banco da Inglaterra e após o anúncio do orçamento britânico, o alívio na divisa norte-americana assegurou um movimento consistente de alta dentro do intervalo de 1.795–1.808 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "pt",
-      "data_as_of": "2026-11-02",
-      "reference_rate": "200.705002",
-      "generated_at": "2026-11-01T23:30:34+00:00",
+      "data_as_of": "2026-11-03",
+      "reference_rate": "201.992839",
+      "generated_at": "2026-11-02T23:42:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "200.705002 KRW"
+          "text": "201.992839 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-02"
+          "text": "2026-11-03"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "Yuan oscila perto de 200,7 com liquidez do PBOC e expectativas de estímulo",
-        "summary": "O CNY/KRW opera estável em torno de 200,7 (referência BCE 200,71) na faixa de 200–202 KRW. O Banco Popular da China mantém injeções de liquidez acomodatícias e fixações diárias estáveis, enquanto expectativas de novos estímulos fiscais sustentam a moeda. A acomodação do USD/KRW rumo a 1.335 manteve o par em um canal calmo de 200,5–201,2 KRW.",
+        "headline": "Yuan se mantém firme perto de 202,0 com liquidez do PBOC e estímulos fiscais",
+        "summary": "O CNY/KRW opera de forma estável ao redor de 202,0 (referência BCE 201,99) dentro da faixa de 201–203 KRW. O Banco Popular da China continua injetando liquidez abundante e mantendo fixações consistentes, enquanto a expectativa de estímulos fiscais pelo parlamento oferece suporte à cotação. Em harmonia com a estabilização do USD/KRW, o par encerrou entre 201,5 e 202,5 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -246,71 +246,71 @@
   ],
   "currencies": {
     "AUD": {
-      "rate_to_krw": "937.977867",
-      "data_as_of": "2026-11-02",
-      "headline": "Dólar australiano firme em 938 KRW com pausa do RBA e alta de commodities",
-      "brief": "O dólar australiano segue firme perto de 938 KRW, apoiado pela postura dura do RBA, recuperação de matérias-primas e otimismo com estímulos na China."
+      "rate_to_krw": "941.139715",
+      "data_as_of": "2026-11-03",
+      "headline": "Dólar australiano firme em 941 KRW sustentado por RBA e commodities",
+      "brief": "O dólar australiano mostra resiliência perto de 941 KRW, amparado pela postura rígida do RBA sobre juros, preços firmes de matérias-primas e expectativas de estímulos na China."
     },
     "CAD": {
-      "rate_to_krw": "955.888761",
-      "data_as_of": "2026-11-02",
-      "headline": "Dólar canadense defende 956 KRW com suporte do petróleo ante cortes do BoC",
-      "brief": "O dólar canadense sustenta 956 KRW com a alta do petróleo bruto em meio a tensões globais, compensando o diferencial de juros gerado pelos cortes do BoC."
+      "rate_to_krw": "961.015760",
+      "data_as_of": "2026-11-03",
+      "headline": "Dólar canadense defende 961 KRW com petróleo firme ante cortes de juros",
+      "brief": "O dólar canadense sustenta 961 KRW, já que a alta do petróleo por riscos no Oriente Médio compensa o diferencial de juros decorrente dos cortes promovidos pelo BoC."
     },
     "CHF": {
-      "rate_to_krw": "1622.536437",
-      "data_as_of": "2026-11-02",
-      "headline": "Franco suíço atinge 1.622 KRW com forte busca por refúgio seguro",
-      "brief": "O franco suíço subiu para 1.622 KRW, com tensões geopolíticas e dúvidas fiscais na Europa gerando forte demanda de proteção apesar dos juros baixos do SNB."
+      "rate_to_krw": "1638.420537",
+      "data_as_of": "2026-11-03",
+      "headline": "Franco suíço sobe para 1.638 KRW impulsionado por refúgio e riscos europeus",
+      "brief": "O franco suíço valorizou-se para 1.638 KRW; a busca por portos seguros frente a incertezas fiscais francesas e cautela global superou os juros reduzidos do SNB."
     },
     "CNY": {
-      "rate_to_krw": "200.705002",
-      "data_as_of": "2026-11-02",
-      "headline": "Yuan estável em 200,7 KRW com apoio do PBOC e espera por estímulos",
-      "brief": "O yuan negocia com estabilidade perto de 200,7 KRW sob ampla liquidez do PBOC e fixações consistentes, enquanto investidores monitoram planos fiscais."
+      "rate_to_krw": "201.992839",
+      "data_as_of": "2026-11-03",
+      "headline": "Yuan estabiliza em 202,0 KRW apoiado por liquidez do PBOC e estímulos",
+      "brief": "O yuan negocia com firmeza em 202,0 KRW, com o PBOC provendo ampla liquidez e fixações diárias estáveis, respaldado pela perspectiva de expansão fiscal do parlamento."
     },
     "EUR": {
-      "rate_to_krw": "1491.760000",
-      "data_as_of": "2026-11-02",
-      "headline": "Euro se recupera para 1.491 KRW com alta do EUR/USD apesar de pausa do BCE",
-      "brief": "O euro recuperou-se para 1.491 KRW com o avanço do EUR/USD para 1,117, superando dados fracos de manufatura e a manutenção da taxa de depósito do BCE em 2,50%."
+      "rate_to_krw": "1506.200000",
+      "data_as_of": "2026-11-03",
+      "headline": "Euro avança para 1.506 KRW com alta do EUR/USD e recompra de vendidos",
+      "brief": "O euro recuperou-se para 1.506 KRW com o avanço do EUR/USD para 1,12, superando dados fracos de manufatura e a manutenção da taxa de depósito do BCE em 2,50%."
     },
     "GBP": {
-      "rate_to_krw": "1789.110098",
-      "data_as_of": "2026-11-02",
-      "headline": "Libra avança para 1.789 KRW apoiada em ganhos contra o dólar",
-      "brief": "A libra subiu para 1.789 KRW amparada no rali do cable até 1,338, a despeito de apostas de alívio monetário do BoE e cautela com o orçamento britânico."
+      "rate_to_krw": "1802.105767",
+      "data_as_of": "2026-11-03",
+      "headline": "Libra avança para 1.802 KRW com cable superando 1,34 antes do BoE",
+      "brief": "A libra britânica subiu para 1.802 KRW após o avanço do GBP/USD acima de 1,34, com a desvalorização do dólar atenuando a cautela pré-BoE e questões orçamentárias."
     },
     "HKD": {
-      "rate_to_krw": "170.191211",
-      "data_as_of": "2026-11-02",
-      "headline": "Dólar de Hong Kong opera calmo em 170,2 KRW dentro da banda cambial",
-      "brief": "O dólar de Hong Kong negociou estável perto de 170,2 KRW em sua faixa de 7,75–7,85, refletindo a fraqueza do dólar dos EUA e fluxos de ações na Ásia."
+      "rate_to_krw": "171.155201",
+      "data_as_of": "2026-11-03",
+      "headline": "Dólar de Hong Kong segue dólar dentro de sua banda para marcar 171,2 KRW",
+      "brief": "O dólar de Hong Kong move-se estável em 171,2 KRW em sua banda de 7,75–7,85, acompanhando o alívio do dólar americano e os fluxos de negociação na Ásia."
     },
     "JPY": {
-      "rate_to_krw": "8.491348",
-      "data_as_of": "2026-11-02",
-      "headline": "Iene se recupera para 849 KRW por 100 JPY com BOJ em 1,25% e queda do USD/JPY",
-      "brief": "O iene voltou a 849 KRW por 100 JPY com o juro do BOJ em 1,25%, USD/JPY caindo a 157,0 e alertas de prontidão contra especulação cambial em Tóquio."
+      "rate_to_krw": "8.504800",
+      "data_as_of": "2026-11-03",
+      "headline": "Iene sobe para 850 KRW por 100 JPY com projeções do BOJ e intervenção",
+      "brief": "O iene valorizou-se para 850 KRW por 100 JPY com a revisão de inflação do BOJ e a queda do USD/JPY para 157, mantendo o alerta de intervenção do governo japonês."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-02",
-      "headline": "Won se firma em 1.335 KRW com vendas de exportadores e juros do BOK",
-      "brief": "O won manteve-se forte em 1.335 por volumosas conversões cambiais de exportadores no fim do mês e o piso de juros do BOK em 3,00%, contendo saídas na bolsa."
+      "data_as_of": "2026-11-03",
+      "headline": "Won coreano defende 1.342 KRW com exportação de chips e juros a 3,00%",
+      "brief": "O won exibiu consistência em 1.342 KRW, com o superávit comercial de chips e o piso de juros de 3,00% do Banco da Coreia neutralizando as saídas na bolsa."
     },
     "USD": {
-      "rate_to_krw": "1335.266738",
-      "data_as_of": "2026-11-02",
-      "headline": "Dólar recua para 1.335 KRW com alívio nos juros dos Treasuries e vendas",
-      "brief": "O dólar recuou para 1.335 KRW diante de juros mais baixos dos títulos públicos dos EUA pós-FOMC e fortes liquidações comerciais de fim de mês."
+      "rate_to_krw": "1342.902996",
+      "data_as_of": "2026-11-03",
+      "headline": "Dólar se estabiliza em 1.342 KRW com juros dos Treasuries calmos e vendas",
+      "brief": "O dólar norte-americano firmou-se em 1.342 KRW diante de juros calmos nos EUA e DXY em 101, com vendas de exportadores equilibrando a demanda comercial."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261101T233034Z",
-    "source_input_digest": "2d10cea40029e9e1428e62cd114b84c3e6bb3e15e2de2c8d2f3ba376a679f602",
-    "translated_at": "2026-11-01T23:30:34+00:00",
+    "source_batch_id": "20261102T234231Z",
+    "source_input_digest": "b6e86037c4fc947122d9189d804889d251e3325509282876d790f6d6f3c2d970",
+    "translated_at": "2026-11-02T23:42:31+00:00",
     "direction": "ltr"
   }
 }

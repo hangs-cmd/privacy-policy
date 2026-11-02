@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261101T233034Z",
-  "published_at": "2026-11-01T23:30:34+00:00",
-  "checked_at": "2026-11-01T23:30:34+00:00",
-  "valid_until": "2026-11-03T11:30:34+00:00",
+  "batch_id": "20261102T234231Z",
+  "published_at": "2026-11-02T23:42:31+00:00",
+  "checked_at": "2026-11-02T23:42:31+00:00",
+  "valid_until": "2026-11-04T11:42:31+00:00",
   "locale": "it",
-  "input_digest": "2d10cea40029e9e1428e62cd114b84c3e6bb3e15e2de2c8d2f3ba376a679f602",
+  "input_digest": "b6e86037c4fc947122d9189d804889d251e3325509282876d790f6d6f3c2d970",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "it",
-      "data_as_of": "2026-11-02",
-      "reference_rate": "1335.266738",
-      "generated_at": "2026-11-01T23:30:34+00:00",
+      "data_as_of": "2026-11-03",
+      "reference_rate": "1342.902996",
+      "generated_at": "2026-11-02T23:42:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1335.266738 KRW"
+          "text": "1342.902996 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-02"
+          "text": "2026-11-03"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW ripiega a 1.335 con il calo dei rendimenti USA e le vendite di fine mese",
-        "summary": "Il cambio USD/KRW è sceso a circa 1.335 (riferimento BCE 1.335,27). La distensione dei rendimenti dei Treasury post-FOMC e la debolezza del dollaro si sono sommate a cospicue vendite di valuta da parte degli esportatori tecnologici a fine mese, fissando il cambio a 1.333–1.338 KRW nonostante i deflussi dal listino KOSPI.",
+        "headline": "USD/KRW si assesta a 1.342 con la distensione dei tassi USA e flussi commerciali",
+        "summary": "Il cambio USD/KRW si è stabilizzato intorno a 1.342 (riferimento BCE 1.342,90). La distensione dei rendimenti dei Treasury decennali e il Dollar Index vicino a 101 hanno bilanciato i pagamenti commerciali di inizio mese. Nonostante la cautela sul settore tech, le regolari vendite di valuta degli esportatori di chip hanno arginato la corsa del cambio a 1.338–1.346 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "it",
-      "data_as_of": "2026-11-02",
-      "reference_rate": "1491.760000",
-      "generated_at": "2026-11-01T23:30:34+00:00",
+      "data_as_of": "2026-11-03",
+      "reference_rate": "1506.200000",
+      "generated_at": "2026-11-02T23:42:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1491.760000 KRW"
+          "text": "1506.200000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-02"
+          "text": "2026-11-03"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "L'euro rimbalza verso 1.491 KRW sulla debolezza del dollaro e la risalita di EUR/USD",
-        "summary": "EUR/KRW è risalito verso 1.491 (riferimento BCE 1.491,76), sostenuto dal calo globale del dollaro che ha portato EUR/USD a 1,117. Nonostante la BCE abbia confermato il tasso sui depositi al 2,50% e la debolezza manifatturiera permanga, la correzione del dollaro ha prevalso, mantenendo il cambio ben impostato nella fascia 1.488–1.495 KRW.",
+        "headline": "L'euro rimbalza verso 1.506 KRW sulla debolezza del dollaro e la risalita di EUR/USD",
+        "summary": "Il cross EUR/KRW ha recuperato verso 1.506 (riferimento BCE 1.506,20) beneficiando della flessione generale del biglietto verde e delle ricoperture che hanno spinto EUR/USD oltre 1,1216. Nonostante il rallentamento manifatturiero e la cautela fiscale francese dopo la conferma del tasso BCE al 2,50%, la ripresa dell'euro ha guidato gli scambi consolidando la coppia tra 1.500 e 1.512 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "it",
-      "data_as_of": "2026-11-02",
-      "reference_rate": "8.491348",
-      "generated_at": "2026-11-01T23:30:34+00:00",
+      "data_as_of": "2026-11-03",
+      "reference_rate": "8.504800",
+      "generated_at": "2026-11-02T23:42:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.491348 KRW"
+          "text": "8.504800 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-02"
+          "text": "2026-11-03"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "Lo yen rimbalza a 849 KRW per 100 JPY con la BOJ ferma all'1,25% e USD/JPY a 157",
-        "summary": "Il JPY/KRW ha recuperato verso quota 8,49 KRW per yen (~849,1 KRW per 100 JPY, riferimento BCE 8,491). Con la Bank of Japan che ha mantenuto i tassi all'1,25% e USD/JPY sceso da circa 158 a 157,0, i moniti verbali di Tokyo e il calo dei rendimenti USA hanno consentito allo yen di difendere l'area di supporto tra 846 e 852 KRW.",
+        "headline": "Lo yen risale a 850 KRW per 100 JPY su segnali restrittivi BoJ e calo USD/JPY",
+        "summary": "Lo yen ha recuperato verso 8,50 KRW per unità (~850,5 KRW per 100 JPY, riferimento BCE 8,505). Con la Bank of Japan che ha alzato le stime d'inflazione pur mantenendo i tassi all'1,25%, e USD/JPY sceso verso 157,5, gli avvertimenti verbali di Tokyo e il calo dei rendimenti USA hanno blindato il supporto dello yen nell'intervallo 847–854 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "it",
-      "data_as_of": "2026-11-02",
-      "reference_rate": "1789.110098",
-      "generated_at": "2026-11-01T23:30:34+00:00",
+      "data_as_of": "2026-11-03",
+      "reference_rate": "1802.105767",
+      "generated_at": "2026-11-02T23:42:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1789.110098 KRW"
+          "text": "1802.105767 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-02"
+          "text": "2026-11-03"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "La sterlina sale a 1.789 KRW trainata dal rialzo del cambio contro il dollaro",
-        "summary": "Il GBP/KRW è avanzato verso 1.789 (riferimento BCE 1.789,11), con la sterlina che ha raggiunto quota 1,3386 contro il dollaro debole. Sebbene i mercati scontino ulteriori tagli da parte della BoE e cautela prima della manovra autunnale, la flessione globale del biglietto verde ha spinto il cross tra 1.784 e 1.794 KRW.",
+        "headline": "Sterlina in ascesa a 1.802 trainata dal balzo del cable oltre 1,34 prima della BoE",
+        "summary": "GBP/KRW è salito verso quota 1.802 (riferimento BCE 1.802,11) con la sterlina che ha superato quota 1,34 contro il dollaro. Sebbene permanga prudenza in vista della decisione sui tassi della Bank of England e dopo la presentazione del bilancio d'autunno britannico, il ripiegamento del dollaro ha favorito la tenuta della sterlina in un canale tra 1.795 e 1.808 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "it",
-      "data_as_of": "2026-11-02",
-      "reference_rate": "200.705002",
-      "generated_at": "2026-11-01T23:30:34+00:00",
+      "data_as_of": "2026-11-03",
+      "reference_rate": "201.992839",
+      "generated_at": "2026-11-02T23:42:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "200.705002 KRW"
+          "text": "201.992839 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-02"
+          "text": "2026-11-03"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "Lo yuan scambia stabile vicino a 200,7 con la liquidità della PBOC e attese di stimoli",
-        "summary": "Il CNY/KRW si muove stabilmente intorno a 200,7 (riferimento BCE 200,71) nel corridoio 200–202 KRW. La Banca Popolare Cinese assicura un sostegno continuo alla liquidità e un fixing giornaliero stabile, mentre le aspettative di manovre fiscali proteggono lo yuan. Il calo di USD/KRW verso 1.335 ha favorito una stabilizzazione nel canale 200,5–201,2 KRW.",
+        "headline": "Lo yuan consolida vicino a 202,0 grazie alla liquidità PBOC e attese di stimoli",
+        "summary": "Il cambio CNY/KRW tratta stabilmente attorno a 202,0 (riferimento BCE 201,99) all'interno della fascia 201–203 KRW. La Banca Popolare Cinese assicura abbondante liquidità e fixing stabili, mentre le attese di stimoli fiscali dell'Assemblea Nazionale del Popolo sostengono le quotazioni. In sintonia con la tenuta di USD/KRW, il cross ha chiuso con minime fluttuazioni a 201,5–202,5 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -246,71 +246,71 @@
   ],
   "currencies": {
     "AUD": {
-      "rate_to_krw": "937.977867",
-      "data_as_of": "2026-11-02",
-      "headline": "Dollaro australiano solido a 938 KRW grazie alla RBA e al rialzo delle materie prime",
-      "brief": "Il dollaro australiano resta stabile sui 938 KRW, favorito dalla posizione restrittiva della RBA, dal rimbalzo dei corsi delle materie prime e dalla fiducia negli stimoli cinesi."
+      "rate_to_krw": "941.139715",
+      "data_as_of": "2026-11-03",
+      "headline": "Dollaro australiano solido a 941 KRW trainato dalla RBA e materie prime",
+      "brief": "Il dollaro australiano mantiene una buona tenuta a 941 KRW, sostenuto dal rigore della RBA sui tassi, prezzi stabili delle materie prime e fiducia negli stimoli cinesi."
     },
     "CAD": {
-      "rate_to_krw": "955.888761",
-      "data_as_of": "2026-11-02",
-      "headline": "Dollaro canadese a 956 KRW sostenuto dal greggio a fronte dei tagli della BoC",
-      "brief": "Il dollaro canadese difende quota 956 KRW grazie al rimbalzo delle quotazioni del petrolio per le tensioni geopolitiche, che compensa l'allargamento del differenziale con la Fed."
+      "rate_to_krw": "961.015760",
+      "data_as_of": "2026-11-03",
+      "headline": "Dollaro canadese saldo a 961 KRW grazie al petrolio contro i tagli BoC",
+      "brief": "Il dollaro canadese difende quota 961 KRW poiché il rialzo del greggio sui rischi in Medio Oriente compensa l'allargamento del differenziale di rendimento con la BoC."
     },
     "CHF": {
-      "rate_to_krw": "1622.536437",
-      "data_as_of": "2026-11-02",
-      "headline": "Franco svizzero a 1.622 KRW spinto dai consistenti flussi verso beni rifugio",
-      "brief": "Il franco svizzero si è rafforzato a 1.622 KRW, sostenuto dall'avversione al rischio geopolitica e dalle incertezze fiscali europee, che superano i bassi tassi della BNS."
+      "rate_to_krw": "1638.420537",
+      "data_as_of": "2026-11-03",
+      "headline": "Franco svizzero a 1.638 KRW per afflussi difensivi e incertezze europee",
+      "brief": "Il franco svizzero è salito a 1.638 KRW; la domanda di bene rifugio per i timori fiscali francesi e l'avversione al rischio ha prevalso sui tassi contenuti della BNS."
     },
     "CNY": {
-      "rate_to_krw": "200.705002",
-      "data_as_of": "2026-11-02",
-      "headline": "Yuan stabile intorno a 200,7 KRW con liquidità PBOC e attesa di riforme fiscali",
-      "brief": "Lo yuan scambia stabilmente attorno a 200,7 KRW con la PBOC che mantiene liquidità adeguata e fixing controllati, mentre gli operatori attendono nuove misure espansive."
+      "rate_to_krw": "201.992839",
+      "data_as_of": "2026-11-03",
+      "headline": "Yuan cinese stabile a 202,0 KRW con supporto PBOC e attese di stimoli",
+      "brief": "Lo yuan scambia stabilmente attorno a 202,0 KRW grazie alla continua liquidità e fixing della PBOC, rafforzato dalle prospettive di stimoli fiscali del parlamento."
     },
     "EUR": {
-      "rate_to_krw": "1491.760000",
-      "data_as_of": "2026-11-02",
-      "headline": "Euro in recupero a 1.491 KRW guidato da EUR/USD malgrado la pausa della BCE",
-      "brief": "L'euro è risalito a 1.491 KRW con EUR/USD oltre 1,117 sulla debolezza del dollaro, superando il rallentamento manifatturiero e la conferma del tasso BCE al 2,50%."
+      "rate_to_krw": "1506.200000",
+      "data_as_of": "2026-11-03",
+      "headline": "Euro in recupero a 1.506 KRW guidato da EUR/USD oltre 1,12 e ricoperture",
+      "brief": "L'euro è risalito a 1.506 KRW con EUR/USD oltre 1,12 sulla debolezza del dollaro, superando il rallentamento manifatturiero e la conferma del tasso BCE al 2,50%."
     },
     "GBP": {
-      "rate_to_krw": "1789.110098",
-      "data_as_of": "2026-11-02",
-      "headline": "Sterlina in rialzo a 1.789 KRW trainata dal dollaro debole malgrado attese BoE",
-      "brief": "La sterlina è salita a 1.789 KRW favorita dalla risalita del cable a 1,338, nonostante le scommesse su nuovi tagli BoE e la prudenza per il bilancio autunnale."
+      "rate_to_krw": "1802.105767",
+      "data_as_of": "2026-11-03",
+      "headline": "Sterlina in ascesa a 1.802 KRW con cable oltre 1,34 in attesa della BoE",
+      "brief": "La sterlina è salita a 1.802 KRW dopo che GBP/USD ha superato 1,34; il ritracciamento del dollaro ha attenuato la cautela prima della BoE e del bilancio d'autunno."
     },
     "HKD": {
-      "rate_to_krw": "170.191211",
-      "data_as_of": "2026-11-02",
-      "headline": "Dollaro di Hong Kong calmo a 170,2 KRW all'interno del corridoio di cambio",
-      "brief": "Il dollaro di Hong Kong scambia stabile a 170,2 KRW nella banda 7,75–7,85, riflettendo la flessione del dollaro USA e i flussi di portafoglio regionali."
+      "rate_to_krw": "171.155201",
+      "data_as_of": "2026-11-03",
+      "headline": "Dollaro di Hong Kong stabile nel corridoio peg a 171,2 KRW su dollaro calmo",
+      "brief": "Il dollaro di Hong Kong tratta fermo a 171,2 KRW nella banda 7,75–7,85, seguendo l'andamento controllato del biglietto verde e gli scambi sui listini asiatici."
     },
     "JPY": {
-      "rate_to_krw": "8.491348",
-      "data_as_of": "2026-11-02",
-      "headline": "Yen risale a 849 KRW per 100 JPY con BOJ all'1,25% e ritracciamento USD/JPY",
-      "brief": "Lo yen ha recuperato gli 849 KRW per 100 JPY grazie ai tassi fermi all'1,25% della BOJ, alla discesa di USD/JPY a 157,0 e all'allerta delle autorità valutarie a Tokyo."
+      "rate_to_krw": "8.504800",
+      "data_as_of": "2026-11-03",
+      "headline": "Yen in recupero a 850 KRW per 100 JPY su stime d'inflazione BoJ e interventi",
+      "brief": "Lo yen si è rafforzato a 850 KRW per 100 JPY grazie all'aumento delle stime d'inflazione della BoJ, alla discesa di USD/JPY a 157 e ai moniti d'intervento di Tokyo."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-02",
-      "headline": "Won saldo a 1.335 KRW grazie alle vendite export e alla difesa del tasso BOK",
-      "brief": "Il won ha tenuto quota 1.335 contro il dollaro grazie ai flussi di incasso dei colossi dei chip e al tasso BOK al 3,00%, che hanno assorbito le vendite sull'azionario."
+      "data_as_of": "2026-11-03",
+      "headline": "Won coreano saldo a 1.342 KRW difeso da export di chip e tasso al 3,00%",
+      "brief": "Il won ha confermato un solido supporto a 1.342 KRW, con l'attivo commerciale dei semiconduttori e il tasso base al 3,00% che hanno ammortizzato i deflussi azionari."
     },
     "USD": {
-      "rate_to_krw": "1335.266738",
-      "data_as_of": "2026-11-02",
-      "headline": "Biglietto verde in discesa a 1.335 KRW su calo rendimenti e vendite export",
-      "brief": "Il dollaro USA è scivolato a 1.335 KRW per effetto del ribasso dei rendimenti obbligazionari dopo la riunione Fed e dei massicci realizzi commerciali di fine mese."
+      "rate_to_krw": "1342.902996",
+      "data_as_of": "2026-11-03",
+      "headline": "Dollaro USA stabile a 1.342 KRW su rendimenti calmi e vendite esportatori",
+      "brief": "Il biglietto verde si è attestato a 1.342 KRW per effetto della calma sui rendimenti USA e del DXY a 101, con l'offerta commerciale che ha bilanciato i pagamenti."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261101T233034Z",
-    "source_input_digest": "2d10cea40029e9e1428e62cd114b84c3e6bb3e15e2de2c8d2f3ba376a679f602",
-    "translated_at": "2026-11-01T23:30:34+00:00",
+    "source_batch_id": "20261102T234231Z",
+    "source_input_digest": "b6e86037c4fc947122d9189d804889d251e3325509282876d790f6d6f3c2d970",
+    "translated_at": "2026-11-02T23:42:31+00:00",
     "direction": "ltr"
   }
 }

@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261101T233034Z",
-  "published_at": "2026-11-01T23:30:34+00:00",
-  "checked_at": "2026-11-01T23:30:34+00:00",
-  "valid_until": "2026-11-03T11:30:34+00:00",
+  "batch_id": "20261102T234231Z",
+  "published_at": "2026-11-02T23:42:31+00:00",
+  "checked_at": "2026-11-02T23:42:31+00:00",
+  "valid_until": "2026-11-04T11:42:31+00:00",
   "locale": "nl",
-  "input_digest": "2d10cea40029e9e1428e62cd114b84c3e6bb3e15e2de2c8d2f3ba376a679f602",
+  "input_digest": "b6e86037c4fc947122d9189d804889d251e3325509282876d790f6d6f3c2d970",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "nl",
-      "data_as_of": "2026-11-02",
-      "reference_rate": "1335.266738",
-      "generated_at": "2026-11-01T23:30:34+00:00",
+      "data_as_of": "2026-11-03",
+      "reference_rate": "1342.902996",
+      "generated_at": "2026-11-02T23:42:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1335.266738 KRW"
+          "text": "1342.902996 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-02"
+          "text": "2026-11-03"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW daalt naar 1.335 door lagere rentes en exporteursverkopen",
-        "summary": "USD/KRW daalde naar 1.335 (ECB-ref 1.335,27). Dalende Amerikaanse rentes na de Fed-pauze en een zachtere dollar vielen samen met aanzienlijke dollarverkopen van chipfabrikanten aan het maandeinde, waardoor het valutapaar ondanks aandelenverkopen keurig stabiliseerde tussen 1.333 en 1.338 KRW.",
+        "headline": "USD/KRW stabiliseert rond 1.342 door rustige obligatierentes en exporteursaanbod",
+        "summary": "USD/KRW vond rust rond 1.342 (ECB-ref 1.342,90). Stabilisatie van Amerikaanse tienjaarsrentes en een lichte terugval van de dollarindex richting 101 hielden gelijke tred met importbetalingen aan het begin van de maand. Ondanks terughoudendheid op de aandelenmarkt zorgde gestage dollarafdekking door chipexporteurs ervoor dat het paar binnen 1.338–1.346 KRW sloot.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "nl",
-      "data_as_of": "2026-11-02",
-      "reference_rate": "1491.760000",
-      "generated_at": "2026-11-01T23:30:34+00:00",
+      "data_as_of": "2026-11-03",
+      "reference_rate": "1506.200000",
+      "generated_at": "2026-11-02T23:42:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1491.760000 KRW"
+          "text": "1506.200000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-02"
+          "text": "2026-11-03"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW herstelt naar 1.491 door zwakkere dollar en stijging EUR/USD",
-        "summary": "EUR/KRW herstelde richting 1.491 (ECB-ref 1.491,76), gedreven door de bredere verzwakking van de dollar die EUR/USD boven 1,117 tilde. Hoewel het ECB-besluit om de depositorente op 2,50% te houden en haperende industriële activiteit de opwaartse ruimte temperen, bood de dalende dollar voldoende steun in de bandbreedte 1.488–1.495 KRW.",
+        "headline": "EUR/KRW herstelt naar 1.506 door zwakkere dollar en stijging EUR/USD",
+        "summary": "EUR/KRW veerde op naar 1.506 (ECB-ref 1.506,20), gesteund door een algemene terugval van de Amerikaanse dollar en short covering waardoor EUR/USD boven 1,1216 uitkwam. Hoewel aanhoudende industriële tegenwind en Franse begrotingszorgen na de ECB-rentepauze op 2,50% de opwaartse ruimte temperen, had de eurosterkte tegenover de dollar de overhand en hield het paar vast aan 1.500–1.512 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "nl",
-      "data_as_of": "2026-11-02",
-      "reference_rate": "8.491348",
-      "generated_at": "2026-11-01T23:30:34+00:00",
+      "data_as_of": "2026-11-03",
+      "reference_rate": "8.504800",
+      "generated_at": "2026-11-02T23:42:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.491348 KRW"
+          "text": "8.504800 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-02"
+          "text": "2026-11-03"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW veert op naar 849 KRW per 100 JPY bij BOJ-pauze en USD/JPY op 157",
-        "summary": "JPY/KRW veerde op naar circa 8,49 KRW per yen (~849,1 KRW per 100 JPY, ECB-ref 8,491). Doordat de Bank of Japan haar rente op 1,25% handhaafde en USD/JPY terugviel naar 157,0, boden verbale interventiewaarschuwingen uit Tokio en dalende Amerikaanse rentes stevige steun aan de yen binnen de 846–852 KRW marge.",
+        "headline": "JPY/KRW herstelt naar 850 KRW per 100 JPY op hawkish BOJ en daling USD/JPY",
+        "summary": "JPY/KRW herstelde naar circa 8,50 KRW per yen (~850,5 KRW per 100 JPY, ECB-ref 8,505). Doordat de Bank of Japan de inflatieverwachtingen verhoogde ondanks handhaving van het rentetarief op 1,25%, en USD/JPY terugviel naar het midden van de 157-zone, boden interventiewaarschuwingen uit Tokio en dalende Amerikaanse rentes steun tussen 847 en 854 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "nl",
-      "data_as_of": "2026-11-02",
-      "reference_rate": "1789.110098",
-      "generated_at": "2026-11-01T23:30:34+00:00",
+      "data_as_of": "2026-11-03",
+      "reference_rate": "1802.105767",
+      "generated_at": "2026-11-02T23:42:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1789.110098 KRW"
+          "text": "1802.105767 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-02"
+          "text": "2026-11-03"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW stijgt naar 1.789 door sterker pond tegenover dalende dollar",
-        "summary": "GBP/KRW klom naar 1.789 (ECB-ref 1.789,11), doordat het pond steeg naar 1,3386 dollar tegenover de zachtere greenback. Ondanks verwachtingen van renteverlagingen door de Bank of England en begrotingsvoorzichtigheid voor de herfstbegroting, gaf de dollarcorrectie een duidelijke impuls tussen 1.784 en 1.794 KRW.",
+        "headline": "GBP/KRW stijgt naar 1.802 door cable-herstel boven 1,34 voor BoE-rentebesluit",
+        "summary": "GBP/KRW klom op naar 1.802 (ECB-ref 1.802,11) doordat het Britse pond profiteerde van een zwakkere dollar en boven 1,34 noteerde. Hoewel voorzichtigheid overheerst in afwachting van het rentebesluit van de Bank of England en na de begroting, bood de mondiale dollarconsolidatie stevige rugwind en handhaafde het koersniveau zich binnen 1.795–1.808 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "nl",
-      "data_as_of": "2026-11-02",
-      "reference_rate": "200.705002",
-      "generated_at": "2026-11-01T23:30:34+00:00",
+      "data_as_of": "2026-11-03",
+      "reference_rate": "201.992839",
+      "generated_at": "2026-11-02T23:42:31+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "200.705002 KRW"
+          "text": "201.992839 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-02"
+          "text": "2026-11-03"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW consolideert nabij 200,7 dankzij PBOC-liquiditeit en stimuleringshoop",
-        "summary": "CNY/KRW beweegt stabiel rond 200,7 (ECB-ref 200,71) binnen de 200–202 KRW bandbreedte. De Chinese centrale bank handhaaft een verruimend liquiditeitsbeleid en evenwichtige dagelijkse fixings, terwijl verwachtingen van begrotingssteun de yuan schragen. De daling van USD/KRW naar 1.335 zorgde voor een ordelijk verloop tussen 200,5 en 201,2 KRW.",
+        "headline": "CNY/KRW houdt stand rond 202,0 dankzij PBOC-liquiditeit en stimuleringsplannen",
+        "summary": "CNY/KRW beweegt stabiel rond 202,0 (ECB-ref 201,99) binnen een bandbreedte van 201–203 KRW. De Chinese centrale bank handhaaft een soepel liquiditeitsbeleid en evenwichtige dagelijkse vaststellingen, terwijl marktverwachtingen rondom fiscale steunpakketten vanuit Beijing steun bieden. Samen met het kalmere verloop van USD/KRW sloot het paar binnen 201,5–202,5 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -246,71 +246,71 @@
   ],
   "currencies": {
     "AUD": {
-      "rate_to_krw": "937.977867",
-      "data_as_of": "2026-11-02",
-      "headline": "Australische dollar stabiel op 938 KRW door RBA-rente en grondstoffen",
-      "brief": "De Australische dollar handhaaft zich rond 938 KRW dankzij het rentebesluit van de RBA, stijgende grondstoffenprijzen en hoop op Chinese stimuleringsmaatregelen."
+      "rate_to_krw": "941.139715",
+      "data_as_of": "2026-11-03",
+      "headline": "Australische dollar veerkrachtig op 941 KRW dankzij RBA en grondstoffen",
+      "brief": "De Australische dollar houdt stand nabij 941 KRW, gedragen door het restrictieve beleid van de RBA, stabiele grondstoffenprijzen en stimuleringsplannen in China."
     },
     "CAD": {
-      "rate_to_krw": "955.888761",
-      "data_as_of": "2026-11-02",
-      "headline": "Canadese dollar verdedigt 956 KRW dankzij herstel van de olieprijs",
-      "brief": "De Canadese dollar houdt stand op 956 KRW doordat oplopende olieprijzen het renteverschil compenseren dat ontstond door verruimingen van de Bank of Canada."
+      "rate_to_krw": "961.015760",
+      "data_as_of": "2026-11-03",
+      "headline": "Canadese dollar verdedigt 961 KRW dankzij olieprijs tegenover renteverlagingen",
+      "brief": "De Canadese dollar handhaaft zich rond 961 KRW; hogere olieprijzen door spanningen in het Midden-Oosten compenseren het renteverschil door BoC-verlagingen."
     },
     "CHF": {
-      "rate_to_krw": "1622.536437",
-      "data_as_of": "2026-11-02",
-      "headline": "Zwitserse frank stijgt naar 1.622 KRW door toevlucht tot veilige haven",
-      "brief": "De Zwitserse frank steeg naar 1.622 KRW, doordat geopolitieke spanningen en Europese begrotingszorgen de vraag naar veilige havens ondanks lage SNB-rentes aanjoegen."
+      "rate_to_krw": "1638.420537",
+      "data_as_of": "2026-11-03",
+      "headline": "Zwitserse frank stijgt naar 1.638 KRW door vlucht naar veilige havens",
+      "brief": "De Zwitserse frank klom naar 1.638 KRW; de aanhoudende vraag naar veilige havens vanwege Franse begrotingszorgen overtrof de lage rentetarieven van de SNB."
     },
     "CNY": {
-      "rate_to_krw": "200.705002",
-      "data_as_of": "2026-11-02",
-      "headline": "Chinese yuan blijft rond 200,7 KRW dankzij PBOC-steun en beleidshoop",
-      "brief": "De yuan koerst stabiel rond 200,7 KRW met aanhoudende liquiditeitssteun van de PBOC en stabiele fixings, terwijl beleggers wachten op fiscale stimuleringspakketten."
+      "rate_to_krw": "201.992839",
+      "data_as_of": "2026-11-03",
+      "headline": "Chinese yuan stabiliseert op 202,0 KRW door PBOC-steun en fiscale plannen",
+      "brief": "De yuan noteert stabiel rond 202,0 KRW; de PBOC zorgt voor ruime liquiditeit en vaste fixings, terwijl verwachtingen van economische steun ondergrens bieden."
     },
     "EUR": {
-      "rate_to_krw": "1491.760000",
-      "data_as_of": "2026-11-02",
-      "headline": "Euro herstelt naar 1.491 KRW door winst EUR/USD ondanks pauze van ECB",
-      "brief": "De euro veerde op naar 1.491 KRW doordat EUR/USD steeg naar 1,117, waarmee de aarzelende industriële vraag en de rentehandhaving op 2,50% werden opgevangen."
+      "rate_to_krw": "1506.200000",
+      "data_as_of": "2026-11-03",
+      "headline": "Euro stijgt naar 1.506 KRW dankzij opmars EUR/USD en short covering",
+      "brief": "De euro herstelde naar 1.506 KRW doordat EUR/USD boven 1,12 uitsteeg; dit compenseerde industriële tegenwind en de ongewijzigde ECB-depositorente van 2,50%."
     },
     "GBP": {
-      "rate_to_krw": "1789.110098",
-      "data_as_of": "2026-11-02",
-      "headline": "Brits pond stijgt naar 1.789 KRW door val van de dollar ondanks begrotingszorg",
-      "brief": "Het pond klom naar 1.789 KRW dankzij de stijging van het pond naar 1,338 dollar, ondanks BoE-renteverlagingstaxaties en voorzichtigheid rond de herfstbegroting."
+      "rate_to_krw": "1802.105767",
+      "data_as_of": "2026-11-03",
+      "headline": "Brits pond stijgt naar 1.802 KRW nu cable 1,34 passeert voor BoE-bijeenkomst",
+      "brief": "Het pond klom naar 1.802 KRW doordat GBP/USD boven 1,34 steeg; de zachtere dollar verzachtte de terughoudendheid rondom de begroting en het BoE-besluit."
     },
     "HKD": {
-      "rate_to_krw": "170.191211",
-      "data_as_of": "2026-11-02",
-      "headline": "Hongkongse dollar rustig op 170,2 KRW binnen valutabasisbandbreedte",
-      "brief": "De Hongkongse dollar handelde kalm rond 170,2 KRW binnen de peg-band van 7,75–7,85, in lijn met de zachtere dollar en aandelenkapitaalstromen in Azië."
+      "rate_to_krw": "171.155201",
+      "data_as_of": "2026-11-03",
+      "headline": "Hongkongse dollar volgt dollar binnen peg-marge en noteert 171,2 KRW",
+      "brief": "De Hongkongse dollar beweegt kalm rond 171,2 KRW binnen de 7,75–7,85 koppelingsmarge en volgt het evenwichtige verloop van de Amerikaanse dollar."
     },
     "JPY": {
-      "rate_to_krw": "8.491348",
-      "data_as_of": "2026-11-02",
-      "headline": "Japanse yen herstelt naar 849 KRW per 100 JPY door BOJ en daling USD/JPY",
-      "brief": "De yen steeg naar 849 KRW per 100 JPY dankzij de 1,25% beleidsrente van de BOJ, een dalende USD/JPY naar 157,0 en interventiewaarschuwingen uit Tokio."
+      "rate_to_krw": "8.504800",
+      "data_as_of": "2026-11-03",
+      "headline": "Japanse yen stijgt naar 850 KRW per 100 JPY op BOJ-vooruitzichten en waarschuwing",
+      "brief": "De yen herstelde tot 850 KRW per 100 JPY dankzij hogere inflatieprognoses van de BOJ, een dalende USD/JPY naar 157 en interventiebereidheid in Tokio."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-02",
-      "headline": "Koreaanse won handhaaft 1.335 KRW dankzij exportverkopen en BOK-rente",
-      "brief": "De won bleef sterk op 1.335 per dollar door omvangrijke dollarverkopen van chip-exporteurs en de stevige BOK-beleidsrente van 3,00% tegenover aandelenuitstroom."
+      "data_as_of": "2026-11-03",
+      "headline": "Koreaanse won behoudt 1.342 KRW dankzij chipoverschot en 3,00% renteanker",
+      "brief": "De won toonde veerkracht op 1.342 KRW; overschotten uit de export van halfgeleiders en de 3,00% beleidsrente van de centrale bank vingen aandelenverliezen op."
     },
     "USD": {
-      "rate_to_krw": "1335.266738",
-      "data_as_of": "2026-11-02",
-      "headline": "Amerikaanse dollar daalt naar 1.335 KRW door lagere rentes en exportconversie",
-      "brief": "De Amerikaanse dollar zakte naar 1.335 KRW door dalende obligatierendementen na de Fed-bijeenkomst en actieve valutaconversies van exporteurs aan het maandeinde."
+      "rate_to_krw": "1342.902996",
+      "data_as_of": "2026-11-03",
+      "headline": "Amerikaanse dollar kalmeert op 1.342 KRW door stabiele rentes en exporteursverkoop",
+      "brief": "De Amerikaanse dollar hield stand op 1.342 KRW doordat stabiele Amerikaanse rentes en een DXY rond 101 in evenwicht werden gehouden door exportconversies."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261101T233034Z",
-    "source_input_digest": "2d10cea40029e9e1428e62cd114b84c3e6bb3e15e2de2c8d2f3ba376a679f602",
-    "translated_at": "2026-11-01T23:30:34+00:00",
+    "source_batch_id": "20261102T234231Z",
+    "source_input_digest": "b6e86037c4fc947122d9189d804889d251e3325509282876d790f6d6f3c2d970",
+    "translated_at": "2026-11-02T23:42:31+00:00",
     "direction": "ltr"
   }
 }
