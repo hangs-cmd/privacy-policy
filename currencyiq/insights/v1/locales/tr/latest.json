@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261102T234231Z",
-  "published_at": "2026-11-02T23:42:31+00:00",
-  "checked_at": "2026-11-02T23:42:31+00:00",
-  "valid_until": "2026-11-04T11:42:31+00:00",
+  "batch_id": "20261103T234037Z",
+  "published_at": "2026-11-03T23:40:37+00:00",
+  "checked_at": "2026-11-03T23:40:37+00:00",
+  "valid_until": "2026-11-05T11:40:37+00:00",
   "locale": "tr",
-  "input_digest": "b6e86037c4fc947122d9189d804889d251e3325509282876d790f6d6f3c2d970",
+  "input_digest": "61d72a64a011158928c05256e34665e3290badf7566f91b00aecb61c5fe58043",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "tr",
-      "data_as_of": "2026-11-03",
-      "reference_rate": "1342.902996",
-      "generated_at": "2026-11-02T23:42:31+00:00",
+      "data_as_of": "2026-11-04",
+      "reference_rate": "1344.592540",
+      "generated_at": "2026-11-03T23:40:37+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1342.902996 KRW"
+          "text": "1344.592540 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-03"
+          "text": "2026-11-04"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW, ABD tahvil getirilerindeki sakinlik ve ihracatçı satışlarıyla 1.342'de dengelendi",
-        "summary": "USD/KRW paritesi 1.342 civarında (ECB referansı 1.342,90) yatay bir seyir izledi. ABD 10 yıllık tahvil faizlerinin sakinleşmesi ve dolar endeksinin 101 sınırına çekilmesi, ay başı ticari ödeme talebini dengeledi. Teknoloji hisselerindeki temkinli havaya rağmen, yarı iletken ihracatçılarının düzenli döviz satışları yükselişleri sınırlayarak kuru 1.338–1.346 KRW aralığında tuttu.",
+        "headline": "USD/KRW, güçlü ABD istihdam verisi ve ihracatçı satışlarıyla 1.345 civarında dalgalandı",
+        "summary": "USD/KRW paritesi 1.345 civarında (ECB referansı 1.344,59) işlem gördü. ABD JOLTS açık iş pozisyonlarındaki artış Fed faiz indirim beklentilerini hafifleterek tahvil getirilerini yukarı taşıdı. ABD seçimleri öncesi güvenli liman talebi doları desteklese de yarı iletken ihracatçılarının düzenli döviz satışları yükselişi frenleyerek kuru 1.340–1.348 KRW bandında tuttu.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "tr",
-      "data_as_of": "2026-11-03",
-      "reference_rate": "1506.200000",
-      "generated_at": "2026-11-02T23:42:31+00:00",
+      "data_as_of": "2026-11-04",
+      "reference_rate": "1503.120000",
+      "generated_at": "2026-11-03T23:40:37+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1506.200000 KRW"
+          "text": "1503.120000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-03"
+          "text": "2026-11-04"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "Euro, zayıflayan dolar ve EUR/USD yükselişiyle 1.506 KRW seviyesine toparlandı",
-        "summary": "EUR/KRW paritesi, küresel çapta gerileyen ABD doları ve kısa pozisyon kapamalarının EUR/USD paritesini 1,1216 üzerine taşımasıyla 1.506 seviyesine (ECB referansı 1.506,20) tırmandı. ECB'nin mevduat faizini %2,50'de sabit tutması sonrası imalat sanayindeki durgunluk ve Fransa'daki mali endişeler sürse de, euronun dolar karşısındaki kazanımları kuru 1.500–1.512 KRW aralığında güçlü tuttu.",
+        "headline": "EUR/KRW, ABD istihdam verisi ve güçlenen doların etkisiyle 1.503 seviyesinde durakladı",
+        "summary": "EUR/KRW paritesi 1.503 seviyesine (ECB referansı 1.503,12) çekildi. Beklentileri aşan ABD JOLTS açık iş pozisyonları verisi doların genel olarak değer kazanmasına yol açarken EUR/USD paritesini 1,11'in üst sınırına çekti. Euro Bölgesi'ndeki imalat yavaşlaması ve Fransa'daki bütçe tartışmaları euroyu baskılasa da kur 1.498–1.508 KRW bandında sağlam bir taban oluşturdu.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "tr",
-      "data_as_of": "2026-11-03",
-      "reference_rate": "8.504800",
-      "generated_at": "2026-11-02T23:42:31+00:00",
+      "data_as_of": "2026-11-04",
+      "reference_rate": "8.494603",
+      "generated_at": "2026-11-03T23:40:37+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.504800 KRW"
+          "text": "8.494603 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-03"
+          "text": "2026-11-04"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "Yen, şahin BOJ mesajları ve USD/JPY düşüşüyle 100 JPY başına 850 KRW'ye toparlandı",
-        "summary": "Japon yeni, 1 yen başına yaklaşık 8,50 KRW (~100 JPY başına 850,5 KRW, ECB referansı 8,505) seviyesine toparlandı. Japonya Merkez Bankası'nın faizi %1,25'te bırakmasına rağmen enflasyon tahminlerini yükselterek sıkılaşma kapısını açık tutması ve USD/JPY paritesinin 157,5 seviyesine inmesi, Tokyo'nun müdahale uyarılarıyla birlikte 847–854 KRW aralığında güçlü taban oluşturdu.",
+        "headline": "JPY/KRW, USD/JPY'nin 158'e çıkması ve müdahale uyarılarıyla 100 JPY başına 849,5 KRW",
+        "summary": "JPY/KRW kuru yen başına yaklaşık 8,49 KRW (~100 JPY başına 849,5 KRW, ECB referansı 8,495) civarında işlem gördü. Japonya Merkez Bankası'nın sıkılaşma eğilimine karşın, artan ABD getirileriyle USD/JPY'nin 158 bandına yönelmesi yen üzerinde baskı kurdu. Ancak Tokyo'dan gelen sert sözlü müdahale uyarıları kurun 846–853 KRW aralığında güçlü bir taban bulmasını sağladı.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "tr",
-      "data_as_of": "2026-11-03",
-      "reference_rate": "1802.105767",
-      "generated_at": "2026-11-02T23:42:31+00:00",
+      "data_as_of": "2026-11-04",
+      "reference_rate": "1803.210250",
+      "generated_at": "2026-11-03T23:40:37+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1802.105767 KRW"
+          "text": "1803.210250 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-03"
+          "text": "2026-11-04"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "Sterlin, BoE öncesi paritenin 1,34'ü aşmasıyla 1.802 KRW seviyesine ilerledi",
-        "summary": "GBP/KRW kuru, sterlinin zayıflayan dolar karşısında 1,34 seviyesinin üzerine çıkmasıyla 1.802 seviyesine (ECB referansı 1.802,11) yükseldi. İngiltere Merkez Bankası faiz kararı öncesindeki temkinli duruş ve sonbahar bütçesi sonrası mali kaygılar sürse de, dolardaki küresel geri çekilme sterline ivme kazandırarak pariteyi 1.795–1.808 KRW bandında tuttu.",
+        "headline": "GBP/KRW, BoE toplantısı öncesinde paritenin 1,34'ü korumasıyla 1.803'te sağlam",
+        "summary": "GBP/KRW paritesi, İngiltere Merkez Bankası'nın faiz kararı öncesinde sterlinin dolar karşısında 1,34 civarında tutunmasıyla 1.803 seviyesindeki (ECB referansı 1.803,21) gücünü korudu. İngiltere sonbahar bütçesi sonrası mali temkinlilik tavan oluştursa da çapraz kurlardaki güçlü talep paritenin 1.798–1.810 KRW aralığında sağlam kalmasını sağladı.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "tr",
-      "data_as_of": "2026-11-03",
-      "reference_rate": "201.992839",
-      "generated_at": "2026-11-02T23:42:31+00:00",
+      "data_as_of": "2026-11-04",
+      "reference_rate": "201.517630",
+      "generated_at": "2026-11-03T23:40:37+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "201.992839 KRW"
+          "text": "201.517630 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-03"
+          "text": "2026-11-04"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "Yuan, PBOC likidite desteği ve teşvik beklentileriyle 202,0 seviyesinde tutunuyor",
-        "summary": "CNY/KRW paritesi 201–203 KRW bandında 202,0 seviyesi etrafında (ECB referansı 201,99) dengeli işlem görüyor. Çin Merkez Bankası bol likidite ve istikrarlı referans kurlarla piyasayı desteklerken, Ulusal Halk Kongresi'nden beklenen mali teşvikler aşağı yönlü baskıyı sınırlıyor. USD/KRW sakinliğiyle birleşen parite, günü 201,5–202,5 KRW aralığında tamamladı.",
+        "headline": "CNY/KRW, PBOC likiditesi ve teşvik beklentisiyle 201,5 bandında dengede",
+        "summary": "CNY/KRW paritesi 200–202 bandında ve 201,5 KRW seviyesi yakınlarında (ECB referansı 201,52) istikrarlı işlem gördü. Çin Merkez Bankası bol likidite ve kontrollü referans kurlarla piyasayı desteklerken, Ulusal Halk Kongresi Daimi Komitesi'nden beklenen mali teşvik paketi yuanın değerini korudu. USD/KRW'deki sakinliğe paralel olarak parite 200,8–202,0 KRW bandında dengelendi.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -246,71 +246,71 @@
   ],
   "currencies": {
     "AUD": {
-      "rate_to_krw": "941.139715",
-      "data_as_of": "2026-11-03",
-      "headline": "Avustralya doları şahin RBA ve emtia desteğiyle 941 KRW'de dirençli",
-      "brief": "Avustralya doları, RBA'nın şahin duruşu, sağlam emtia fiyatları ve Çin'e dair mali teşvik beklentileriyle 941 KRW seviyesinde güçlü kalmaya devam ediyor."
+      "rate_to_krw": "939.039170",
+      "data_as_of": "2026-11-04",
+      "headline": "Avustralya doları şahin RBA ve emtia desteğiyle 939 KRW'de dirençli",
+      "brief": "Avustralya doları, RBA'nın şahin faiz duruşu, sağlam emtia fiyatları ve Çin'in mali teşvik beklentileriyle 939 KRW civarında gücünü koruyor."
     },
     "CAD": {
-      "rate_to_krw": "961.015760",
-      "data_as_of": "2026-11-03",
-      "headline": "Kanada doları faiz indirimlerine karşı petrol desteğiyle 961 KRW'yi koruyor",
-      "brief": "Kanada doları, Orta Doğu gerilimleriyle yükselen petrol fiyatlarının BoC'nin faiz indirimlerinden kaynaklanan getiri farkını dengelemesiyle 961 KRW'de tutunuyor."
+      "rate_to_krw": "962.119951",
+      "data_as_of": "2026-11-04",
+      "headline": "Kanada doları BoC indirimlerine karşı petrol desteğiyle 962 KRW'yi koruyor",
+      "brief": "Kanada doları, dirençli ham petrol fiyatlarının Kanada Merkez Bankası'nın faiz indirimlerinden kaynaklanan faiz farkı baskısını dengelemesiyle 962 KRW'de tutundu."
     },
     "CHF": {
-      "rate_to_krw": "1638.420537",
-      "data_as_of": "2026-11-03",
-      "headline": "İsviçre frangı güvenli liman talebiyle 1.638 KRW seviyesine yükseldi",
-      "brief": "İsviçre frangı 1.638 KRW'ye tırmandı; Fransa'daki mali belirsizlikler ve küresel riskten kaçınma nedeniyle oluşan güvenli liman talebi SNB'nin düşük faizini gölgede bıraktı."
+      "rate_to_krw": "1639.886537",
+      "data_as_of": "2026-11-04",
+      "headline": "İsviçre frangı güvenli liman talebiyle 1.640 KRW seviyesine yükseldi",
+      "brief": "İsviçre frangı, Avrupa'daki mali kaygılar ve ABD seçimleri öncesi riskten kaçınma akımlarıyla SNB'nin düşük faizine rağmen 1.640 KRW'ye tırmandı."
     },
     "CNY": {
-      "rate_to_krw": "201.992839",
-      "data_as_of": "2026-11-03",
-      "headline": "Yuan, PBOC likiditesi ve teşvik beklentileriyle 202,0 KRW'de yatay",
-      "brief": "Yuan, PBOC'nin bol likidite ve istikrarlı referans kur politikası ile meclisin mali genişleme beklentilerinden destek bularak 202,0 KRW'de dengeli seyrediyor."
+      "rate_to_krw": "201.517630",
+      "data_as_of": "2026-11-04",
+      "headline": "Çin yuanı PBOC likiditesi ve teşvik umutlarıyla 201,5 KRW'de dengelendi",
+      "brief": "Yuan, PBOC'nin düzenli likidite sağlaması ve UHK Daimi Komitesi'nden beklenen mali paket öncesinde 201,5 KRW civarında yatay seyrini sürdürüyor."
     },
     "EUR": {
-      "rate_to_krw": "1506.200000",
-      "data_as_of": "2026-11-03",
-      "headline": "Euro, EUR/USD yükselişi ve pozisyon kapamalarla 1.506 KRW'ye çıktı",
-      "brief": "Euro, dolardaki zayıflıkla EUR/USD paritesinin 1,12'yi aşması sayesinde 1.506 KRW'ye toparlandı; bu durum imalat zayıflığı ve ECB'nin %2,50 faiz kararını telafi etti."
+      "rate_to_krw": "1503.120000",
+      "data_as_of": "2026-11-04",
+      "headline": "Euro, güçlü ABD istihdam verisi ve dolar alımlarıyla 1.503 KRW'de durakladı",
+      "brief": "Euro, güçlü JOLTS verisi sonrası dolardaki toparlanmanın EUR/USD'yi 1,11 seviyesine çekmesi ve Avrupa'daki imalat kaygılarıyla 1.503 KRW'de konsolide oldu."
     },
     "GBP": {
-      "rate_to_krw": "1802.105767",
-      "data_as_of": "2026-11-03",
-      "headline": "İngiliz sterlini BoE öncesi paritenin 1,34'ü aşmasıyla 1.802 KRW'ye ilerledi",
-      "brief": "Sterlin, GBP/USD'nin 1,34'ün üzerine çıkmasıyla 1.802 KRW'ye yükseldi; dolardaki geri çekilme BoE öncesi temkinli bekleyişi ve bütçe kaygılarını hafifletti."
+      "rate_to_krw": "1803.210250",
+      "data_as_of": "2026-11-04",
+      "headline": "İngiliz sterlini BoE öncesi 1,34 desteğiyle 1.803 KRW seviyesini koruyor",
+      "brief": "Sterlin, BoE faiz kararı öncesinde dolar karşısında 1,34 seviyesini savunarak İngiltere sonbahar bütçesi sonrasındaki mali endişelere rağmen 1.803 KRW'de kaldı."
     },
     "HKD": {
-      "rate_to_krw": "171.155201",
-      "data_as_of": "2026-11-03",
-      "headline": "Hong Kong doları peg bandında sakinleşen doları izleyerek 171,2 KRW'de",
-      "brief": "Hong Kong doları, 7,75–7,85 çıpa bandı içinde kalarak ABD dolarındaki yumuşamayı ve bölgesel borsa akışlarını izledi ve 171,2 KRW civarında dengeli kaldı."
+      "rate_to_krw": "171.373846",
+      "data_as_of": "2026-11-04",
+      "headline": "Hong Kong doları bant içinde ABD dolarını izleyerek 171,4 KRW'de yatay",
+      "brief": "Hong Kong doları 7,75–7,85 bandı içinde ABD dolarındaki toparlanmayı yakından izleyerek bölgesel hisse akışlarıyla birlikte 171,4 KRW'de istikrarlı kaldı."
     },
     "JPY": {
-      "rate_to_krw": "8.504800",
-      "data_as_of": "2026-11-03",
-      "headline": "Japon yeni şahin BOJ mesajları ve müdahale uyarısıyla 850 KRW'ye toparlandı",
-      "brief": "Yen, BOJ'un enflasyon tahminlerini yükseltmesi, USD/JPY'nin 157'ye çekilmesi ve Japon makamlarının müdahale uyarılarıyla 100 JPY başına 850 KRW'ye güçlendi."
+      "rate_to_krw": "8.494603",
+      "data_as_of": "2026-11-04",
+      "headline": "Japon yeni USD/JPY'nin 158'e çıkması ve müdahale baskısıyla 100 JPY başına 849,5 KRW",
+      "brief": "Yen, USD/JPY'nin 158'e tırmanışının Tokyo'nun kararlı müdahale uyarılarıyla dengelenmesi sonucu 100 JPY başına 849,5 KRW seviyesini korudu."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-03",
-      "headline": "Kore wonu çip ihracatı ve %3,00 faiz desteğiyle 1.342 KRW seviyesini savundu",
-      "brief": "Won, yarı iletken ihracatı ticaret fazlası ve Kore Merkez Bankası'nın %3,00 faiz çıpası sayesinde yabancı hisse satışlarını emerek 1.342 KRW'de güçlü kaldı."
+      "data_as_of": "2026-11-04",
+      "headline": "Kore wonu çip ihracatı ve %3,00 faiz desteğiyle 1.345 KRW seviyesini koruyor",
+      "brief": "Won, borsa satışlarına rağmen güçlü yarı iletken ticaret fazlası ve Kore Merkez Bankası'nın %3,00 politika faizi kalkanıyla 1.345 KRW seviyesini savundu."
     },
     "USD": {
-      "rate_to_krw": "1342.902996",
-      "data_as_of": "2026-11-03",
-      "headline": "ABD doları sakinleşen getiriler ve ihracatçı satışlarıyla 1.342 KRW'de",
-      "brief": "ABD doları, tahvil getirilerinin durulması ve DXY'nin 101 civarında kalmasıyla, ihracatçı döviz arzının ithalat talebini karşılaması sonucu 1.342 KRW'de dengelendi."
+      "rate_to_krw": "1344.592540",
+      "data_as_of": "2026-11-04",
+      "headline": "ABD doları güçlü iş gücü verisi ve ihracatçı satışlarıyla 1.345 KRW'de",
+      "brief": "ABD doları, JOLTS verisinin tahvil faizlerini yükseltmesiyle güç bulsa da ihracatçıların istikrarlı döviz satışları yükselişi sınırlayarak 1.345 KRW'de tuttu."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261102T234231Z",
-    "source_input_digest": "b6e86037c4fc947122d9189d804889d251e3325509282876d790f6d6f3c2d970",
-    "translated_at": "2026-11-02T23:42:31+00:00",
+    "source_batch_id": "20261103T234037Z",
+    "source_input_digest": "61d72a64a011158928c05256e34665e3290badf7566f91b00aecb61c5fe58043",
+    "translated_at": "2026-11-03T23:40:37+00:00",
     "direction": "ltr"
   }
 }
