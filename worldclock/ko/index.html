@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>개인정보처리방침 — World Clock with Aurora</title>
+<style>
+:root { color-scheme: light dark; }
+body { margin: 0; background: #F5F7FA; color: #1A1D21;
+  font: 16px/1.7 system-ui, -apple-system, "Segoe UI", Roboto, "Malgun Gothic", sans-serif; }
+main { max-width: 700px; margin: 0 auto; padding: 32px 24px 64px; }
+h1 { font-size: 28px; line-height: 1.25; margin: 0 0 8px; }
+h2 { font-size: 20px; margin: 32px 0 8px; }
+p, li { margin: 0 0 12px; }
+ul { padding-left: 20px; margin: 0 0 12px; }
+.meta { color: #57606A; margin-bottom: 24px; }
+.languages { margin-bottom: 10px; }
+a { color: #1565C0; }
+@media (prefers-color-scheme: dark) {
+  body { background: #0D1117; color: #E6EDF3; }
+  .meta { color: #8B949E; }
+  a { color: #58A6FF; }
+}
+</style>
+</head>
+<body>
+<main>
+<p class="languages meta"><a href="../">English</a> · <strong>한국어</strong></p>
+<h1>개인정보처리방침</h1>
+<p class="meta">World Clock with Aurora (com.dotliner.worldclock) · 개발자: dotliner (Hangik Lee) · 최종 개정일: 2026년 11월 5일</p>
+
+<p><strong>World Clock with Aurora</strong>("본 앱")는 세계 도시 시각, 일출·일몰 및 월출·월몰, 기상 예보, 오로라 오벌 예보를 제공하는 앱입니다. 본 앱은 회원가입이나 로그인 없이 이용 가능하며, 사용자의 개인 식별 정보를 저장하는 별도의 개발자 서버를 운영하지 않습니다.</p>
+
+<h2>1. 수집하지 않는 정보</h2>
+<p>본 앱은 이름, 이메일 주소, 전화번호, 주소, 연락처, 사진/미디어, 카메라, 마이크 정보를 요구하거나 수집하지 않습니다.</p>
+
+<h2>2. 선택적 위치 권한 처리 (기기 내 로컬 전용)</h2>
+<p>사용자가 위치 접근 권한(<code>ACCESS_COARSE_LOCATION</code> 또는 <code>ACCESS_FINE_LOCATION</code>)을 허용한 경우, 앱에 내장된 오프라인 도시 목록과 대조하여 <strong>가장 가까운 홈 도시를 자동으로 설정하는 용도로만 기기 내부에서</strong> 좌표를 참조합니다.</p>
+<ul>
+<li>기기의 정밀 GPS 위치 정보는 개발자 서버로 절대 전송되거나 저장되지 않습니다.</li>
+<li>위치 권한은 선택 사항이며, 거부하더라도 도시를 직접 검색·선택하여 모든 시계, 위젯, 날씨 및 오로라 예보 기능을 제한 없이 이용할 수 있습니다.</li>
+</ul>
+
+<h2>3. 기기 내부에만 저장되는 정보</h2>
+<p>다음 설정 정보는 사용자의 기기 로컬 저장소(SharedPreferences)에만 보관됩니다.</p>
+<ul>
+<li>즐겨찾기 도시 목록, 정렬 순서 및 홈 도시 설정</li>
+<li>시계 표시 형식(12/24시간제), 온도 단위(°C/°F), 표시 언어 설정 및 홈 화면 위젯 데이터</li>
+<li>앱 실행 중 메모리에 임시 유지되는 날씨·오로라 캐시(최대 30분)</li>
+</ul>
+<p>이 정보는 기기 설정에서 앱 데이터를 삭제하거나 앱을 제거(언인스톨)하면 즉시 영구 삭제됩니다.</p>
+
+<h2>4. 날씨·오로라 예보 API 및 외부 링크</h2>
+<p>기상 및 우주 기상 정보를 표시하기 위해, 앱 내 사전 등록된 도시의 공개 위·경도 좌표만을 사용하여 HTTPS로 다음 외부 API를 조회합니다.</p>
+<ul>
+<li><strong>wttr.in</strong> (<a href="https://wttr.in/:help" rel="noopener">wttr.in</a>) — 도시별 현재 날씨 조회</li>
+<li><strong>Open-Meteo</strong> (<a href="https://open-meteo.com/en/terms" rel="noopener">open-meteo.com/en/terms</a>) — 도시별 7일 일간 기상 예보 조회</li>
+<li><strong>NOAA SWPC</strong> (<a href="https://www.weather.gov/privacy" rel="noopener">weather.gov/privacy</a>) — 실시간 KP 지수 및 OVATION 오로라 오벌 예보 조회</li>
+</ul>
+<p>오로라 추천 도시의 라이브 웹캠(<code>webcam</code>) 버튼을 누르면 기기의 외부 브라우저 또는 YouTube 앱을 통해 공개 라이브 스트리밍 화면이 열리며, 이동한 외부 서비스의 개인정보처리방침이 적용됩니다.</p>
+
+<h2>5. 맞춤형 광고 (Google AdMob)</h2>
+<p>본 앱은 Google AdMob SDK를 통해 배너 및 전면 광고를 표시합니다. 광고 제공, 성과 측정 및 부정 트래픽 방지를 위해 Google의 광고 SDK가 암호화된 전송(HTTPS)을 통해 다음 정보를 수집·처리할 수 있습니다.</p>
+<ul>
+<li>IP 주소 (대략적인 위치 추정에 사용될 수 있음)</li>
+<li>Android 광고 ID(ADID), 앱 세트 ID 등 기기 및 광고 식별자</li>
+<li>앱 실행, 광고 노출 및 탭 등 상호작용 정보</li>
+<li>크래시 로그, 앱 구동 시간 등 진단 및 성능 데이터</li>
+</ul>
+<p>Android 기기의 <strong>설정 → Google → 광고</strong> 메뉴에서 언제든지 광고 ID를 재설정하거나 삭제할 수 있습니다. 자세한 내용은 <a href="https://policies.google.com/privacy" rel="noopener">Google 개인정보처리방침</a> 및 <a href="https://adssettings.google.com" rel="noopener">Google 광고 설정</a>을 참고하시기 바랍니다.</p>
+
+<h2>6. 아동의 개인정보 보호</h2>
+<p>본 앱은 만 13세 미만 아동을 대상으로 하지 않으며, 만 13세 미만 아동으로부터 고의로 개인정보를 수집하지 않습니다.</p>
+
+<h2>7. 방침 변경 고지</h2>
+<p>본 개인정보처리방침이 변경될 경우 이 페이지의 최종 개정일을 갱신하여 공지합니다. (최초 시행일: 2026년 4월 15일)</p>
+
+<h2>8. 문의처</h2>
+<p>개인정보 보호 및 처리와 관련한 문의사항은 아래 연락처로 문의해 주시기 바랍니다.</p>
+<p><strong>개발자:</strong> dotliner (Hangik Lee)<br>
+<strong>이메일:</strong> <a href="mailto:admin@dotlinerlab.com">admin@dotlinerlab.com</a></p>
+</main>
+</body>
+</html>
