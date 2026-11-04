@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261103T234037Z",
-  "published_at": "2026-11-03T23:40:37+00:00",
-  "checked_at": "2026-11-03T23:40:37+00:00",
-  "valid_until": "2026-11-05T11:40:37+00:00",
+  "batch_id": "20261104T234003Z",
+  "published_at": "2026-11-04T23:40:03+00:00",
+  "checked_at": "2026-11-04T23:40:03+00:00",
+  "valid_until": "2026-11-06T11:40:03+00:00",
   "locale": "vi",
-  "input_digest": "61d72a64a011158928c05256e34665e3290badf7566f91b00aecb61c5fe58043",
+  "input_digest": "a12e23d5a49f28481623a87e24649b2cd05adb91fd354938056d16436a7440d4",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "vi",
-      "data_as_of": "2026-11-04",
-      "reference_rate": "1344.592540",
-      "generated_at": "2026-11-03T23:40:37+00:00",
+      "data_as_of": "2026-11-05",
+      "reference_rate": "1338.581699",
+      "generated_at": "2026-11-04T23:40:03+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1344.592540 KRW"
+          "text": "1338.581699 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-04"
+          "text": "2026-11-05"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW dao động quanh 1.345 theo đà tăng lợi suất trái phiếu Mỹ và xuất khẩu bán ra",
-        "summary": "Tỷ giá USD/KRW giao dịch quanh 1.345 (tham chiếu ECB 1.344,59). Số liệu việc làm JOLTS vượt dự báo đã hạ nhiệt kỳ vọng Fed giảm lãi suất nhanh và đẩy lợi suất trái phiếu kho bạc Mỹ lên cao. Tâm lý thận trọng trước thềm bầu cử Mỹ hỗ trợ USD, nhưng dòng tiền bán ngoại tệ ổn định từ các nhà xuất khẩu chip đã ghìm đà tăng trong vùng 1.340–1.348 KRW.",
+        "headline": "USD/KRW lùi về 1.338 do chốt lời trước bầu cử và dòng tiền xuất khẩu",
+        "summary": "USD/KRW giảm về mức 1.338 (tham chiếu ECB 1.338,58). Hoạt động chốt lời các vị thế mua USD trước kỳ kiểm phiếu bầu cử Mỹ và lợi suất trái phiếu hạ nhiệt đã gây sức ép lên đồng bạc xanh. Lượng bán USD quyết liệt từ các doanh nghiệp xuất khẩu bán dẫn Hàn Quốc đã chặn đà tăng, neo tỷ giá trong biên độ 1.335–1.343 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "vi",
-      "data_as_of": "2026-11-04",
-      "reference_rate": "1503.120000",
-      "generated_at": "2026-11-03T23:40:37+00:00",
+      "data_as_of": "2026-11-05",
+      "reference_rate": "1508.180000",
+      "generated_at": "2026-11-04T23:40:03+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1503.120000 KRW"
+          "text": "1508.180000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-04"
+          "text": "2026-11-05"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW chững lại ở 1.503 sau khi số liệu việc làm Mỹ thúc đẩy đồng USD phục hồi",
-        "summary": "Tỷ giá EUR/KRW dao động quanh 1.503 (tham chiếu ECB 1.503,12). Số liệu việc làm JOLTS khả quan của Mỹ đã thúc đẩy đồng USD tăng giá diện rộng, khiến EUR/USD lùi về vùng trên của 1,11. Mặc dù đà suy giảm sản xuất tại Eurozone và lo ngại ngân sách của Pháp kìm hãm đà tăng, cặp tiền vẫn thiết lập ngưỡng hỗ trợ vững chắc trong khoảng 1.498–1.508 KRW.",
+        "headline": "EUR/KRW tăng lên 1.508 khi đồng euro bật tăng nhờ USD điều chỉnh giảm",
+        "summary": "EUR/KRW phục hồi lên khoảng 1.508 (tham chiếu ECB 1.508,18). Cặp EUR/USD hồi phục lên vùng 1,1250 trong bối cảnh đồng USD điều chỉnh diện rộng. Dù sự suy yếu trong ngành sản xuất khu vực đồng euro và các tranh cãi ngân sách tại Pháp hạn chế đà tăng, lực cầu mua euro chéo vẫn giữ tỷ giá ổn định trong khoảng 1.504–1.512 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "vi",
-      "data_as_of": "2026-11-04",
-      "reference_rate": "8.494603",
-      "generated_at": "2026-11-03T23:40:37+00:00",
+      "data_as_of": "2026-11-05",
+      "reference_rate": "8.458665",
+      "generated_at": "2026-11-04T23:40:03+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.494603 KRW"
+          "text": "8.458665 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-04"
+          "text": "2026-11-05"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW giữ mức 849,5 KRW trên 100 JPY khi USD/JPY lên 158 và cảnh báo can thiệp",
-        "summary": "Tỷ giá JPY/KRW dao động gần 8,49 KRW đổi 1 yen (~849,5 KRW trên 100 JPY, tham chiếu ECB 8,495). Dù Ngân hàng Trung ương Nhật Bản phát tín hiệu tăng lãi suất, lợi suất trái phiếu Mỹ tăng đã kéo USD/JPY lên vùng 158, gây áp lực lên đồng yen. Tuy nhiên, các cảnh báo can thiệp quyết liệt từ Tokyo đã tạo bệ đỡ vững chắc ở biên độ 846–853 KRW.",
+        "headline": "JPY/KRW giữ mốc 845,9 KRW mỗi 100 JPY dưới sự cảnh giác can thiệp từ Tokyo",
+        "summary": "JPY/KRW dao động gần 8,46 KRW mỗi JPY (~845,9 KRW trên 100 JPY, tham chiếu ECB 8,459). Dù BOJ phát tín hiệu sẵn sàng nâng lãi suất, cặp USD/JPY neo cao quanh 158,3 vẫn tạo áp lực lên đồng yên. Tuy nhiên, các cảnh báo can thiệp quyết liệt từ Tokyo đã thiết lập vùng đáy vững chắc trong khoảng 842–849 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "vi",
-      "data_as_of": "2026-11-04",
-      "reference_rate": "1803.210250",
-      "generated_at": "2026-11-03T23:40:37+00:00",
+      "data_as_of": "2026-11-05",
+      "reference_rate": "1807.069255",
+      "generated_at": "2026-11-04T23:40:03+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1803.210250 KRW"
+          "text": "1807.069255 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-04"
+          "text": "2026-11-05"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW giữ vững 1.803 khi tỷ giá cáp giữ mốc 1,34 trước quyết định của BoE",
-        "summary": "Tỷ giá GBP/KRW duy trì đà vững chắc ở 1.803 (tham chiếu ECB 1.803,21), nhờ đồng bảng Anh kiên cường quanh mức 1,34 so với USD trước thềm cuộc họp lãi suất của Ngân hàng Trung ương Anh. Dù sự thận trọng sau ngân sách mùa thu của Anh còn hiện hữu, lực cầu ổn định đối với đồng bảng trên thị trường chéo đã giữ giá dao động vững vàng trong vùng 1.798–1.810 KRW.",
+        "headline": "Bảng Anh tiến lên 1.807 trước thềm BoE trong bối cảnh USD suy yếu",
+        "summary": "GBP/KRW tăng lên mức 1.807 (tham chiếu ECB 1.807,07), nhờ đồng bảng Anh giữ vững mốc 1,348 USD trước thềm quyết định lãi suất của Ngân hàng Trung ương Anh. Mặc dù tâm lý thận trọng tài khóa sau ngân sách mùa thu của Anh vẫn còn, nhu cầu ổn định đối với các đồng tiền châu Âu đã hỗ trợ cặp tỷ giá neo trong khoảng 1.802–1.812 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "vi",
-      "data_as_of": "2026-11-04",
-      "reference_rate": "201.517630",
-      "generated_at": "2026-11-03T23:40:37+00:00",
+      "data_as_of": "2026-11-05",
+      "reference_rate": "200.617210",
+      "generated_at": "2026-11-04T23:40:03+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "201.517630 KRW"
+          "text": "200.617210 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-04"
+          "text": "2026-11-05"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW giữ vững mốc 201,5 nhờ thanh khoản PBOC và kỳ vọng gói kích thích kinh tế",
-        "summary": "Tỷ giá CNY/KRW duy trì ổn định quanh 201,5 (tham chiếu ECB 201,52) trong biên độ 200–202 KRW. Ngân hàng Nhân dân Trung Quốc tiếp tục duy trì thanh khoản nới lỏng và ấn định tỷ giá trung tâm ổn định, trong khi kỳ vọng gói kích thích tài khóa từ Ủy ban Thường vụ Đại hội Đại biểu Nhân dân Toàn quốc nâng đỡ đồng nhân dân tệ, giúp cặp tiền giao dịch trật tự ở 200,8–202,0 KRW.",
+        "headline": "CNY/KRW giữ vững mốc 200,6 nhờ thanh khoản PBOC và kỳ vọng kích thích",
+        "summary": "Cặp CNY/KRW giao dịch ổn định quanh mức 200,6 (tham chiếu ECB 200,62) trong biên độ 200–202 KRW. Ngân hàng Nhân dân Trung Quốc (PBOC) duy trì bơm thanh khoản nới lỏng và ấn định tỷ giá trung tâm ổn định, trong khi kỳ vọng gói kích thích tài khóa từ Quốc hội nâng đỡ đồng nhân dân tệ. Đồng pha với đà giảm của USD/KRW, cặp tiền chốt phiên trật tự ở 200,0–201,2 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -246,71 +246,71 @@
   ],
   "currencies": {
     "AUD": {
-      "rate_to_krw": "939.039170",
-      "data_as_of": "2026-11-04",
-      "headline": "Đô la Úc đứng vững ở 939 KRW nhờ lập trường cứng rắn của RBA và hàng hóa",
-      "brief": "Đô la Úc duy trì sự kiên cường quanh 939 KRW, được củng cố bởi chính sách giữ lãi suất cao của RBA, giá hàng hóa ổn định và kỳ vọng kích thích từ Trung Quốc."
+      "rate_to_krw": "939.032439",
+      "data_as_of": "2026-11-05",
+      "headline": "Đô la Úc giữ vững 939 KRW nhờ lập trường RBA và kỳ vọng từ Trung Quốc",
+      "brief": "Đồng đô la Úc giữ vững vùng 939 KRW, được nâng đỡ bởi chính sách giữ lãi suất diều hâu của RBA, giá hàng hóa ổn định và kỳ vọng gói kích thích từ Trung Quốc."
     },
     "CAD": {
-      "rate_to_krw": "962.119951",
-      "data_as_of": "2026-11-04",
-      "headline": "Đô la Canada bảo vệ mốc 962 KRW nhờ dầu thô bù đắp việc BoC hạ lãi suất",
-      "brief": "Đô la Canada giữ vững 962 KRW khi giá dầu thô duy trì đà phục hồi, giúp bù đắp áp lực nới lỏng lãi suất từ Ngân hàng Trung ương Canada."
+      "rate_to_krw": "960.563021",
+      "data_as_of": "2026-11-05",
+      "headline": "Đô la Canada bảo vệ mốc 961 KRW nhờ giá dầu bù đắp việc BoC hạ lãi suất",
+      "brief": "Đồng đô la Canada neo ở mức 961 KRW khi giá dầu thô ổn định và xuất khẩu tài nguyên giúp giảm bớt chênh lệch lãi suất do các đợt cắt giảm của BoC."
     },
     "CHF": {
-      "rate_to_krw": "1639.886537",
-      "data_as_of": "2026-11-04",
-      "headline": "Franc Thụy Sĩ tăng lên 1.640 KRW nhờ dòng tiền trú ẩn và thận trọng bầu cử Mỹ",
-      "brief": "Franc Thụy Sĩ tăng lên 1.640 KRW do lo ngại tài khóa châu Âu và nhu cầu phòng hộ trước bầu cử Mỹ thúc đẩy dòng vốn an toàn dù lãi suất SNB ở mức thấp."
+      "rate_to_krw": "1641.467131",
+      "data_as_of": "2026-11-05",
+      "headline": "Franc Thụy Sĩ tăng lên 1.641 KRW nhờ dòng tiền tìm kiếm nơi trú ẩn an toàn",
+      "brief": "Franc Thụy Sĩ tăng lên 1.641 KRW do bất ổn chính trị châu Âu và nhu cầu phòng ngừa rủi ro trước bầu cử Mỹ lấn át chính sách lãi suất thấp của SNB."
     },
     "CNY": {
-      "rate_to_krw": "201.517630",
-      "data_as_of": "2026-11-04",
-      "headline": "Nhân dân tệ ổn định quanh 201,5 KRW nhờ thanh khoản PBOC và kỳ vọng kích thích",
-      "brief": "Đồng nhân dân tệ dao động vững ở 201,5 KRW khi PBOC duy trì thanh khoản dồi dào và ấn định tỷ giá ổn định trước thềm gói tài khóa của quốc hội Trung Quốc."
+      "rate_to_krw": "200.617210",
+      "data_as_of": "2026-11-05",
+      "headline": "Nhân dân tệ ổn định ở 200,6 KRW nhờ PBOC bơm vốn và kỳ vọng kích thích",
+      "brief": "Nhân dân tệ đứng vững quanh 200,6 KRW nhờ sự hỗ trợ thanh khoản của PBOC và kỳ vọng vào gói hỗ trợ tài khóa của Ủy ban Thường vụ Quốc hội Trung Quốc."
     },
     "EUR": {
-      "rate_to_krw": "1503.120000",
-      "data_as_of": "2026-11-04",
-      "headline": "Đồng euro chững lại ở 1.503 KRW khi số liệu việc làm Mỹ củng cố đồng USD",
-      "brief": "Đồng euro dao động quanh 1.503 KRW sau khi số liệu việc làm Mỹ phục hồi kéo EUR/USD về 1,11 trong bối cảnh sản xuất khu vực đồng euro còn nhiều trắc trở."
+      "rate_to_krw": "1508.180000",
+      "data_as_of": "2026-11-05",
+      "headline": "Euro phục hồi lên 1.508 KRW khi đồng USD điều chỉnh đẩy EUR/USD lên",
+      "brief": "Đồng euro phục hồi lên 1.508 KRW khi đà giảm của USD kéo tỷ giá EUR/USD lên vùng 1,1250, vượt qua những lo ngại về sản xuất công nghiệp tại châu Âu."
     },
     "GBP": {
-      "rate_to_krw": "1803.210250",
-      "data_as_of": "2026-11-04",
-      "headline": "Bảng Anh giữ mốc 1.803 KRW với tỷ giá 1,34 được bảo vệ trước thềm họp BoE",
-      "brief": "Bảng Anh bảo toàn mốc 1.803 KRW khi giữ vững mức 1,34 so với USD trước thềm quyết định của BoE, làm dịu đi những thận trọng sau ngân sách mùa thu của Anh."
+      "rate_to_krw": "1807.069255",
+      "data_as_of": "2026-11-05",
+      "headline": "Bảng Anh tăng lên 1.807 KRW trước thềm quyết định lãi suất của BoE",
+      "brief": "Bảng Anh leo lên mức 1.807 KRW, theo sát đà tăng lên 1,348 USD trong bối cảnh đồng USD hạ nhiệt trước khi Ngân hàng Trung ương Anh công bố chính sách."
     },
     "HKD": {
-      "rate_to_krw": "171.373846",
-      "data_as_of": "2026-11-04",
-      "headline": "Đô la Hồng Kông bám sát đà phục hồi của USD trong biên độ neo giữ ở 171,4 KRW",
-      "brief": "Đô la Hồng Kông giao dịch ổn định ở 171,4 KRW trong dải biên độ 7,75–7,85, phản ánh sự phục hồi của USD và diễn biến dòng vốn cổ phiếu khu vực."
+      "rate_to_krw": "170.610527",
+      "data_as_of": "2026-11-05",
+      "headline": "Đô la Hồng Kông bám sát đà giảm của USD trong biên độ neo giữ 170,6 KRW",
+      "brief": "Đô la Hồng Kông giao dịch ổn định quanh 170,6 KRW trong biên độ neo 7,75–7,85, phản ánh sự điều chỉnh của USD và dòng vốn chứng khoán khu vực."
     },
     "JPY": {
-      "rate_to_krw": "8.494603",
-      "data_as_of": "2026-11-04",
-      "headline": "Yen Nhật giữ mức 849,5 KRW trên 100 JPY trước cảnh báo can thiệp khi USD/JPY lên 158",
-      "brief": "Đồng yen bảo vệ mốc 849,5 KRW trên 100 JPY nhờ các cảnh báo can thiệp thị trường cứng rắn từ Tokyo đã chặn đà tăng của USD/JPY lên 158."
+      "rate_to_krw": "8.458665",
+      "data_as_of": "2026-11-05",
+      "headline": "Yên Nhật giữ mức 845,9 KRW mỗi 100 JPY nhờ cảnh báo can thiệp của Tokyo",
+      "brief": "Đồng yên bảo vệ thành công mốc 845,9 KRW trên 100 JPY nhờ các cảnh báo can thiệp mạnh mẽ từ giới chức Nhật Bản nhằm đối phó áp lực USD/JPY ở vùng 158."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-04",
-      "headline": "Won Hàn Quốc bảo vệ mốc 1.345 KRW nhờ xuất khẩu chip và lãi suất 3,00%",
-      "brief": "Đồng won bảo vệ ngưỡng 1.345 KRW trước áp lực bán ròng cổ phiếu, nhờ thặng dư thương mại chip vững chắc và điểm tựa lãi suất 3,00% của Ngân hàng Trung ương Hàn Quốc."
+      "data_as_of": "2026-11-05",
+      "headline": "Won Hàn Quốc hồi phục lên 1.338 KRW nhờ xuất khẩu chip và lãi suất 3,00%",
+      "brief": "Đồng won phục hồi lên 1.338 KRW đổi 1 USD, được hỗ trợ bởi thặng dư thương mại bán dẫn vững chắc, dòng tiền bán ngoại tệ và bệ đỡ lãi suất 3,00% của BOK."
     },
     "USD": {
-      "rate_to_krw": "1344.592540",
-      "data_as_of": "2026-11-04",
-      "headline": "Đô la Mỹ dao động quanh 1.345 KRW theo dữ liệu việc làm và xuất khẩu bán ra",
-      "brief": "Đồng USD đứng quanh 1.345 KRW sau khi dữ liệu JOLTS đẩy lợi suất trái phiếu lên cao, trong khi nguồn cung ngoại tệ của các nhà xuất khẩu kìm hãm đà tăng."
+      "rate_to_krw": "1338.581699",
+      "data_as_of": "2026-11-05",
+      "headline": "Đô la Mỹ lùi về 1.338 KRW do chốt lời trước bầu cử và lực bán xuất khẩu",
+      "brief": "Đồng USD giảm về 1.338 KRW do động thái chốt lời trước thềm bầu cử Mỹ kết hợp cùng áp lực bán ngoại tệ mạnh mẽ từ các tập đoàn xuất khẩu công nghệ."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261103T234037Z",
-    "source_input_digest": "61d72a64a011158928c05256e34665e3290badf7566f91b00aecb61c5fe58043",
-    "translated_at": "2026-11-03T23:40:37+00:00",
+    "source_batch_id": "20261104T234003Z",
+    "source_input_digest": "a12e23d5a49f28481623a87e24649b2cd05adb91fd354938056d16436a7440d4",
+    "translated_at": "2026-11-04T23:40:03+00:00",
     "direction": "ltr"
   }
 }

@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261103T234037Z",
-  "published_at": "2026-11-03T23:40:37+00:00",
-  "checked_at": "2026-11-03T23:40:37+00:00",
-  "valid_until": "2026-11-05T11:40:37+00:00",
+  "batch_id": "20261104T234003Z",
+  "published_at": "2026-11-04T23:40:03+00:00",
+  "checked_at": "2026-11-04T23:40:03+00:00",
+  "valid_until": "2026-11-06T11:40:03+00:00",
   "locale": "ms",
-  "input_digest": "61d72a64a011158928c05256e34665e3290badf7566f91b00aecb61c5fe58043",
+  "input_digest": "a12e23d5a49f28481623a87e24649b2cd05adb91fd354938056d16436a7440d4",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "ms",
-      "data_as_of": "2026-11-04",
-      "reference_rate": "1344.592540",
-      "generated_at": "2026-11-03T23:40:37+00:00",
+      "data_as_of": "2026-11-05",
+      "reference_rate": "1338.581699",
+      "generated_at": "2026-11-04T23:40:03+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1344.592540 KRW"
+          "text": "1338.581699 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-04"
+          "text": "2026-11-05"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW berlegar sekitar 1,345 susulan kenaikan hasil bon AS dan jualan pengeksport",
-        "summary": "USD/KRW didagangkan sekitar 1,345 (rujukan ECB 1,344.59). Data pasaran buruh JOLTS AS yang kukuh meredakan jangkaan penurunan kadar agresif Fed dan menaikkan hasil Perbendaharaan AS. Aliran selamat menjelang pilihan raya AS menyokong dolar, namun jualan mata wang asing oleh pengeksport semikonduktor mengekang kenaikan dalam julat 1,340–1,348 KRW.",
+        "headline": "USD/KRW merosot ke 1,338 ekoran ambilan untung pilihan raya dan jualan pengeksport",
+        "summary": "USD/KRW turun ke sekitar 1,338 (rujukan ECB 1,338.58). Penutupan posisi belian dolar menjelang undian pilihan raya AS dan kestabilan hasil bon menekan mata wang AS. Jualan dolar yang aktif oleh syarikat semikonduktor Korea menyekat lantunan, mengekalkan pasangan dalam julat 1,335–1,343 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "ms",
-      "data_as_of": "2026-11-04",
-      "reference_rate": "1503.120000",
-      "generated_at": "2026-11-03T23:40:37+00:00",
+      "data_as_of": "2026-11-05",
+      "reference_rate": "1508.180000",
+      "generated_at": "2026-11-04T23:40:03+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1503.120000 KRW"
+          "text": "1508.180000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-04"
+          "text": "2026-11-05"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW berehat pada 1,503 susulan data pekerjaan AS yang menyokong pemulihan dolar",
-        "summary": "EUR/KRW berlegar sekitar 1,503 (rujukan ECB 1,503.12). Data kekosongan jawatan JOLTS AS yang kukuh mendorong pemulihan dolar secara meluas, menyebabkan EUR/USD berundur ke paras atas 1.11. Walaupun kelemahan sektor pembuatan Eropah dan kebimbangan belanjawan Perancis mengekang euro, pasangan ini menemui paras sokongan mantap dalam julat 1,498–1,508 KRW.",
+        "headline": "EUR/KRW pulih ke 1,508 didorong kejatuhan dolar dan lantunan EUR/USD",
+        "summary": "EUR/KRW melantun ke sekitar 1,508 (rujukan ECB 1,508.18). EUR/USD meningkat ke paras 1.1250 susulan pembetulan meluas dolar AS. Walaupun kelemahan sektor pembuatan zon euro dan isu fiskal Perancis mengehadkan ruang kenaikan, minat belian euro silang memastikan pasangan kekal kukuh dalam julat 1,504–1,512 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "ms",
-      "data_as_of": "2026-11-04",
-      "reference_rate": "8.494603",
-      "generated_at": "2026-11-03T23:40:37+00:00",
+      "data_as_of": "2026-11-05",
+      "reference_rate": "8.458665",
+      "generated_at": "2026-11-04T23:40:03+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.494603 KRW"
+          "text": "8.458665 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-04"
+          "text": "2026-11-05"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW stabil pada 849.5 KRW bagi 100 JPY saat USD/JPY uji 158 dan amaran campur tangan",
-        "summary": "JPY/KRW berlegar sekitar 8.49 KRW bagi setiap yen (~849.5 KRW bagi 100 JPY, rujukan ECB 8.495). Walaupun Bank of Japan memberi isyarat pengetatan lanjut, hasil bon AS yang lebih tinggi menolak USD/JPY kembali ke paras 158, memberi tekanan kepada yen. Namun, amaran tegas pihak berkuasa Tokyo terhadap spekulasi menyediakan lantai sokongan kukuh pada 846–853 KRW.",
+        "headline": "JPY/KRW bertahan pada 845.9 KRW setiap 100 JPY di bawah amaran campur tangan",
+        "summary": "JPY/KRW berada sekitar 8.46 KRW setiap JPY (~845.9 KRW setiap 100 JPY, rujukan ECB 8.459). Walaupun BOJ memberi isyarat kenaikan kadar, USD/JPY pada 158.3 terus menekan yen. Namun begitu, amaran campur tangan tegas daripada pihak berkuasa Tokyo membentuk paras sokongan kukuh antara 842 dan 849 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "ms",
-      "data_as_of": "2026-11-04",
-      "reference_rate": "1803.210250",
-      "generated_at": "2026-11-03T23:40:37+00:00",
+      "data_as_of": "2026-11-05",
+      "reference_rate": "1807.069255",
+      "generated_at": "2026-11-04T23:40:03+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1803.210250 KRW"
+          "text": "1807.069255 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-04"
+          "text": "2026-11-05"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW teguh pada 1,803 dengan kabel mempertahankan 1.34 menjelang keputusan BoE",
-        "summary": "GBP/KRW mengekalkan kedudukan kukuh pada 1,803 (rujukan ECB 1,803.21), disokong oleh ketahanan pound berhampiran 1.34 berbanding dolar menjelang keputusan kadar faedah Bank of England. Walaupun kewaspadaan fiskal selepas Belanjawan Musim Luruh UK mengehadkan kenaikan, permintaan berterusan terhadap pound mengekalkan kestabilan dalam julat 1,798–1,810 KRW.",
+        "headline": "Pound meningkat ke 1,807 menjelang mesyuarat BoE berikutan kelemahan dolar",
+        "summary": "GBP/KRW melonjak ke sekitar 1,807 (rujukan ECB 1,807.07), disokong oleh keupayaan pound bertahan pada 1.348 berbanding dolar sebelum keputusan Bank of England. Meskipun timbul kebimbangan fiskal susulan belanjawan UK, permintaan kukuh merentas mata wang Eropah mengekalkan pasangan dalam julat 1,802–1,812 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "ms",
-      "data_as_of": "2026-11-04",
-      "reference_rate": "201.517630",
-      "generated_at": "2026-11-03T23:40:37+00:00",
+      "data_as_of": "2026-11-05",
+      "reference_rate": "200.617210",
+      "generated_at": "2026-11-04T23:40:03+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "201.517630 KRW"
+          "text": "200.617210 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-04"
+          "text": "2026-11-05"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW stabil pada 201.5 disokong kecairan PBOC dan jangkaan rangsangan fiskal",
-        "summary": "CNY/KRW didagangkan stabil sekitar 201.5 (rujukan ECB 201.52) dalam julat 200–202 KRW. Bank Rakyat China terus menyalurkan kecairan akomodatif dan penetapan kadar rujukan harian yang stabil, manakala jangkaan rangsangan fiskal tambahan daripada Jawatankuasa Tetap NPC mengukuhkan yuan. Sejajar dengan pergerakan USD/KRW, pasangan ini ditutup tenang pada 200.8–202.0 KRW.",
+        "headline": "CNY/KRW stabil sekitar 200.6 disokong kecairan PBOC dan rangsangan NPC",
+        "summary": "Pasangan CNY/KRW didagangkan stabil sekitar 200.6 (rujukan ECB 200.62) dalam julat 200–202 KRW. Bank Rakyat China (PBOC) mengekalkan kecairan akomodatif dan penetapan rujukan yang teguh, manakala harapan pakej fiskal NPC menyokong yuan. Seiring penyusutan USD/KRW, pasangan ini ditutup teratur pada 200.0–201.2 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -246,71 +246,71 @@
   ],
   "currencies": {
     "AUD": {
-      "rate_to_krw": "939.039170",
-      "data_as_of": "2026-11-04",
-      "headline": "Dolar Australia berdaya tahan pada 939 KRW disokong nada hawkish RBA dan komoditi",
-      "brief": "Dolar Australia mengekalkan daya tahan sekitar 939 KRW, didorong oleh kadar faedah ketat RBA, kestabilan harga komoditi dan jangkaan rangsangan China."
+      "rate_to_krw": "939.032439",
+      "data_as_of": "2026-11-05",
+      "headline": "Dolar Australia kukuh pada 939 KRW disokong dasar RBA dan rangsangan China",
+      "brief": "Dolar Australia berdaya tahan pada 939 KRW, disokong oleh ketegasan kadar RBA, harga komoditi yang mantap dan jangkaan rangsangan fiskal China."
     },
     "CAD": {
-      "rate_to_krw": "962.119951",
-      "data_as_of": "2026-11-04",
-      "headline": "Dolar Kanada pertahan 962 KRW disokong minyak mentah berdepan pemotongan BoC",
-      "brief": "Dolar Kanada mempertahankan 962 KRW apabila harga minyak mentah yang teguh mengimbangi perbezaan kadar faedah berikutan pelonggaran dasar Bank of Canada."
+      "rate_to_krw": "960.563021",
+      "data_as_of": "2026-11-05",
+      "headline": "Dolar Kanada pertahan 961 KRW dibantu minyak mentah atasi potongan kadar BoC",
+      "brief": "Dolar Kanada bertahan pada 961 KRW apabila harga minyak mentah dan eksport sumber mengimbangi kesan jurang hasil daripada pemotongan kadar BoC."
     },
     "CHF": {
-      "rate_to_krw": "1639.886537",
-      "data_as_of": "2026-11-04",
-      "headline": "Franc Swiss kukuh pada 1,640 KRW susulan aliran selamat dan kebimbangan Eropah",
-      "brief": "Franc Swiss meningkat ke 1,640 KRW apabila ketidaktentuan fiskal Eropah dan perlindungan nilai pilihan raya AS memacu aliran selamat mengatasi kadar rendah SNB."
+      "rate_to_krw": "1641.467131",
+      "data_as_of": "2026-11-05",
+      "headline": "Franc Swiss mengukuh ke 1,641 KRW didorong permintaan aset selamat",
+      "brief": "Franc Swiss naik ke 1,641 KRW berikutan ketidaktentuan politik Eropah dan perlindungan risiko pilihan raya yang mengatasi dasar kadar rendah SNB."
     },
     "CNY": {
-      "rate_to_krw": "201.517630",
-      "data_as_of": "2026-11-04",
-      "headline": "Yuan China stabil pada 201.5 KRW dengan sokongan kecairan PBOC dan rangsangan",
-      "brief": "Yuan stabil sekitar 201.5 KRW disokong kecairan PBOC dan kadar penetapan harian yang terkawal menjelang pakej rangsangan Parlimen China."
+      "rate_to_krw": "200.617210",
+      "data_as_of": "2026-11-05",
+      "headline": "Yuan China stabil sekitar 200.6 KRW disokong PBOC dan jangkaan NPC",
+      "brief": "Yuan China stabil pada 200.6 KRW hasil suntikan kecairan PBOC dan penetapan stabil, di samping optimisme pakej rangsangan Kongres Rakyat Kebangsaan."
     },
     "EUR": {
-      "rate_to_krw": "1503.120000",
-      "data_as_of": "2026-11-04",
-      "headline": "Euro berehat pada 1,503 KRW selepas data pekerjaan AS menyokong lonjakan dolar",
-      "brief": "Euro mendatar pada 1,503 KRW apabila data pasaran buruh AS memulihkan dolar dan menolak EUR/USD ke 1.11 di tengah kelembapan industri Eropah."
+      "rate_to_krw": "1508.180000",
+      "data_as_of": "2026-11-05",
+      "headline": "Euro melantun ke 1,508 KRW didorong penyusutan dolar AS",
+      "brief": "Euro meningkat ke 1,508 KRW apabila penurunan dolar mendorong EUR/USD ke 1.1250, mengenepikan kebimbangan terhadap aktiviti perkilangan Eropah."
     },
     "GBP": {
-      "rate_to_krw": "1803.210250",
-      "data_as_of": "2026-11-04",
-      "headline": "Pound British kekal pada 1,803 KRW dengan kabel bertahan pada 1.34 sebelum BoE",
-      "brief": "Pound bertahan pada 1,803 KRW disokong kestabilan pada 1.34 berbanding dolar sebelum mesyuarat BoE, mengatasi sentimen berhati-hati belanjawan UK."
+      "rate_to_krw": "1807.069255",
+      "data_as_of": "2026-11-05",
+      "headline": "Pound British naik ke 1,807 KRW menjelang keputusan dasar Bank of England",
+      "brief": "Pound melonjak ke 1,807 KRW berikutan kenaikan kabel kepada 1.348 berbanding dolar AS yang lemah sementara pasaran menantikan keputusan BoE."
     },
     "HKD": {
-      "rate_to_krw": "171.373846",
-      "data_as_of": "2026-11-04",
-      "headline": "Dolar Hong Kong jejak pemulihan dolar AS dalam julat tambatan pada 171.4 KRW",
-      "brief": "Dolar Hong Kong stabil pada 171.4 KRW dalam jalur tambatan 7.75–7.85, menjejaki kenaikan dolar AS bersama aliran pasaran saham serantau."
+      "rate_to_krw": "170.610527",
+      "data_as_of": "2026-11-05",
+      "headline": "Dolar Hong Kong jejak penurunan USD dalam tambatan untuk kekal 170.6 KRW",
+      "brief": "Dolar Hong Kong diniagakan stabil pada 170.6 KRW dalam lingkungan tambatan 7.75–7.85, sejajar dengan pelonggaran dolar AS dan aliran pasaran serantau."
     },
     "JPY": {
-      "rate_to_krw": "8.494603",
-      "data_as_of": "2026-11-04",
-      "headline": "Yen Jepun pertahan 849.5 KRW bagi 100 JPY saat USD/JPY cecah 158 dan amaran campur tangan",
-      "brief": "Yen mempertahankan 849.5 KRW bagi 100 JPY apabila kenaikan USD/JPY ke paras 158 dibendung oleh amaran tegas campur tangan daripada pihak berkuasa Tokyo."
+      "rate_to_krw": "8.458665",
+      "data_as_of": "2026-11-05",
+      "headline": "Yen Jepun pertahan 845.9 KRW bagi 100 JPY dengan amaran campur tangan Tokyo",
+      "brief": "Yen berjaya mempertahankan 845.9 KRW setiap 100 JPY selepas amaran campur tangan pihak berkuasa Jepun mengimbangi tekanan USD/JPY sekitar 158."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-04",
-      "headline": "Won Korea pertahan paras 1,345 KRW disokong eksport cip dan kadar 3.00%",
-      "brief": "Won mempertahankan 1,345 KRW daripada jualan ekuiti asing, disokong oleh lebihan perdagangan semikonduktor yang kukuh dan kadar dasar 3.00% BOK."
+      "data_as_of": "2026-11-05",
+      "headline": "Won Korea pulih ke 1,338 KRW didorong eksport semikonduktor dan kadar 3.00%",
+      "brief": "Won mengukuh ke 1,338 KRW bagi setiap dolar, disokong lebihan perdagangan cip yang kukuh, jualan mata wang pengeksport dan kadar dasar 3.00% BOK."
     },
     "USD": {
-      "rate_to_krw": "1344.592540",
-      "data_as_of": "2026-11-04",
-      "headline": "Dolar AS berlegar pada 1,345 KRW susulan data pasaran buruh dan jualan pengeksport",
-      "brief": "Dolar AS berada pada 1,345 KRW susulan lonjakan hasil bon daripada data JOLTS, manakala jualan mata wang oleh pengeksport mengekang kenaikan."
+      "rate_to_krw": "1338.581699",
+      "data_as_of": "2026-11-05",
+      "headline": "Dolar AS susut ke 1,338 KRW ekoran pelarasan pilihan raya dan jualan korporat",
+      "brief": "Dolar AS berundur ke 1,338 KRW berikutan aktiviti ambilan untung sebelum pilihan raya AS dan penjualan mata wang agresif oleh syarikat teknologi Korea."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261103T234037Z",
-    "source_input_digest": "61d72a64a011158928c05256e34665e3290badf7566f91b00aecb61c5fe58043",
-    "translated_at": "2026-11-03T23:40:37+00:00",
+    "source_batch_id": "20261104T234003Z",
+    "source_input_digest": "a12e23d5a49f28481623a87e24649b2cd05adb91fd354938056d16436a7440d4",
+    "translated_at": "2026-11-04T23:40:03+00:00",
     "direction": "ltr"
   }
 }
