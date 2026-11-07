@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261106T234020Z",
-  "published_at": "2026-11-06T23:40:20+00:00",
-  "checked_at": "2026-11-06T23:40:20+00:00",
-  "valid_until": "2026-11-08T11:40:20+00:00",
+  "batch_id": "20261107T233042Z",
+  "published_at": "2026-11-07T23:30:42+00:00",
+  "checked_at": "2026-11-07T23:30:42+00:00",
+  "valid_until": "2026-11-09T11:30:42+00:00",
   "locale": "vi",
   "input_digest": "3feaa9b9b216725bffe09974bff117ec67fd858ac69b3ed700c4f7f133dab5ba",
   "source": {
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "vi",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "reference_rate": "1358.728168",
-      "generated_at": "2026-11-06T23:40:20+00:00",
+      "generated_at": "2026-11-07T23:30:42+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -36,7 +36,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-07"
+          "text": "2026-11-08"
         }
       ],
       "metrics": {
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "vi",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "reference_rate": "1517.020000",
-      "generated_at": "2026-11-06T23:40:20+00:00",
+      "generated_at": "2026-11-07T23:30:42+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -82,7 +82,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-07"
+          "text": "2026-11-08"
         }
       ],
       "metrics": {
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "vi",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "reference_rate": "8.581886",
-      "generated_at": "2026-11-06T23:40:20+00:00",
+      "generated_at": "2026-11-07T23:30:42+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -128,7 +128,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-07"
+          "text": "2026-11-08"
         }
       ],
       "metrics": {
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "vi",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "reference_rate": "1818.641731",
-      "generated_at": "2026-11-06T23:40:20+00:00",
+      "generated_at": "2026-11-07T23:30:42+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -174,7 +174,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-07"
+          "text": "2026-11-08"
         }
       ],
       "metrics": {
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "vi",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "reference_rate": "203.667853",
-      "generated_at": "2026-11-06T23:40:20+00:00",
+      "generated_at": "2026-11-07T23:30:42+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -220,7 +220,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-07"
+          "text": "2026-11-08"
         }
       ],
       "metrics": {
@@ -247,70 +247,70 @@
   "currencies": {
     "AUD": {
       "rate_to_krw": "933.550769",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "Đô la Úc giữ vững mốc 933,6 KRW nhờ chính sách của RBA và giá hàng hóa",
       "brief": "Đô la Úc duy trì ổn định quanh 933,6 KRW nhờ lập trường thắt chặt của RBA và giá hàng hóa vững vàng, giúp hóa giải áp lực từ đà tăng của đồng USD."
     },
     "CAD": {
       "rate_to_krw": "965.947151",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "Đô la Canada bảo vệ mốc 965,9 KRW nhờ giá dầu và xuất khẩu năng lượng",
       "brief": "Đô la Canada giữ vững mức 965,9 KRW nhờ giá dầu thô ổn định và xuất khẩu năng lượng tích cực, bù đắp các đợt cắt giảm lãi suất của Ngân hàng Trung ương Canada."
     },
     "CHF": {
       "rate_to_krw": "1659.214700",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "Franc Thụy Sĩ lên 1.659,2 KRW nhờ dòng tiền trú ẩn sau đợt bán tháo cổ phiếu",
       "brief": "Franc Thụy Sĩ tăng vọt lên 1.659,2 KRW khi đà sụt giảm của nhóm cổ phiếu công nghệ kích hoạt nhu cầu phòng vệ và tìm kiếm tài sản an toàn trên toàn cầu."
     },
     "CNY": {
       "rate_to_krw": "203.667853",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "Nhân dân tệ tăng lên 203,7 KRW nhờ thanh khoản PBOC và kỳ vọng gói NPC",
       "brief": "Nhân dân tệ tăng lên 203,7 KRW nhờ thanh khoản dồi dào từ PBOC, tỷ giá tham chiếu vững chắc và niềm tin vào gói kích thích tài khóa của Quốc hội Trung Quốc."
     },
     "EUR": {
       "rate_to_krw": "1517.020000",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "Euro tăng lên 1.517,0 KRW do đồng won suy yếu lấn át số liệu bán lẻ EU",
       "brief": "Đồng euro tăng lên 1.517,0 KRW do đà trượt dốc mạnh của đồng won đã bù đắp cho sự suy yếu của EUR/USD về 1,1165 sau báo cáo doanh số bán lẻ ảm đạm tại châu Âu."
     },
     "GBP": {
       "rate_to_krw": "1818.641731",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "Bảng Anh nhảy vọt lên 1.818,6 KRW sau khi BoE nâng lãi suất lên 4,0%",
       "brief": "Bảng Anh tăng vọt lên 1.818,6 KRW nhờ hiệu ứng duy trì sau đợt tăng lãi suất lên 4,0% của Ngân hàng Trung ương Anh và nhu cầu mua gom tiền tệ diễn ra mạnh mẽ."
     },
     "HKD": {
       "rate_to_krw": "173.363808",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "Đô la Hồng Kông bám sát đà tăng USD trong biên độ neo lên mức 173,4 KRW",
       "brief": "Đô la Hồng Kông bám sát đà tăng của USD trong biên độ 7,75–7,85, ổn định quanh mức 173,4 KRW trong bối cảnh dòng vốn luân chuyển tích cực tại thị trường châu Á."
     },
     "JPY": {
       "rate_to_krw": "8.581886",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "Yên Nhật hồi phục lên 858,2 KRW mỗi 100 JPY nhờ cảnh báo can thiệp tỷ giá",
       "brief": "Đồng yên hồi phục lên 858,2 KRW mỗi 100 JPY khi cảnh báo can thiệp dứt khoát từ Tokyo và đà giảm của won đã lấn át áp lực từ cặp USD/JPY dao động sát mốc 158."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "Won bảo vệ ngưỡng 1.360 KRW nhờ lực bán của doanh nghiệp và lãi suất 3,00%",
       "brief": "Won lùi về 1.358 KRW do khối ngoại bán ròng cổ phiếu, nhưng lượng bán USD của các nhà xuất khẩu gần 1.360 KRW và lãi suất 3,00% đã chặn đà giảm sâu hơn."
     },
     "USD": {
       "rate_to_krw": "1358.728168",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "Đô la Mỹ tăng lên 1.358 KRW trước báo cáo việc làm; áp lực bán chặn đỉnh",
       "brief": "Đồng USD tăng mạnh lên 1.358 KRW trước số liệu việc làm và tâm lý né tránh rủi ro, trước khi lực bán chốt lời của doanh nghiệp xuất khẩu ghìm đà tăng quanh 1.360 KRW."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261106T234020Z",
+    "source_batch_id": "20261107T233042Z",
     "source_input_digest": "3feaa9b9b216725bffe09974bff117ec67fd858ac69b3ed700c4f7f133dab5ba",
-    "translated_at": "2026-11-06T23:40:20+00:00",
+    "translated_at": "2026-11-07T23:30:42+00:00",
     "direction": "ltr"
   }
 }

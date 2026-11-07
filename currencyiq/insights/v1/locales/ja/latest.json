@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261106T234020Z",
-  "published_at": "2026-11-06T23:40:20+00:00",
-  "checked_at": "2026-11-06T23:40:20+00:00",
-  "valid_until": "2026-11-08T11:40:20+00:00",
+  "batch_id": "20261107T233042Z",
+  "published_at": "2026-11-07T23:30:42+00:00",
+  "checked_at": "2026-11-07T23:30:42+00:00",
+  "valid_until": "2026-11-09T11:30:42+00:00",
   "locale": "ja",
   "input_digest": "3feaa9b9b216725bffe09974bff117ec67fd858ac69b3ed700c4f7f133dab5ba",
   "source": {
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "ja",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "reference_rate": "1358.728168",
-      "generated_at": "2026-11-06T23:40:20+00:00",
+      "generated_at": "2026-11-07T23:30:42+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -36,7 +36,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-07"
+          "text": "2026-11-08"
         }
       ],
       "metrics": {
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "ja",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "reference_rate": "1517.020000",
-      "generated_at": "2026-11-06T23:40:20+00:00",
+      "generated_at": "2026-11-07T23:30:42+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -82,7 +82,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-07"
+          "text": "2026-11-08"
         }
       ],
       "metrics": {
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "ja",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "reference_rate": "8.581886",
-      "generated_at": "2026-11-06T23:40:20+00:00",
+      "generated_at": "2026-11-07T23:30:42+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -128,7 +128,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-07"
+          "text": "2026-11-08"
         }
       ],
       "metrics": {
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "ja",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "reference_rate": "1818.641731",
-      "generated_at": "2026-11-06T23:40:20+00:00",
+      "generated_at": "2026-11-07T23:30:42+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -174,7 +174,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-07"
+          "text": "2026-11-08"
         }
       ],
       "metrics": {
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "ja",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "reference_rate": "203.667853",
-      "generated_at": "2026-11-06T23:40:20+00:00",
+      "generated_at": "2026-11-07T23:30:42+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -220,7 +220,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-07"
+          "text": "2026-11-08"
         }
       ],
       "metrics": {
@@ -247,70 +247,70 @@
   "currencies": {
     "AUD": {
       "rate_to_krw": "933.550769",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "豪中銀タカ派姿勢と商品価格底堅さで933.6ウォン台を維持",
       "brief": "豪ドルは豪中銀（RBA）のタカ派的な引き締めスタンス維持と資源価格の底堅さに支えられ、米ドル高の逆風下でも933.6ウォン近辺で下値を固めました。"
     },
     "CAD": {
       "rate_to_krw": "965.947151",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "原油相場安定とエネルギー輸出好調で965.9ウォン台を堅守",
       "brief": "カナダドルはカナダ中銀の利下げによる金利差を抱えつつも、原油価格の安定とエネルギー輸出の堅調さに支えられ、965.9ウォン台で安定的に推移しました。"
     },
     "CHF": {
       "rate_to_krw": "1659.214700",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "世界的な株安と安全資産需要の集中で1,659.2ウォン台へ上昇",
       "brief": "スイスフランはハイテク株急落を受けたリスク回避の資金シフトとヘッジ需要を取り込み、低金利環境を覆して1,659.2ウォン台へ一段と上昇しました。"
     },
     "CNY": {
       "rate_to_krw": "203.667853",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "人民銀行の資金供給と全人代刺激期待で203.7ウォン台へ伸長",
       "brief": "人民元は人民銀行の流動性供給と安定的基準値設定に加え、全人代常務委員会の財政出動期待からドル高と歩調を合わせ203.7ウォン台へ伸長しました。"
     },
     "EUR": {
       "rate_to_krw": "1517.020000",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "ウォン安進行とクロス買いが下支えし1,517.0ウォン台へ反発",
       "brief": "ユーロは欧州小売指標の減速やユーロ/ドルの下落を抱える一方、ウォンの下落ピッチが速かったことからクロス買いが先行し、1,517.0ウォン台を回復しました。"
     },
     "GBP": {
       "rate_to_krw": "1818.641731",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "英中銀4.0%利上げ効果と旺盛なクロス買いで1,818.6ウォン台",
       "brief": "ポンドは英中銀の利上げ（4.0%）に伴う金融引き締めの差別化を好感した買い需要が続き、対ウォンで1,818.6ウォン台へ力強く水準を切り上げました。"
     },
     "HKD": {
       "rate_to_krw": "173.363808",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "ペグ制バンド内でドル高に追随し173.4ウォン台へ上昇",
       "brief": "香港ドルはドルペグ制（7.75〜7.85 HKD）のもと米金利上昇とドル高の勢いに連動し、アジア市場の資金フローの中で173.4ウォン台を記録しました。"
     },
     "JPY": {
       "rate_to_krw": "8.581886",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "ドル/円158円推移も口頭介入警戒で100円=858.2ウォン台へ反発",
       "brief": "円はドル/円が158円台に滞空し上値が重いものの、東京当局の介入警戒感と韓国株安に伴うウォン売りが下値を押し上げ、100円=858.2ウォン台へ反発しました。"
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "米株安の波乱の中で1,360ウォン輸出ネゴと3.00%金利が防衛",
       "brief": "ウォンは米株安を受けた外国人売りと米雇用警戒のドル買いで1,358ウォンへ軟化も、1,360ウォン台の輸出ネゴと3.00%基準金利が防波堤となりました。"
     },
     "USD": {
       "rate_to_krw": "1358.728168",
-      "data_as_of": "2026-11-07",
+      "data_as_of": "2026-11-08",
       "headline": "米雇用統計警戒とリスク回避で1,358ウォン急伸、ネゴが上値抑制",
       "brief": "米ドルは米雇用統計への警戒感と世界的な株安による安全資産買いから1,358ウォンへ急伸したものの、1,360ウォン台での輸出企業のドル売りが上値を抑えました。"
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261106T234020Z",
+    "source_batch_id": "20261107T233042Z",
     "source_input_digest": "3feaa9b9b216725bffe09974bff117ec67fd858ac69b3ed700c4f7f133dab5ba",
-    "translated_at": "2026-11-06T23:40:20+00:00",
+    "translated_at": "2026-11-07T23:30:42+00:00",
     "direction": "ltr"
   }
 }
