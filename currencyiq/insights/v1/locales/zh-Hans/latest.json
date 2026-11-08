@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261107T233042Z",
-  "published_at": "2026-11-07T23:30:42+00:00",
-  "checked_at": "2026-11-07T23:30:42+00:00",
-  "valid_until": "2026-11-09T11:30:42+00:00",
+  "batch_id": "20261108T233035Z",
+  "published_at": "2026-11-08T23:30:35+00:00",
+  "checked_at": "2026-11-08T23:30:35+00:00",
+  "valid_until": "2026-11-10T11:30:35+00:00",
   "locale": "zh-Hans",
   "input_digest": "3feaa9b9b216725bffe09974bff117ec67fd858ac69b3ed700c4f7f133dab5ba",
   "source": {
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "zh-Hans",
-      "data_as_of": "2026-11-08",
+      "data_as_of": "2026-11-09",
       "reference_rate": "1358.728168",
-      "generated_at": "2026-11-07T23:30:42+00:00",
+      "generated_at": "2026-11-08T23:30:35+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -36,7 +36,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-08"
+          "text": "2026-11-09"
         }
       ],
       "metrics": {
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "zh-Hans",
-      "data_as_of": "2026-11-08",
+      "data_as_of": "2026-11-09",
       "reference_rate": "1517.020000",
-      "generated_at": "2026-11-07T23:30:42+00:00",
+      "generated_at": "2026-11-08T23:30:35+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -82,7 +82,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-08"
+          "text": "2026-11-09"
         }
       ],
       "metrics": {
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "zh-Hans",
-      "data_as_of": "2026-11-08",
+      "data_as_of": "2026-11-09",
       "reference_rate": "8.581886",
-      "generated_at": "2026-11-07T23:30:42+00:00",
+      "generated_at": "2026-11-08T23:30:35+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -128,7 +128,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-08"
+          "text": "2026-11-09"
         }
       ],
       "metrics": {
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "zh-Hans",
-      "data_as_of": "2026-11-08",
+      "data_as_of": "2026-11-09",
       "reference_rate": "1818.641731",
-      "generated_at": "2026-11-07T23:30:42+00:00",
+      "generated_at": "2026-11-08T23:30:35+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -174,7 +174,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-08"
+          "text": "2026-11-09"
         }
       ],
       "metrics": {
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "zh-Hans",
-      "data_as_of": "2026-11-08",
+      "data_as_of": "2026-11-09",
       "reference_rate": "203.667853",
-      "generated_at": "2026-11-07T23:30:42+00:00",
+      "generated_at": "2026-11-08T23:30:35+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -220,7 +220,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-08"
+          "text": "2026-11-09"
         }
       ],
       "metrics": {
@@ -247,70 +247,70 @@
   "currencies": {
     "AUD": {
       "rate_to_krw": "933.550769",
-      "data_as_of": "2026-11-08",
+      "data_as_of": "2026-11-09",
       "headline": "澳洲联储维持偏鹰基调与大宗商品稳固 澳元持稳于933.6韩元",
       "brief": "澳元稳守在933.6韩元附近，得益于澳洲联储偏鹰派的利率立场以及关键大宗商品价格企稳，有效抵消了美元全线走强带来的调整压力。"
     },
     "CAD": {
       "rate_to_krw": "965.947151",
-      "data_as_of": "2026-11-08",
+      "data_as_of": "2026-11-09",
       "headline": "油价支撑与能源出口对冲降息压力 加元稳守965.9韩元",
       "brief": "加元保持在965.9韩元附近，尽管加拿大央行降息扩大了利差劣势，但国际油价企稳与能源出口韧性为汇价提供了良好托底。"
     },
     "CHF": {
       "rate_to_krw": "1659.214700",
-      "data_as_of": "2026-11-08",
+      "data_as_of": "2026-11-09",
       "headline": "科技股重挫引发避险资金涌入 瑞郎走强至1,659.2韩元",
       "brief": "瑞郎升至1,659.2韩元，隔夜美股半导体及科技板块重挫引发全球避险情绪升温，强劲的避险买盘与对冲需求推动瑞郎显著走高。"
     },
     "CNY": {
       "rate_to_krw": "203.667853",
-      "data_as_of": "2026-11-08",
+      "data_as_of": "2026-11-09",
       "headline": "央行流动性投放与人大财政刺激预期 人民币升至203.7韩元",
       "brief": "人民币走强至203.7韩元，央行持续提供充足流动性并稳固中间价，叠加全国人大常委会财政增量政策预期，协同美元反弹推高汇价。"
     },
     "EUR": {
       "rate_to_krw": "1517.020000",
-      "data_as_of": "2026-11-08",
+      "data_as_of": "2026-11-09",
       "headline": "韩元走弱推高交叉汇率 欧元反弹至1,517.0韩元",
       "brief": "欧元反弹至1,517.0韩元，尽管欧元区零售数据疲弱令欧美汇率回落至1.1165，但韩元贬值幅度更大，推动欧元兑韩元逆势走强。"
     },
     "GBP": {
       "rate_to_krw": "1818.641731",
-      "data_as_of": "2026-11-08",
+      "data_as_of": "2026-11-09",
       "headline": "英国央行加息至4.0%效应持续 英镑跃升至1,818.6韩元",
       "brief": "英镑跃升至1,818.6韩元，英国央行将利率上调至4.0%的紧缩分化效应持续支撑英镑，交叉盘稳固买盘推动英镑兑韩元大幅拉升。"
     },
     "HKD": {
       "rate_to_krw": "173.363808",
-      "data_as_of": "2026-11-08",
+      "data_as_of": "2026-11-09",
       "headline": "联系汇率制度下紧跟美元反弹 港元平稳收于173.4韩元",
       "brief": "港元在7.75–7.85兑换保证区间内紧密跟随美元强劲反弹，伴随亚洲跨境资金流动，平稳波动于173.4韩元关口附近。"
     },
     "JPY": {
       "rate_to_krw": "8.581886",
-      "data_as_of": "2026-11-08",
+      "data_as_of": "2026-11-09",
       "headline": "美日高位震荡但干预警戒强力 日元守住858.2韩元底线",
       "brief": "日元反弹至每百日元858.2韩元，尽管高企的美日汇率令日元承压，但日本官方严厉的干预警告叠加韩元走弱，支撑汇价稳固回升。"
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-08",
+      "data_as_of": "2026-11-09",
       "headline": "外资减持冲击汇市 出口结汇与3.00%利率护航1,360关口",
       "brief": "韩元受美股科技股暴跌及外资净卖出冲击跌至1,358韩元，但在央行3.00%基准利率与1,360关口密集的出口商结汇支撑下守住底线。"
     },
     "USD": {
       "rate_to_krw": "1358.728168",
-      "data_as_of": "2026-11-08",
+      "data_as_of": "2026-11-09",
       "headline": "非农报告前避险推动美元急升 出口商结汇稳于1,358韩元",
       "brief": "美元跳升至1,358韩元附近，美就业数据前避险情绪提振美元，汇价一度触及1,364韩元，随后在出口企业集中结汇抛盘压制下企稳。"
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261107T233042Z",
+    "source_batch_id": "20261108T233035Z",
     "source_input_digest": "3feaa9b9b216725bffe09974bff117ec67fd858ac69b3ed700c4f7f133dab5ba",
-    "translated_at": "2026-11-07T23:30:42+00:00",
+    "translated_at": "2026-11-08T23:30:35+00:00",
     "direction": "ltr"
   }
 }
