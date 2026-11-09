@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261108T233035Z",
-  "published_at": "2026-11-08T23:30:35+00:00",
-  "checked_at": "2026-11-08T23:30:35+00:00",
-  "valid_until": "2026-11-10T11:30:35+00:00",
+  "batch_id": "20261109T234215Z",
+  "published_at": "2026-11-09T23:42:15+00:00",
+  "checked_at": "2026-11-09T23:42:15+00:00",
+  "valid_until": "2026-11-11T11:42:15+00:00",
   "locale": "en",
-  "input_digest": "3feaa9b9b216725bffe09974bff117ec67fd858ac69b3ed700c4f7f133dab5ba",
+  "input_digest": "773f873f50cc850b86cfc2e8b5a1c6354374f4c7ddc661f0bd6cb62204863236",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "en",
-      "data_as_of": "2026-11-09",
-      "reference_rate": "1358.728168",
-      "generated_at": "2026-11-08T23:30:35+00:00",
+      "data_as_of": "2026-11-10",
+      "reference_rate": "1346.788171",
+      "generated_at": "2026-11-09T23:42:15+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1358.728168 KRW"
+          "text": "1346.788171 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-09"
+          "text": "2026-11-10"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW surges to 1,358 ahead of U.S. payrolls before exporter selling buffers",
-        "summary": "USD/KRW surged to roughly 1,358 (ECB ref 1,358.73) as pre-NFP caution and Wall Street tech sell-offs spurred safe-haven dollar demand, briefly touching 1,364 KRW. However, heavy exporter dollar-selling (nego) clustered near the 1,360 mark contained further upside, settling the pair in a 1,352–1,364 KRW range.",
+        "headline": "USD/KRW plunges to 1,346.8 as post-midterm rally cools and exporters sell dollars",
+        "summary": "USD/KRW dropped sharply to around 1,346.8 (ECB ref 1,346.79) as the post-U.S. midterm dollar surge lost steam and Treasury yields stabilized. A rebound in Wall Street tech shares coupled with intense exporter dollar selling (nego) above 1,350 and resilient semiconductor export flows spurred won appreciation, putting the pair into a 1,344–1,353 KRW range ahead of U.S. October CPI.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "en",
-      "data_as_of": "2026-11-09",
-      "reference_rate": "1517.020000",
-      "generated_at": "2026-11-08T23:30:35+00:00",
+      "data_as_of": "2026-11-10",
+      "reference_rate": "1507.460000",
+      "generated_at": "2026-11-09T23:42:15+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1517.020000 KRW"
+          "text": "1507.460000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-09"
+          "text": "2026-11-10"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW advances to 1,517 as KRW weakness offsets softer euro data",
-        "summary": "EUR/KRW climbed to approximately 1,517 (ECB ref 1,517.02). Although EUR/USD eased to 1.1165 amid broad dollar strength and soft Eurozone retail sales, steeper depreciation in the Korean won lifted the cross rate. Risk-off sentiment triggered by global tech declines supported the pair firmly in a 1,512–1,522 KRW range.",
+        "headline": "EUR/KRW retreats to 1,507.5 as won gains outpace EUR/USD rebound",
+        "summary": "EUR/KRW adjusted lower to around 1,507.5 (ECB ref 1,507.46). Lower crude oil prices (-4%) reduced European energy import burdens and global dollar softening lifted EUR/USD back near 1.1200. However, the Korean won staged a substantially stronger recovery in Seoul FX trading, pressing the cross lower within a 1,503–1,514 KRW range.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "en",
-      "data_as_of": "2026-11-09",
-      "reference_rate": "8.581886",
-      "generated_at": "2026-11-08T23:30:35+00:00",
+      "data_as_of": "2026-11-10",
+      "reference_rate": "8.526840",
+      "generated_at": "2026-11-09T23:42:15+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.581886 KRW"
+          "text": "8.526840 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-09"
+          "text": "2026-11-10"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW rebounds to 858.2 KRW per 100 JPY on intervention alerts and sell-off",
-        "summary": "JPY/KRW rebounded to around 8.58 KRW per 1 JPY (~858.2 KRW per 100 JPY, ECB ref 8.582). While USD/JPY trading near 158 capped yen momentum, stern verbal intervention warnings from Tokyo and foreign equity outflows from Seoul cushioned the cross, anchoring trading solidly within an 854–862 KRW band.",
+        "headline": "JPY/KRW eases to 852.7 per 100 yen on intervention watch and won recovery",
+        "summary": "JPY/KRW eased slightly to 8.53 KRW per yen (~852.7 KRW per 100 yen, ECB ref 8.527). USD/JPY traded around the high 157s, where Tokyo’s firm verbal intervention warnings and BOJ rate hike prospects capped downside pressure on the yen. However, stabilizing foreign flows in Seoul and broad KRW strength steered the cross within an 849–856 KRW band.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "en",
-      "data_as_of": "2026-11-09",
-      "reference_rate": "1818.641731",
-      "generated_at": "2026-11-08T23:30:35+00:00",
+      "data_as_of": "2026-11-10",
+      "reference_rate": "1806.856047",
+      "generated_at": "2026-11-09T23:42:15+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1818.641731 KRW"
+          "text": "1806.856047 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-09"
+          "text": "2026-11-10"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW leaps to 1,818 driven by BoE 4.0% rate hike and resilient sterling",
-        "summary": "GBP/KRW advanced sharply toward 1,818 (ECB ref 1,818.64), underpinned by the Bank of England's recent 25bp hike to 4.0% and persistent hawkish policy divergence. Sterling held up solidly across crosses despite broader dollar gains, propelling the pair higher within an active 1,812–1,825 KRW trading band.",
+        "headline": "GBP/KRW pulls back to 1,806.9 despite BoE 4.0% rate hike support",
+        "summary": "GBP/KRW settled down toward 1,806.9 (ECB ref 1,806.86). The Bank of England’s monetary divergence following its benchmark rate hike to 4.0% and steady GBP/USD trading near 1.34 provided fundamental backing for sterling. Nevertheless, aggressive exporter dollar conversions in Seoul spurred a sharp won resurgence, keeping the pair contained within 1,800–1,814 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "en",
-      "data_as_of": "2026-11-09",
-      "reference_rate": "203.667853",
-      "generated_at": "2026-11-08T23:30:35+00:00",
+      "data_as_of": "2026-11-10",
+      "reference_rate": "201.831595",
+      "generated_at": "2026-11-09T23:42:15+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "203.667853 KRW"
+          "text": "201.831595 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-09"
+          "text": "2026-11-10"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW rises to 203.7 on PBOC liquidity support and NPC stimulus hopes",
-        "summary": "CNY/KRW climbed to around 203.7 (ECB ref 203.67) within an elevated 202–205 band. The People's Bank of China provided ample short-term liquidity and firm reference fixings, while anticipation of the NPC Standing Committee's fiscal package buoyed sentiment. In line with the USD/KRW surge, the cross closed firm at 202.5–204.5 KRW.",
+        "headline": "CNY/KRW eases to 201.8 as PBOC liquidity supports amidst sharp USD/KRW pullback",
+        "summary": "CNY/KRW softened toward 201.8 (ECB ref 201.83) within a 200.5–203.0 KRW band. While the PBOC ensured ample short-term liquidity injections and fixed a stable central parity rate alongside investor optimism over NPC Standing Committee fiscal stimulus, the broader slide in USD/KRW dragged the cross lower, anchoring trading between 201.0 and 202.5 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -246,71 +246,71 @@
   ],
   "currencies": {
     "AUD": {
-      "rate_to_krw": "933.550769",
-      "data_as_of": "2026-11-09",
-      "headline": "Australian dollar steadies near 933.6 KRW on hawkish RBA and commodities",
-      "brief": "The Australian dollar held steady near 933.6 KRW as the Reserve Bank of Australia's hawkish stance and commodity price resilience mitigated broad U.S. dollar strength."
+      "rate_to_krw": "928.467603",
+      "data_as_of": "2026-11-10",
+      "headline": "AUD defends 928.5 KRW on hawkish RBA pause and commodity resilience",
+      "brief": "The Australian dollar held ground near 928.5 KRW as RBA hawkishness and commodity stability offset broader USD softening, though won gains trimmed the cross."
     },
     "CAD": {
-      "rate_to_krw": "965.947151",
-      "data_as_of": "2026-11-09",
-      "headline": "Canadian dollar defends 965.9 KRW supported by crude oil and energy exports",
-      "brief": "The Canadian dollar held firmly near 965.9 KRW, supported by steady crude oil markets and resilient energy trade that offset Bank of Canada interest rate cuts."
+      "rate_to_krw": "954.995249",
+      "data_as_of": "2026-11-10",
+      "headline": "CAD slips to 955.0 KRW amid 4% oil slump and BoC easing differentials",
+      "brief": "The Canadian dollar slid toward 955.0 KRW pressured by a 4% decline in global crude oil prices and monetary easing divergence from the Bank of Canada."
     },
     "CHF": {
-      "rate_to_krw": "1659.214700",
-      "data_as_of": "2026-11-09",
-      "headline": "Swiss franc climbs to 1,659.2 KRW on safe-haven flows amid tech sell-off",
-      "brief": "The Swiss franc advanced to 1,659.2 KRW as Wall Street equity declines and rising global market volatility spurred safe-haven and hedging demand."
+      "rate_to_krw": "1644.980358",
+      "data_as_of": "2026-11-10",
+      "headline": "CHF eases to 1,645.0 KRW as risk sentiment stabilizes and tech recovers",
+      "brief": "The Swiss franc receded to 1,645.0 KRW as improved global market risk appetite and equity rebounds trimmed the currency’s safe-haven hedge premium."
     },
     "CNY": {
-      "rate_to_krw": "203.667853",
-      "data_as_of": "2026-11-09",
-      "headline": "Chinese yuan advances to 203.7 KRW on PBOC liquidity and NPC stimulus hopes",
-      "brief": "The Chinese yuan climbed to 203.7 KRW, anchored by ample PBOC liquidity, reliable fixing guidance, and strong anticipation for the NPC fiscal stimulus program."
+      "rate_to_krw": "201.831595",
+      "data_as_of": "2026-11-10",
+      "headline": "CNY stabilizes at 201.8 KRW backed by PBOC liquidity and stimulus hopes",
+      "brief": "The Chinese yuan eased to 201.8 KRW alongside USD/KRW, though ample PBOC liquidity injections and fiscal stimulus expectations provided firm support."
     },
     "EUR": {
-      "rate_to_krw": "1517.020000",
-      "data_as_of": "2026-11-09",
-      "headline": "Euro advances to 1,517.0 KRW as won depreciation outweighs softer EU data",
-      "brief": "The euro rose to 1,517.0 KRW as steeper Korean won depreciation and cross buying outweighed softer Eurozone retail sales and EUR/USD easing to 1.1165."
+      "rate_to_krw": "1507.460000",
+      "data_as_of": "2026-11-10",
+      "headline": "EUR softens to 1,507.5 KRW as Korean won outpaces EUR/USD rebound",
+      "brief": "The euro settled at 1,507.5 KRW as a EUR/USD recovery toward 1.1200 on cheaper oil was overtaken by faster Korean won appreciation against the greenback."
     },
     "GBP": {
-      "rate_to_krw": "1818.641731",
-      "data_as_of": "2026-11-09",
-      "headline": "British pound leaps to 1,818.6 KRW on BoE 4.0% rate hike and cross demand",
-      "brief": "Sterling jumped to 1,818.6 KRW, buoyed by the Bank of England's recent rate hike to 4.0% and strong cross-currency demand against Asian currencies."
+      "rate_to_krw": "1806.856047",
+      "data_as_of": "2026-11-10",
+      "headline": "GBP holds 1,806.9 KRW supported by BoE 4.0% rate policy divergence",
+      "brief": "The British pound consolidated near 1,806.9 KRW, maintaining policy divergence support from the BoE 4.0% rate hike despite broad won strength."
     },
     "HKD": {
-      "rate_to_krw": "173.363808",
-      "data_as_of": "2026-11-09",
-      "headline": "Hong Kong dollar tracks USD strength within peg corridor near 173.4 KRW",
-      "brief": "The Hong Kong dollar tracked the U.S. dollar's advance within the 7.75–7.85 peg band, consolidating near 173.4 KRW amid active regional capital adjustments."
+      "rate_to_krw": "171.747254",
+      "data_as_of": "2026-11-10",
+      "headline": "HKD softens to 171.7 KRW tracking U.S. dollar pullback within peg band",
+      "brief": "The Hong Kong dollar tracked the retreating U.S. dollar within its 7.75–7.85 peg band, easing to 171.7 KRW as Seoul currency markets rebounded."
     },
     "JPY": {
-      "rate_to_krw": "8.581886",
-      "data_as_of": "2026-11-09",
-      "headline": "Japanese yen rebounds to 858.2 KRW per 100 JPY on intervention warnings",
-      "brief": "The yen rebounded to 858.2 KRW per 100 JPY as Tokyo's firm intervention warnings and broader won softness countered pressure from USD/JPY hovering near 158."
+      "rate_to_krw": "8.526840",
+      "data_as_of": "2026-11-10",
+      "headline": "JPY steadies at 852.7 KRW per 100 yen on intervention alert and BOJ stance",
+      "brief": "The Japanese yen settled near 852.7 KRW per 100 yen as Tokyo intervention vigilance limited losses while won appreciation capped cross gains."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-09",
-      "headline": "Korean won defends 1,360 KRW zone anchored by exporter sales and 3.00% rate",
-      "brief": "The won softened toward 1,358 KRW on foreign equity selling and pre-NFP dollar gains, but exporter selling near 1,360 KRW and the 3.00% base rate limited losses."
+      "data_as_of": "2026-11-10",
+      "headline": "KRW surges to 1,346.8 on exporter dollar selling and tech exports",
+      "brief": "The Korean won recovered sharply to 1,346.8 per USD, driven by post-midterm dollar moderation, heavy corporate exporter conversions, and strong AI chip exports."
     },
     "USD": {
-      "rate_to_krw": "1358.728168",
-      "data_as_of": "2026-11-09",
-      "headline": "U.S. dollar surges to 1,358 KRW ahead of payrolls before exporter capping",
-      "brief": "The U.S. dollar surged to 1,358 KRW on pre-payroll caution and global risk-off sentiment, though heavy corporate exporter selling capped gains near 1,360 KRW."
+      "rate_to_krw": "1346.788171",
+      "data_as_of": "2026-11-10",
+      "headline": "USD drops to 1,346.8 KRW on yield easing and corporate exporter selling",
+      "brief": "The U.S. dollar tumbled to 1,346.8 KRW as post-election momentum waned, Treasury yields cooled, and corporate exporters offloaded dollars ahead of U.S. CPI."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261108T233035Z",
-    "source_input_digest": "3feaa9b9b216725bffe09974bff117ec67fd858ac69b3ed700c4f7f133dab5ba",
-    "translated_at": "2026-11-08T23:30:35+00:00",
+    "source_batch_id": "20261109T234215Z",
+    "source_input_digest": "773f873f50cc850b86cfc2e8b5a1c6354374f4c7ddc661f0bd6cb62204863236",
+    "translated_at": "2026-11-09T23:42:15+00:00",
     "direction": "ltr"
   }
 }
