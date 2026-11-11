@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261110T233933Z",
-  "published_at": "2026-11-10T23:39:33+00:00",
-  "checked_at": "2026-11-10T23:39:33+00:00",
-  "valid_until": "2026-11-12T11:39:33+00:00",
+  "batch_id": "20261111T233957Z",
+  "published_at": "2026-11-11T23:39:57+00:00",
+  "checked_at": "2026-11-11T23:39:57+00:00",
+  "valid_until": "2026-11-13T11:39:57+00:00",
   "locale": "pl",
-  "input_digest": "75c99c122d0f761e2b05b5acee051d881620d744df2ef52b069be4e052935892",
+  "input_digest": "e9ceb6112532e078e49bd439e35df336259650b7c0b8209372ad28bc9799a30d",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "pl",
-      "data_as_of": "2026-11-11",
-      "reference_rate": "1339.004815",
-      "generated_at": "2026-11-10T23:39:33+00:00",
+      "data_as_of": "2026-11-12",
+      "reference_rate": "1336.901231",
+      "generated_at": "2026-11-11T23:39:57+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1339.004815 KRW"
+          "text": "1336.901231 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-11"
+          "text": "2026-11-12"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW spada do 1 339,0 po wygaszeniu rajdu i sprzedaży walut przez firmy",
-        "summary": "Kurs USD/KRW zniżkował do ok. 1 339,0 (ref. EBC 1 339,00), gdy impet po wyborach w USA wygasł, a rentowności obligacji ustabilizowały się. Odbicie na rynkach akcji technologicznych i duża sprzedaż dolarów (nego) przez koreańskich eksporterów powyżej 1 340 KRW wsparły wona w przedziale 1 336–1 345 KRW przed danymi CPI z USA.",
+        "headline": "USD/KRW spada do 1 336,9 po wygaszeniu rajdu i sprzedaży walut przez firmy",
+        "summary": "USD/KRW obniżył się do około 1 336,9 (ref. EBC 1 336,90), gdy powybory rajd dolara wyhamował, a rentowności obligacji USA ustabilizowały się. Odbicie na giełdach technologicznych i masowa wyprzedaż dolarów przez eksporterów powyżej 1 335 KRW umocniły wona, stabilizując kurs w przedziale 1 333–1 342 KRW przed inflacją CPI.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "pl",
-      "data_as_of": "2026-11-11",
-      "reference_rate": "1501.560000",
-      "generated_at": "2026-11-10T23:39:33+00:00",
+      "data_as_of": "2026-11-12",
+      "reference_rate": "1487.570000",
+      "generated_at": "2026-11-11T23:39:57+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1501.560000 KRW"
+          "text": "1487.570000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-11"
+          "text": "2026-11-12"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW spada do 1 501,6 pod presją silniejszego wona koreańskiego",
-        "summary": "Kurs EUR/KRW spadł do ok. 1 501,6 (ref. EBC 1 501,56), testując poziom 1 500 KRW. Mimo że notowania EUR/USD utrzymały się w pobliżu 1,1214 dzięki stabilizacji rentowności w USA, szybsze umocnienie koreańskiego wona pod wpływem sprzedaży walut przez eksporterów zepchnęło kurs krzyżowy do przedziału 1 498–1 506 KRW.",
+        "headline": "EUR/KRW spada poniżej 1 500 do 1 487,6 pod presją silnego wona",
+        "summary": "EUR/KRW zanotował gwałtowny spadek do około 1 487,6 (ref. EBC 1 487,57), przełamując psychologiczne wsparcie 1 500 KRW. Choć EUR/USD utrzymywał się w pobliżu 1,1127 przy obawach o wzrost w Europie, koreański won umacniał się znacznie dynamiczniej dzięki eksportowi półprzewodników, spychając parę do 1 483–1 495 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "pl",
-      "data_as_of": "2026-11-11",
-      "reference_rate": "8.465216",
-      "generated_at": "2026-11-10T23:39:33+00:00",
+      "data_as_of": "2026-11-12",
+      "reference_rate": "8.395812",
+      "generated_at": "2026-11-11T23:39:57+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.465216 KRW"
+          "text": "8.395812 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-11"
+          "text": "2026-11-12"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW spada do 846,5 za 100 jenów – USD/JPY przy 158 i mocny won",
-        "summary": "Kurs JPY/KRW zniżkował do ok. 8,47 KRW za jena (~846,5 KRW za 100 JPY, ref. EBC 8,465). Notowania USD/JPY utrzymywały się blisko 158 z powodu dysparytetu stóp, choć ostrzeżenia przed interwencją z Tokio i perspektywy zacieśniania BoJ ograniczały spadek jena. Aprecjacja wona sprowadziła kurs do przedziału 844–851 KRW.",
+        "headline": "JPY/KRW spada do 839,6 za 100 jenów – USD/JPY przy 158 i mocny won",
+        "summary": "JPY/KRW obniżył się do około 8,40 KRW za jena (~839,6 KRW za 100 jenów, ref. EBC 8,396). USD/JPY pozostał wysoko blisko 157–158 z uwagi na różnice stóp, choć ostrzeżenia z Tokio ograniczały spadki jena. Aprecjacja wona zepchnęła jednak kurs do strefy 836–844 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "pl",
-      "data_as_of": "2026-11-11",
-      "reference_rate": "1797.306841",
-      "generated_at": "2026-11-10T23:39:33+00:00",
+      "data_as_of": "2026-11-12",
+      "reference_rate": "1779.006912",
+      "generated_at": "2026-11-11T23:39:57+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1797.306841 KRW"
+          "text": "1779.006912 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-11"
+          "text": "2026-11-12"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW spada poniżej 1 800 do 1 797,3 mimo stopy 4,0% Banku Anglii",
-        "summary": "Kurs GBP/KRW spadł do ok. 1 797,3 (ref. EBC 1 797,31), schodząc poniżej poziomu 1 800 KRW. Jastrzębia polityka Banku Anglii po podwyżce stóp do 4,0% i stabilny kurs kabla w rejonie 1,34 stanowiły oparcie dla funta. Zmasowana sprzedaż dolarów przez koreańskich eksporterów umocniła jednak wona, spychając parę do 1 793–1 804 KRW.",
+        "headline": "GBP/KRW cofa się do 1 779,0 mimo stopy 4,0% Banku Anglii",
+        "summary": "GBP/KRW spadł do około 1 779,0 (ref. EBC 1 779,01), schodząc poniżej 1 780 KRW. Dyskonto monetarne wynikające ze stopy 4,0% BoE wspierało funta. Jednak zdecydowana wyprzedaż dolarów przez koreańskich eksporterów napędziła rajd wona, ograniczając notowania do pasma 1 774–1 786 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "pl",
-      "data_as_of": "2026-11-11",
-      "reference_rate": "200.740632",
-      "generated_at": "2026-11-10T23:39:33+00:00",
+      "data_as_of": "2026-11-12",
+      "reference_rate": "200.413607",
+      "generated_at": "2026-11-11T23:39:57+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "200.740632 KRW"
+          "text": "200.413607 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-11"
+          "text": "2026-11-12"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW koryguje do 200,7 przy płynności PBOC i aprecjacji wona",
-        "summary": "Kurs CNY/KRW obniżył się do ok. 200,7 (ref. EBC 200,74) w przedziale 200,0–201,8 KRW. Ludowy Bank Chin zapewniał płynność krótkoterminową i stabilny fixing, a oczekiwania na pakiety stymulacyjne wspierały juana. Jednak dalszy spadek USD/KRW do 1 339 KRW w Seulu wywarł presję na spadek kursu krzyżowego w rejon 200,0–201,5 KRW.",
+        "headline": "CNY/KRW koryguje do 200,4 przy płynności PBOC i aprecjacji wona",
+        "summary": "Kurs CNY/KRW obniżył się w stronę 200,4 (ref. EBC 200,41) w przedziale 199,8–201,2 KRW. Ludowy Bank Chin utrzymał płynność i stabilny fixing, a oczekiwania na pakiety fiskalne wspierały juana. Jednak spadek USD/KRW do 1 336,9 KRW w Seulu pociągnął notowania w dół w kierunku poziomu 200 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -246,71 +246,71 @@
   ],
   "currencies": {
     "AUD": {
-      "rate_to_krw": "924.378232",
-      "data_as_of": "2026-11-11",
-      "headline": "AUD cofa się do 924,4 KRW mimo jastrzębiej polityki RBA",
-      "brief": "Dolar australijski spadł do 924,4 KRW; twarde stanowisko RBA i stabilne surowce nie zdołały przeważyć ogólnego umocnienia wona koreańskiego."
+      "rate_to_krw": "917.007767",
+      "data_as_of": "2026-11-12",
+      "headline": "AUD cofa się do 917,0 KRW mimo jastrzębiej postawy RBA",
+      "brief": "Dolar australijski spadł do 917,0 KRW, ulegając szerokiemu umocnieniu wona napędzanemu ożywieniem w koreańskim eksporcie technologicznym."
     },
     "CAD": {
-      "rate_to_krw": "947.236942",
-      "data_as_of": "2026-11-11",
-      "headline": "CAD spada do 947,2 KRW przez obniżki stóp BoC i wzrost wona",
-      "brief": "Dolar kanadyjski zniżkował do 947,2 KRW pod wpływem łagodzenia polityki pieniężnej przez Bank Kanady oraz umocnienia wona."
+      "rate_to_krw": "939.181767",
+      "data_as_of": "2026-11-12",
+      "headline": "CAD spada do 939,2 KRW pod wpływem luzowania BoC i siły wona",
+      "brief": "Dolar kanadyjski osłabił się do 939,2 KRW w następstwie obniżek stóp przez BoC oraz zdecydowanej sprzedaży dewiz przez koreańskich eksporterów."
     },
     "CHF": {
-      "rate_to_krw": "1631.598392",
-      "data_as_of": "2026-11-11",
-      "headline": "CHF tanieje do 1 631,6 KRW wraz z powrotem apetytu na ryzyko",
-      "brief": "Frank szwajcarski spadł do 1 631,6 KRW, gdyż wzrost apetytu na ryzyko i odbicie akcji technologicznych osłabiły popyt na bezpieczne przystanie."
+      "rate_to_krw": "1610.970327",
+      "data_as_of": "2026-11-12",
+      "headline": "CHF spada do 1 611,0 KRW w obliczu poprawy nastrojów rynkowych",
+      "brief": "Frank szwajcarski zniżkował do 1 611,0 KRW, gdyż wzrost apetytu na ryzyko na rynkach akcji ostudził popyt na tradycyjne bezpieczne przystanie."
     },
     "CNY": {
-      "rate_to_krw": "200.740632",
-      "data_as_of": "2026-11-11",
-      "headline": "CNY wynosi 200,7 KRW przy wsparciu płynnościowym PBOC",
-      "brief": "Juan chiński kształtował się na poziomie 200,7 KRW, amortyzowany przez zasilanie płynnościowe PBOC, lecz podążając za spadkiem USD/KRW."
+      "rate_to_krw": "200.413607",
+      "data_as_of": "2026-11-12",
+      "headline": "CNY koryguje do 200,4 KRW wobec aprecjacji koreańskiego wona",
+      "brief": "Juan chiński obniżył się do 200,4 KRW; zasilanie w płynność przez PBOC ograniczyło spadki, lecz silny won zepchnął kurs w dół."
     },
     "EUR": {
-      "rate_to_krw": "1501.560000",
-      "data_as_of": "2026-11-11",
-      "headline": "EUR cofa się do 1 501,6 KRW – umocnienie wona silniejsze od EUR/USD",
-      "brief": "Euro spadło do 1 501,6 KRW; mimo że notowania EUR/USD utrzymały się w okolicy 1,1214, szybsza aprecjacja wona obniżyła kurs krzyżowy."
+      "rate_to_krw": "1487.570000",
+      "data_as_of": "2026-11-12",
+      "headline": "EUR spada poniżej 1 500 do 1 487,6 KRW przez dynamiczny rajd wona",
+      "brief": "Euro zniżkowało do 1 487,6 KRW tracąc poziom 1 500 KRW, gdyż koreański boom technologiczny przełożył się na znacznie większą siłę wona niż EUR/USD przy 1,1127."
     },
     "GBP": {
-      "rate_to_krw": "1797.306841",
-      "data_as_of": "2026-11-11",
-      "headline": "GBP spada do 1 797,3 KRW mimo wsparcia stopy 4,0% Banku Anglii",
-      "brief": "Funt brytyjski zniżkował do 1 797,3 KRW, gdyż wyprzedaż dolarów przez eksporterów w Seulu przeważyła nad wsparciem ze strony stóp procentowych."
+      "rate_to_krw": "1779.006912",
+      "data_as_of": "2026-11-12",
+      "headline": "GBP spada do 1 779,0 KRW mimo stopy 4,0% Banku Anglii",
+      "brief": "Funt brytyjski osłabił się do 1 779,0 KRW, gdyż przewaga odsetkowa BoE nie zdołała zrównoważyć napływu kapitału do silnego koreańskiego wona."
     },
     "HKD": {
-      "rate_to_krw": "170.684187",
-      "data_as_of": "2026-11-11",
-      "headline": "HKD podąża za spadkiem dolara USA do 170,7 KRW",
-      "brief": "Dolar Hongkongu obniżył się do 170,7 KRW w paśmie powiązania walutowego, odzwierciedlając osłabienie dolara amerykańskiego wobec wona."
+      "rate_to_krw": "170.401384",
+      "data_as_of": "2026-11-12",
+      "headline": "HKD osuwa się do 170,4 KRW podążając za dolarem amerykańskim",
+      "brief": "Dolar hongkoński zniżkował do 170,4 KRW w ramach sztywnego pasma, odzwierciedlając osłabienie amerykańskiej waluty na sesji w Seulu."
     },
     "JPY": {
-      "rate_to_krw": "8.465216",
-      "data_as_of": "2026-11-11",
-      "headline": "JPY spada do 846,5 KRW za 100 jenów przy USD/JPY wokół 158",
-      "brief": "Jen osiągnął 846,5 KRW za 100 JPY z powodu różnicy stóp, choć ostrzeżenia władz z Tokio powstrzymywały głębszą przecenę waluty."
+      "rate_to_krw": "8.395812",
+      "data_as_of": "2026-11-12",
+      "headline": "JPY cofa się do 839,6 KRW za 100 jenów przez różnicę stóp i rajd wona",
+      "brief": "Jen potaniał do 839,6 KRW za 100 jenów, obciążony kursem USD/JPY w rejonie 158 oraz wyraźną przewagą zyskującego na wartości wona."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-11",
-      "headline": "Won zyskuje do 1 339,0 KRW dzięki eksporterom i eksportowi chipów",
-      "brief": "Won koreański wzrósł do 1 339,0 za dolara dzięki zmasowanej sprzedaży walut powyżej 1 340 KRW i wysokiemu eksportowi półprzewodników AI."
+      "data_as_of": "2026-11-12",
+      "headline": "Won zyskuje do 1 336,9 za USD dzięki eksportowi AI i sprzedaży walut",
+      "brief": "Won umocnił się do 1 336,9 za dolara dzięki aktywności eksporterów powyżej 1 335 KRW oraz doskonałej koniunkturze w sektorze półprzewodników."
     },
     "USD": {
-      "rate_to_krw": "1339.004815",
-      "data_as_of": "2026-11-11",
-      "headline": "USD spada do 1 339,0 KRW przez spadek rentowności i sprzedaż walut",
-      "brief": "Dolar amerykański staniał do 1 339,0 KRW pod presją niższych rentowności obligacji i dużej podaży waluty ze strony eksporterów w Seulu."
+      "rate_to_krw": "1336.901231",
+      "data_as_of": "2026-11-12",
+      "headline": "USD spada do 1 336,9 KRW przed danymi CPI i po wygaszeniu rajdu",
+      "brief": "Dolar zniżkował do 1 336,9 KRW po uspokojeniu na rynku obligacji i wzmożonych transakcjach zabezpieczających eksporterów przed danymi o inflacji."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261110T233933Z",
-    "source_input_digest": "75c99c122d0f761e2b05b5acee051d881620d744df2ef52b069be4e052935892",
-    "translated_at": "2026-11-10T23:39:33+00:00",
+    "source_batch_id": "20261111T233957Z",
+    "source_input_digest": "e9ceb6112532e078e49bd439e35df336259650b7c0b8209372ad28bc9799a30d",
+    "translated_at": "2026-11-11T23:39:57+00:00",
     "direction": "ltr"
   }
 }

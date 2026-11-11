@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261110T233933Z",
-  "published_at": "2026-11-10T23:39:33+00:00",
-  "checked_at": "2026-11-10T23:39:33+00:00",
-  "valid_until": "2026-11-12T11:39:33+00:00",
+  "batch_id": "20261111T233957Z",
+  "published_at": "2026-11-11T23:39:57+00:00",
+  "checked_at": "2026-11-11T23:39:57+00:00",
+  "valid_until": "2026-11-13T11:39:57+00:00",
   "locale": "vi",
-  "input_digest": "75c99c122d0f761e2b05b5acee051d881620d744df2ef52b069be4e052935892",
+  "input_digest": "e9ceb6112532e078e49bd439e35df336259650b7c0b8209372ad28bc9799a30d",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "vi",
-      "data_as_of": "2026-11-11",
-      "reference_rate": "1339.004815",
-      "generated_at": "2026-11-10T23:39:33+00:00",
+      "data_as_of": "2026-11-12",
+      "reference_rate": "1336.901231",
+      "generated_at": "2026-11-11T23:39:57+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1339.004815 KRW"
+          "text": "1336.901231 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-11"
+          "text": "2026-11-12"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW rớt về 1.339,0 khi đà tăng bầu cử hạ nhiệt và xuất khẩu bán USD",
-        "summary": "USD/KRW lao dốc mạnh về khoảng 1.339,0 (tham chiếu ECB 1.339,00) khi đà tăng của đồng USD hậu bầu cử suy yếu và lợi suất trái phiếu Mỹ ổn định trở lại. Thị trường chứng khoán công nghệ phục hồi cùng áp lực bán USD quy mô lớn từ các doanh nghiệp xuất khẩu trên 1.340 KRW đã tiếp sức cho đồng won, đưa tỷ giá về vùng 1.336–1.345 KRW trước thềm CPI Mỹ.",
+        "headline": "USD/KRW rớt về 1.336,9 khi đà tăng bầu cử tạm lắng và xuất khẩu bán USD",
+        "summary": "USD/KRW giảm xuống khoảng 1.336,9 (tham chiếu ECB 1.336,90) khi đợt tăng giá của USD sau bầu cử chững lại và lợi suất trái phiếu Mỹ ổn định. Sự phục hồi của cổ phiếu công nghệ và lực bán USD lớn từ các nhà xuất khẩu trên mức 1.335 KRW đã thúc đẩy đồng won, giữ tỷ giá trong khoảng 1.333–1.342 KRW trước thềm CPI Mỹ.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "vi",
-      "data_as_of": "2026-11-11",
-      "reference_rate": "1501.560000",
-      "generated_at": "2026-11-10T23:39:33+00:00",
+      "data_as_of": "2026-11-12",
+      "reference_rate": "1487.570000",
+      "generated_at": "2026-11-11T23:39:57+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1501.560000 KRW"
+          "text": "1487.570000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-11"
+          "text": "2026-11-12"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW lùi về 1.501,6 do đà tăng mạnh của won lấn át EUR/USD",
-        "summary": "Tỷ giá EUR/KRW giảm về 1.501,6 (tham chiếu ECB 1.501,56), kiểm định mốc 1.500 KRW. Mặc dù EUR/USD trụ vững quanh 1,1214 nhờ lợi suất trái phiếu Mỹ ổn định, đà tăng giá vượt trội của đồng won do các doanh nghiệp xuất khẩu tích cực bán USD đã gây áp lực giảm lên tỷ giá chéo trong biên độ 1.498–1.506 KRW.",
+        "headline": "EUR/KRW thủng mốc 1.500 về 1.487,6 do đà tăng vượt trội của won",
+        "summary": "EUR/KRW giảm mạnh về quanh 1.487,6 (tham chiếu ECB 1.487,57), phá vỡ mốc hỗ trợ tâm lý 1.500 KRW. Dù EUR/USD giữ quanh 1,1127 do lo ngại tăng trưởng kinh tế châu Âu, đồng won Hàn Quốc tăng giá nhanh hơn nhiều nhờ xuất khẩu bán dẫn và lực bán USD của doanh nghiệp, đưa tỷ giá vào vùng 1.483–1.495 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "vi",
-      "data_as_of": "2026-11-11",
-      "reference_rate": "8.465216",
-      "generated_at": "2026-11-10T23:39:33+00:00",
+      "data_as_of": "2026-11-12",
+      "reference_rate": "8.395812",
+      "generated_at": "2026-11-11T23:39:57+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.465216 KRW"
+          "text": "8.395812 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-11"
+          "text": "2026-11-12"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW giảm về 846,5 mỗi 100 JPY khi USD/JPY neo gần 158 và won lên giá",
-        "summary": "Tỷ giá JPY/KRW hạ về khoảng 8,47 KRW đổi 1 yen (~846,5 KRW đổi 100 JPY, tham chiếu ECB 8,465). Cặp USD/JPY vẫn dao động ở mức cao quanh 158 do chênh lệch lợi suất, dù cảnh báo can thiệp từ Tokyo và triển vọng tăng lãi suất của BoJ đã nâng đỡ đồng yen. Đà hồi phục của won kéo tỷ giá chéo xuống biên độ 844–851 KRW.",
+        "headline": "JPY/KRW giảm về 839,6 mỗi 100 JPY khi USD/JPY neo gần 158 và won mạnh",
+        "summary": "JPY/KRW giảm về khoảng 8,40 KRW mỗi JPY (~839,6 KRW trên 100 JPY, tham chiếu ECB 8,396). USD/JPY dao động ở mức cao 157–158 do chênh lệch lãi suất, dù cảnh báo can thiệp từ Tokyo giúp hạn chế đà giảm của yen. Xu hướng tăng giá của won đã đẩy tỷ giá chéo xuống biên độ 836–844 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "vi",
-      "data_as_of": "2026-11-11",
-      "reference_rate": "1797.306841",
-      "generated_at": "2026-11-10T23:39:33+00:00",
+      "data_as_of": "2026-11-12",
+      "reference_rate": "1779.006912",
+      "generated_at": "2026-11-11T23:39:57+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1797.306841 KRW"
+          "text": "1779.006912 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-11"
+          "text": "2026-11-12"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW rơi xuống dưới 1.800 về 1.797,3 bất chấp lãi suất BoE 4,0%",
-        "summary": "GBP/KRW giảm về khoảng 1.797,3 (tham chiếu ECB 1.797,31), thủng mốc 1.800 KRW. Định hướng thắt chặt tiền tệ sau khi Ngân hàng Trung ương Anh nâng lãi suất lên 4,0% cùng sự vững vàng của GBP/USD quanh 1,34 đã hỗ trợ đồng bảng. Tuy vậy, làn sóng bán USD quyết liệt của các nhà xuất khẩu Hàn Quốc đã đẩy đồng won tăng mạnh, giữ cặp tỷ giá ở 1.793–1.804 KRW.",
+        "headline": "GBP/KRW lùi về 1.779,0 bất chấp lãi suất 4,0% của Ngân hàng Anh",
+        "summary": "GBP/KRW giảm xuống 1.779,0 (tham chiếu ECB 1.779,01), rơi xuống dưới ngưỡng 1.780 KRW. Mức lãi suất 4,0% của BoE mang lại hỗ trợ cơ bản cho đồng bảng Anh. Tuy nhiên, làn sóng bán USD quyết liệt từ các nhà xuất khẩu Hàn Quốc đã kích hoạt đà tăng mạnh của won, giới hạn giao dịch trong vùng 1.774–1.786 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "vi",
-      "data_as_of": "2026-11-11",
-      "reference_rate": "200.740632",
-      "generated_at": "2026-11-10T23:39:33+00:00",
+      "data_as_of": "2026-11-12",
+      "reference_rate": "200.413607",
+      "generated_at": "2026-11-11T23:39:57+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "200.740632 KRW"
+          "text": "200.413607 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-11"
+          "text": "2026-11-12"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW điều chỉnh về 200,7 nhờ thanh khoản PBOC và đà tăng của won",
-        "summary": "Tỷ giá CNY/KRW đã hạ nhiệt về quanh 200,7 (tham chiếu ECB 200,74) trong biên độ 200,0–201,8 KRW. Ngân hàng Nhân dân Trung Quốc tiếp tục bơm thanh khoản ngắn hạn dồi dào và duy trì tỷ giá trung tâm ổn định, trong khi kỳ vọng kích thích tài khóa hỗ trợ đồng nhân dân tệ. Tuy nhiên, việc USD/KRW trượt sâu về 1.339 KRW tại Seoul đã kéo tỷ giá chéo xuống vùng 200,0–201,5 KRW.",
+        "headline": "CNY/KRW điều chỉnh về 200,4 nhờ thanh khoản PBOC và đà tăng của won",
+        "summary": "CNY/KRW điều chỉnh giảm về quanh 200,4 (tham chiếu ECB 200,41) trong biên độ 199,8–201,2 KRW. Ngân hàng Nhân dân Trung Quốc tiếp tục bơm thanh khoản và ấn định tỷ giá trung tâm ổn định, trong khi kỳ vọng kích thích tài khóa hỗ trợ đồng nhân dân tệ. Tuy nhiên, việc USD/KRW giảm về 1.336,9 KRW tại Seoul đã kéo tỷ giá chéo về sát mốc 200 KRW.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -246,71 +246,71 @@
   ],
   "currencies": {
     "AUD": {
-      "rate_to_krw": "924.378232",
-      "data_as_of": "2026-11-11",
-      "headline": "AUD trượt về 924,4 KRW dù RBA giữ quan điểm thắt chặt",
-      "brief": "Đô la Úc giảm về 924,4 KRW; lập trường cứng rắn của RBA và giá hàng hóa ổn định không đủ bù đắp sức mạnh tăng giá của đồng won."
+      "rate_to_krw": "917.007767",
+      "data_as_of": "2026-11-12",
+      "headline": "AUD lùi về 917,0 KRW trước sức mạnh vượt trội của đồng won",
+      "brief": "Đô la Úc giảm về 917,0 KRW do sự bứt phá của won nhờ xuất khẩu công nghệ đã lấn át lập trường thắt chặt của RBA và giá hàng hóa."
     },
     "CAD": {
-      "rate_to_krw": "947.236942",
-      "data_as_of": "2026-11-11",
-      "headline": "CAD giảm về 947,2 KRW do BoC nới lỏng và đồng won tăng giá",
-      "brief": "Đô la Canada hạ xuống 947,2 KRW, chịu sức ép từ chu kỳ cắt giảm lãi suất của Ngân hàng Trung ương Canada và đà phục hồi của đồng won."
+      "rate_to_krw": "939.181767",
+      "data_as_of": "2026-11-12",
+      "headline": "CAD giảm xuống 939,2 KRW do BoC nới lỏng và xuất khẩu bán USD",
+      "brief": "Đô la Canada giảm về 939,2 KRW dưới sức ép từ các đợt cắt giảm lãi suất của BoC và hoạt động chốt lời USD mạnh mẽ của doanh nghiệp Hàn Quốc."
     },
     "CHF": {
-      "rate_to_krw": "1631.598392",
-      "data_as_of": "2026-11-11",
-      "headline": "CHF lùi về 1.631,6 KRW khi tâm lý ưa chuộng rủi ro phục hồi",
-      "brief": "Franc Thụy Sĩ hạ về 1.631,6 KRW do nhu cầu trú ẩn an toàn giảm bớt sau sự khởi sắc của cổ phiếu công nghệ và sự tăng giá của đồng won."
+      "rate_to_krw": "1610.970327",
+      "data_as_of": "2026-11-12",
+      "headline": "CHF lùi về 1.611,0 KRW khi nhu cầu tài sản trú ẩn an toàn hạ nhiệt",
+      "brief": "Franc Thụy Sĩ giảm xuống 1.611,0 KRW do sự phục hồi của cổ phiếu công nghệ toàn cầu làm giảm nhu cầu đối với các tài sản phòng thủ."
     },
     "CNY": {
-      "rate_to_krw": "200.740632",
-      "data_as_of": "2026-11-11",
-      "headline": "CNY neo ở mức 200,7 KRW nhờ thanh khoản từ ngân hàng trung ương",
-      "brief": "Nhân dân tệ dao động ở 200,7 KRW, được hỗ trợ bởi các đợt bơm tiền của PBOC nhưng vẫn chịu tác động từ đà suy yếu của USD/KRW."
+      "rate_to_krw": "200.413607",
+      "data_as_of": "2026-11-12",
+      "headline": "CNY hạ về 200,4 KRW trước áp lực tăng giá diện rộng của đồng won",
+      "brief": "Nhân dân tệ giảm về 200,4 KRW; nỗ lực bơm thanh khoản của PBOC giúp nâng đỡ tỷ giá trong bối cảnh đồng won mạnh lên tại Seoul."
     },
     "EUR": {
-      "rate_to_krw": "1501.560000",
-      "data_as_of": "2026-11-11",
-      "headline": "EUR lùi về 1.501,6 KRW khi đà tăng của won vượt trội so với EUR/USD",
-      "brief": "Đồng euro giảm về 1.501,6 KRW; dù EUR/USD đứng vững quanh 1,1214, tốc độ tăng giá nhanh hơn của đồng won đã kéo tỷ giá chéo đi xuống."
+      "rate_to_krw": "1487.570000",
+      "data_as_of": "2026-11-12",
+      "headline": "EUR thủng 1.500 về 1.487,6 KRW do won tăng tốc nhờ xuất khẩu chip",
+      "brief": "Euro giảm về 1.487,6 KRW mất mốc 1.500 KRW do đà tăng mạnh của won từ làn sóng bán dẫn AI vượt trội hơn hẳn so với mức 1,1127 của EUR/USD."
     },
     "GBP": {
-      "rate_to_krw": "1797.306841",
-      "data_as_of": "2026-11-11",
-      "headline": "GBP giảm về 1.797,3 KRW bất chấp lực đỡ từ lãi suất 4,0% của BoE",
-      "brief": "Bảng Anh giảm về 1.797,3 KRW khi nguồn cung bán ngoại tệ mạnh mẽ tại Seoul lấn át lợi thế chênh lệch lãi suất của BoE."
+      "rate_to_krw": "1779.006912",
+      "data_as_of": "2026-11-12",
+      "headline": "GBP trượt về 1.779,0 KRW bất chấp bệ đỡ lãi suất 4,0% của BoE",
+      "brief": "Bảng Anh hạ về 1.779,0 KRW do dòng tiền bán USD ồ ạt từ các nhà xuất khẩu tại Seoul đã vượt qua lợi thế lợi suất của BoE."
     },
     "HKD": {
-      "rate_to_krw": "170.684187",
-      "data_as_of": "2026-11-11",
-      "headline": "HKD trượt về 170,7 KRW theo đà giảm của USD trong biên độ neo",
-      "brief": "Đô la Hồng Kông hạ về 170,7 KRW trong biên độ neo tỷ giá, bám sát sự suy yếu của đồng USD so với đồng won đang lên giá."
+      "rate_to_krw": "170.401384",
+      "data_as_of": "2026-11-12",
+      "headline": "HKD giảm về 170,4 KRW bám sát diễn biến hạ nhiệt của đồng USD",
+      "brief": "Đô la Hồng Kông giảm về 170,4 KRW trong biên độ neo tỷ giá, phản ánh sát chuyển động đi xuống của USD/KRW trên thị trường Seoul."
     },
     "JPY": {
-      "rate_to_krw": "8.465216",
-      "data_as_of": "2026-11-11",
-      "headline": "JPY giảm về 846,5 KRW trên 100 yen khi USD/JPY neo sát 158",
-      "brief": "Đồng yen ghi nhận 846,5 KRW trên 100 yen do chênh lệch lãi suất, trong khi cảnh báo can thiệp từ Tokyo giúp hạn chế đà giảm."
+      "rate_to_krw": "8.395812",
+      "data_as_of": "2026-11-12",
+      "headline": "JPY lùi về 839,6 KRW mỗi 100 yen do chênh lệch lãi suất và won tăng",
+      "brief": "Yen giảm về 839.6 KRW trên 100 JPY do USD/JPY duy trì gần 158 và tâm lý tích cực hướng về các tài sản định giá bằng đồng won."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-11",
-      "headline": "Won vọt lên 1.339,0 KRW nhờ xuất khẩu bán USD và xuất khẩu chip",
-      "brief": "Đồng won tăng vọt lên 1.339,0 đổi 1 USD nhờ lượng bán ngoại tệ mạnh trên vùng 1.340 và xuất khẩu chất bán dẫn AI khởi sắc."
+      "data_as_of": "2026-11-12",
+      "headline": "Won vươn lên 1.336,9 KRW/USD nhờ xuất khẩu chip AI và nguồn thu ngoại tệ",
+      "brief": "Won Hàn Quốc tăng lên 1.336,9 đổi 1 USD nhờ nguồn cung ngoại tệ xuất khẩu trên 1.335 KRW và sự bùng nổ của ngành bán dẫn AI."
     },
     "USD": {
-      "rate_to_krw": "1339.004815",
-      "data_as_of": "2026-11-11",
-      "headline": "USD rớt về 1.339,0 KRW do lợi suất hạ nhiệt và áp lực bán chốt lời",
-      "brief": "Đồng USD rớt mạnh về 1.339,0 KRW khi đà hưng phấn bầu cử suy yếu, lợi suất trái phiếu hạ nhiệt và doanh nghiệp tích cực bán USD tại Seoul."
+      "rate_to_krw": "1336.901231",
+      "data_as_of": "2026-11-12",
+      "headline": "USD hạ về 1.336,9 KRW khi lợi suất ổn định và xuất khẩu chốt lời",
+      "brief": "Đồng USD giảm về 1.336,9 KRW do lợi suất trái phiếu Mỹ ổn định và các nhà xuất khẩu tích cực bán USD ra trước thềm công bố CPI."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261110T233933Z",
-    "source_input_digest": "75c99c122d0f761e2b05b5acee051d881620d744df2ef52b069be4e052935892",
-    "translated_at": "2026-11-10T23:39:33+00:00",
+    "source_batch_id": "20261111T233957Z",
+    "source_input_digest": "e9ceb6112532e078e49bd439e35df336259650b7c0b8209372ad28bc9799a30d",
+    "translated_at": "2026-11-11T23:39:57+00:00",
     "direction": "ltr"
   }
 }
