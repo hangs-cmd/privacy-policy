@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261113T234103Z",
-  "published_at": "2026-11-13T23:41:03+00:00",
-  "checked_at": "2026-11-13T23:41:03+00:00",
-  "valid_until": "2026-11-15T11:41:03+00:00",
+  "batch_id": "20261114T233023Z",
+  "published_at": "2026-11-14T23:30:23+00:00",
+  "checked_at": "2026-11-14T23:30:23+00:00",
+  "valid_until": "2026-11-16T11:30:23+00:00",
   "locale": "ko",
   "input_digest": "db42f30ddc7c91e0e2e72d06de9c1a550c7632aaf1babe42497e9bd58f800f6f",
   "source": {
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "ko",
-      "data_as_of": "2026-11-14",
+      "data_as_of": "2026-11-15",
       "reference_rate": "1337.133550",
-      "generated_at": "2026-11-13T23:41:03+00:00",
+      "generated_at": "2026-11-14T23:30:23+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -36,7 +36,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-14"
+          "text": "2026-11-15"
         }
       ],
       "metrics": {
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "ko",
-      "data_as_of": "2026-11-14",
+      "data_as_of": "2026-11-15",
       "reference_rate": "1477.800000",
-      "generated_at": "2026-11-13T23:41:03+00:00",
+      "generated_at": "2026-11-14T23:30:23+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -82,7 +82,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-14"
+          "text": "2026-11-15"
         }
       ],
       "metrics": {
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "ko",
-      "data_as_of": "2026-11-14",
+      "data_as_of": "2026-11-15",
       "reference_rate": "8.357179",
-      "generated_at": "2026-11-13T23:41:03+00:00",
+      "generated_at": "2026-11-14T23:30:23+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -128,7 +128,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-14"
+          "text": "2026-11-15"
         }
       ],
       "metrics": {
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "ko",
-      "data_as_of": "2026-11-14",
+      "data_as_of": "2026-11-15",
       "reference_rate": "1768.570711",
-      "generated_at": "2026-11-13T23:41:03+00:00",
+      "generated_at": "2026-11-14T23:30:23+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -174,7 +174,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-14"
+          "text": "2026-11-15"
         }
       ],
       "metrics": {
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "ko",
-      "data_as_of": "2026-11-14",
+      "data_as_of": "2026-11-15",
       "reference_rate": "200.412270",
-      "generated_at": "2026-11-13T23:41:03+00:00",
+      "generated_at": "2026-11-14T23:30:23+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -220,7 +220,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-14"
+          "text": "2026-11-15"
         }
       ],
       "metrics": {
@@ -247,61 +247,61 @@
   "currencies": {
     "AUD": {
       "rate_to_krw": "907.293713",
-      "data_as_of": "2026-11-14",
+      "data_as_of": "2026-11-15",
       "headline": "미 금리 급등과 위험회피 심리에 907.3원선 하락",
       "brief": "호주 달러화는 호주중앙은행(RBA)의 매파적 스탠스에도 미국 10월 CPI발 국채금리 급등과 글로벌 위험회피 심리로 대미 약세를 보이며 원화 대비 907.3원선으로 추가 하락세를 이어갔습니다."
     },
     "CAD": {
       "rate_to_krw": "937.809367",
-      "data_as_of": "2026-11-14",
+      "data_as_of": "2026-11-15",
       "headline": "국제유가 반등과 통화정책 격차 속 937.8원선 반등",
       "brief": "캐나다 달러화는 캐나다중앙은행(BoC) 완화 기조와 미 연준 매파 전망 간 통화정책 격차 지속에도, 지정학적 유가 반등과 원/달러 상승세에 힘입어 원화 대비 937.8원선으로 소폭 반등했습니다."
     },
     "CHF": {
       "rate_to_krw": "1594.862940",
-      "data_as_of": "2026-11-14",
+      "data_as_of": "2026-11-15",
       "headline": "미 국채금리 급등과 저금리 매도에 1,594.9원선 후퇴",
       "brief": "스위스 프랑화는 미국 물가 서프라이즈로 인한 국채금리 급등과 스위스국립은행(SNB)의 저금리 기조가 부각되며 대미 약세가 심화되어, 원화 대비로도 1,600원선이 깨진 1,594.9원선으로 내렸습니다."
     },
     "CNY": {
       "rate_to_krw": "200.412270",
-      "data_as_of": "2026-11-14",
+      "data_as_of": "2026-11-15",
       "headline": "인민은행 절상 고시 방어와 환율 연동에 200.4원선",
       "brief": "중국 위안화는 미 CPI발 강달러 압력 속에서도 인민은행(PBOC)의 적극적인 절상 고시 방어와 유동성 지원에 힘입어, 원/달러 환율 반등과 함께 200원 지지선을 확보하며 200.4원선으로 올랐습니다."
     },
     "EUR": {
       "rate_to_krw": "1477.800000",
-      "data_as_of": "2026-11-14",
+      "data_as_of": "2026-11-15",
       "headline": "유로/달러 1.105선 밀림과 강달러에 1,477.8원선",
       "brief": "유로화는 미국 CPI 상회에 따른 글로벌 강달러와 유로존 경기 둔화 우려로 유로/달러가 1.105선으로 후퇴한 가운데, 원/유로 교차환율은 1,480원을 밑도는 1,477.8원선에서 약세를 지속했습니다."
     },
     "GBP": {
       "rate_to_krw": "1768.570711",
-      "data_as_of": "2026-11-14",
+      "data_as_of": "2026-11-15",
       "headline": "영국 GDP 관망 속 BoE 4.0% 지지에 1,768.6원선",
       "brief": "영국 파운드화는 영란은행(BoE)의 4.0% 기준금리와 서비스 물가가 하단을 지지했으나, 미 국채금리 반등과 영국 GDP 발표 전 관망세로 대미 약세를 보이며 1,768.6원선 보합권을 나타냈습니다."
     },
     "HKD": {
       "rate_to_krw": "170.422308",
-      "data_as_of": "2026-11-14",
+      "data_as_of": "2026-11-15",
       "headline": "달러 페그제 연동 속 원/달러 반등에 170.4원선",
       "brief": "홍콩 달러화는 달러 페그제 밴드(7.75~7.85 HKD) 내에서 미 달러화 흐름을 충실히 추종하는 가운데, 서울 외환시장의 원/달러 환율이 5거래일 만에 반등한 영향을 반영하며 170.4원선으로 상승했습니다."
     },
     "JPY": {
       "rate_to_krw": "8.357179",
-      "data_as_of": "2026-11-14",
+      "data_as_of": "2026-11-15",
       "headline": "달러/엔 160엔 위협 속 당국 개입 경계에 835.7원선",
       "brief": "일본 엔화는 미 국채금리 급등으로 달러/엔이 160엔선에 다가서며 약세를 보였으나, 당국 구두개입과 BOJ 12월 금리 인상 기대 속 원/달러 반등과 맞물려 100엔당 835.7원선 약보합에 머물렀습니다."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-14",
+      "data_as_of": "2026-11-15",
       "headline": "강달러와 유가 불안에 5일 만의 약세…1,337.1원선",
       "brief": "원화는 미국 10월 CPI 상회와 글로벌 강달러, 유가 반등 및 외국인 증시 순매도로 5거래일 만에 약세로 돌아서며 1,337.1원선으로 밀렸으나, 주말을 앞둔 수출 네고 출회로 상단이 제한되었습니다."
     },
     "USD": {
       "rate_to_krw": "1337.133550",
-      "data_as_of": "2026-11-14",
+      "data_as_of": "2026-11-15",
       "headline": "미 10월 CPI 상회와 매파 연준에 5일만 반등 1,337.1원선",
       "brief": "미 달러화는 미국 10월 CPI의 예상치 상회와 연준 매파 발언, 지정학적 유가 불안이 겹치며 5거래일 만에 반등에 성공, 서울장 종가 1,336.7원 및 기준환율 1,337.1원선으로 회복했습니다."
     }
