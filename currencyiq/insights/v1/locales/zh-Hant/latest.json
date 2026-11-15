@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261114T233023Z",
-  "published_at": "2026-11-14T23:30:23+00:00",
-  "checked_at": "2026-11-14T23:30:23+00:00",
-  "valid_until": "2026-11-16T11:30:23+00:00",
+  "batch_id": "20261115T233025Z",
+  "published_at": "2026-11-15T23:30:25+00:00",
+  "checked_at": "2026-11-15T23:30:25+00:00",
+  "valid_until": "2026-11-17T11:30:25+00:00",
   "locale": "zh-Hant",
   "input_digest": "db42f30ddc7c91e0e2e72d06de9c1a550c7632aaf1babe42497e9bd58f800f6f",
   "source": {
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "zh-Hant",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "reference_rate": "1337.133550",
-      "generated_at": "2026-11-14T23:30:23+00:00",
+      "generated_at": "2026-11-15T23:30:25+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -36,7 +36,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-15"
+          "text": "2026-11-16"
         }
       ],
       "metrics": {
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "zh-Hant",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "reference_rate": "1477.800000",
-      "generated_at": "2026-11-14T23:30:23+00:00",
+      "generated_at": "2026-11-15T23:30:25+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -82,7 +82,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-15"
+          "text": "2026-11-16"
         }
       ],
       "metrics": {
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "zh-Hant",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "reference_rate": "8.357179",
-      "generated_at": "2026-11-14T23:30:23+00:00",
+      "generated_at": "2026-11-15T23:30:25+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -128,7 +128,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-15"
+          "text": "2026-11-16"
         }
       ],
       "metrics": {
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "zh-Hant",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "reference_rate": "1768.570711",
-      "generated_at": "2026-11-14T23:30:23+00:00",
+      "generated_at": "2026-11-15T23:30:25+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -174,7 +174,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-15"
+          "text": "2026-11-16"
         }
       ],
       "metrics": {
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "zh-Hant",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "reference_rate": "200.412270",
-      "generated_at": "2026-11-14T23:30:23+00:00",
+      "generated_at": "2026-11-15T23:30:25+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -220,7 +220,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-15"
+          "text": "2026-11-16"
         }
       ],
       "metrics": {
@@ -247,70 +247,70 @@
   "currencies": {
     "AUD": {
       "rate_to_krw": "907.293713",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "美債收益率跳升與避險升溫 澳元跌至907.3韓元",
       "brief": "儘管澳聯儲維持偏鷹立場，但美國CPI超預期引發美債收益率攀升及全球避險情緒升溫，拖累澳元兌韓元走低至907.3韓元。"
     },
     "CAD": {
       "rate_to_krw": "937.809367",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "國際油價反彈與利差交織 加元微升至937.8韓元",
       "brief": "儘管加美央行政策溫差仍在，但地緣局勢推升國際油價以及美元兌韓元止跌回升，提振加元兌韓元小幅反彈至937.8韓元。"
     },
     "CHF": {
       "rate_to_krw": "1594.862940",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "美債利率急漲壓制低息貨幣 瑞郎失守1,600報1,594.9韓元",
       "brief": "美國通脹超預期推高美債收益率，疊加瑞士央行低利率令低息貨幣承壓，瑞郎兌韓元跌破1,600大關退守1,594.9韓元。"
     },
     "CNY": {
       "rate_to_krw": "200.412270",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "央行偏強中間價托底與匯率回升 人民幣穩於200.4韓元",
       "brief": "面對美CPI引發的強美元，中國央行以偏強中間價與流動性投放維穩，結合美元兌韓元走強，人民幣回穩於200.4韓元。"
     },
     "EUR": {
       "rate_to_krw": "1477.800000",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "歐美滑向1.105與增長擔憂 歐元微跌至1,477.8韓元",
       "brief": "美國通脹超預期提振美元，疊加歐元區經濟疲弱令歐美跌至1.1052，歐元兌韓元受累持續在1,480下方報1,477.8韓元。"
     },
     "GBP": {
       "rate_to_krw": "1768.570711",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "英國GDP前觀望與4.0%利率支撐 英鎊走平於1,768.6韓元",
       "brief": "英國央行4.0%利率提供韌性，但美債利率反彈及英國GDP前觀望令英鎊承壓，與韓元波動相抵後平收於1,768.6韓元。"
     },
     "HKD": {
       "rate_to_krw": "170.422308",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "聯繫匯率制下跟隨美元回升 港幣微漲至170.4韓元",
       "brief": "港幣在聯繫匯率區間內緊貼美元走勢，受首爾外匯市場美元兌韓元終結五連跌反彈帶動，同步回升至170.4韓元。"
     },
     "JPY": {
       "rate_to_krw": "8.357179",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "美日逼近160與干預警惕交錯 日圓報每百日圓835.7韓元",
       "brief": "美債利率攀升拉大美日利差推高匯價至159.7，雖有日本干預警告和日銀加息預期托底，日圓對韓元仍報835.7韓元。"
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "強美元與油價反彈致韓元五日來首跌 報1,337.1韓元",
       "brief": "美國10月CPI超預期、油價回升及外資拋售韓股打壓韓元五日來首度走弱至1,337.1韓元，但週末出口商結匯限制了跌幅。"
     },
     "USD": {
       "rate_to_krw": "1337.133550",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "美10月CPI超預期與鷹派預期 美元反彈至1,337.1韓元",
       "brief": "美國10月CPI環比增0.4%超預期，疊加美聯儲鷹派預期和地緣油價反彈，推動美元在首爾反彈，基準價升至1,337.1韓元。"
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261114T233023Z",
+    "source_batch_id": "20261115T233025Z",
     "source_input_digest": "db42f30ddc7c91e0e2e72d06de9c1a550c7632aaf1babe42497e9bd58f800f6f",
-    "translated_at": "2026-11-14T23:30:23+00:00",
+    "translated_at": "2026-11-15T23:30:25+00:00",
     "direction": "ltr"
   }
 }

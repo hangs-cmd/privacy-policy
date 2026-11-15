@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261114T233023Z",
-  "published_at": "2026-11-14T23:30:23+00:00",
-  "checked_at": "2026-11-14T23:30:23+00:00",
-  "valid_until": "2026-11-16T11:30:23+00:00",
+  "batch_id": "20261115T233025Z",
+  "published_at": "2026-11-15T23:30:25+00:00",
+  "checked_at": "2026-11-15T23:30:25+00:00",
+  "valid_until": "2026-11-17T11:30:25+00:00",
   "locale": "id",
   "input_digest": "db42f30ddc7c91e0e2e72d06de9c1a550c7632aaf1babe42497e9bd58f800f6f",
   "source": {
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "id",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "reference_rate": "1337.133550",
-      "generated_at": "2026-11-14T23:30:23+00:00",
+      "generated_at": "2026-11-15T23:30:25+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -36,7 +36,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-15"
+          "text": "2026-11-16"
         }
       ],
       "metrics": {
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "id",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "reference_rate": "1477.800000",
-      "generated_at": "2026-11-14T23:30:23+00:00",
+      "generated_at": "2026-11-15T23:30:25+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -82,7 +82,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-15"
+          "text": "2026-11-16"
         }
       ],
       "metrics": {
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "id",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "reference_rate": "8.357179",
-      "generated_at": "2026-11-14T23:30:23+00:00",
+      "generated_at": "2026-11-15T23:30:25+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -128,7 +128,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-15"
+          "text": "2026-11-16"
         }
       ],
       "metrics": {
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "id",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "reference_rate": "1768.570711",
-      "generated_at": "2026-11-14T23:30:23+00:00",
+      "generated_at": "2026-11-15T23:30:25+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -174,7 +174,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-15"
+          "text": "2026-11-16"
         }
       ],
       "metrics": {
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "id",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "reference_rate": "200.412270",
-      "generated_at": "2026-11-14T23:30:23+00:00",
+      "generated_at": "2026-11-15T23:30:25+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -220,7 +220,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-15"
+          "text": "2026-11-16"
         }
       ],
       "metrics": {
@@ -247,70 +247,70 @@
   "currencies": {
     "AUD": {
       "rate_to_krw": "907.293713",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "AUD turun ke 907,3 KRW akibat lonjakan yield AS dan sikap hati-hati",
       "brief": "Dolar Australia merosot ke 907,3 KRW tertekan oleh lonjakan yield obligasi AS pasca-CPI dan sentimen penghindaran risiko meski sikap RBA tetap ketat."
     },
     "CAD": {
       "rate_to_krw": "937.809367",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "CAD rebound ke 937,8 KRW ditopang harga minyak dan kenaikan dolar",
       "brief": "Dolar Kanada naik tipis ke 937,8 KRW didukung oleh rebound harga minyak mentah dan penguatan USD/KRW di tengah divergensi kebijakan BoC-Fed."
     },
     "CHF": {
       "rate_to_krw": "1594.862940",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "CHF jatuh di bawah 1.600 ke 1.594,9 KRW tertekan kenaikan yield AS",
       "brief": "Franc Swiss melemah ke 1.594,9 KRW menembus batas 1.600 karena lonjakan yield AS menekan mata uang berimbal hasil rendah."
     },
     "CNY": {
       "rate_to_krw": "200.412270",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "CNY bertahan di 200,4 KRW disokong fixing PBOC dan rebound dolar",
       "brief": "Yuan China naik ke 200,4 KRW; fixing defensif harian PBOC meredam kekuatan dolar global sementara rebound USD/KRW di Seoul memberikan bantalan."
     },
     "EUR": {
       "rate_to_krw": "1477.800000",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "EUR lesu di 1.477,8 KRW seiring EUR/USD tertekan menuju 1,105",
       "brief": "Euro bertahan lemah di 1.477,8 KRW akibat keperkasaan dolar AS pasca-CPI dan turunnya EUR/USD ke 1,1052 di tengah kekhawatiran ekonomi Eropa."
     },
     "GBP": {
       "rate_to_krw": "1768.570711",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "GBP stabil di 1.768,6 KRW bertumpu pada suku bunga BoE 4,0%",
       "brief": "Pound Inggris flat di 1.768,6 KRW; sokongan suku bunga BoE 4,0% mengimbangi tekanan naiknya yield AS menjelang pengumuman data PDB Inggris."
     },
     "HKD": {
       "rate_to_krw": "170.422308",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "HKD naik ke 170,4 KRW mengikuti pemulihan USD/KRW di Seoul",
       "brief": "Dolar Hong Kong naik ke 170,4 KRW dalam sistem peg, merefleksikan rebound pertama USD/KRW setelah penurunan lima hari berturut-turut di Seoul."
     },
     "JPY": {
       "rate_to_krw": "8.357179",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "JPY di 835,7 per 100 JPY saat USD/JPY dekati level kunci 160",
       "brief": "Yen Jepang bertahan di 835,7 KRW per 100 JPY; peringatan otoritas Tokyo dan taruhan kenaikan suku bunga BoJ menahan pelemahan yen dekat 160."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "Won melemah ke 1.337,1 usai reli 5 hari tertekan CPI AS dan minyak",
       "brief": "Won Korea turun ke 1.337,1 per dolar mengakhiri reli lima hari akibat lonjakan inflasi AS dan minyak mahal, ditahan oleh aliran jual eksportir."
     },
     "USD": {
       "rate_to_krw": "1337.133550",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "USD rebound ke 1.337,1 KRW ditopang inflasi kuat AS dan nada hawkish",
       "brief": "Dolar AS rebound ke 1.337,1 KRW (penutupan 1.336,7) setelah lima hari turun, didorong oleh CPI Oktober (+0,4%) dan sinyal hawkish dari pejabat Fed."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261114T233023Z",
+    "source_batch_id": "20261115T233025Z",
     "source_input_digest": "db42f30ddc7c91e0e2e72d06de9c1a550c7632aaf1babe42497e9bd58f800f6f",
-    "translated_at": "2026-11-14T23:30:23+00:00",
+    "translated_at": "2026-11-15T23:30:25+00:00",
     "direction": "ltr"
   }
 }

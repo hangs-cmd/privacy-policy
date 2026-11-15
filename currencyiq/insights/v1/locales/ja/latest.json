@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261114T233023Z",
-  "published_at": "2026-11-14T23:30:23+00:00",
-  "checked_at": "2026-11-14T23:30:23+00:00",
-  "valid_until": "2026-11-16T11:30:23+00:00",
+  "batch_id": "20261115T233025Z",
+  "published_at": "2026-11-15T23:30:25+00:00",
+  "checked_at": "2026-11-15T23:30:25+00:00",
+  "valid_until": "2026-11-17T11:30:25+00:00",
   "locale": "ja",
   "input_digest": "db42f30ddc7c91e0e2e72d06de9c1a550c7632aaf1babe42497e9bd58f800f6f",
   "source": {
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "ja",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "reference_rate": "1337.133550",
-      "generated_at": "2026-11-14T23:30:23+00:00",
+      "generated_at": "2026-11-15T23:30:25+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -36,7 +36,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-15"
+          "text": "2026-11-16"
         }
       ],
       "metrics": {
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "ja",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "reference_rate": "1477.800000",
-      "generated_at": "2026-11-14T23:30:23+00:00",
+      "generated_at": "2026-11-15T23:30:25+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -82,7 +82,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-15"
+          "text": "2026-11-16"
         }
       ],
       "metrics": {
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "ja",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "reference_rate": "8.357179",
-      "generated_at": "2026-11-14T23:30:23+00:00",
+      "generated_at": "2026-11-15T23:30:25+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -128,7 +128,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-15"
+          "text": "2026-11-16"
         }
       ],
       "metrics": {
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "ja",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "reference_rate": "1768.570711",
-      "generated_at": "2026-11-14T23:30:23+00:00",
+      "generated_at": "2026-11-15T23:30:25+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -174,7 +174,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-15"
+          "text": "2026-11-16"
         }
       ],
       "metrics": {
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "ja",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "reference_rate": "200.412270",
-      "generated_at": "2026-11-14T23:30:23+00:00",
+      "generated_at": "2026-11-15T23:30:25+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -220,7 +220,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-15"
+          "text": "2026-11-16"
         }
       ],
       "metrics": {
@@ -247,70 +247,70 @@
   "currencies": {
     "AUD": {
       "rate_to_krw": "907.293713",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "米金利急伸とリスク警戒で907.3ウォンへ続落",
       "brief": "豪ドルはRBAの引き締め姿勢にもかかわらず、米CPI上振れに伴う米金利高と世界的なリスク回避で対ドル軟調となり、対ウォンで907.3ウォンへ下落しました。"
     },
     "CAD": {
       "rate_to_krw": "937.809367",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "原油反発とウォン・ドル上昇で937.8ウォンへ反発",
       "brief": "加ドルは中銀の緩和姿勢とFRBタカ派の政策格差が残るものの、地政学リスクに伴う原油反発とウォン・ドル上昇に支えられ937.8ウォンへ小幅反発しました。"
     },
     "CHF": {
       "rate_to_krw": "1594.862940",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "米金利急伸で1,600ウォン割れ、1,594.9ウォンへ後退",
       "brief": "スイスフランは米物価高による米債利回り上昇とSNBの低金利環境が意識されて対ドルで軟調となり、1,600ウォンを割り込み1,594.9ウォンへ下落しました。"
     },
     "CNY": {
       "rate_to_krw": "200.412270",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "人民銀の元高公示とウォン・ドル反発で200.4ウォン台",
       "brief": "人民元は米CPI発のドル高下でも人民銀の手厚い元高公示と資金供給に支えられ、ウォン・ドル反発と相まって200ウォンを守り200.4ウォンへ小幅上昇しました。"
     },
     "EUR": {
       "rate_to_krw": "1477.800000",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "ユーロ・ドル1.105後退と景気懸念で1,477.8ウォン台",
       "brief": "ユーロは米物価上振れによるドル高と域内成長不安でユーロ・ドルが1.1052へ下落し、対ウォンでも1,480ウォンを下回る1,477.8ウォン台で軟調を維持しました。"
     },
     "GBP": {
       "rate_to_krw": "1768.570711",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "英GDP控え米金利高重荷も英金利4.0%で1,768.6ウォン",
       "brief": "英ポンドは英中銀4.0%金利が下支えしたものの、米金利高と英GDP前の警戒感から対ドルで軟化し、ウォン・ドル反発と相殺されて1,768.6ウォン近辺の横ばいでした。"
     },
     "HKD": {
       "rate_to_krw": "170.422308",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "ペッグ制連動とウォン・ドル5日ぶり反発で170.4ウォン",
       "brief": "香港ドルは7.75〜7.85のペッグ制下で米ドルに追随し、ソウル市場でのウォン・ドルの5営業日ぶりの上昇を反映して170.4ウォンへ上昇しました。"
     },
     "JPY": {
       "rate_to_krw": "8.357179",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "ドル円160円接近と介入警戒で835.7ウォン台",
       "brief": "円は米金利急伸でドル円が160円へ接近する中軟調でしたが、当局の介入警戒と12月日銀利上げ観測、ウォン・ドル上昇が交錯し100円＝835.7ウォンで揉み合いました。"
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "米CPI高と原油高で5日ぶり反落、1,337.1ウォン",
       "brief": "韓国ウォンは米10月CPI上振れ、原油反発、外国人株売りが重なり5営業日ぶりに下落し1,337.1ウォンへ後退しましたが、週末の輸出ネゴが下支えしました。"
     },
     "USD": {
       "rate_to_krw": "1337.133550",
-      "data_as_of": "2026-11-15",
+      "data_as_of": "2026-11-16",
       "headline": "米10月CPI上振れとタカ派FRBで5日ぶり反発1,337.1ウォン",
       "brief": "米ドルは米10月CPI上振れとFRB高官の慎重姿勢、原油反発を背景に5営業日ぶりに反発し、ソウル終値1,336.7ウォン、基準レート1,337.1ウォンへ上昇しました。"
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261114T233023Z",
+    "source_batch_id": "20261115T233025Z",
     "source_input_digest": "db42f30ddc7c91e0e2e72d06de9c1a550c7632aaf1babe42497e9bd58f800f6f",
-    "translated_at": "2026-11-14T23:30:23+00:00",
+    "translated_at": "2026-11-15T23:30:25+00:00",
     "direction": "ltr"
   }
 }
