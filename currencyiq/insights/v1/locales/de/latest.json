@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261117T233425Z",
-  "published_at": "2026-11-17T23:34:25+00:00",
-  "checked_at": "2026-11-17T23:34:25+00:00",
-  "valid_until": "2026-11-19T11:34:25+00:00",
+  "batch_id": "20261118T233417Z",
+  "published_at": "2026-11-18T23:34:17+00:00",
+  "checked_at": "2026-11-18T23:34:17+00:00",
+  "valid_until": "2026-11-20T11:34:17+00:00",
   "locale": "de",
-  "input_digest": "6bb7eceb19353f4869fb9379e553e87bff3dc3c657e1d4b05c4e2fec4013f861",
+  "input_digest": "14115b6184365cb90c8797a9cf24de5ee8465e1771cf717a1e4f7aac479cba7e",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "de",
-      "data_as_of": "2026-11-18",
-      "reference_rate": "1336.208936",
-      "generated_at": "2026-11-17T23:34:25+00:00",
+      "data_as_of": "2026-11-19",
+      "reference_rate": "1332.330416",
+      "generated_at": "2026-11-18T23:34:17+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1336.208936 KRW"
+          "text": "1332.330416 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-18"
+          "text": "2026-11-19"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW schließt in Seoul bei 1.338,2 und gibt über Nacht auf 1.335,4 nach",
-        "summary": "USD/KRW stieg im Tageshandel in Seoul um 2,5 KRW auf 1.338,2 KRW (EZB-Referenz 1.336,21) und erreichte angesichts von Tech-Abverkäufen und Fed-Sorgen kurzzeitig 1.342,9 KRW, bevor Exporteure bremsten. Über Nacht drückten die US-Industrieproduktion (-0,4%) und sinkende Renditen den Kurs zurück auf 1.335,4 KRW.",
+        "headline": "USD/KRW fällt um 5,2 KRW auf 1.333,0 nach KOSPI-Rally auf 5.067; NDF 1.333,7",
+        "summary": "USD/KRW sank in Seoul um 5,2 KRW auf 1.333,0 KRW (EZB-Referenz 1.332,33), gestützt durch Exporteurverkäufe und den KOSPI-Sprung (+1,99% auf 5.067,44) bei Chip-Werten. Über Nacht schloss der 1M-NDF ruhig bei 1.333,7 KRW trotz DXY-Anstiegs auf 103,78.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "de",
-      "data_as_of": "2026-11-18",
-      "reference_rate": "1468.360000",
-      "generated_at": "2026-11-17T23:34:25+00:00",
+      "data_as_of": "2026-11-19",
+      "reference_rate": "1461.300000",
+      "generated_at": "2026-11-18T23:34:17+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1468.360000 KRW"
+          "text": "1461.300000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-18"
+          "text": "2026-11-19"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW fällt auf 1.468,4 – EUR/USD testet 19-Monats-Tief nahe 1,0985",
-        "summary": "EUR/KRW rutschte unter 1.470 auf rund 1.468,4 KRW ab (EZB-Referenz 1.468,36). Ein starker Dollar drückte EUR/USD zunächst auf ein 19-Monats-Tief von 1,0985–1,0989, bevor bessere deutsche und Eurozonen-ZEW-Daten eine Stabilisierung nahe 1,1000 ermöglichten. Zinsdifferenzen hielten das Paar jedoch unter leichtem Druck.",
+        "headline": "EUR/KRW fällt auf 1.461,3 – Falken-FOMC-Protokoll drückt EUR/USD auf 1,0968",
+        "summary": "EUR/KRW sank auf rund 1.461,3 KRW (EZB-Referenz 1.461,30). Das restriktive FOMC-Protokoll vom Oktober (zwei Gegenstimmen für +25 Bp) trieb den DXY auf 103,78 und drückte EUR/USD auf ein 19-Monats-Tief nahe 1,0968, verstärkt durch den festeren Won in Seoul.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "de",
-      "data_as_of": "2026-11-18",
-      "reference_rate": "8.388232",
-      "generated_at": "2026-11-17T23:34:25+00:00",
+      "data_as_of": "2026-11-19",
+      "reference_rate": "8.357449",
+      "generated_at": "2026-11-18T23:34:17+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.388232 KRW"
+          "text": "8.357449 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-18"
+          "text": "2026-11-19"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW steigt auf 838,8 je 100 Yen – US-Daten drücken USD/JPY auf 159,3",
-        "summary": "JPY/KRW kletterte auf rund 8,39 KRW je Yen (~838,8 KRW je 100 Yen, EZB-Referenz 8,388). Eine schwächere US-Industrieproduktion (-0,4%) dämpfte US-Renditen sowie die Dollar-Rally und drückte USD/JPY von der 160er-Marke auf 159,3. Trotz gemischter japanischer BIP-Signale für den BoJ-Kurs stützte die Yen-Erholung das Paar.",
+        "headline": "JPY/KRW sinkt auf 835,7 je 100 Yen – FOMC hält USD/JPY bei 159,4",
+        "summary": "JPY/KRW gab auf rund 8,36 KRW je Yen nach (~835,7 KRW je 100 Yen, EZB-Referenz 8,357). Das falkenhafte FOMC-Protokoll und hohe US-Renditen hielten USD/JPY unter Interventionsbeobachtung nahe 159,4–160,0, während der Rücksetzer bei USD/KRW in Seoul das Paar belastete.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "de",
-      "data_as_of": "2026-11-18",
-      "reference_rate": "1762.631295",
-      "generated_at": "2026-11-17T23:34:25+00:00",
+      "data_as_of": "2026-11-19",
+      "reference_rate": "1754.472326",
+      "generated_at": "2026-11-18T23:34:17+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1762.631295 KRW"
+          "text": "1754.472326 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-18"
+          "text": "2026-11-19"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW steigt auf 1.762,6 – Pfund erobert 1,3200 nach UK-Arbeitsmarktdaten",
-        "summary": "GBP/KRW legte leicht auf rund 1.762,6 KRW zu (EZB-Referenz 1.762,63) und schnitt besser ab als der Euro. Nach einem Rücksetzer auf 1,3180 stieg GBP/USD wieder über 1,3200, da die britische Arbeitslosenquote vor den Inflationsdaten auf 4,6% sank. Zusammen mit dem festeren USD/KRW-Schluss in Seoul hielt das Paar leichte Gewinne.",
+        "headline": "GBP/KRW sinkt auf 1.754,5 nach schwächerer britischer Oktober-Inflation",
+        "summary": "GBP/KRW verlor über 8 KRW auf rund 1.754,5 KRW (EZB-Referenz 1.754,47). Die britische Oktober-Inflation lag mit 3,6% unter der Prognose von 3,7% (Kernrate 2,8%), wodurch die BoE-Zinserhöhungswetten für Dezember auf ~80% sanken und GBP/USD auf 1,317 nachgab.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "de",
-      "data_as_of": "2026-11-18",
-      "reference_rate": "200.447757",
-      "generated_at": "2026-11-17T23:34:25+00:00",
+      "data_as_of": "2026-11-19",
+      "reference_rate": "199.833165",
+      "generated_at": "2026-11-18T23:34:17+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "200.447757 KRW"
+          "text": "199.833165 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-18"
+          "text": "2026-11-19"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW steigt leicht auf 200,4 – PBOC setzt festes Fixing bei 6,7132",
-        "summary": "CNY/KRW legte leicht auf rund 200,4 KRW zu (EZB-Referenz 200,45) und festigte die Marke über 200 KRW. Trotz allgemeiner Dollarstärke begrenzte die PBOC mit einem stabilen Fixing bei 6,7132 die Volatilität, während der Anstieg von USD/KRW im Tageshandel in Seoul auf 1.338,2 KRW dem Kreuzpaar moderaten Auftrieb gab.",
+        "headline": "CNY/KRW rutscht trotz fester PBOC-Fixierung (6,7118) auf 199,8 KRW",
+        "summary": "CNY/KRW fiel leicht unter 200 auf rund 199,8 KRW (EZB-Referenz 199,83). Obwohl die PBOC ihr USD/CNY-Fixing auf 6,7118 (nach 6,7132) stärkte, drückte der Rückgang von USD/KRW um 5,2 KRW in Seoul durch Exporteure und die KOSPI-Erholung über 5.000 den Kreuzkurs.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -246,71 +246,71 @@
   ],
   "currencies": {
     "AUD": {
-      "rate_to_krw": "899.950968",
-      "data_as_of": "2026-11-18",
-      "headline": "AUD fällt auf 900,0 KRW – Ölpreissturz wiegt schwerer als RBA-Protokoll",
-      "brief": "Der Australische Dollar rutschte auf 900,0 KRW ab, da fallende Ölpreise und Risikoaversion das restriktive RBA-Protokoll überschatteten."
+      "rate_to_krw": "896.833190",
+      "data_as_of": "2026-11-19",
+      "headline": "AUD fällt auf 896,8 KRW unter Druck von FOMC-Protokoll und starkem Won",
+      "brief": "Der Australische Dollar sank auf 896,8 KRW, da das falkenhafte FOMC-Protokoll AUD/USD auf 0,6731 drückte und der Won zulegte."
     },
     "CAD": {
-      "rate_to_krw": "935.022924",
-      "data_as_of": "2026-11-18",
-      "headline": "CAD stabil bei 935,0 KRW – Festeres USD/KRW gleicht 3,3% Ölverlust aus",
-      "brief": "Trotz eines WTI-Ölpreisrückgangs um 3,3% stützte der höhere USD/KRW-Schluss in Seoul den Kanadischen Dollar stabil bei rund 935,0 KRW."
+      "rate_to_krw": "931.357553",
+      "data_as_of": "2026-11-19",
+      "headline": "CAD fällt auf 931,4 KRW – WTI-Öl bricht um 3,3% auf 83,26 Dollar ein",
+      "brief": "Der Kanadische Dollar fiel auf 931,4 KRW, da steigende US-Lagerbestände WTI-Öl um 3,3% auf 83,26 USD drückten und USD/KRW sank."
     },
     "CHF": {
-      "rate_to_krw": "1590.339001",
-      "data_as_of": "2026-11-18",
-      "headline": "CHF verharrt bei 1.590,3 KRW zwischen Safe-Haven-Nachfrage und Dollarstärke",
-      "brief": "Der Schweizer Franken blieb bei 1.590,3 KRW stabil, da sichere-Hafen-Zuflüsse bei Tech-Abverkäufen das 19-Monats-Hoch des Dollars ausglichen."
+      "rate_to_krw": "1580.980201",
+      "data_as_of": "2026-11-19",
+      "headline": "CHF sinkt auf 1.581,0 KRW zwischen starkem Dollar und Won-Erholung",
+      "brief": "Der Schweizer Franken gab auf 1.581,0 KRW nach, da der DXY auf 103,78 stieg und USD/KRW in Seoul deutlich fiel."
     },
     "CNY": {
-      "rate_to_krw": "200.447757",
-      "data_as_of": "2026-11-18",
-      "headline": "CNY steigt leicht auf 200,4 KRW nach PBOC-Fixing bei 6,7132",
-      "brief": "Der Yuan legte auf 200,4 KRW zu, gestützt durch ein festes PBOC-Fixing bei 6,7132 und den höheren USD/KRW-Tagesabschluss in Seoul."
+      "rate_to_krw": "199.833165",
+      "data_as_of": "2026-11-19",
+      "headline": "CNY fällt trotz fester PBOC-Fixierung (6,7118) leicht unter 200 auf 199,8 KRW",
+      "brief": "Der Yuan rutschte leicht unter 200 auf 199,8 KRW, da ein 5,2-KRW-Rückgang bei USD/KRW in Seoul das feste PBOC-Fixing überlagerte."
     },
     "EUR": {
-      "rate_to_krw": "1468.360000",
-      "data_as_of": "2026-11-18",
-      "headline": "EUR sinkt auf 1.468,4 KRW nach Tief bei 1,0985 vor ZEW-Stabilisierung",
-      "brief": "Der Euro gab auf 1.468,4 KRW nach, nachdem EUR/USD bei 1,0985 ein 19-Monats-Tief erreichte, bevor bessere ZEW-Daten bei 1,1000 stützten."
+      "rate_to_krw": "1461.300000",
+      "data_as_of": "2026-11-19",
+      "headline": "EUR sinkt auf 1.461,3 KRW – FOMC-Protokoll drückt EUR/USD auf 1,0968",
+      "brief": "Der Euro fiel auf 1.461,3 KRW, da zwei Zinserhöhungsvoten im FOMC-Protokoll EUR/USD auf ein 19-Monats-Tief von 1,0968 drückten."
     },
     "GBP": {
-      "rate_to_krw": "1762.631295",
-      "data_as_of": "2026-11-18",
-      "headline": "GBP steigt auf 1.762,6 KRW – UK-Arbeitslosenquote von 4,6% hebt Cable",
-      "brief": "Das Pfund zog auf 1.762,6 KRW an, da eine auf 4,6% gesunkene britische Arbeitslosenquote GBP/USD vor Inflationsdaten über 1,3200 hob."
+      "rate_to_krw": "1754.472326",
+      "data_as_of": "2026-11-19",
+      "headline": "GBP fällt auf 1.754,5 KRW nach schwächerer UK-Inflation von 3,6%",
+      "brief": "Das Pfund fiel auf 1.754,5 KRW, weil eine britische Oktober-Inflation von 3,6% (Prognose 3,7%) die BoE-Zinswetten dämpfte."
     },
     "HKD": {
-      "rate_to_krw": "170.301899",
-      "data_as_of": "2026-11-18",
-      "headline": "HKD legt auf 170,3 KRW zu im Einklang mit USD-Anstieg in Seoul",
-      "brief": "Gekoppelt an den US-Dollar nahe 7,846 stieg der Hongkong-Dollar im Gleichschritt mit dem Tagesanstieg von USD/KRW auf 170,3 KRW."
+      "rate_to_krw": "169.794221",
+      "data_as_of": "2026-11-19",
+      "headline": "HKD gibt auf 169,8 KRW nach und folgt dem 5,2-KRW-Rückgang von USD/KRW",
+      "brief": "Gebunden an den US-Dollar nahe 7,847 sank der Hongkong-Dollar im Einklang mit dem Rückgang von USD/KRW auf 1.333,0 auf 169,8 KRW."
     },
     "JPY": {
-      "rate_to_krw": "8.388232",
-      "data_as_of": "2026-11-18",
-      "headline": "JPY klettert auf 838,8 je 100 Yen – US-Industriedaten drücken USD/JPY auf 159,3",
-      "brief": "Der Yen stieg auf 838,8 KRW je 100 Yen, da eine um 0,4% gesunkene US-Industrieproduktion die Renditen kühlte und USD/JPY auf 159,3 drückte."
+      "rate_to_krw": "8.357449",
+      "data_as_of": "2026-11-19",
+      "headline": "JPY sinkt auf 835,7 je 100 Yen – FOMC hält USD/JPY bei 159,4",
+      "brief": "Der Yen fiel auf 835,7 KRW je 100 Yen, da falkenhafte FOMC-Signale USD/JPY nahe 159,4 hielten und der Won in Seoul zulegte."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-18",
-      "headline": "KRW erholt sich auf 1.335,4 nach 1.342,9-Tagestief durch Fed-Sorgen",
-      "brief": "Nach einem Tagesschluss bei 1.338,2 (Tief 1.342,9) erholte sich der Won über Nacht dank Exporteurverkäufen und US-Daten auf 1.335,4 KRW."
+      "data_as_of": "2026-11-19",
+      "headline": "KRW steigt um 5,2 KRW auf 1.333,0 dank KOSPI-Sprung über 5.067",
+      "brief": "Der Won legte um 5,2 KRW auf 1.333,0 zu, gestützt von Exporteurverkäufen und dem KOSPI-Anstieg auf 5.067,44; NDF schloss bei 1.333,7."
     },
     "USD": {
-      "rate_to_krw": "1336.208936",
-      "data_as_of": "2026-11-18",
-      "headline": "USD schließt in Seoul bei 1.338,2 und fällt nach US-Daten auf 1.335,4",
-      "brief": "Der US-Dollar stieg über 103,7 DXY auf 1.338,2 KRW in Seoul, gab jedoch über Nacht nach -0,4% US-Industrieproduktion auf 1.335,4 KRW nach."
+      "rate_to_krw": "1332.330416",
+      "data_as_of": "2026-11-19",
+      "headline": "USD fällt in Seoul um 5,2 KRW auf 1.333,0 trotz DXY-Anstieg auf 103,78",
+      "brief": "Trotz DXY 103,78 nach dem FOMC-Protokoll sank USD/KRW in Seoul um 5,2 KRW auf 1.333,0 (EZB 1.332,33; NDF 1.333,7)."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261117T233425Z",
-    "source_input_digest": "6bb7eceb19353f4869fb9379e553e87bff3dc3c657e1d4b05c4e2fec4013f861",
-    "translated_at": "2026-11-17T23:34:25+00:00",
+    "source_batch_id": "20261118T233417Z",
+    "source_input_digest": "14115b6184365cb90c8797a9cf24de5ee8465e1771cf717a1e4f7aac479cba7e",
+    "translated_at": "2026-11-18T23:34:17+00:00",
     "direction": "ltr"
   }
 }
