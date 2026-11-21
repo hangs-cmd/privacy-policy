@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261120T233427Z",
-  "published_at": "2026-11-20T23:34:27+00:00",
-  "checked_at": "2026-11-20T23:34:27+00:00",
-  "valid_until": "2026-11-22T11:34:27+00:00",
+  "batch_id": "20261121T233017Z",
+  "published_at": "2026-11-21T23:30:17+00:00",
+  "checked_at": "2026-11-21T23:30:17+00:00",
+  "valid_until": "2026-11-23T11:30:17+00:00",
   "locale": "zh-Hans",
   "input_digest": "867f09b8be42830865fdafbc911bbcd32dc147e44b4baae428c56a76ec7d8ba0",
   "source": {
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "zh-Hans",
-      "data_as_of": "2026-11-21",
+      "data_as_of": "2026-11-22",
       "reference_rate": "1339.435851",
-      "generated_at": "2026-11-20T23:34:27+00:00",
+      "generated_at": "2026-11-21T23:30:17+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -36,7 +36,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-21"
+          "text": "2026-11-22"
         }
       ],
       "metrics": {
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "zh-Hans",
-      "data_as_of": "2026-11-21",
+      "data_as_of": "2026-11-22",
       "reference_rate": "1472.040000",
-      "generated_at": "2026-11-20T23:34:27+00:00",
+      "generated_at": "2026-11-21T23:30:17+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -82,7 +82,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-21"
+          "text": "2026-11-22"
         }
       ],
       "metrics": {
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "zh-Hans",
-      "data_as_of": "2026-11-21",
+      "data_as_of": "2026-11-22",
       "reference_rate": "8.443017",
-      "generated_at": "2026-11-20T23:34:27+00:00",
+      "generated_at": "2026-11-21T23:30:17+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -128,7 +128,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-21"
+          "text": "2026-11-22"
         }
       ],
       "metrics": {
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "zh-Hans",
-      "data_as_of": "2026-11-21",
+      "data_as_of": "2026-11-22",
       "reference_rate": "1757.974563",
-      "generated_at": "2026-11-20T23:34:27+00:00",
+      "generated_at": "2026-11-21T23:30:17+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -174,7 +174,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-21"
+          "text": "2026-11-22"
         }
       ],
       "metrics": {
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "zh-Hans",
-      "data_as_of": "2026-11-21",
+      "data_as_of": "2026-11-22",
       "reference_rate": "200.583202",
-      "generated_at": "2026-11-20T23:34:27+00:00",
+      "generated_at": "2026-11-21T23:30:17+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -220,7 +220,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-21"
+          "text": "2026-11-22"
         }
       ],
       "metrics": {
@@ -247,70 +247,70 @@
   "currencies": {
     "AUD": {
       "rate_to_krw": "892.848911",
-      "data_as_of": "2026-11-21",
+      "data_as_of": "2026-11-22",
       "headline": "RBA暂停加息预期遇上韩元贬值 澳元微升至892.8韩元",
       "brief": "澳元因RBA暂停预期及金价走低跌至0.663–0.666美元，但首尔韩元急贬至1,336.2推动澳元微升至892.8韩元。"
     },
     "CAD": {
       "rate_to_krw": "936.233543",
-      "data_as_of": "2026-11-21",
+      "data_as_of": "2026-11-22",
       "headline": "美加利差承压叠加韩元走软 加元兑韩元升至936.2韩元",
       "brief": "尽管WTI反弹0.93%至83.98美元，美加利差令美加守1.434高位，首尔韩元走低带动加元升至936.2韩元。"
     },
     "CHF": {
       "rate_to_krw": "1596.053345",
-      "data_as_of": "2026-11-21",
+      "data_as_of": "2026-11-22",
       "headline": "股市急挫避险流入叠加韩元急贬 瑞郎飙升至1,596.1韩元",
       "brief": "全球股市暴跌引发避险买盘推升瑞郎（欧瑞0.9223），叠加首尔韩元走软，瑞郎跳涨至1,596.1韩元。"
     },
     "CNY": {
       "rate_to_krw": "200.583202",
-      "data_as_of": "2026-11-21",
+      "data_as_of": "2026-11-22",
       "headline": "人行中间价6.7131维稳叠加韩元贬值 人民币重回200.6韩元",
       "brief": "中国央行将美元兑人民币中间价稳于6.7131，首尔美元兑韩元收涨6.2至1,336.2，带动人民币重回200.6韩元。"
     },
     "EUR": {
       "rate_to_krw": "1472.040000",
-      "data_as_of": "2026-11-21",
+      "data_as_of": "2026-11-22",
       "headline": "欧美承压1.097至1.099低位 韩元急跌推高欧元至1,472.0韩元",
       "brief": "欧美因政策分歧徘徊1.097至1.099连跌三周，但美债收益率微降叠加韩元跌至1,336.2推高欧元至1,472.0韩元。"
     },
     "GBP": {
       "rate_to_krw": "1757.974563",
-      "data_as_of": "2026-11-21",
+      "data_as_of": "2026-11-22",
       "headline": "英国零售向好叠加坡韩元急挫 英镑兑韩元反弹至1,758.0韩元",
       "brief": "英国10月零售销售（+0.7%）助镑美从1.3079回升至1.310–1.311，叠加首尔韩元走贬推升英镑至1,758.0韩元。"
     },
     "HKD": {
       "rate_to_krw": "170.869414",
-      "data_as_of": "2026-11-21",
+      "data_as_of": "2026-11-22",
       "headline": "联系汇率紧跟首尔美元上涨6.2韩元 港元升至170.9韩元",
       "brief": "港元在7.839附近联系汇率区间随强美元运行，跟随首尔美元兑韩元收涨至1,336.2而升至170.9韩元。"
     },
     "JPY": {
       "rate_to_krw": "8.443017",
-      "data_as_of": "2026-11-21",
+      "data_as_of": "2026-11-22",
       "headline": "美日回落至158区间兼韩元急贬 日圆飙至每百844.3韩元",
       "brief": "美日冲160未果后随美债收益率下滑及获利盘跌0.5%至158.7–159.1，叠加韩元急跌推高日圆至每百844.3韩元。"
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-21",
+      "data_as_of": "2026-11-22",
       "headline": "KOSPI暴跌5.2%兼外资净卖1.7万亿 韩元收贬6.2至1,336.2",
       "brief": "受科技股拖累KOSPI重挫5.21%（4,869.96）及外资净卖1.7万亿影响，韩元收贬至1,336.2，NDF报1,334.7。"
     },
     "USD": {
       "rate_to_krw": "1339.435851",
-      "data_as_of": "2026-11-21",
+      "data_as_of": "2026-11-22",
       "headline": "避险情绪与鹰派美联储支撑 首尔收涨6.2至1,336.2；DXY 103.9",
       "brief": "美元随全球股跌与鹰派预期稳守DXY 103.9，首尔美元兑韩元收涨6.2至1,336.2（ECB 1,339.4），NDF报1,334.7。"
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261120T233427Z",
+    "source_batch_id": "20261121T233017Z",
     "source_input_digest": "867f09b8be42830865fdafbc911bbcd32dc147e44b4baae428c56a76ec7d8ba0",
-    "translated_at": "2026-11-20T23:34:27+00:00",
+    "translated_at": "2026-11-21T23:30:17+00:00",
     "direction": "ltr"
   }
 }
