@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261121T233017Z",
-  "published_at": "2026-11-21T23:30:17+00:00",
-  "checked_at": "2026-11-21T23:30:17+00:00",
-  "valid_until": "2026-11-23T11:30:17+00:00",
+  "batch_id": "20261122T233013Z",
+  "published_at": "2026-11-22T23:30:13+00:00",
+  "checked_at": "2026-11-22T23:30:13+00:00",
+  "valid_until": "2026-11-24T11:30:13+00:00",
   "locale": "pl",
   "input_digest": "867f09b8be42830865fdafbc911bbcd32dc147e44b4baae428c56a76ec7d8ba0",
   "source": {
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "pl",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "1339.435851",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -36,7 +36,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "pl",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "1472.040000",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -82,7 +82,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "pl",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "8.443017",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -128,7 +128,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "pl",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "1757.974563",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -174,7 +174,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "pl",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "200.583202",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -220,7 +220,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -247,70 +247,70 @@
   "currencies": {
     "AUD": {
       "rate_to_krw": "892.848911",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "AUD lekko w górę do 892,8 KRW – słaby won równoważy pauzę RBA",
       "brief": "Dolar australijski wzrósł lekko do 892,8 KRW, gdy spadek wona do 1.336,2 zrównoważył zniżkę AUD/USD do 0,663–0,666."
     },
     "CAD": {
       "rate_to_krw": "936.233543",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "CAD rośnie do 936,2 KRW przez słabego wona mimo presji stóp USA-Kanada",
       "brief": "Dolar kanadyjski wzrósł do 936,2 KRW na słabości wona, choć różnica rentowności utrzymała USD/CAD przy 1,434."
     },
     "CHF": {
       "rate_to_krw": "1596.053345",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "CHF skacze do 1.596,1 KRW na popycie na bezpieczną przystań i spadku wona",
       "brief": "Frank szwajcarski wzrósł do 1.596,1 KRW, gdy spadki giełd wsparły franka (EUR/CHF 0,9223) przy słabszym wonie w Seulu."
     },
     "CNY": {
       "rate_to_krw": "200.583202",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "CNY wraca powyżej 200,6 KRW po spadku wona mimo fixingu PBOC 6,7131",
       "brief": "Juan odzyskał 200,6 KRW, ponieważ skok USD/KRW w Seulu o 6,2 KRW do 1.336,2 przeważył nad spokojnym fixingiem 6,7131."
     },
     "EUR": {
       "rate_to_krw": "1472.040000",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "EUR odbija do 1.472,0 KRW przez słabość wona mimo EUR/USD przy 1,098",
       "brief": "Euro skoczyło do 1.472,0 KRW, gdyż niższe rentowności USA i spadek wona do 1.336,2 przeważyły nad EUR/USD w okolicach 1,098."
     },
     "GBP": {
       "rate_to_krw": "1757.974563",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "GBP rośnie do 1.758,0 KRW po lepszej sprzedaży w UK i słabszym wonie",
       "brief": "Funt zyskał do 1.758,0 KRW po wzroście sprzedaży detalicznej w UK (+0,7%) wspierającym GBP/USD przy 1,310–1,311 oraz słabszym wonie."
     },
     "HKD": {
       "rate_to_krw": "170.869414",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "HKD rośnie do 170,9 KRW śladem skoku USD/KRW w Seulu o 6,2 KRW",
       "brief": "Powiązany z USD przy 7,839 dolar hongkoński podniósł się do 170,9 KRW wraz ze wzrostem USD/KRW w Seulu do 1.336,2."
     },
     "JPY": {
       "rate_to_krw": "8.443017",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "JPY wystrzelił do 844,3 za 100 JPY po cofnięciu USD/JPY do 158,7–159,1",
       "brief": "Jen podskoczył do 844,3 KRW za 100 JPY, gdy USD/JPY spadł o 0,5% do 158,7–159,1 poniżej 160 przy osłabieniu wona w Seulu."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "KRW traci 6,2 KRW do 1.336,2 po krachu KOSPI (-5,2%) i odpływie kapitału",
       "brief": "Won spadł o 6,2 KRW do 1.336,2 przy krachu KOSPI (-5,21% do 4.869,96) i odpływie 1,7 bln KRW od inwestorów zagranicznych."
     },
     "USD": {
       "rate_to_krw": "1339.435851",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "USD rośnie do 1.336,2 w Seulu przy awersji do ryzyka; DXY blisko 103,9",
       "brief": "USD/KRW zamknął się w Seulu o 6,2 KRW wyżej na 1.336,2 (EBC 1.339,44), podczas gdy jastrzębi Fed utrzymał DXY przy 103,9."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261121T233017Z",
+    "source_batch_id": "20261122T233013Z",
     "source_input_digest": "867f09b8be42830865fdafbc911bbcd32dc147e44b4baae428c56a76ec7d8ba0",
-    "translated_at": "2026-11-21T23:30:17+00:00",
+    "translated_at": "2026-11-22T23:30:13+00:00",
     "direction": "ltr"
   }
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261121T233017Z",
-  "published_at": "2026-11-21T23:30:17+00:00",
-  "checked_at": "2026-11-21T23:30:17+00:00",
-  "valid_until": "2026-11-23T11:30:17+00:00",
+  "batch_id": "20261122T233013Z",
+  "published_at": "2026-11-22T23:30:13+00:00",
+  "checked_at": "2026-11-22T23:30:13+00:00",
+  "valid_until": "2026-11-24T11:30:13+00:00",
   "locale": "th",
   "input_digest": "867f09b8be42830865fdafbc911bbcd32dc147e44b4baae428c56a76ec7d8ba0",
   "source": {
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "th",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "1339.435851",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -36,7 +36,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "th",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "1472.040000",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -82,7 +82,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "th",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "8.443017",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -128,7 +128,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "th",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "1757.974563",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -174,7 +174,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "th",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "200.583202",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -220,7 +220,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -247,70 +247,70 @@
   "currencies": {
     "AUD": {
       "rate_to_krw": "892.848911",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "AUD ขยับขึ้นสู่ 892.8 วอน หลังเงินวอนอ่อนชดเชยคาดการณ์ RBA คงดอกเบี้ย",
       "brief": "ดอลลาร์ออสเตรเลียขยับขึ้นสู่ 892.8 วอน เนื่องจากการอ่อนค่าของเงินวอนสู่ 1,336.2 ชดเชย AUD/USD ที่ลงสู่ 0.663–0.666"
     },
     "CAD": {
       "rate_to_krw": "936.233543",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "CAD ปรับขึ้นสู่ 936.2 วอน จากแรงหนุนวอนอ่อนแม้ส่วนต่างบอนด์ยังกดดัน",
       "brief": "ดอลลาร์แคนาดาขึ้นสู่ 936.2 วอนตามเงินวอนอ่อน แม้ส่วนต่างผลตอบแทนพันธบัตรรั้ง USD/CAD ใกล้ 1.434 และ WTI ที่ 83.98 ดอลลาร์"
     },
     "CHF": {
       "rate_to_krw": "1596.053345",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "CHF พุ่งสู่ 1,596.1 วอน จากแรงซื้อสินทรัพย์ปลอดภัยและเงินวอนอ่อนค่า",
       "brief": "ฟรังก์สวิสทะยานสู่ 1,596.1 วอน เมื่อตลาดหุ้นร่วงหนุนแรงซื้อหลบภัย (EUR/CHF 0.9223) ผสมกับเงินวอนอ่อนค่าในโซล"
     },
     "CNY": {
       "rate_to_krw": "200.583202",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "CNY ฟื้นเหนือ 200.6 วอน จากเงินวอนอ่อน แม้ PBOC คงค่ากลาง 6.7131",
       "brief": "เงินหยวนกลับมายืนเหนือ 200 สู่ 200.6 วอน หลัง USD/KRW ในโซลพุ่ง 6.2 วอนสู่ 1,336.2 กลบค่ากลาง PBOC ที่ 6.7131"
     },
     "EUR": {
       "rate_to_krw": "1472.040000",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "EUR ดีดขึ้นสู่ 1,472.0 วอน จากวอนอ่อนค่าแม้ EUR/USD กดดันใกล้ 1.098",
       "brief": "ยูโรดีดกลับสู่ 1,472.0 วอน หลังบอนด์ยีลด์สหรัฐอ่อนและวอนร่วงสู่ 1,336.2 มีน้ำหนักมากกว่าแรงกดดัน EUR/USD แถว 1.097–1.099"
     },
     "GBP": {
       "rate_to_krw": "1757.974563",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "GBP พุ่งสู่ 1,758.0 วอน รับยอดค้าปลีกอังกฤษสดใสและเงินวอนอ่อนค่า",
       "brief": "เงินปอนด์พุ่งสู่ 1,758.0 วอน หลังยอดค้าปลีกอังกฤษ (+0.7%) หนุน GBP/USD สู่ 1.310–1.311 ขณะที่เงินวอนอ่อนค่าในโซล"
     },
     "HKD": {
       "rate_to_krw": "170.869414",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "HKD ปรับขึ้นสู่ 170.9 วอน ตามการพุ่งขึ้น 6.2 วอนของ USD/KRW ในโซล",
       "brief": "ภายใต้ระบบผูกค่าเงินใกล้ 7.839 ดอลลาร์ฮ่องกงขึ้นสู่ 170.9 วอน สอดคล้องกับการปิดตลาดของ USD/KRW ที่ 1,336.2"
     },
     "JPY": {
       "rate_to_krw": "8.443017",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "JPY ทะยานสู่ 844.3 ต่อ 100 เยน หลัง USD/JPY ถอยสู่ 158.7–159.1",
       "brief": "เงินเยนพุ่งสู่ 844.3 วอนต่อ 100 เยน เมื่อ USD/JPY ย่อตัว 0.5% สู่ 158.7–159.1 ใต้แนว 160 พร้อมกับเงินวอนอ่อนค่า"
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "วอนร่วง 6.2 วอนปิด 1,336.2 หลัง KOSPI ดิ่ง 5.2% และต่างชาติขาย 1.7 ล้านล้าน",
       "brief": "เงินวอนอ่อนค่า 6.2 วอนปิด 1,336.2 หลัง KOSPI ร่วง 5.21% สู่ 4,869.96 พร้อมแรงขายต่างชาติ 1.7 ล้านล้านวอน; NDF ~1,334.7"
     },
     "USD": {
       "rate_to_krw": "1339.435851",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "USD ขึ้นสู่ 1,336.2 ในโซลรับภาวะเลี่ยงเสี่ยง; DXY ทรงตัวใกล้ 103.9",
       "brief": "USD/KRW ปิดพุ่ง 6.2 วอนที่ 1,336.2 ในโซล (ECB 1,339.44) ขณะที่สัญญาณเฟดเข้มงวดหนุน DXY ยืนใกล้ 103.9"
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261121T233017Z",
+    "source_batch_id": "20261122T233013Z",
     "source_input_digest": "867f09b8be42830865fdafbc911bbcd32dc147e44b4baae428c56a76ec7d8ba0",
-    "translated_at": "2026-11-21T23:30:17+00:00",
+    "translated_at": "2026-11-22T23:30:13+00:00",
     "direction": "ltr"
   }
 }

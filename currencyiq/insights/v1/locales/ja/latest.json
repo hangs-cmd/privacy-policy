@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261121T233017Z",
-  "published_at": "2026-11-21T23:30:17+00:00",
-  "checked_at": "2026-11-21T23:30:17+00:00",
-  "valid_until": "2026-11-23T11:30:17+00:00",
+  "batch_id": "20261122T233013Z",
+  "published_at": "2026-11-22T23:30:13+00:00",
+  "checked_at": "2026-11-22T23:30:13+00:00",
+  "valid_until": "2026-11-24T11:30:13+00:00",
   "locale": "ja",
   "input_digest": "867f09b8be42830865fdafbc911bbcd32dc147e44b4baae428c56a76ec7d8ba0",
   "source": {
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "ja",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "1339.435851",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -36,7 +36,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "ja",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "1472.040000",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -82,7 +82,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "ja",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "8.443017",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -128,7 +128,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "ja",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "1757.974563",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -174,7 +174,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "ja",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "200.583202",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -220,7 +220,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -247,70 +247,70 @@
   "currencies": {
     "AUD": {
       "rate_to_krw": "892.848911",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "RBA据え置き観測もウォン安が相殺し892.8ウォン台へ小幅高",
       "brief": "豪ドルはRBA利上げ休止観測や金安で対ドル0.663〜0.666へ下落も、ソウルのウォン安に支えられ892.8ウォン台へ小幅上昇。"
     },
     "CAD": {
       "rate_to_krw": "936.233543",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "WTI反発・米加金利差の中でウォン安に押され936.2ウォン台へ上昇",
       "brief": "加ドルはWTIの83.98ドル反発でも米加金利差で1.434近辺に沈んだが、ソウルのウォン急落を受け936.2ウォン台へ上昇した。"
     },
     "CHF": {
       "rate_to_krw": "1596.053345",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "株安による逃避需要とウォン安が重なり1,596.1ウォン台へ急伸",
       "brief": "スイスフランは世界株安での安全買い（対ユーロ0.9223）とソウルのウォン安が重なり、SNB警戒の中でも1,596.1ウォン台へ急伸。"
     },
     "CNY": {
       "rate_to_krw": "200.583202",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "人民銀6.7131設定のもとウォン安を受け200.6ウォン台を回復",
       "brief": "人民元は人民銀が基準値を6.7131元に据え置く中、ソウルのドル・ウォンが6.2ウォン高の1,336.2となり200.6ウォン台を回復。"
     },
     "EUR": {
       "rate_to_krw": "1472.040000",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "ユーロ1.097〜1.099ドル台の軟調をウォン急落が上回り1,472.0ウォン台",
       "brief": "ユーロは対ドル1.097〜1.099ドルで3週続落基調だったが、米金利小幅低下とウォン急落（1,336.2）により1,472.0ウォン台へ反発。"
     },
     "GBP": {
       "rate_to_krw": "1757.974563",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "英小売売上高の上振れとウォン安で1,758.0ウォン台へ反発",
       "brief": "ポンドは英10月小売売上高（+0.7%）を受け1.310〜1.311ドルへ持ち直し、ソウルのウォン安も加わり1,758.0ウォン台へ上昇。"
     },
     "HKD": {
       "rate_to_krw": "170.869414",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "ドルペッグ連動でソウル市場のドル・ウォン上昇に連れ170.9ウォン台",
       "brief": "7.839香港ドル近辺のドルペッグ下で強ドルに連動し、ソウルのドル・ウォンが6.2ウォン高の1,336.2となったことで170.9ウォン台へ。"
     },
     "JPY": {
       "rate_to_krw": "8.443017",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "ドル円158円台反落とウォン急落で100円＝844.3ウォン台へ急騰",
       "brief": "円はドル円が160円突破に失敗し158.7〜159.1円へ反落する中、ソウルのウォン急落も重なり100円当たり844.3ウォン台へ急騰。"
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "KOSPI5.2%暴落と外国人1.7兆ウォン売り越しで1,336.2ウォンへ下落",
       "brief": "ウォンはKOSPI5.21%安（4,869.96）と外国人1.7兆ウォン売り越しで6.2ウォン安の1,336.2で引け、NDFは1,334円後半。"
     },
     "USD": {
       "rate_to_krw": "1339.435851",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "株安とタカ派FRB警戒で1,336.2ウォンへ急伸；DXYは103.9台",
       "brief": "ドルは世界株安とFRB警戒でDXYが103.9台を保ち、ソウルで6.2ウォン高の1,336.2（ECB1,339.4）に上昇。NDFは1,334円後半。"
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261121T233017Z",
+    "source_batch_id": "20261122T233013Z",
     "source_input_digest": "867f09b8be42830865fdafbc911bbcd32dc147e44b4baae428c56a76ec7d8ba0",
-    "translated_at": "2026-11-21T23:30:17+00:00",
+    "translated_at": "2026-11-22T23:30:13+00:00",
     "direction": "ltr"
   }
 }

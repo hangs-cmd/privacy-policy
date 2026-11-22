@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261121T233017Z",
-  "published_at": "2026-11-21T23:30:17+00:00",
-  "checked_at": "2026-11-21T23:30:17+00:00",
-  "valid_until": "2026-11-23T11:30:17+00:00",
+  "batch_id": "20261122T233013Z",
+  "published_at": "2026-11-22T23:30:13+00:00",
+  "checked_at": "2026-11-22T23:30:13+00:00",
+  "valid_until": "2026-11-24T11:30:13+00:00",
   "locale": "hi",
   "input_digest": "867f09b8be42830865fdafbc911bbcd32dc147e44b4baae428c56a76ec7d8ba0",
   "source": {
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "hi",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "1339.435851",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -36,7 +36,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "hi",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "1472.040000",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -82,7 +82,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "hi",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "8.443017",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -128,7 +128,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "hi",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "1757.974563",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -174,7 +174,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "hi",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "reference_rate": "200.583202",
-      "generated_at": "2026-11-21T23:30:17+00:00",
+      "generated_at": "2026-11-22T23:30:13+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -220,7 +220,7 @@
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-22"
+          "text": "2026-11-23"
         }
       ],
       "metrics": {
@@ -247,70 +247,70 @@
   "currencies": {
     "AUD": {
       "rate_to_krw": "892.848911",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "RBA विराम उम्मीदों के बीच वॉन की गिरावट से ऑसी 892.8 वॉन पर हल्का चढ़ा",
       "brief": "ऑस्ट्रेलियाई डॉलर 892.8 वॉन पर हल्का चढ़ा क्योंकि वॉन के 1,336.2 पर गिरने से AUD/USD में 0.663–0.666 की गिरावट संतुलित हुई।"
     },
     "CAD": {
       "rate_to_krw": "936.233543",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "यील्ड अंतर के बावजूद वॉन की कमजोरी से कैड बढ़कर 936.2 वॉन पर",
       "brief": "कनाडाई डॉलर वॉन की कमजोरी से 936.2 वॉन पर चढ़ा, हालांकि अमेरिका-कनाडा यील्ड अंतर ने USD/CAD को 1.434 के पास रखा।"
     },
     "CHF": {
       "rate_to_krw": "1596.053345",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "शेयर गिरावट से सुरक्षित मांग और वॉन की कमजोरी से फ्रैंक 1,596.1 पर",
       "brief": "वैश्विक शेयर बिकवाली से सुरक्षित मांग (EUR/CHF 0.9223) बढ़ने और सियोल में वॉन गिरने से स्विस फ्रैंक 1,596.1 वॉन पर उछला।"
     },
     "CNY": {
       "rate_to_krw": "200.583202",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "PBOC की 6.7131 फिक्सिंग के बीच वॉन गिरने से युआन 200.6 वॉन पर",
       "brief": "पीबीओसी के 6.7131 फिक्सिंग के बावजूद सियोल में USD/KRW के 6.2 वॉन चढ़कर 1,336.2 होने से युआन फिर 200.6 वॉन पर पहुंचा।"
     },
     "EUR": {
       "rate_to_krw": "1472.040000",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "EUR/USD 1.098 के करीब दबाव के बावजूद वॉन गिरने से यूरो 1,472.0 पर",
       "brief": "घटी अमेरिकी यील्ड और सियोल में वॉन के 1,336.2 पर फिसलने से यूरो उछलकर 1,472.0 वॉन पर पहुंचा, जबकि EUR/USD 1.097–1.099 रहा।"
     },
     "GBP": {
       "rate_to_krw": "1757.974563",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "मजबूत ब्रिटिश खुदरा बिक्री और वॉन की कमजोरी से पाउंड 1,758.0 वॉन पर",
       "brief": "ब्रिटिश खुदरा बिक्री (+0.7%) से GBP/USD 1.310–1.311 पर सुधरने और सियोल में वॉन गिरने से पाउंड 1,758.0 वॉन पर पहुंचा।"
     },
     "HKD": {
       "rate_to_krw": "170.869414",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "सियोल में USD/KRW के 6.2 वॉन चढ़ने से हांगकांग डॉलर 170.9 वॉन पर",
       "brief": "7.839 के डॉलर पेग के पास स्थिर हांगकांग डॉलर सियोल में USD/KRW के 1,336.2 पर पहुंचने के साथ 170.9 वॉन पर चढ़ा।"
     },
     "JPY": {
       "rate_to_krw": "8.443017",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "USD/JPY के 158.7–159.1 पर आने और वॉन गिरने से येन 844.3 वॉन पर",
       "brief": "160 के नीचे USD/JPY 0.5% फिसलकर 158.7–159.1 पर आने और सियोल में वॉन गिरने से येन 844.3 प्रति 100 येन पर उछला।"
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "KOSPI 5.2% टूटने और 1.7 ट्रिलियन विदेशी बिकवाली से वॉन 1,336.2 पर",
       "brief": "KOSPI के 5.21% गिरकर 4,869.96 पर आने व 1.7 ट्रिलियन वॉन विदेशी बिकवाली से वॉन 6.2 वॉन टूटकर 1,336.2 पर बंद हुआ।"
     },
     "USD": {
       "rate_to_krw": "1339.435851",
-      "data_as_of": "2026-11-22",
+      "data_as_of": "2026-11-23",
       "headline": "जोखिम से बचाव में सियोल में डॉलर 1,336.2 पर; DXY 103.9 के करीब",
       "brief": "सियोल में USD/KRW 6.2 वॉन चढ़कर 1,336.2 (ईसीबी 1,339.44) पर बंद हुआ, जबकि सख्त फेड संकेतों से DXY ~103.9 रहा।"
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261121T233017Z",
+    "source_batch_id": "20261122T233013Z",
     "source_input_digest": "867f09b8be42830865fdafbc911bbcd32dc147e44b4baae428c56a76ec7d8ba0",
-    "translated_at": "2026-11-21T23:30:17+00:00",
+    "translated_at": "2026-11-22T23:30:13+00:00",
     "direction": "ltr"
   }
 }
