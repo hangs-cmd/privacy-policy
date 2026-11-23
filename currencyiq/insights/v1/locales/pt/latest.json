@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261122T233013Z",
-  "published_at": "2026-11-22T23:30:13+00:00",
-  "checked_at": "2026-11-22T23:30:13+00:00",
-  "valid_until": "2026-11-24T11:30:13+00:00",
+  "batch_id": "20261123T233508Z",
+  "published_at": "2026-11-23T23:35:08+00:00",
+  "checked_at": "2026-11-23T23:35:08+00:00",
+  "valid_until": "2026-11-25T11:35:08+00:00",
   "locale": "pt",
-  "input_digest": "867f09b8be42830865fdafbc911bbcd32dc147e44b4baae428c56a76ec7d8ba0",
+  "input_digest": "a23e7c6a426c60ba5d3708ef4d362d8026c70f74d83d7136210a690bd19e12cb",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "pt",
-      "data_as_of": "2026-11-23",
-      "reference_rate": "1339.435851",
-      "generated_at": "2026-11-22T23:30:13+00:00",
+      "data_as_of": "2026-11-24",
+      "reference_rate": "1348.852729",
+      "generated_at": "2026-11-23T23:35:08+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1339.435851 KRW"
+          "text": "1348.852729 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-23"
+          "text": "2026-11-24"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW sobe 6,2 KRW a 1.336,2 com tombo de 5,2% do KOSPI; DXY ~103,9",
-        "summary": "USD/KRW avançou 6,2 KRW fechando a 1.336,2 em Seul (BCE 1.339,44) após o KOSPI despencar 5,21% a 4.869,96 com saída estrangeira de 1,7 tri KRW. Atingiu 1.340,3 antes de vendas exportadoras; DXY em ~103,9 e NDF 1M em ~1.334,7.",
+        "headline": "USD/KRW salta 9,7 KRW a 1.345,9 com queda do KOSPI; NDF recua a 1.339,9",
+        "summary": "USD/KRW subiu 9,7 KRW a 1.345,9 em Seul (BCE 1.348,9) com 7º dia de saída estrangeira e queda de 3,31% do KOSPI (4.708,54), tocando 1.351,6 antes de vendas de exportadores. Alta de +6,51% no Nasdaq levou NDF a 1.339,9 com DXY em ~103,9.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "pt",
-      "data_as_of": "2026-11-23",
-      "reference_rate": "1472.040000",
-      "generated_at": "2026-11-22T23:30:13+00:00",
+      "data_as_of": "2026-11-24",
+      "reference_rate": "1475.510000",
+      "generated_at": "2026-11-23T23:35:08+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1472.040000 KRW"
+          "text": "1475.510000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-23"
+          "text": "2026-11-24"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW salta a 1.472,0 – fraqueza do won supera EUR/USD em 1,097–1,099",
-        "summary": "EUR/KRW reagiu fortemente para 1.472,0 KRW (ref. BCE 1.472,04). EUR/USD seguiu em 1,097–1,099 rumo à terceira queda semanal pela divergência Fed-BCE, mas o tombo de 5,21% do KOSPI derrubou o won para 1.336,2 e elevou o cruzamento.",
+        "headline": "EUR/KRW sobe a 1.475,5 pela queda do won apesar de PMI misto na zona do euro",
+        "summary": "EUR/KRW avançou para 1.475,5 KRW (BCE 1.475,51). O PMI composto da zona do euro manteve 51,7 com a indústria alemã (52,9), mas a queda industrial francesa a 47,9 travou EUR/USD em 1,093–1,094 enquanto o won a 1.345,9 elevou o par.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "pt",
-      "data_as_of": "2026-11-23",
-      "reference_rate": "8.443017",
-      "generated_at": "2026-11-22T23:30:13+00:00",
+      "data_as_of": "2026-11-24",
+      "reference_rate": "8.479455",
+      "generated_at": "2026-11-23T23:35:08+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.443017 KRW"
+          "text": "8.479455 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-23"
+          "text": "2026-11-24"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW dispara a 844,3 por 100 JPY com USD/JPY recuando a 158,7–159,1",
-        "summary": "JPY/KRW saltou para 8,44 KRW por iene (~844,3 por 100 JPY, ref. BCE 8,443). Após falhar nos 160,0, USD/JPY caiu ~0,5% para 158,7–159,1 com yields dos EUA menores e realização de lucros, somando-se ao won mais fraco.",
+        "headline": "JPY/KRW sobe a 847,9 por 100 JPY no feriado em Tóquio apesar de iene em 159",
+        "summary": "JPY/KRW subiu para 847,9 KRW por 100 JPY (BCE 8,479). Com Tóquio fechada no feriado, juros dos EUA a 4,96% levaram USD/JPY a 158,9–159,3 apesar de apostas no BoJ e risco de intervenção, enquanto o won a 1.345,9 puxou a alta.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "pt",
-      "data_as_of": "2026-11-23",
-      "reference_rate": "1757.974563",
-      "generated_at": "2026-11-22T23:30:13+00:00",
+      "data_as_of": "2026-11-24",
+      "reference_rate": "1763.424283",
+      "generated_at": "2026-11-23T23:35:08+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1757.974563 KRW"
+          "text": "1763.424283 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-23"
+          "text": "2026-11-24"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW avança mais de 10 KRW a 1.758,0 impulsionado pela queda do won",
-        "summary": "GBP/KRW subiu mais de 10 KRW para 1.758,0 KRW (ref. BCE 1.757,97). O varejo britânico (+0,7% em out.) ajudou GBP/USD a sair de 1,3079 para 1,310–1,311 apesar do dólar forte, enquanto a forte baixa do won em Seul liderou a alta.",
+        "headline": "GBP/KRW avança a 1.763,4 KRW com won fraco apesar de PMI menor no Reino Unido",
+        "summary": "GBP/KRW subiu para 1.763,4 KRW (BCE 1.763,42). O PMI composto britânico de novembro recuou a 52,3 (serviços 52,0, indústria 52,7), levando GBP/USD a 1,303–1,307 ante o dólar firme, mas o recuo do won a 1.345,9 em Seul elevou o cruzamento.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "pt",
-      "data_as_of": "2026-11-23",
-      "reference_rate": "200.583202",
-      "generated_at": "2026-11-22T23:30:13+00:00",
+      "data_as_of": "2026-11-24",
+      "reference_rate": "202.388039",
+      "generated_at": "2026-11-23T23:35:08+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "200.583202 KRW"
+          "text": "202.388039 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-23"
+          "text": "2026-11-24"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW retoma 200,6 com queda do won apesar de fixing do PBOC em 6,7131",
-        "summary": "CNY/KRW voltou acima de 200 para cerca de 200,6 KRW (ref. BCE 200,58). Embora o PBOC tenha mantido o fixing USD/CNY estável em 6,7131, a alta de 6,2 KRW de USD/KRW para 1.336,2 em Seul em meio à aversão ao risco puxou o cruzamento.",
+        "headline": "CNY/KRW sobe a 202,4 KRW com queda do won apesar de fixing em 6,7120",
+        "summary": "CNY/KRW avançou para cerca de 202,4 KRW (BCE 202,39). Embora o PBOC tenha fixado o USD/CNY mais forte em 6,7120 e o yuan à vista tenha seguido estável em 6,66–6,67 com apoio às bolsas asiáticas, o salto de 9,7 KRW do USD/KRW a 1.345,9 elevou o cruzamento.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -246,71 +246,71 @@
   ],
   "currencies": {
     "AUD": {
-      "rate_to_krw": "892.848911",
-      "data_as_of": "2026-11-23",
-      "headline": "AUD sobe leve a 892,8 KRW com queda do won compensando pausa do RBA",
-      "brief": "O dólar australiano subiu leve para 892,8 KRW com a queda do won a 1.336,2 compensando AUD/USD em 0,663–0,666 por pausa do RBA."
+      "rate_to_krw": "892.517542",
+      "data_as_of": "2026-11-24",
+      "headline": "AUD recua leve a 892,5 KRW após PMI composto da Austrália cair a 46,1",
+      "brief": "O dólar australiano caiu leve para 892,5 KRW após o PMI composto de novembro cair a 46,1, levando AUD/USD perto de 0,662 apesar do won fraco."
     },
     "CAD": {
-      "rate_to_krw": "936.233543",
-      "data_as_of": "2026-11-23",
-      "headline": "CAD avança a 936,2 KRW pelo won fraco apesar de diferencial de juros",
-      "brief": "O dólar canadense subiu para 936,2 KRW pela fraqueza do won apesar de spreads manterem USD/CAD perto de 1,434 e WTI a US$ 83,98."
+      "rate_to_krw": "939.157278",
+      "data_as_of": "2026-11-24",
+      "headline": "CAD sobe a 939,2 KRW pelo won fraco apesar de queda de 3,9% do WTI",
+      "brief": "O dólar canadense subiu para 939,2 KRW com o won em 1.345,9 apesar de o WTI recuar 3,9% a US$ 80,14 com USD/CAD perto de 1,436."
     },
     "CHF": {
-      "rate_to_krw": "1596.053345",
-      "data_as_of": "2026-11-23",
-      "headline": "CHF salta a 1.596,1 KRW com busca por refúgio na queda global e won baixo",
-      "brief": "O franco suíço saltou para 1.596,1 KRW com a queda das bolsas atraindo refúgio (EUR/CHF 0,9223) somada à queda do won em Seul."
+      "rate_to_krw": "1606.259525",
+      "data_as_of": "2026-11-24",
+      "headline": "CHF supera 1.606,3 KRW com EUR/CHF firme em 0,9186 e won em baixa",
+      "brief": "O franco suíço subiu para 1.606,3 KRW com cautela geopolítica levando EUR/CHF a 0,9186 somada ao salto de USD/KRW para 1.345,9 em Seul."
     },
     "CNY": {
-      "rate_to_krw": "200.583202",
-      "data_as_of": "2026-11-23",
-      "headline": "CNY retoma 200,6 KRW com queda do won apesar de fixing PBOC em 6,7131",
-      "brief": "O yuan retomou 200,6 KRW depois que a alta de 6,2 KRW de USD/KRW em Seul superou o fixing estável do PBOC em 6,7131."
+      "rate_to_krw": "202.388039",
+      "data_as_of": "2026-11-24",
+      "headline": "CNY supera 202,4 KRW com queda do won apesar de fixing em 6,7120",
+      "brief": "O yuan ultrapassou 202,4 KRW depois que a alta de 9,7 KRW do USD/KRW em Seul superou o fixing mais forte do PBOC em 6,7120."
     },
     "EUR": {
-      "rate_to_krw": "1472.040000",
-      "data_as_of": "2026-11-23",
-      "headline": "EUR reage a 1.472,0 KRW com tombo do won apesar de EUR/USD em 1,098",
-      "brief": "O euro saltou para 1.472,0 KRW com recuo dos juros dos EUA e queda do won a 1.336,2 superando EUR/USD perto de 1,097–1,099."
+      "rate_to_krw": "1475.510000",
+      "data_as_of": "2026-11-24",
+      "headline": "EUR sobe a 1.475,5 KRW pelo won fraco apesar de contração francesa",
+      "brief": "O euro avançou a 1.475,5 KRW; o PMI fabril francês em 47,9 segurou EUR/USD em 1,094, mas a queda do won a 1.345,9 elevou o cruzamento."
     },
     "GBP": {
-      "rate_to_krw": "1757.974563",
-      "data_as_of": "2026-11-23",
-      "headline": "GBP avança a 1.758,0 KRW após varejo forte no Reino Unido e won fraco",
-      "brief": "A libra subiu para 1.758,0 KRW após vendas no varejo (+0,7%) elevarem GBP/USD para 1,310–1,311 enquanto o won caía em Seul."
+      "rate_to_krw": "1763.424283",
+      "data_as_of": "2026-11-24",
+      "headline": "GBP avança a 1.763,4 KRW pelo won fraco apesar de PMI menor no Reino Unido",
+      "brief": "A libra subiu a 1.763,4 KRW com a queda do won a 1.345,9 compensando o recuo do PMI britânico a 52,3 e de GBP/USD para 1,303–1,307."
     },
     "HKD": {
-      "rate_to_krw": "170.869414",
-      "data_as_of": "2026-11-23",
-      "headline": "HKD sobe a 170,9 KRW acompanhando salto de 6,2 KRW do dólar em Seul",
-      "brief": "Atrelado ao dólar perto de 7,839, o dólar de Hong Kong subiu para 170,9 KRW seguindo a alta de USD/KRW para 1.336,2."
+      "rate_to_krw": "172.027002",
+      "data_as_of": "2026-11-24",
+      "headline": "HKD sobe a 172,0 KRW seguindo salto de 9,7 KRW do dólar em Seul",
+      "brief": "Atrelado ao dólar em 7,841, o dólar de Hong Kong subiu para 172,0 KRW acompanhando a alta de USD/KRW para 1.345,9 em Seul."
     },
     "JPY": {
-      "rate_to_krw": "8.443017",
-      "data_as_of": "2026-11-23",
-      "headline": "JPY dispara a 844,3 por 100 JPY com USD/JPY cedendo a 158,7–159,1",
-      "brief": "O iene saltou para 844,3 KRW por 100 JPY com USD/JPY caindo 0,5% a 158,7–159,1 abaixo de 160 junto ao won mais fraco."
+      "rate_to_krw": "8.479455",
+      "data_as_of": "2026-11-24",
+      "headline": "JPY sobe a 847,9 por 100 JPY pelo won fraco apesar de USD/JPY em 159",
+      "brief": "O iene subiu a 847,9 KRW por 100 JPY com a queda do won a 1.345,9 superando a alta de USD/JPY a 158,9–159,3 no feriado em Tóquio."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-23",
-      "headline": "KRW cai 6,2 KRW a 1.336,2 com tombo de 5,2% do KOSPI e saída estrangeira",
-      "brief": "O won caiu 6,2 KRW a 1.336,2 com o KOSPI despencando 5,21% para 4.869,96 e vendas estrangeiras de 1,7 tri KRW; NDF ~1.334,7."
+      "data_as_of": "2026-11-24",
+      "headline": "KRW cai 9,7 KRW a 1.345,9 com KOSPI -3,3%; NDF recua a 1.339,9",
+      "brief": "O won caiu 9,7 KRW a 1.345,9 com o KOSPI em -3,31% e 7º dia de saída estrangeira; rali do Nasdaq (+6,51%) levou o NDF a 1.339,9."
     },
     "USD": {
-      "rate_to_krw": "1339.435851",
-      "data_as_of": "2026-11-23",
-      "headline": "USD sobe a 1.336,2 em Seul por aversão ao risco; DXY firme perto de 103,9",
-      "brief": "USD/KRW subiu 6,2 KRW a 1.336,2 em Seul (BCE 1.339,44) com Fed firme mantendo DXY perto de 103,9 e NDF 1M em ~1.334,7."
+      "rate_to_krw": "1348.852729",
+      "data_as_of": "2026-11-24",
+      "headline": "USD salta a 1.345,9 em Seul com juro dos EUA a 4,96%; DXY em ~103,9",
+      "brief": "USD/KRW subiu 9,7 KRW a 1.345,9 em Seul (BCE 1.348,9) com o Treasury de 10 anos a 4,96% mantendo o DXY perto de 103,9."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261122T233013Z",
-    "source_input_digest": "867f09b8be42830865fdafbc911bbcd32dc147e44b4baae428c56a76ec7d8ba0",
-    "translated_at": "2026-11-22T23:30:13+00:00",
+    "source_batch_id": "20261123T233508Z",
+    "source_input_digest": "a23e7c6a426c60ba5d3708ef4d362d8026c70f74d83d7136210a690bd19e12cb",
+    "translated_at": "2026-11-23T23:35:08+00:00",
     "direction": "ltr"
   }
 }
