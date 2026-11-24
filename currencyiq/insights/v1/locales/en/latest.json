@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261123T233508Z",
-  "published_at": "2026-11-23T23:35:08+00:00",
-  "checked_at": "2026-11-23T23:35:08+00:00",
-  "valid_until": "2026-11-25T11:35:08+00:00",
+  "batch_id": "20261124T233518Z",
+  "published_at": "2026-11-24T23:35:18+00:00",
+  "checked_at": "2026-11-24T23:35:18+00:00",
+  "valid_until": "2026-11-26T11:35:18+00:00",
   "locale": "en",
-  "input_digest": "a23e7c6a426c60ba5d3708ef4d362d8026c70f74d83d7136210a690bd19e12cb",
+  "input_digest": "17e2e1c67c3f4d689ace7fd43d1d3eced2c57fe130eb6dfa08333e010ac98934",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "en",
-      "data_as_of": "2026-11-24",
-      "reference_rate": "1348.852729",
-      "generated_at": "2026-11-23T23:35:08+00:00",
+      "data_as_of": "2026-11-25",
+      "reference_rate": "1344.513363",
+      "generated_at": "2026-11-24T23:35:18+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1348.852729 KRW"
+          "text": "1344.513363 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-24"
+          "text": "2026-11-25"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW surges 9.7 KRW to 1,345.9 on KOSPI drop; 1M NDF eases to 1,339.9",
-        "summary": "USD/KRW jumped 9.7 KRW to 1,345.9 in Seoul (ECB 1,348.9) as KOSPI fell 3.31% to 4,708.54 with a sell sidecar and 7th day of foreign outflows, touching 1,351.6 before exporter sales. Overnight Nasdaq (+6.51%) cooled 1M NDF to 1,339.9 while DXY held near 103.9.",
+        "headline": "USD/KRW drops 3.5 KRW to 1,342.4 as KOSPI reclaims 5,006; NDF eases to 1,340.0",
+        "summary": "USD/KRW fell 3.5 KRW to 1,342.4 in Seoul (ECB 1,344.5) as KOSPI jumped 6.32% to 5,006.03 on Nvidia CEO news, drawing foreign inflows and exporter sales. Overnight Nasdaq (-1.48%) cooled while DXY dipped to 103.8, guiding 1M NDF down to ~1,340.0.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "en",
-      "data_as_of": "2026-11-24",
-      "reference_rate": "1475.510000",
-      "generated_at": "2026-11-23T23:35:08+00:00",
+      "data_as_of": "2026-11-25",
+      "reference_rate": "1473.990000",
+      "generated_at": "2026-11-24T23:35:18+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1475.510000 KRW"
+          "text": "1473.990000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-24"
+          "text": "2026-11-25"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW advances to 1,475.5 on won slide despite mixed Eurozone PMIs",
-        "summary": "EUR/KRW rose to around 1,475.5 (ECB ref 1,475.51). The Eurozone Nov flash Composite PMI held at 51.7 on German factory strength (52.9), yet France's manufacturing slump to 47.9 kept EUR/USD pinned near 1.093–1.094 while Seoul's won drop to 1,345.9 lifted the cross.",
+        "headline": "EUR/KRW slips to 1,474.0 as won gains outweigh 7th monthly rise in German Ifo",
+        "summary": "EUR/KRW eased to around 1,474.0 (ECB ref 1,473.99). Germany's Nov Ifo Business Climate rose for a 7th straight month to 90.6 and DXY softened to 103.8, lifting EUR/USD to 1.096–1.097, yet Seoul's firmer won at 1,342.4 outweighed euro gains.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "en",
-      "data_as_of": "2026-11-24",
-      "reference_rate": "8.479455",
-      "generated_at": "2026-11-23T23:35:08+00:00",
+      "data_as_of": "2026-11-25",
+      "reference_rate": "8.452262",
+      "generated_at": "2026-11-24T23:35:18+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.479455 KRW"
+          "text": "8.452262 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-24"
+          "text": "2026-11-25"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW rises to 847.9 per 100 JPY despite holiday yen dip past 159",
-        "summary": "JPY/KRW moved up to around 847.9 per 100 JPY (ECB ref 8.479). With Tokyo closed for Labour Thanksgiving Day, higher US yields (4.96%) lifted USD/JPY to 158.9–159.3 despite Dec BoJ hike bets and intervention risk, while Seoul's won drop to 1,345.9 pushed the cross up.",
+        "headline": "JPY/KRW falls to 845.2 per 100 JPY as won strengthens and yen hovers near 159.2",
+        "summary": "JPY/KRW moved down to around 845.2 per 100 JPY (ECB ref 8.452). As Tokyo reopened, USD/JPY stayed rangebound near 159.2 amid FinMin Katayama's verbal intervention warnings and BoJ hike watch, while Seoul's won gain to 1,342.4 lowered the cross.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "en",
-      "data_as_of": "2026-11-24",
-      "reference_rate": "1763.424283",
-      "generated_at": "2026-11-23T23:35:08+00:00",
+      "data_as_of": "2026-11-25",
+      "reference_rate": "1761.039427",
+      "generated_at": "2026-11-24T23:35:18+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1763.424283 KRW"
+          "text": "1761.039427 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-24"
+          "text": "2026-11-25"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW gains to 1,763.4 as KRW slide offsets softer UK flash PMI",
-        "summary": "GBP/KRW climbed to around 1,763.4 (ECB ref 1,763.42). UK Nov flash Composite PMI eased to 52.3 (Services 52.0, Manufacturing 52.7), nudging GBP/USD down to 1.303–1.307 against a firm dollar, though Seoul's won depreciation to 1,345.9 drove the cross higher.",
+        "headline": "GBP/KRW dips to 1,761.0 as won rally offsets sterling rebound above 1.310",
+        "summary": "GBP/KRW eased to around 1,761.0 (ECB ref 1,761.04). Despite BoE Chief Economist Pill stressing price stability, softer DXY momentum helped GBP/USD recover back above 1.310, though Seoul's won advance to 1,342.4 dragged the cross lower.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "en",
-      "data_as_of": "2026-11-24",
-      "reference_rate": "202.388039",
-      "generated_at": "2026-11-23T23:35:08+00:00",
+      "data_as_of": "2026-11-25",
+      "reference_rate": "201.742332",
+      "generated_at": "2026-11-24T23:35:18+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "202.388039 KRW"
+          "text": "201.742332 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-24"
+          "text": "2026-11-25"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW climbs to 202.4 as Seoul won drop outweighs 6.7120 PBOC fix",
-        "summary": "CNY/KRW rose to around 202.4 (ECB ref 202.39). Although the PBOC nudged its USD/CNY midpoint stronger to 6.7120 and spot yuan held steady near 6.66–6.67 amid Asian equity stabilization efforts, Seoul's 9.7 KRW surge in USD/KRW to 1,345.9 lifted the cross.",
+        "headline": "CNY/KRW eases to 201.7 on won rebound and slightly firmer 6.7111 PBOC fix",
+        "summary": "CNY/KRW slipped to around 201.7 (ECB ref 201.74). Although the PBOC nudged its USD/CNY midpoint firmer to 6.7111 from 6.7120 and offshore yuan held steady near 6.661–6.666, Seoul's 3.5 KRW drop in USD/KRW to 1,342.4 pulled the cross lower.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -246,71 +246,71 @@
   ],
   "currencies": {
     "AUD": {
-      "rate_to_krw": "892.517542",
-      "data_as_of": "2026-11-24",
-      "headline": "AUD edges down to 892.5 KRW as November flash Composite PMI tumbles to 46.1",
-      "brief": "AUD eased to 892.5 KRW as Nov flash Composite PMI fell to 46.1 (lowest since 2021), pulling AUD/USD near 0.662 despite KRW weakness."
+      "rate_to_krw": "892.948446",
+      "data_as_of": "2026-11-25",
+      "headline": "AUD edges up to 892.9 KRW as softer dollar lifts AUD/USD toward 0.664 ahead of CPI",
+      "brief": "AUD edged up to 892.9 KRW as a softer USD lifted AUD/USD toward 0.664 ahead of Australian CPI, outweighing won strength."
     },
     "CAD": {
-      "rate_to_krw": "939.157278",
-      "data_as_of": "2026-11-24",
-      "headline": "CAD rises to 939.2 KRW on won drop despite 3.9% WTI oil slump to $80.14",
-      "brief": "CAD rose to 939.2 KRW on Seoul won weakness (1,345.9) even as WTI fell 3.9% to $80.14 on supply worries and USD/CAD stayed near 1.436."
+      "rate_to_krw": "938.428726",
+      "data_as_of": "2026-11-25",
+      "headline": "CAD slips to 938.4 KRW on won gain despite hawkish BoC offsetting $80 WTI crude",
+      "brief": "CAD eased to 938.4 KRW as Seoul's won gain outweighed BoC Governor Macklem's hawkish tone pulling USD/CAD under 1.430 amid ~$80 WTI."
     },
     "CHF": {
-      "rate_to_krw": "1606.259525",
-      "data_as_of": "2026-11-24",
-      "headline": "CHF rises past 1,606.3 KRW on firmer EUR/CHF (0.9186) and Seoul won drop",
-      "brief": "The Swiss franc rose to 1,606.3 KRW as lingering geopolitical caution lifted EUR/CHF to 0.9186 alongside Seoul's 9.7 KRW jump in USD/KRW to 1,345.9."
+      "rate_to_krw": "1605.129043",
+      "data_as_of": "2026-11-25",
+      "headline": "CHF dips to 1,605.1 KRW with EUR/CHF near 0.916–0.918 and firmer Korean won",
+      "brief": "Swiss franc eased to 1,605.1 KRW as EUR/CHF held near 0.916–0.918 amid US–Iran talks and tech cooling while USD/KRW fell to 1,342.4."
     },
     "CNY": {
-      "rate_to_krw": "202.388039",
-      "data_as_of": "2026-11-24",
-      "headline": "CNY tops 202.4 KRW on Seoul won slide despite firmer 6.7120 PBOC midpoint",
-      "brief": "The yuan topped 202.4 KRW as Seoul's 9.7 KRW jump in USD/KRW to 1,345.9 outweighed a firmer 6.7120 PBOC midpoint and steady 6.66 spot."
+      "rate_to_krw": "201.742332",
+      "data_as_of": "2026-11-25",
+      "headline": "CNY eases to 201.7 KRW on Seoul won strength despite firmer 6.7111 PBOC midpoint",
+      "brief": "Yuan eased to 201.7 KRW after Seoul's 3.5 KRW drop in USD/KRW to 1,342.4 outweighed a firmer 6.7111 PBOC fix and steady 6.66 CNH."
     },
     "EUR": {
-      "rate_to_krw": "1475.510000",
-      "data_as_of": "2026-11-24",
-      "headline": "EUR advances to 1,475.5 KRW on won slide despite France PMI contraction",
-      "brief": "The euro rose to 1,475.5 KRW; France's factory PMI drop to 47.9 capped EUR/USD near 1.094, while Seoul's won slide to 1,345.9 lifted it."
+      "rate_to_krw": "1473.990000",
+      "data_as_of": "2026-11-25",
+      "headline": "EUR slips to 1,474.0 KRW on won rally despite 7th straight gain in German Ifo",
+      "brief": "Euro eased to 1,474.0 KRW as Seoul won strength (1,342.4) offset EUR/USD's recovery to 1.096–1.097 on Germany's rising Ifo (90.6)."
     },
     "GBP": {
-      "rate_to_krw": "1763.424283",
-      "data_as_of": "2026-11-24",
-      "headline": "GBP climbs to 1,763.4 KRW on KRW weakness despite UK PMI easing to 52.3",
-      "brief": "Sterling gained to 1,763.4 KRW as Seoul's won drop to 1,345.9 offset UK flash Composite PMI easing to 52.3 and GBP/USD softening to 1.303–1.307."
+      "rate_to_krw": "1761.039427",
+      "data_as_of": "2026-11-25",
+      "headline": "GBP eases to 1,761.0 KRW as won gain outweighs sterling recovery above 1.310",
+      "brief": "Sterling dipped to 1,761.0 KRW; a softer DXY lifted GBP/USD back over 1.310 amid Pill's price remarks, yet won gains dragged the cross."
     },
     "HKD": {
-      "rate_to_krw": "172.027002",
-      "data_as_of": "2026-11-24",
-      "headline": "HKD climbs to 172.0 KRW tracking USD/KRW's 9.7 KRW jump to 1,345.9",
-      "brief": "Pegged near 7.841 per USD inside its 7.75–7.85 band, the Hong Kong dollar climbed to 172.0 KRW in lockstep with Seoul USD/KRW jumping to 1,345.9."
+      "rate_to_krw": "171.453996",
+      "data_as_of": "2026-11-25",
+      "headline": "HKD eases to 171.5 KRW tracking USD/KRW drop to 1,342.4 under 7.842 USD peg",
+      "brief": "Hong Kong dollar stayed pegged near 7.842 and fell to 171.5 KRW in lockstep with Seoul's 3.5 KRW decline in USD/KRW to 1,342.4."
     },
     "JPY": {
-      "rate_to_krw": "8.479455",
-      "data_as_of": "2026-11-24",
-      "headline": "JPY rises to 847.9 per 100 JPY on won drop despite holiday yen dip past 159",
-      "brief": "JPY rose to 847.9 KRW per 100 JPY as Seoul's won slide to 1,345.9 outweighed USD/JPY hitting 158.9–159.3 in Tokyo's holiday session."
+      "rate_to_krw": "8.452262",
+      "data_as_of": "2026-11-25",
+      "headline": "JPY drops to 845.2 KRW per 100 JPY as yen holds near 159.2 on intervention watch",
+      "brief": "With Tokyo back open, USD/JPY held near 159.2 amid FinMin Katayama's warnings while won strength (1,342.4) lowered JPY/KRW to 845.2."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-24",
-      "headline": "KRW slides 9.7 KRW to 1,345.9 as KOSPI drops 3.3%; 1M NDF rebounds to 1,339.9",
-      "brief": "The won fell 9.7 KRW to 1,345.9 on KOSPI's 3.31% drop and a 7th day of foreign selling, before Nasdaq's +6.51% surge pulled 1M NDF down to 1,339.9."
+      "data_as_of": "2026-11-25",
+      "headline": "KRW strengthens to 1,342.4 as KOSPI jumps 6.3% to 5,006; NDF eases to 1,340.0",
+      "brief": "Won rose 3.5 KRW to 1,342.4 as KOSPI surged 6.32% to 5,006.03 on foreign net-buying; softer DXY pulled overnight 1M NDF to ~1,340.0."
     },
     "USD": {
-      "rate_to_krw": "1348.852729",
-      "data_as_of": "2026-11-24",
-      "headline": "USD jumps 9.7 KRW to 1,345.9 in Seoul on 4.96% US yield; DXY near 103.9",
-      "brief": "USD/KRW surged 9.7 KRW to 1,345.9 in Seoul (ECB 1,348.9) as 4.96% 10Y yields and Fed bets kept DXY near 103.9 despite Wall St's rally."
+      "rate_to_krw": "1344.513363",
+      "data_as_of": "2026-11-25",
+      "headline": "DXY eases to 103.8 as Nasdaq dips 1.5% and 10Y yield holds 4.91%; Seoul 1,342.4",
+      "brief": "While Dow rose 0.85%, Nasdaq (-1.48%) cooled and 10Y yields eased near 4.91%, nudging DXY to 103.8 and USD/KRW to 1,342.4 (ECB 1,344.5)."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261123T233508Z",
-    "source_input_digest": "a23e7c6a426c60ba5d3708ef4d362d8026c70f74d83d7136210a690bd19e12cb",
-    "translated_at": "2026-11-23T23:35:08+00:00",
+    "source_batch_id": "20261124T233518Z",
+    "source_input_digest": "17e2e1c67c3f4d689ace7fd43d1d3eced2c57fe130eb6dfa08333e010ac98934",
+    "translated_at": "2026-11-24T23:35:18+00:00",
     "direction": "ltr"
   }
 }

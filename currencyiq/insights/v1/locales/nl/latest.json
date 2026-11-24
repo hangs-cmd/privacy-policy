@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261123T233508Z",
-  "published_at": "2026-11-23T23:35:08+00:00",
-  "checked_at": "2026-11-23T23:35:08+00:00",
-  "valid_until": "2026-11-25T11:35:08+00:00",
+  "batch_id": "20261124T233518Z",
+  "published_at": "2026-11-24T23:35:18+00:00",
+  "checked_at": "2026-11-24T23:35:18+00:00",
+  "valid_until": "2026-11-26T11:35:18+00:00",
   "locale": "nl",
-  "input_digest": "a23e7c6a426c60ba5d3708ef4d362d8026c70f74d83d7136210a690bd19e12cb",
+  "input_digest": "17e2e1c67c3f4d689ace7fd43d1d3eced2c57fe130eb6dfa08333e010ac98934",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "nl",
-      "data_as_of": "2026-11-24",
-      "reference_rate": "1348.852729",
-      "generated_at": "2026-11-23T23:35:08+00:00",
+      "data_as_of": "2026-11-25",
+      "reference_rate": "1344.513363",
+      "generated_at": "2026-11-24T23:35:18+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1348.852729 KRW"
+          "text": "1344.513363 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-24"
+          "text": "2026-11-25"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW springt 9,7 KRW naar 1.345,9 na 3,3% KOSPI-val; NDF op 1.339,9",
-        "summary": "USD/KRW steeg 9,7 KRW naar 1.345,9 in Seoel (ECB 1.348,9) door zeven dagen buitenlandse verkoop en -3,31% op de KOSPI (4.708,54), met een piek op 1.351,6 voor exporteursaanbod. Door +6,51% op de Nasdaq zakte NDF naar 1.339,9 met DXY rond 103,9.",
+        "headline": "USD/KRW daalt 3,5 KRW naar 1.342,4 na KOSPI-sprong naar 5.006; NDF 1.340,0",
+        "summary": "USD/KRW daalde 3,5 KRW naar 1.342,4 in Seoel (ECB 1.344,5) doordat de KOSPI 6,32% steeg naar 5.006,03 met buitenlandse instroom en exporteursaanbod. Door -1,48% op Nasdaq en DXY op 103,8 zakte de 1M-NDF naar ~1.340,0.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "nl",
-      "data_as_of": "2026-11-24",
-      "reference_rate": "1475.510000",
-      "generated_at": "2026-11-23T23:35:08+00:00",
+      "data_as_of": "2026-11-25",
+      "reference_rate": "1473.990000",
+      "generated_at": "2026-11-24T23:35:18+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1475.510000 KRW"
+          "text": "1473.990000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-24"
+          "text": "2026-11-25"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW stijgt naar 1.475,5 door wonverlies ondanks gemengde euro-PMI",
-        "summary": "EUR/KRW klom naar 1.475,5 KRW (ECB 1.475,51). De eurozone-PMI hield stand op 51,7 door Duitse industrie (52,9), maar de Franse daling naar 47,9 hield EUR/USD rond 1,093–1,094 terwijl de wonval naar 1.345,9 in Seoel de kruiskoers opstuwde.",
+        "headline": "EUR/KRW zakt naar 1.474,0 KRW door sterkere won ondanks hogere Duitse Ifo",
+        "summary": "EUR/KRW daalde naar 1.474,0 KRW (ECB 1.473,99). De Duitse Ifo-index steeg voor de 7e maand op rij naar 90,6 en een lagere DXY (103,8) bracht EUR/USD naar 1,096–1,097, maar een sterkere won in Seoel (1.342,4) duwde de kruiskoers omlaag.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "nl",
-      "data_as_of": "2026-11-24",
-      "reference_rate": "8.479455",
-      "generated_at": "2026-11-23T23:35:08+00:00",
+      "data_as_of": "2026-11-25",
+      "reference_rate": "8.452262",
+      "generated_at": "2026-11-24T23:35:18+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.479455 KRW"
+          "text": "8.452262 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-24"
+          "text": "2026-11-25"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW stijgt naar 847,9 per 100 JPY tijdens Tokio-feestdag ondanks 159",
-        "summary": "JPY/KRW steeg naar 847,9 KRW per 100 JPY (ECB 8,479). Terwijl Tokio gesloten was, duwden hogere VS-rentes (4,96%) USD/JPY naar 158,9–159,3 ondanks BoJ-verwachtingen en interventierisico; de wonval naar 1.345,9 stuwde de kruiskoers.",
+        "headline": "JPY/KRW zakt naar 845,2 per 100 JPY door won-herstel en yen rond 159,2",
+        "summary": "JPY/KRW daalde naar 845,2 KRW per 100 JPY (ECB 8,452). Na heropening in Tokio bleef USD/JPY rond 159,2 tussen interventiewaarschuwingen en BoJ-verwachtingen, terwijl de daling van USD/KRW naar 1.342,4 de yen/won omlaag trok.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "nl",
-      "data_as_of": "2026-11-24",
-      "reference_rate": "1763.424283",
-      "generated_at": "2026-11-23T23:35:08+00:00",
+      "data_as_of": "2026-11-25",
+      "reference_rate": "1761.039427",
+      "generated_at": "2026-11-24T23:35:18+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1763.424283 KRW"
+          "text": "1761.039427 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-24"
+          "text": "2026-11-25"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW klimt naar 1.763,4 KRW door wonzwakte ondanks lagere Britse PMI",
-        "summary": "GBP/KRW steeg naar 1.763,4 KRW (ECB 1.763,42). De Britse samengestelde PMI koelde in november af tot 52,3 (diensten 52,0, industrie 52,7) wat GBP/USD bij een sterke dollar naar 1,303–1,307 drukte, maar de lagere won in Seoel (1.345,9) trok de koers op.",
+        "headline": "GBP/KRW daalt naar 1.761,0 KRW door won-winst ondanks herstel pond boven 1,310",
+        "summary": "GBP/KRW zakte naar 1.761,0 KRW (ECB 1.761,04). Hoewel BoE-econoom Pill prijsstabiliteit benadrukte, hielp een zachtere DXY GBP/USD terug boven 1,310, maar de sterkere won naar 1.342,4 in Seoel trok de kruiskoers omlaag.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "nl",
-      "data_as_of": "2026-11-24",
-      "reference_rate": "202.388039",
-      "generated_at": "2026-11-23T23:35:08+00:00",
+      "data_as_of": "2026-11-25",
+      "reference_rate": "201.742332",
+      "generated_at": "2026-11-24T23:35:18+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "202.388039 KRW"
+          "text": "201.742332 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-24"
+          "text": "2026-11-25"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW stijgt naar 202,4 KRW door zwakke won ondanks PBOC-fix 6,7120",
-        "summary": "CNY/KRW steeg naar circa 202,4 KRW (ECB-ref 202,39). Hoewel de PBOC de USD/CNY-middenkoers sterker zette op 6,7120 en de spotyuan rond 6,66–6,67 stabiel bleef bij Aziatische steunmaatregelen, duwde de sprong van USD/KRW met 9,7 KRW naar 1.345,9 de kruiskoers omhoog.",
+        "headline": "CNY/KRW daalt naar 201,7 KRW door won-herstel ondanks PBOC-fix op 6,7111",
+        "summary": "CNY/KRW daalde naar circa 201,7 KRW (ECB-ref 201,74). Hoewel de PBOC het USD/CNY-middenpunt sterker zette op 6,7111 en de offshore yuan stabiel bleef op 6,661–6,666, drukte de daling van USD/KRW met 3,5 KRW naar 1.342,4 in Seoel de kruiskoers.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -246,71 +246,71 @@
   ],
   "currencies": {
     "AUD": {
-      "rate_to_krw": "892.517542",
-      "data_as_of": "2026-11-24",
-      "headline": "AUD daalt licht naar 892,5 KRW nadat samengestelde PMI valt naar 46,1",
-      "brief": "De Australische dollar zakte licht naar 892,5 KRW nadat de samengestelde PMI in november daalde naar 46,1, wat AUD/USD naar 0,662 drukte."
+      "rate_to_krw": "892.948446",
+      "data_as_of": "2026-11-25",
+      "headline": "AUD stijgt licht naar 892,9 KRW nu zwakkere dollar AUD/USD naar 0,664 tilt",
+      "brief": "De Australische dollar steeg licht naar 892,9 KRW doordat een zwakkere USD AUD/USD voor de CPI naar 0,664 tilde."
     },
     "CAD": {
-      "rate_to_krw": "939.157278",
-      "data_as_of": "2026-11-24",
-      "headline": "CAD stijgt naar 939,2 KRW door zwakke won ondanks 3,9% WTI-olieval",
-      "brief": "De Canadese dollar klom naar 939,2 KRW door de wonval naar 1.345,9 ondanks een daling van WTI met 3,9% naar $80,14 en USD/CAD rond 1,436."
+      "rate_to_krw": "938.428726",
+      "data_as_of": "2026-11-25",
+      "headline": "CAD zakt naar 938,4 KRW door won-herstel ondanks havikistische BoC-toon",
+      "brief": "De Canadese dollar daalde naar 938,4 KRW door de won-stijging ondanks BoC-toon (USD/CAD onder 1,430) bij ~$80 WTI."
     },
     "CHF": {
-      "rate_to_krw": "1606.259525",
-      "data_as_of": "2026-11-24",
-      "headline": "CHF boven 1.606,3 KRW door sterkere EUR/CHF (0,9186) en wonverlies",
-      "brief": "De Zwitserse frank steeg naar 1.606,3 KRW nu geopolitieke voorzichtigheid EUR/CHF naar 0,9186 tilde naast een hogere USD/KRW (1.345,9)."
+      "rate_to_krw": "1605.129043",
+      "data_as_of": "2026-11-25",
+      "headline": "CHF zakt naar 1.605,1 KRW bij EUR/CHF rond 0,916–0,918 en sterkere won",
+      "brief": "De Zwitserse frank daalde naar 1.605,1 KRW bij EUR/CHF rond 0,916–0,918 en een lagere USD/KRW van 1.342,4 in Seoel."
     },
     "CNY": {
-      "rate_to_krw": "202.388039",
-      "data_as_of": "2026-11-24",
-      "headline": "CNY boven 202,4 KRW door zwakke won ondanks sterkere PBOC-fix 6,7120",
-      "brief": "De yuan steeg boven 202,4 KRW doordat de sprong van 9,7 KRW van USD/KRW in Seoel zwaarder woog dan de sterkere PBOC-fix van 6,7120."
+      "rate_to_krw": "201.742332",
+      "data_as_of": "2026-11-25",
+      "headline": "CNY daalt naar 201,7 KRW door won-stijging ondanks PBOC-fix op 6,7111",
+      "brief": "De yuan zakte naar 201,7 KRW nadat USD/KRW 3,5 KRW daalde naar 1.342,4, sterker wegend dan de PBOC-fix op 6,7111."
     },
     "EUR": {
-      "rate_to_krw": "1475.510000",
-      "data_as_of": "2026-11-24",
-      "headline": "EUR stijgt naar 1.475,5 KRW door wonval ondanks Franse PMI-krimp",
-      "brief": "De euro klom naar 1.475,5 KRW; hoewel de Franse industrie-PMI (47,9) EUR/USD rond 1,094 hield, stuwde de zwakke won (1.345,9) de koers."
+      "rate_to_krw": "1473.990000",
+      "data_as_of": "2026-11-25",
+      "headline": "EUR zakt naar 1.474,0 KRW door won-winst ondanks Duitse Ifo op 90,6",
+      "brief": "De euro daalde naar 1.474,0 KRW doordat de sterkere won (1.342,4) het herstel van EUR/USD naar 1,096–1,097 (Ifo 90,6) overtrof."
     },
     "GBP": {
-      "rate_to_krw": "1763.424283",
-      "data_as_of": "2026-11-24",
-      "headline": "GBP stijgt naar 1.763,4 KRW door zwakke won ondanks lagere Britse PMI",
-      "brief": "Het pond steeg naar 1.763,4 KRW omdat de wonval naar 1.345,9 de daling van de Britse PMI naar 52,3 en GBP/USD naar 1,303–1,307 compenseerde."
+      "rate_to_krw": "1761.039427",
+      "data_as_of": "2026-11-25",
+      "headline": "GBP daalt naar 1.761,0 KRW door won-herstel ondanks pond boven 1,310",
+      "brief": "Het pond zakte naar 1.761,0 KRW: een lagere DXY bracht GBP/USD boven 1,310, maar de sterkere won drukte de kruiskoers."
     },
     "HKD": {
-      "rate_to_krw": "172.027002",
-      "data_as_of": "2026-11-24",
-      "headline": "HKD stijgt naar 172,0 KRW in lijn met 9,7-KRW-sprong van USD/KRW",
-      "brief": "Gekoppeld aan de dollar rond 7,841 steeg de Hongkongse dollar mee met USD/KRW in Seoel (1.345,9) naar 172,0 KRW."
+      "rate_to_krw": "171.453996",
+      "data_as_of": "2026-11-25",
+      "headline": "HKD zakt naar 171,5 KRW in lijn met USD/KRW 1.342,4 bij koppeling 7,842",
+      "brief": "De Hongkongdollar bleef rond 7,842 gekoppeld en daalde mee naar 171,5 KRW door de daling van USD/KRW met 3,5 KRW."
     },
     "JPY": {
-      "rate_to_krw": "8.479455",
-      "data_as_of": "2026-11-24",
-      "headline": "JPY stijgt naar 847,9 per 100 JPY door wonval ondanks USD/JPY boven 159",
-      "brief": "De yen steeg naar 847,9 KRW per 100 JPY doordat de wonval naar 1.345,9 opwoog tegen de stijging van USD/JPY naar 158,9–159,3 op Tokio-feestdag."
+      "rate_to_krw": "8.452262",
+      "data_as_of": "2026-11-25",
+      "headline": "JPY zakt naar 845,2 KRW per 100 JPY met yen op 159,2 en won-herstel",
+      "brief": "Na heropening van Tokio bleef USD/JPY rond 159,2 onder interventiewaarschuwingen terwijl de sterkere won JPY/KRW naar 845,2 drukte."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-24",
-      "headline": "KRW zakt 9,7 KRW naar 1.345,9 na -3,3% KOSPI; NDF herstelt naar 1.339,9",
-      "brief": "De won daalde 9,7 KRW naar 1.345,9 door -3,31% op de KOSPI en 7 dagen buitenlandse verkoop; Nasdaq (+6,51%) drukte NDF naar 1.339,9."
+      "data_as_of": "2026-11-25",
+      "headline": "KRW stijgt naar 1.342,4 na KOSPI-sprong (+6,3%) naar 5.006; NDF 1.340,0",
+      "brief": "De won steeg 3,5 KRW naar 1.342,4 door de KOSPI-sprong naar 5.006,03; een lagere DXY bracht de NDF naar ~1.340,0."
     },
     "USD": {
-      "rate_to_krw": "1348.852729",
-      "data_as_of": "2026-11-24",
-      "headline": "USD stijgt in Seoel naar 1.345,9 bij 4,96% VS-rente; DXY rond 103,9",
-      "brief": "USD/KRW sloot 9,7 KRW hoger op 1.345,9 in Seoel (ECB 1.348,9) nu een 10-jaarsrente van 4,96% de DXY rond 103,9 hield."
+      "rate_to_krw": "1344.513363",
+      "data_as_of": "2026-11-25",
+      "headline": "DXY zakt naar 103,8 bij Nasdaq -1,5% en 4,91% rente; Seoel sluit op 1.342,4",
+      "brief": "Bij Nasdaq -1,48% en 10-jaarsrente op 4,91% daalde de DXY naar 103,8; USD/KRW sloot in Seoel op 1.342,4 (ECB 1.344,5)."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261123T233508Z",
-    "source_input_digest": "a23e7c6a426c60ba5d3708ef4d362d8026c70f74d83d7136210a690bd19e12cb",
-    "translated_at": "2026-11-23T23:35:08+00:00",
+    "source_batch_id": "20261124T233518Z",
+    "source_input_digest": "17e2e1c67c3f4d689ace7fd43d1d3eced2c57fe130eb6dfa08333e010ac98934",
+    "translated_at": "2026-11-24T23:35:18+00:00",
     "direction": "ltr"
   }
 }
