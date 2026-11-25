@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261124T233518Z",
-  "published_at": "2026-11-24T23:35:18+00:00",
-  "checked_at": "2026-11-24T23:35:18+00:00",
-  "valid_until": "2026-11-26T11:35:18+00:00",
+  "batch_id": "20261125T233443Z",
+  "published_at": "2026-11-25T23:34:43+00:00",
+  "checked_at": "2026-11-25T23:34:43+00:00",
+  "valid_until": "2026-11-27T11:34:43+00:00",
   "locale": "id",
-  "input_digest": "17e2e1c67c3f4d689ace7fd43d1d3eced2c57fe130eb6dfa08333e010ac98934",
+  "input_digest": "e689d560a463065e0b05e5e3e64f241272e40f35d705348cd43ca0f6f06a5aaa",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "id",
-      "data_as_of": "2026-11-25",
-      "reference_rate": "1344.513363",
-      "generated_at": "2026-11-24T23:35:18+00:00",
+      "data_as_of": "2026-11-26",
+      "reference_rate": "1345.395519",
+      "generated_at": "2026-11-25T23:34:43+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1344.513363 KRW"
+          "text": "1345.395519 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-25"
+          "text": "2026-11-26"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW turun 3,5 KRW ke 1.342,4 saat KOSPI tembus 5.006; NDF ke 1.340,0",
-        "summary": "USD/KRW turun 3,5 KRW ke 1.342,4 di Seoul (ECB 1.344,5) setelah KOSPI melonjak 6,32% ke 5.006,03 disertai arus masuk asing dan jual eksportir. Nasdaq (-1,48%) mereda dan DXY turun ke 103,8 sehingga NDF 1M ke ~1.340,0.",
+        "headline": "USD/KRW naik ke 1.343,2 saat KOSPI anjlok 6,2% ke 4.697; NDF ke 1.344,2",
+        "summary": "USD/KRW naik 0,8 KRW ke 1.343,2 di Seoul (ECB 1.345,4) usai KOSPI anjlok 6,16% ke 4.697,51 menjelang rapat BOK dan arus keluar dividen. PDB AS (4,3%) dan PCE (3,3%) mendorong NDF 1M ke 1.344,2.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "id",
-      "data_as_of": "2026-11-25",
-      "reference_rate": "1473.990000",
-      "generated_at": "2026-11-24T23:35:18+00:00",
+      "data_as_of": "2026-11-26",
+      "reference_rate": "1471.190000",
+      "generated_at": "2026-11-25T23:34:43+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1473.990000 KRW"
+          "text": "1471.190000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-25"
+          "text": "2026-11-26"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW turun ke 1.474,0 akibat won menguat meski indeks Ifo naik lagi",
-        "summary": "EUR/KRW turun ke sekitar 1.474,0 KRW (ref ECB 1.473,99). Indeks Ifo Jerman naik 7 bulan beruntun ke 90,6 dan pelemahan DXY (103,8) mengangkat EUR/USD ke 1,096–1,097, namun penguatan won Seoul (1.342,4) menekan kurs silang.",
+        "headline": "EUR/KRW turun ke 1.471,2 tertekan data kuat AS yang seret euro ke 1,093",
+        "summary": "EUR/KRW turun ke 1.471,2 KRW (ECB 1.471,19). Revisi naik PDB Q3 AS (4,3%), PCE inti (3,3%), dan cemas tarif AS memperkuat prospek kenaikan suku bunga The Fed Desember sehingga EUR/USD mundur ke 1,093–1,094.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "id",
-      "data_as_of": "2026-11-25",
-      "reference_rate": "8.452262",
-      "generated_at": "2026-11-24T23:35:18+00:00",
+      "data_as_of": "2026-11-26",
+      "reference_rate": "8.444438",
+      "generated_at": "2026-11-25T23:34:43+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.452262 KRW"
+          "text": "8.444438 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-25"
+          "text": "2026-11-26"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW turun ke 845,2 per 100 JPY saat yen di 159,2 dan won menguat",
-        "summary": "JPY/KRW melemah ke 845,2 KRW per 100 JPY (ref ECB 8,452). Usai pasar Tokyo dibuka kembali, USD/JPY bergerak di dekat 159,2 di tengah peringatan intervensi dan isu BoJ, sementara penurunan USD/KRW ke 1.342,4 menekan kurs silang.",
+        "headline": "JPY/KRW turun tipis ke 844,4 per 100 JPY saat yen di 159,3 dekat batas 160",
+        "summary": "JPY/KRW turun tipis ke 844,4 KRW per 100 JPY (ECB 8,444). USD/JPY bergerak di 159,2–159,3 antara ekspektasi suku bunga The Fed, risiko intervensi dekat 160, dan arus aset aman, menekan kurs silang.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "id",
-      "data_as_of": "2026-11-25",
-      "reference_rate": "1761.039427",
-      "generated_at": "2026-11-24T23:35:18+00:00",
+      "data_as_of": "2026-11-26",
+      "reference_rate": "1757.064374",
+      "generated_at": "2026-11-25T23:34:43+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1761.039427 KRW"
+          "text": "1757.064374 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-25"
+          "text": "2026-11-26"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW turun ke 1.761,0 oleh penguatan won meski pound pulih di atas 1,310",
-        "summary": "GBP/KRW melemah ke sekitar 1.761,0 KRW (ref ECB 1.761,04). Meski Pill (BoE) menekankan stabilitas harga, pelemahan DXY membantu GBP/USD pulih di atas 1,310, tetapi penguatan won Seoul ke 1.342,4 menarik kurs silang turun.",
+        "headline": "GBP/KRW melemah ke 1.757,1 saat gejolak saham teknologi tekan pound ke 1,306",
+        "summary": "GBP/KRW turun ke 1.757,1 KRW (ECB 1.757,06). Data ekonomi AS yang solid dan volatilitas saham teknologi/AI menopang dolar AS, menyeret GBP/USD di bawah 1,310 menuju 1,306 sementara USD/KRW Seoul ditutup 1.343,2.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "id",
-      "data_as_of": "2026-11-25",
-      "reference_rate": "201.742332",
-      "generated_at": "2026-11-24T23:35:18+00:00",
+      "data_as_of": "2026-11-26",
+      "reference_rate": "201.535637",
+      "generated_at": "2026-11-25T23:34:43+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "201.742332 KRW"
+          "text": "201.535637 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-25"
+          "text": "2026-11-26"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW turun ke 201,7 oleh penguatan won dan fixing PBOC 6,7111",
-        "summary": "CNY/KRW melemah menuju 201,7 KRW (ref ECB 201,74). Meski PBOC menetapkan kurs tengah USD/CNY sedikit lebih kuat di 6,7111 dan yuan offshore stabil di 6,661–6,666, penurunan USD/KRW 3,5 KRW ke 1.342,4 di Seoul menekan kurs silang.",
+        "headline": "CNY/KRW turun tipis ke 201,5 akibat cemas tarif AS meski fixing PBOC 6,7088",
+        "summary": "CNY/KRW melemah tipis ke sekitar 201,5 KRW (ECB 201,54). Meski PBOC menetapkan kurs tengah USD/CNY terkuat sejak 2022 di 6,7088, kekhawatiran tarif AS, penghindaran risiko, dan USD/KRW 1.343,2 menahan kurs silang.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -246,71 +246,71 @@
   ],
   "currencies": {
     "AUD": {
-      "rate_to_krw": "892.948446",
-      "data_as_of": "2026-11-25",
-      "headline": "AUD naik tipis ke 892,9 KRW saat dolar lunak dorong AUD/USD ke 0,664",
-      "brief": "Dolar Australia naik tipis ke 892,9 KRW karena dolar yang melemah mengangkat AUD/USD ke 0,664 jelang data CPI."
+      "rate_to_krw": "883.916126",
+      "data_as_of": "2026-11-26",
+      "headline": "AUD jatuh ke 883,9 KRW saat aksi jual teknologi tutupi CPI tinggi 4,9%",
+      "brief": "Dolar Australia turun ke 883,9 KRW karena aksi jual saham teknologi dan cemas tarif menekan AUD/USD ke 0,657 meski CPI 4,9%."
     },
     "CAD": {
-      "rate_to_krw": "938.428726",
-      "data_as_of": "2026-11-25",
-      "headline": "CAD turun ke 938,4 KRW akibat penguatan won meski BoC bernada hawkish",
-      "brief": "Dolar Kanada melemah ke 938,4 KRW tertekan penguatan won meski nada hawkish BoC membawa USD/CAD di bawah 1,430 saat WTI ~$80."
+      "rate_to_krw": "943.614906",
+      "data_as_of": "2026-11-26",
+      "headline": "CAD naik ke 943,6 KRW ditopang minyak WTI $81 dan nada hawkish BoC",
+      "brief": "Dolar Kanada menguat ke 943,6 KRW ditopang WTI di atas $81 dan sikap hawkish Macklem yang menekan USD/CAD ke 1,425."
     },
     "CHF": {
-      "rate_to_krw": "1605.129043",
-      "data_as_of": "2026-11-25",
-      "headline": "CHF turun ke 1.605,1 KRW saat EUR/CHF di 0,916–0,918 dan won menguat",
-      "brief": "Franc Swiss turun ke 1.605,1 KRW saat EUR/CHF bergerak di 0,916–0,918 di tengah isu AS–Iran dan USD/KRW turun ke 1.342,4."
+      "rate_to_krw": "1619.361585",
+      "data_as_of": "2026-11-26",
+      "headline": "CHF naik ke 1.619,4 KRW didorong arus aset aman di tengah gejolak tech",
+      "brief": "Franc Swiss naik ke 1.619,4 KRW saat volatilitas tech dan isu tarif menekan EUR/CHF ke 0,908 bersama USD/KRW 1.343,2."
     },
     "CNY": {
-      "rate_to_krw": "201.742332",
-      "data_as_of": "2026-11-25",
-      "headline": "CNY melemah ke 201,7 KRW oleh won menguat meski fixing PBOC 6,7111",
-      "brief": "Yuan turun ke 201,7 KRW setelah penurunan USD/KRW 3,5 KRW ke 1.342,4 mengimbangi fixing lebih kuat di 6,7111."
+      "rate_to_krw": "201.535637",
+      "data_as_of": "2026-11-26",
+      "headline": "CNY turun ke 201,5 KRW akibat cemas tarif AS meski fixing PBOC 6,7088",
+      "brief": "Yuan melemah tipis ke 201,5 KRW saat kekhawatiran tarif AS menutupi kurs tengah terkuat sejak 2022 di 6,7088."
     },
     "EUR": {
-      "rate_to_krw": "1473.990000",
-      "data_as_of": "2026-11-25",
-      "headline": "EUR turun ke 1.474,0 KRW akibat won menguat meski Ifo Jerman naik ke 90,6",
-      "brief": "Euro turun ke 1.474,0 KRW karena penguatan won (1.342,4) menutupi pemulihan EUR/USD ke 1,096–1,097 berkat Ifo (90,6)."
+      "rate_to_krw": "1471.190000",
+      "data_as_of": "2026-11-26",
+      "headline": "EUR turun ke 1.471,2 KRW terseret data kuat AS yang tekan euro ke 1,093",
+      "brief": "Euro turun ke 1.471,2 KRW karena PDB AS (4,3%), PCE inti (3,3%), dan cemas tarif menekan EUR/USD ke 1,093."
     },
     "GBP": {
-      "rate_to_krw": "1761.039427",
-      "data_as_of": "2026-11-25",
-      "headline": "GBP turun ke 1.761,0 KRW oleh won menguat meski pound pulih atas 1,310",
-      "brief": "Pound melemah ke 1.761,0 KRW: pelemahan DXY mengangkat GBP/USD di atas 1,310, namun penguatan won menekan kurs silang."
+      "rate_to_krw": "1757.064374",
+      "data_as_of": "2026-11-26",
+      "headline": "GBP turun ke 1.757,1 KRW saat dolar kuat tekan pound turun ke 1,306",
+      "brief": "Pound melemah ke 1.757,1 KRW karena data AS yang solid dan volatilitas tech menyeret GBP/USD ke 1,306 dengan Seoul di 1.343,2."
     },
     "HKD": {
-      "rate_to_krw": "171.453996",
-      "data_as_of": "2026-11-25",
-      "headline": "HKD turun ke 171,5 KRW ikuti USD/KRW 1.342,4 di bawah patokan 7,842",
-      "brief": "Dolar Hong Kong bertahan di patokan dekat 7,842 dan turun ke 171,5 KRW seiring penurunan USD/KRW 3,5 KRW di Seoul."
+      "rate_to_krw": "171.649418",
+      "data_as_of": "2026-11-26",
+      "headline": "HKD naik tipis ke 171,6 KRW ikuti USD/KRW 1.343,2 di patokan 7,838",
+      "brief": "Dolar Hong Kong bertahan dekat patokan 7,838 dan naik tipis ke 171,6 KRW seiring kenaikan USD/KRW 0,8 KRW di Seoul."
     },
     "JPY": {
-      "rate_to_krw": "8.452262",
-      "data_as_of": "2026-11-25",
-      "headline": "JPY turun ke 845,2 KRW per 100 JPY saat yen di 159,2 dan won menguat",
-      "brief": "Saat Tokyo kembali buka, USD/JPY bertahan dekat 159,2 di tengah isu intervensi sementara won menguat ke 1.342,4 menekan kurs."
+      "rate_to_krw": "8.444438",
+      "data_as_of": "2026-11-26",
+      "headline": "JPY turun ke 844,4 KRW per 100 JPY saat USD/JPY di 159,3 dekat batas 160",
+      "brief": "USD/JPY bertahan dekat 159,3 antara data AS dan risiko intervensi dekat 160, membuat JPY/KRW turun tipis ke 844,4."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-25",
-      "headline": "KRW menguat ke 1.342,4 usai KOSPI lonjak 6,3% ke 5.006; NDF ke 1.340,0",
-      "brief": "Won naik 3,5 KRW ke 1.342,4 usai KOSPI melonjak ke 5.006,03 dengan arus asing; pelemahan DXY membawa NDF ke ~1.340,0."
+      "data_as_of": "2026-11-26",
+      "headline": "KRW melemah ke 1.343,2 saat KOSPI anjlok 6,2% ke 4.697; NDF 1.344,2",
+      "brief": "Won turun 0,8 KRW ke 1.343,2 usai KOSPI anjlok ke 4.697,51 jelang rapat BOK dan dividen; NDF naik ke 1.344,2."
     },
     "USD": {
-      "rate_to_krw": "1344.513363",
-      "data_as_of": "2026-11-25",
-      "headline": "DXY turun ke 103,8 saat Nasdaq -1,5% dan imbal hasil 4,91%; Seoul 1.342,4",
-      "brief": "Dengan Nasdaq -1,48% dan imbal hasil 10Y di 4,91%, DXY melemah ke 103,8 dan USD/KRW Seoul ditutup di 1.342,4 (ECB 1.344,5)."
+      "rate_to_krw": "1345.395519",
+      "data_as_of": "2026-11-26",
+      "headline": "DXY kokoh di 103,7 ditopang PDB AS 4,3% dan PCE 3,3%; Seoul 1.343,2",
+      "brief": "Meski imbal hasil 10Y turun ke 4,85%, PDB 4,3% dan PCE 3,3% menjaga DXY di 103,7 dan USD/KRW Seoul di 1.343,2."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261124T233518Z",
-    "source_input_digest": "17e2e1c67c3f4d689ace7fd43d1d3eced2c57fe130eb6dfa08333e010ac98934",
-    "translated_at": "2026-11-24T23:35:18+00:00",
+    "source_batch_id": "20261125T233443Z",
+    "source_input_digest": "e689d560a463065e0b05e5e3e64f241272e40f35d705348cd43ca0f6f06a5aaa",
+    "translated_at": "2026-11-25T23:34:43+00:00",
     "direction": "ltr"
   }
 }
