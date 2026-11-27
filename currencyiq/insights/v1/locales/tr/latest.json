@@ -1,11 +1,11 @@
 {
   "schema_version": "1.2",
-  "batch_id": "20261126T233458Z",
-  "published_at": "2026-11-26T23:34:58+00:00",
-  "checked_at": "2026-11-26T23:34:58+00:00",
-  "valid_until": "2026-11-28T11:34:58+00:00",
+  "batch_id": "20261127T233458Z",
+  "published_at": "2026-11-27T23:34:58+00:00",
+  "checked_at": "2026-11-27T23:34:58+00:00",
+  "valid_until": "2026-11-29T11:34:58+00:00",
   "locale": "tr",
-  "input_digest": "7e2ce876ac70078942cec593aab746a762cfb9f9b6b6ef84c4c75f215433d555",
+  "input_digest": "a2248f3fe51db81aba06e49efd77c12a988e573d50159e01767de755d2eea3f4",
   "source": {
     "id": "ECB",
     "name": "European Central Bank",
@@ -20,9 +20,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 USD",
       "locale": "tr",
-      "data_as_of": "2026-11-27",
-      "reference_rate": "1344.646925",
-      "generated_at": "2026-11-26T23:34:58+00:00",
+      "data_as_of": "2026-11-28",
+      "reference_rate": "1334.900064",
+      "generated_at": "2026-11-27T23:34:58+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -31,12 +31,12 @@
         {
           "id": "e1",
           "label": "1 USD",
-          "text": "1344.646925 KRW"
+          "text": "1334.900064 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-27"
+          "text": "2026-11-28"
         }
       ],
       "metrics": {
@@ -51,8 +51,8 @@
         }
       },
       "analysis": {
-        "headline": "USD/KRW, BoK'un %3,25'e faiz artışıyla 1.342,7'ye indi; NDF 1.342,4",
-        "summary": "BoK'un 25 baz puan artışla %3,25'e çıkması (5–2) ve 2026–27 GSYH tahminlerini %3,9 ile %4,1'e yükseltmesiyle USD/KRW Seul'de 0,5 won düşerek 1.342,7 kapandı (ECB 1.344,6). KOSPI 4.711,21; NDF 1.342,4.",
+        "headline": "USD/KRW, %4,3 KOSPI rallisi ve ay sonu satışlarıyla 1.337,9'a indi; NDF 1.334,0",
+        "summary": "Gün içinde 1.347,1'i gören USD/KRW, KOSPI'nin %4,34 artışla 4.915,68'e çıkması ve ay sonu ihracatçı satışlarıyla Seul'de 4,8 won düşüşle 1.337,9 kapandı (ECB 1.334,9). NDF 1.334,0'a geriledi.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -66,9 +66,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 EUR",
       "locale": "tr",
-      "data_as_of": "2026-11-27",
-      "reference_rate": "1475.750000",
-      "generated_at": "2026-11-26T23:34:58+00:00",
+      "data_as_of": "2026-11-28",
+      "reference_rate": "1462.650000",
+      "generated_at": "2026-11-27T23:34:58+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -77,12 +77,12 @@
         {
           "id": "e1",
           "label": "1 EUR",
-          "text": "1475.750000 KRW"
+          "text": "1462.650000 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-27"
+          "text": "2026-11-28"
         }
       ],
       "metrics": {
@@ -97,8 +97,8 @@
         }
       },
       "analysis": {
-        "headline": "EUR/KRW, şahin ECB tutanaklarıyla euronun 1,098'e çıkmasıyla 1.475,8'e yükseldi",
-        "summary": "EUR/KRW 1.475,8 wona toparlandı (ECB 1.475,75). ABD Şükran Günü tatilinde DXY 103,8'de soluklanırken sıkı duruşu destekleyen ECB Ekim tutanakları EUR/USD'yi 1,097–1,098 bandına taşıdı.",
+        "headline": "EUR/KRW, DXY'nin 104,04'e toparlanması ve won gücüyle 1.462,7'ye geriledi",
+        "summary": "EUR/KRW 1.462,7 wona düştü (ECB 1.462,65). Tatil sonrası DXY'nin 104,04'e çıkması ve Fransa mali endişeleri EUR/USD'yi 1,0934'e çekerken Seul'de wonun 1.337,9'a güçlenmesi düşüşü artırdı.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -112,9 +112,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 JPY",
       "locale": "tr",
-      "data_as_of": "2026-11-27",
-      "reference_rate": "8.442989",
-      "generated_at": "2026-11-26T23:34:58+00:00",
+      "data_as_of": "2026-11-28",
+      "reference_rate": "8.367084",
+      "generated_at": "2026-11-27T23:34:58+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -123,12 +123,12 @@
         {
           "id": "e1",
           "label": "1 JPY",
-          "text": "8.442989 KRW"
+          "text": "8.367084 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-27"
+          "text": "2026-11-28"
         }
       ],
       "metrics": {
@@ -143,8 +143,8 @@
         }
       },
       "analysis": {
-        "headline": "JPY/KRW, yenin 159,3'te yatay kalmasıyla 100 yen başına 844,3'e geriledi",
-        "summary": "JPY/KRW 100 yen başına 844,3 wona hafif indi (ECB 8,443). BoJ üyesi Tamura daha hızlı faiz artışı çağrısı yapsa da tatil sakinliği, faiz farkı ve 160 müdahale uyarısı USD/JPY'yi 159,3'te tuttu.",
+        "headline": "JPY/KRW, %2,9 Tokyo TÜFE'sine rağmen 159,6'ya yaklaşan yenle 836,7'ye indi",
+        "summary": "JPY/KRW 100 yen başına 836,7 wona düştü (ECB 8,367). Tokyo çekirdek TÜFE'sinin %2,9'a çıkması BoJ beklentisini korusa da faiz farkı USD/JPY'yi 159,57'ye taşırken güçlü won düşüşü derinleştirdi.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -158,9 +158,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 GBP",
       "locale": "tr",
-      "data_as_of": "2026-11-27",
-      "reference_rate": "1761.984359",
-      "generated_at": "2026-11-26T23:34:58+00:00",
+      "data_as_of": "2026-11-28",
+      "reference_rate": "1751.592738",
+      "generated_at": "2026-11-27T23:34:58+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -169,12 +169,12 @@
         {
           "id": "e1",
           "label": "1 GBP",
-          "text": "1761.984359 KRW"
+          "text": "1751.592738 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-27"
+          "text": "2026-11-28"
         }
       ],
       "metrics": {
@@ -189,8 +189,8 @@
         }
       },
       "analysis": {
-        "headline": "GBP/KRW, ABD tatilinde sterlinin 1,310'u geri almasıyla 1.762,0'a çıktı",
-        "summary": "GBP/KRW 1.762,0 wona tırmandı (ECB 1.761,98). BoE Finansal İstikrar Raporu izlenirken Şükran Günü kaynaklı düşük hacim dolar baskısını hafifletti ve GBP/USD'nin 1,310 seviyesini geri almasını sağladı.",
+        "headline": "GBP/KRW, sterlinin 1,310'u savunmasına rağmen 1.751,6'ya gevşedi",
+        "summary": "GBP/KRW 1.751,6 wona indi (ECB 1.751,59). Sterlin BoE'nin temkinli duruşuyla 1,310–1,312 bandını korusa da KOSPI'deki %4,34 sıçrama ve ihracatçı satışları USD/KRW'yi 1.337,9'a indirdi.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -204,9 +204,9 @@
       "base_units": 1,
       "rate_unit": "KRW per 1 CNY",
       "locale": "tr",
-      "data_as_of": "2026-11-27",
-      "reference_rate": "201.892032",
-      "generated_at": "2026-11-26T23:34:58+00:00",
+      "data_as_of": "2026-11-28",
+      "reference_rate": "200.604839",
+      "generated_at": "2026-11-27T23:34:58+00:00",
       "summary_origin": "computed_observations",
       "validation": {
         "status": "passed"
@@ -215,12 +215,12 @@
         {
           "id": "e1",
           "label": "1 CNY",
-          "text": "201.892032 KRW"
+          "text": "200.604839 KRW"
         },
         {
           "id": "e2",
           "label": "ECB",
-          "text": "2026-11-27"
+          "text": "2026-11-28"
         }
       ],
       "metrics": {
@@ -235,8 +235,8 @@
         }
       },
       "analysis": {
-        "headline": "CNY/KRW, 6,66 civarındaki güçlü offshore yuanla 201,9 wona toparlandı",
-        "summary": "CNY/KRW 201,9 won civarına yükseldi (ECB 201,89). PBOC referans kuru hafifçe 6,7096'ya çekse ve ABD tarife tasarıları sürse de 6,661 yakınındaki güçlü offshore yuan (CNH) çaprazı yukarı taşıdı.",
+        "headline": "CNY/KRW, güçlenen wonun 6,7075 fiksingine ağır basmasıyla 200,6'ya indi",
+        "summary": "CNY/KRW 200,6 won civarına geriledi (ECB 200,60). PBOC fiksingi 6,7075'e çekip güçlendirse ve CNH 6,65–6,66'da kalsa da Seul'de USD/KRW'nin 1.337,9'a (NDF 1.334,0) düşmesi çaprazı aşağı çekti.",
         "evidence_ids": [
           "e1",
           "e2"
@@ -246,71 +246,71 @@
   ],
   "currencies": {
     "AUD": {
-      "rate_to_krw": "892.230955",
-      "data_as_of": "2026-11-27",
-      "headline": "AUD %4,9 TÜFE ve dolar molasıyla 0,663'e çıkıp 892,2 wona toparlandı",
-      "brief": "Avustralya doları, %4,9 TÜFE ve dolar molasının AUD/USD'yi 0,663'e taşımasıyla 892,2 wona yükseldi."
+      "rate_to_krw": "890.177104",
+      "data_as_of": "2026-11-28",
+      "headline": "AUD, won gücünün 0,667 toparlanmasını aşmasıyla 890,2 wona indi",
+      "brief": "Risk iştahı ve metaller AUD/USD'yi 0,663–0,667'ye taşısa da 1.337,9'daki güçlü won AUD'yi 890,2 wona çekti."
     },
     "CAD": {
-      "rate_to_krw": "944.963821",
-      "data_as_of": "2026-11-27",
-      "headline": "CAD, 83 $ üzeri WTI ve şahin BoC ile 945,0 wona yükseldi",
-      "brief": "Kanada doları, 83 $ üstü WTI ve şahin BoC tonuyla USD/CAD'yi 1,422'ye çekerek 945,0 wona çıktı."
+      "rate_to_krw": "937.115582",
+      "data_as_of": "2026-11-28",
+      "headline": "CAD, won rallisinin 85 $ üstü WTI'ı gölgelemesiyle 937,1 wona geriledi",
+      "brief": "85 $ üzeri WTI USD/CAD'yi 1,423'te tutsa da Seul'de USD/KRW'nin 1.337,9'a düşmesi CAD'yi 937,1 wona indirdi."
     },
     "CHF": {
-      "rate_to_krw": "1612.312903",
-      "data_as_of": "2026-11-27",
-      "headline": "CHF, tatil sakinliğinde güvenli liman talebinin azalmasıyla 1.612,3'e indi",
-      "brief": "İsviçre frangı 1.612,3 wona geriledi: tatil sakinliği teknolojiyi yatıştırıp EUR/CHF'yi 0,915'e taşıdı."
+      "rate_to_krw": "1597.302610",
+      "data_as_of": "2026-11-28",
+      "headline": "CHF, ABD risk iştahının güvenli limanı azaltmasıyla 1.597,3'e indi",
+      "brief": "Toparlanan ABD borsaları USD/CHF'yi 0,834–0,836'ya taşırken güçlü wonla İsviçre frangı 1.597,3 wona geriledi."
     },
     "CNY": {
-      "rate_to_krw": "201.892032",
-      "data_as_of": "2026-11-27",
-      "headline": "CNY, 6,66'daki güçlü CNH ile 6,7096 fiksingine karşın 201,9'a çıktı",
-      "brief": "Yuan 201,9 wona yükseldi: 6,661'deki güçlü CNH, 6,7096 fiksingini ve ABD tarife endişelerini dengeledi."
+      "rate_to_krw": "200.604839",
+      "data_as_of": "2026-11-28",
+      "headline": "CNY, güçlü wonun 6,7075 fiksingini aşmasıyla 200,6 wona geriledi",
+      "brief": "Yuan 200,6 wona indi: 1.337,9'a düşen USD/KRW, 6,7075 fiksingine ve 6,65–6,66'daki CNH'ye ağır bastı."
     },
     "EUR": {
-      "rate_to_krw": "1475.750000",
-      "data_as_of": "2026-11-27",
-      "headline": "EUR, şahin ECB tutanaklarıyla 1,098'e çıkıp 1.475,8 wona toparlandı",
-      "brief": "Euro 1.475,8 wona yükseldi: sıkı ECB tutanakları ve dolar molası EUR/USD'yi 1,098'e taşıdı."
+      "rate_to_krw": "1462.650000",
+      "data_as_of": "2026-11-28",
+      "headline": "EUR, DXY'nin 104,04'e çıkmasıyla 1,0934'e çekilip 1.462,7 wona indi",
+      "brief": "Euro 1.462,7 wona düştü: DXY 104,04 ve Fransa mali kaygıları EUR/USD'yi 1,0934'e çekerken won güçlendi."
     },
     "GBP": {
-      "rate_to_krw": "1761.984359",
-      "data_as_of": "2026-11-27",
-      "headline": "GBP, ABD tatilinde 1,310'u geri alarak 1.762,0 wona tırmandı",
-      "brief": "Sterlin BoE raporu sonrası tatildeki düşük hacimle 1,310'u geri alarak 1.762,0 wona çıktı."
+      "rate_to_krw": "1751.592738",
+      "data_as_of": "2026-11-28",
+      "headline": "GBP, sterlinin 1,310'u korumasına karşın 1.751,6 wona gevşedi",
+      "brief": "Sterlin 1,310–1,312'de tutunsa da Seul'de USD/KRW'nin 1.337,9'a düşmesi GBP/KRW'yi 1.751,6 wona çekti."
     },
     "HKD": {
-      "rate_to_krw": "171.568912",
-      "data_as_of": "2026-11-27",
-      "headline": "HKD, 7,837 çıpasında Seul USD/KRW 1.342,7 düşüşüyle 171,6'ya hafif indi",
-      "brief": "7,837 çıpasında kalan Hong Kong doları, Seul'de USD/KRW'nin 0,5 won düşmesiyle 171,6 wona hafif indi."
+      "rate_to_krw": "170.523702",
+      "data_as_of": "2026-11-28",
+      "headline": "HKD, 7,83 çıpasında Seul USD/KRW 1.337,9 düşüşüyle 170,5'e indi",
+      "brief": "7,83 çıpasında kalan Hong Kong doları, Seul'de USD/KRW'nin 4,8 won düşmesiyle 170,5 wona geriledi."
     },
     "JPY": {
-      "rate_to_krw": "8.442989",
-      "data_as_of": "2026-11-27",
-      "headline": "JPY, 159,3'te yatay seyrederken 100 yen 844,3 wona geriledi",
-      "brief": "Tamura'nın şahin sözlerine karşın tatil sakinliği ve 160 uyarısı USD/JPY'yi 159,3'te tuttu; JPY/KRW 844,3."
+      "rate_to_krw": "8.367084",
+      "data_as_of": "2026-11-28",
+      "headline": "JPY, USD/JPY 159,6'ya yaklaşırken 100 yen başına 836,7 wona düştü",
+      "brief": "%2,9 Tokyo TÜFE'sine rağmen faiz farkı USD/JPY'yi 159,57'ye taşırken güçlü won JPY/KRW'yi 836,7'ye indirdi."
     },
     "KRW": {
       "rate_to_krw": "1.000000",
-      "data_as_of": "2026-11-27",
-      "headline": "KRW, BoK'un %3,25 faiz artışıyla 1.342,7'ye güçlendi; NDF 1.342,4",
-      "brief": "Won, BoK'un %3,25 artış (5–2) ve %3,9/%4,1 GSYH tahminiyle 0,5 won güçlenip 1.342,7 kapandı; NDF 1.342,4."
+      "data_as_of": "2026-11-28",
+      "headline": "KRW, %4,3 KOSPI rallisi ve ay sonu satışlarıyla 1.337,9'a çıktı; NDF 1.334,0",
+      "brief": "Won, KOSPI'nin %4,34 artışla 4.915,68'e çıkması ve ihracatçı arzıyla 4,8 won güçlenip 1.337,9 kapandı; NDF 1.334,0."
     },
     "USD": {
-      "rate_to_krw": "1344.646925",
-      "data_as_of": "2026-11-27",
-      "headline": "DXY Şükran Günü'nde 103,8'de soluklandı; Seul 1.342,7 kapandı",
-      "brief": "ABD tatili nedeniyle DXY 103,8'de dinlenirken Seul BoK artışı sonrası 1.342,7'de kapandı."
+      "rate_to_krw": "1334.900064",
+      "data_as_of": "2026-11-28",
+      "headline": "DXY 104,04'e toparlanırken Seul 1.337,9 düştü; NDF 1.334,0",
+      "brief": "NY'de DXY %0,33 artışla 104,04'e çıksa da Seul borsa girişi ve ihracatçı satışıyla 1.337,9 (NDF 1.334,0) kapandı."
     }
   },
   "translation": {
     "source_locale": "ko",
-    "source_batch_id": "20261126T233458Z",
-    "source_input_digest": "7e2ce876ac70078942cec593aab746a762cfb9f9b6b6ef84c4c75f215433d555",
-    "translated_at": "2026-11-26T23:34:58+00:00",
+    "source_batch_id": "20261127T233458Z",
+    "source_input_digest": "a2248f3fe51db81aba06e49efd77c12a988e573d50159e01767de755d2eea3f4",
+    "translated_at": "2026-11-27T23:34:58+00:00",
     "direction": "ltr"
   }
 }
